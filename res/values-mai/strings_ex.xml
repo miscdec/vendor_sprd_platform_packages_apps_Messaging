@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="signature_title">"हस्ताक्षर"</string>
+<string name="pref_title_sms_retry_times">"बेर बेर भेजय बला एसएमएस खुजल अछि"</string>
+<string name="conversation_deleteAll_failed">"कृपाकय बादमे पुन: प्रयास करू"</string>
+<string name="warning">"चेतावनी"</string>
+<string name="attachment_exceeded">"संलग्नता जकर अहाँ चयन कयलौ अछि बृहत अछि!"</string>
+<string name="attachment_size">"संलग्नताक आकार अछि :"</string>
+<string name="mms_size">"MMS केर आकार अछि :"</string>
+<string name="permission_read_messages_attachment_label">"संदेश संलग्नता पढूं"</string>
+<string name="permission_read_messages_attachment_desc">"एप केर अहाँक संदेश संलग्नता पढवाक अनुमति दिऔक"</string>
+<string name="preference_name">"आम फकरा"</string>
+<string name="select">"चुनाय गेल"</string>
+<string name="item_cancel">"हंटाऊ।"</string>
+<string name="item_delete">"मेंटाऊ"</string>
+<string name="save_as_teltype">"फोनक लेल"</string>
+<string name="save_as_mmstype">"Sms केर लेल"</string>
+<string name="type_to_pharser">"सामूहिक वाक्यांस टाइप करू"</string>
+<string name="add">"जोड़नाय"</string>
+<string name="edit">"ठीक करू"</string>
+<string name="delete">"मेंटाऊ"</string>
+<string name="finish">"पूरा भय गेल"</string>
+<string name="cancel">"हंटाऊ।"</string>
+<string name="add_pharser">"सामूहिक वाक्यांस जोड़ू"</string>
+<string name="edit_pharser">"आम फकरा क सुधारू"</string>
+<string name="exit_pharser_dialog_title">"जल्दी"</string>
+<string name="exit_pharser_dialog_content">"वारंम्वार उपयोग कयल गेल वाक्यांस केर बचेवाक चाही?"</string>
+<string name="pharser_can_modify">"नीक जेकां सजायल"</string>
+<string name="pharser_cannot_modify">"वाक्यांस स्थिर करू"</string>
+<string name="empty_pharser_not_save">"खाली वाक्यांस नहि बचा सकैत छी!"</string>
+<string name="select_item">"अहाँ चयन कयने छी"</string>
+<string name="select_commmon_phrase">"आम फकरा क चुनू"</string>
+<string name="common_phrase_empty">"कोनो आम फकरा नहिं अछि"</string>
+<string name="action_add_phrase">"आम फकरा"</string>
+<string name="pref_other_settings_title">"दोसर "</string>
+<string name="action_wireless_alerts">"तार रहित सावधानी"</string>
+<string name="positive">"ठीक छई"</string>
+<string name="wap_push_message_dialog_title">"बेतारक दबैल संदेश"</string>
+<string name="open_website">"वेबसाइट खोलू"</string>
+<string name="activity_not_found">"कोनो उचित आवेदन नहिं भेटल"</string>
+<string-array name="fixed_mms_phrase">
+<item>"कृपा कय क हमरा आफिस मं फोन करू, धन्यवाद"</item>
+<item>"कृपा कय क हमरा सं संपर्क करू, धन्यवाद"</item>
+<item>"कृपा कय क हमरा अपन जगह क बारे मं बताऊ"</item>
+<item>"कृपा कय क हमरा मोबाइल पर बाद मं काल करू, धन्यवाद"</item>
+<item>"हम बाहर मं छलौहं, घर पहुंचि क काल करैत छी"</item>
+<item>"हम एखन गाड़ी चला रहल छी, बाद मं जवाब देब"</item>
+<item>"हम सड़क पर आबि गेलौं अछि, जल्दीये पहुंच जायब"</item>
+<item>"ट्रैफिक मं जाम, बादो मं, माफ करू"</item>
+<item>"हम अहां क वापिस काल करय छी"</item>
+<item>"हम मीटिंग मं छी, बाद मं जवाब देब"</item>
+</string-array>
+<string-array name="fixed_both_phrase">
+<item>"कृपाकय हमरा काँल करू वा बादमे sms पठाऊ."</item>
+</string-array>
+<string name="share_video_exceeded">"जे विडियोक अहाँ चयन कयलौ अछि बढल अछि!"</string>
+<string name="share_audio_exceeded">"श्रब्य जकर अहाँ चयन कयने छी बढल अछि!"</string>
+<string name="share_image_exceeded">"जाहि फोटोक अहाँ चयन कयलौ अछि बढल अछि!"</string>
+<string name="share_muimgae_exceeded">"बढल फोटो साझी नहि करू!"</string>
+<string name="share_noimgae_exceeded">"अआकृतिक फाइल सब अछि, साझी नहि कयल जा सकैत अछि!"</string>
+<string name="exceed_text_length_limitation">"एहिमे पाठक लम्बाइ केर सीमा बृहत होइत अछि"</string>
+<string name="drm_no_application_open">"पोथी क खोलल नहिं जा सकैय"</string>
+<string name="ok_drm_rights_consume">"ठीक छई"</string>
+<string name="cancel_drm_rights_consume">"हंटाऊ।"</string>
+<string name="orgdrm_no_share">"साझी करबाक समर्थन नहि करू"</string>
+<string name="drm_can_not_processed">"Drm फाइल केर प्रक्रिया नहि कय सकैत छी"</string>
+<string name="protect_information">"जानकारी क सुरक्षित करू"</string>
+<string name="drm_consume_title">"डीआरएम अधिकार क इस्तेमाल"</string>
+<string name="drm_consume_hint">"अहां कय काज डीआरएम अधिकारक इस्तेमाल कय लैत"</string>
+<string name="drm_file_path">"रस्ता:%1$s"</string>
+<string name="drm_file_name">"फाइलक नाम:%1$s"</string>
+<string name="drm_rights_validity">"अधिकारक वैधता: वैध"</string>
+<string name="drm_rights_invalidity">"अधिकारक वैधता: अवैध"</string>
+<string name="drm_rights_status_transfer">"अधिकारक स्थिति: आगां बढ़बय क आज्ञा अछि"</string>
+<string name="drm_rights_status_untransfer">"अधिकारक स्थिति: आगां बढ़बय क आज्ञा नहिं अछि"</string>
+<string name="drm_start_time">"समय शुरू: %1$s"</string>
+<string name="drm_end_time">"आखिर समय: %1$s"</string>
+<string name="drm_expiration_time">"खतम होय बला समय: %1$s"</string>
+<string name="drm_remain_times">"बचल समय: %1$s"</string>
+<string name="drm_no_info">"कोनो जानकारी नहिं"</string>
+<string name="drm_unlimited_rights">"कोनो सीमा नहिं"</string>
+<string name="drm_rights_unknown">"पता नहिं"</string>
+<string name="drm_inactive_rights">"अधिकार काज नहिं कय रहल"</string>
+<string name="drm_shared_not_drmdownload">"एकरा Drm डाउनलोड़ निर्देशिकामे लए जाऊ आ तहन साझी करू कृपाकय"</string>
+<string name="share_nofile_exceeded">"MMS सीमासँ उपर!"</string>
+<string name="no_few_participants">"कोनो सहभागिता नहि"</string>
+<string name="mms_validity_pref_title">"बहुते माध्यमक संदेश कय वैधता"</string>
+<string name="sms_validity_pref_title">"एसएमएम क वैधता"</string>
+<string name="attach_vcalendar">"दिनक जानकारी देअ बला"</string>
+<string name="confirm_import_vcalendar">"इ V पंचाग केर आयात करू?"</string>
+<string name="confirm_save_otherfiles">"एहि संलग्नता केर बचाऊ?"</string>
+<string name="confirm_import">"हं"</string>
+<string name="cancel_import">"नैय"</string>
+<string name="attach_other_file">"फाइलक नाम पता नहिं अछि"</string>
+<string name="copy_to_sdcard_success">"जोड़ल चीज एकरा सं जोगैल गेल"<xliff:g id="copy_to_sdcard_success_id">%s</xliff:g>"</string>
+<string name="copy_to_sdcard_fail">"जुड़ाव क जोगैल नहिं जा सकल"</string>
+<string name="attach_sound">"आवाज"</string>
+<string name="select_vcard_button">"संपर्क प्रबिष्ट करबाक लेल बटम दबाऊ"</string>
+<string name="select_video_button">"विडियो प्रबिष्ट करबाक लेल बटम दबाऊ"</string>
+<string name="select_audio_button">"श्रब्य प्रबिष्ट करबाक लेल बटम दबाऊ"</string>
+<string name="select_vcalendar_button">"पंचाग प्रबिष्ट करबाक लेल बटम दबाऊ"</string>
+<string name="select_slideshow_button">"स्लाइडशो प्रबिष्ट करबाक लेल बटम दबाऊ"</string>
+<string name="slideshow_detail_activity_title">"फिसलू"</string>
+<string name="no_mms_plugin">"एकरो कोनो फोल्डरक दृष्टि नहि अछि"</string>
+<string name="attachment_details">"संलग्नताक विवरण"</string>
+<string name="context_menu_copy_to_sim_memory">"सिम कॉर्डक लेल संदेशक नकल"</string>
+<string name="copy_message_text">"टैक्ट्सक नकल"</string>
+<string name="min_zoom">"कमसँ कममे पहुचि गेल"</string>
+<string name="max_zoom">"सबसं उपर तक पहुंचू"</string>
+<string name="message_details_text">"संदेशक बेसी जानकारी"</string>
+<string name="folder_reply">"जवाब"</string>
+<string name="new_message">"नबका संदेश"</string>
+<string name="folder_forward">"आगां"</string>
+<string name="delete_message">"मेंटाऊ"</string>
+<string name="menu_resend">"दोसर बेर भेज देल गेल"</string>
+<string name="save_all_attachments">"सबटा संलग्नता केर बचाऊ"</string>
+<string name="host_app_name">"संदेश"</string>
+<string name="need_messaging_is_default_app">"अहाँ \"%1$s\" निश्चित रुपेन लगाऊ sms दोषी एपमे"</string>
+<string name="message_outgoing_successful">"लोकक राय सफलतापूर्वक भेजा गेल"</string>
+<string name="message_outgoing_failure">"संदेश क भेजल नहिं जा सकल।"</string>
+<string name="share_unsupported_type">"असमर्थित तत्वक प्रकार, मुंडीत नहि कय सकैत छी!"</string>
+<string name="mms_send_reports_pref_title">"Mms पठाओल रिपोर्ट"</string>
+<string name="mms_send_reports_pref_summary">"प्रतेक पठाओल MMS जकरा अहा पठेलौ अछि तकर रिपोर्टक आग्रह करू"</string>
+<string name="mms_delivery_reports_pref_title">"MMS वितरण रिपोर्ट"</string>
+<string name="mms_delivery_reports_pref_summary">"प्रतेक MMS जकरा अहाँ पठेलौ अछि तकर वितरण रिपोर्ट केर आग्रह करू"</string>
+<string name="mms_read_reports_pref_title">"MMS पढबाक रिपोर्ट"</string>
+<string name="mms_read_reports_pref_summary">"प्रतेक MMS जे अहाँ पठेलौ अछि तकर पढबाक रिपोर्टक आग्रह करू"</string>
+<string name="enable_return_mms_delivery_reports_pref_title">"MMS वितरण रिपोर्ट वापसि समर्थ करू"</string>
+<string name="enable_return_mms_delivery_reports_pref_summary">"प्रतेक MMS रिपोर्ट जे अहाँ पठेलौ अछि तकर वापसिक आग्रह समर्थ करू"</string>
+<string name="enable_return_mms_read_reports_pref_title">"MMS पढबाक रिपोर्ट सभक वापसि समर्थ करू"</string>
+<string name="enable_return_mms_read_reports_pref_summary">"प्रतेक MMS जे अहाँ पठेलौ अछि तकर वापसिक रिपोर्ट समर्थ करू"</string>
+<string name="delivery_toast_body">"%s द्वारा संदेश प्राप्त कयल गेल"</string>
+<string name="delivery_toast_body_expired">"%s द्वारा संदेश गतावधिक भय गेल"</string>
+<string name="delivery_toast_body_fail_rejected">"%s द्वारा संदेशक बहिष्कार कयल गेल"</string>
+<string name="delivery_toast_body_fail">"%s द्वारा संदेश नहि प्राप्त कयल गेल"</string>
+<string name="read_report_toast_body">"%s द्वारा संदेस पठल गेल"</string>
+<string name="read_report_toast_body_fail">"%s द्वारा संदेश नहि पढल गेल"</string>
+<string name="mimetype_null">"माइम प्रकार खाली अछि, संलग्नता भंडार नहि कय सकब"</string>
+<string name="pref_title_manage_simx_smsc">"सिम <xliff:g id="count">%1$s</xliff:g> SMS सेवा केन्द्र"</string>
+<string name="pref_title_manage_sim_smsc">"एसएमएसक सेवा दैय बला जगह"</string>
+<string name="smsc_set_fails">"एसएमएसी क नहिं सजैल जा सकल"</string>
+<string name="smsc_set_success">"नीक जेकां सजावट भय गेल"</string>
+<string name="smsc_update_success">"सफलतापुर्वक अपडेट करू"</string>
+<string name="smsc_cannot_be_null">"Smsc खाली नहि होवाक चाही!"</string>
+<string name="smsc_should_be_number">"Smsc एकटा सँख्या भय सकैत अछि"</string>
+<string name="smsc_list">"एसएमएम केंद्रक सूची"</string>
+<string name="smsc_list_empty">"कोनो एसएमएम केंद्रक नंबर नहिं अछि"</string>
+<string name="smsc_list_loading">"जमा भय रहल"</string>
+<string name="smsc_list_empty_toast">"संदेश नहि पठाओल गेल,कोनो SMS केंद्र संख्या नहि"</string>
+<string name="smsc_list_empty_notify_des">"कृपाकय एकटा SMS केंद्र संख्या जोड़ू"</string>
+<string name="smsc_list_empty_notify_title">"कोनो SMS केंद्रक संख्या नहि"</string>
+<string name="shared_image_number_exceed">"अधिकत्तम साझी कयल गेल आकृतिक सँख्या %d अछि,बेसी हटा देल गेल अछि."</string>
+<string name="drm_unsupported_toast">"DRM फाइल उपलब्ध नहि अछि. कृपाकय आन फाइलक चयन करू."</string>
+<string name="err_sent_no_sim">"संदेश नहि पठाओल गेल, कोनो SIM कार्ड नहि।"</string>
+<string name="dlg_save_attachment">"फाइल बचाऊ..."</string>
+<string name="is_redirect_to">"%1$s मे सीधा अछि?"</string>
+<string name="browser">"घूमय बला"</string>
+<string name="email">"ई मेल"</string>
+<string name="telephone">"फोन पर आबय बला घंटी"</string>
+<string name="map">"मानचित्र"</string>
+<string name="message_signature_setting">"हस्ताक्षरक सजवाट"</string>
+<string name="pref_signature_enable_title">"मोन हुअ त करू हस्ताक्षर"</string>
+<string name="pref_signature_enabl_summary">"प्रतेक संदेश जे अहाँ पठाबैत छी स्वतह साइन जोड़ू"</string>
+<string name="pref_signature_input_title">"हस्ताक्षर क सुधारू"</string>
+<string name="pref_signature_input_summary">"अपन हस्ताक्षरक लेल एतय दबाऊ"</string>
+<plurals name="attachments_saved_dir">
+<item quantity="one">"<xliff:g id="quantity">%d</xliff:g>  \"<xliff:g id="dir">%s</xliff:g>\" संलग्न कयल गेल फाइल बचाओल गेल""</item>
+<item quantity="other">"<xliff:g id="quantity">%d</xliff:g> \"<xliff:g id="dir">%s</xliff:g>\"संलग्न कयल गेल फाइल बचाओल गेल""</item>
+</plurals>
+<string name="no_permissions">"कोनो अनुमति नहि"</string>
+<string name="no_call_permissions">"कोनो अनुमति नहि"</string>
+<string name="folder_loading">"जमा भय रहल अछि..."</string>
+<string name="sms_merge_forward_empty">"नहिं तं कोनो एसएमएस संदेश मिल पैल आ नहिं भेजल गेल"</string>
+<string name="sms_forward">"आगां"</string>
+<string name="sms_merge_dialog_title">"जल्दी"</string>
+<string name="sms_merge_dialog_content1">"अहाँ मात्र %d SMS संदेशक बीचमे मिला सकैत छी"</string>
+<string name="sms_merge_dialog_content2">"आ %d SMS सेदेश सब। कृपाकय एकरा जाँच करू"</string>
+<string name="messagelist_sender_self">"हम।"</string>
+<string name="sms_merge_forward">"मिलाऊ आ आगां भेजू"</string>
+<string name="muti_select_all">"सबटा क चुनू"</string>
+<string name="menu_select_none">"सबटा क मेंटाऊ"</string>
+<string name="sms_merge_dialog_content_exceed">"अहाँ %dसीमासँ अधिक आगुबढाओल गेल संदेशक तत्व सब केर मिलेलौ अछि!"</string>
+<string name="no_sms_permissions">"कोनो SMS केर अनुमति नहि,श्रब्य नहि चला सकब"</string>
+<string name="smil_subject_hint">"कोनो mms विषय नहि, अहाँ लिखि सकी"</string>
+<string name="smil_out_of_size">"यादास्तसँ बाहर"</string>
+<string-array name="smil_choice_items">
+<item>"Smilस्कैन"</item>
+<item>"Smilचलैत"</item>
+</string-array>
+<string name="video_content_type">"विडियो :"</string>
+<string name="iamge_content_type">"आकृति :"</string>
+<string name="audio_content_type">"श्रब्य :"</string>
+<string name="subject_edit">"विषय लिखू"</string>
+<string name="text_edit">"पाठ लेखक"</string>
+<string name="repalce_slide">"स्लाइड बदलू"</string>
+<string name="remove_slide">"खिसकाबै बला क हंटाऊ"</string>
+<string name="insert_befor_slide">"स्लाइडसँ पहिने पैसाऊ"</string>
+<string name="insert_after_slide">"स्लाइडक बादमे पैसाऊ"</string>
+<string name="add_attachment">"पोथी क जोड़ू"</string>
+<string name="remove_attachment">"संलग्नता हटाऊ"</string>
+<string name="repalce_attachment">"संलग्नता बदलू"</string>
+<string name="hint_for_input">"लिखि कय संतुष्ट"</string>
+<string name="hint_for_empty">"लिखि कय संतुष्ट, वर्तमान संलग्नताक स्थान खाली स्थान अछि."</string>
+<string name="goto_smil">"फिसलू"</string>
+<string name="smil_subject">"विषय:"</string>
+<string name="action_sim_sms">"सिम कॉर्ड मं संदेश"</string>
+<string name="sms_save_to_sim_pref_title">"सिम मं एसएमएम जोगाऊ"</string>
+<string name="sms_save_to_sim_pref_summary">"जहन एकटा नव SMS आवैत अछि, एकरा SIM पर बचाऊ वा नहि बचाऊ"</string>
+<string name="sms_sim_full_title">"सिम भरल अछि"</string>
+<string name="sms_sim_full_notification_ticker">"निम्न SMSभंडारण. अहाँकें संदेश मिटाबय पड़ि सकैत अछि."</string>
+<string name="sms_sim_full_text">"sim भरल अछि, sms संदेशन डाटा बेसमे पठाओल जायत। आ कृपाकय sim मेसँ sms मिटाऊ यदि sim मे फेरसँ बचाबय चाहैत छी"</string>
+<plurals name="search_results_title">
+<item quantity="one">"<xliff:g id="NUMBER">%1$s</xliff:g> तत्वक मिलन“<xliff:g id="SEARCH">%2$s</xliff:g>”खोजक परिणाम"</item>
+<item quantity="other">"<xliff:g id="NUMBER">%1$s</xliff:g> तत्व सभक मिलन“<xliff:g id="SEARCH">%2$s</xliff:g>”खोजक परिणाम"</item>
+</plurals>
+<string name="menu_search_text">"खोजू"</string>
+<string name="search_label">"संदेशन"</string>
+<string name="search_hint">"संदेश क खोजू"</string>
+<string name="search_max_length">"खोजय बला बहुते पैघ अछि, एकरा 512 मं समेटू।"</string>
+<string name="search_setting_description">"अहां क संदेश मं टैक्ट्स"</string>
+<string name="search">"संदेशन"</string>
+<string name="search_empty">"कोनो मिलान नहिं"</string>
+<string name="search_history">"<xliff:g id="count">%1$s</xliff:g> परिणाम क \"<xliff:g id="search">%2$s</xliff:g>\""</string>
+<string name="can_not_add_same_attachment">"समान संलग्नता संलग्न करब नहि दोहराबक चाही"</string>
+<string name="can_not_add_same_picture">"समान फोटो जोड़वाक लेल दोहरायल नहि जा सकैत अछि"</string>
+<string name="smil_add_text">"एकटा पठ संलग्नता जोड़ू"</string>
+<string name="smil_update_text">"पाठ संलग्नताक जोड सफल"</string>
+<string name="smil_empty_content">"खाली तत्व, पठायब रोकू!"</string>
+<string name="exceed_participant_limit">"सहभागिताक मात्रा सीमासँ बढिगेल अछि (<xliff:g>%1$s</xliff:g>), कृपाकय मिटू <xliff:g>%2$s</xliff:g> एक बेरि."</string>
+<string name="folder_view_menu_item_title">"पोथी क देखू"</string>
+<string name="capacity_sim_message_title">"सिमक क्षमता"</string>
+<string name="capacity_sim_message_summary">"घणना करू/अधिकत्तम क्षमता:%s"</string>
+<string name="audio_record_retry">"कृपाकय पार्श्व रेकार्डिंग रोकू आ पुन:प्रयास करू."</string>
+<string name="contact_invalid">"अवैध संपर्क, कृपाकय पुन: वैध संपर्कक चयन करू."</string>
+<string name="message_size_counting">"गनैत"</string>
+<string name="pref_encode_type_setting_title">"तरीका सजावट क खोलू"</string>
+<string name="pref_encode_type_title">"कूटक तरीका"</string>
+<string name="fdn_check_failure">"अहां संदेश क निश्चिते डॉयलिंग नंबर टा पर भेजल जा सकै य।"</string>
+<string name="data_call_fdn_check_failure">"एमएमएस क नहिं भेजल जा सकय किएक त एफडीएन बंद अछि। कृपा कय क एफडीएन मं *99# जोड़ू आ तखन कोशिश करू"</string>
+<string name="smsc_fdn_check_failure">"अहां क संदेश केंद्रक नबर एफडीएन सूचनी मं नहिं अछि"</string>
+<string name="smil_wait_comparing_att_size">"लोड करैत रहलासँ,कृपाकय एक क्षण प्रतिक्षा करू!"</string>
+<string name="smil_max_slide_count">"मात्र %s स्लाइड सब जोड़ि सकब"</string>
+<string name="sms_wap_pref_title">"SMS WAP संदेश सब समर्थ करू"</string>
+<string name="sms_wap_pref_summary">"SMS WAP संदेश सब पेवाक लेल समर्थ करू"</string>
+<string name="smil_Player_title">"SMIL खेलाड़ी"</string>
+<string name="smil_caption_description">"SMIL"</string>
+<string name="smil_caption_edit_hint">"(लिखवाक लेल दबाऊ)"</string>
+<string name="show_save_attachment_info">"एकरा बचाऊ?"</string>
+<string name="attachment_save_success">"सुरक्षित तरीका सं जोगै गेल"</string>
+<string name="unread_message_count">"कोनो पढल जानकारी नहि"</string>
+<string name="mms_convert_to_smil_title">"स्लाइड्समे बदलू"</string>
+<string name="mms_convert_to_smil_message">"Mms स्लाइडमे बदलल जायत, जे किछु संलग्नताके हटायत जे स्लाइडक अवस्थामे असमर्थित होयत?"</string>
+<string name="confirm_convert">"ठीक छई"</string>
+<string name="cancel_convert">"हंटाऊ।"</string>
+<string name="smil_max_part_count">"एकटा स्लाइडमे मात्र %s संलग्नता जोड़ि सकैत छी"</string>
+<string name="smil_add_error_same_content_type">"एकटा स्लाइडमे दुटा समान मेडिया प्रकार निह जोड़ि सकैत छी."</string>
+<string name="smil_add_error_video_conflict">"विडियो स्लाइडमे नहि राखल जा सकैत अछि जकरा श्रब्य आ आकृति छैक."</string>
+<string name="smil_replace_error_same_content_type">" नहि बदलि सकैत छी कारण दुटा समान मेडिया प्रकारक संलग्नता एक स्लाइडमे  नहि राखि सकैत छी."</string>
+<string name="smil_replace_error_video_conflict">"विडियोसँ नहि बदलि सकैत छी, कृपाकय अपन संलग्नता बदलू आ पुन:प्रयास करू."</string>
+<string name="smil_edit_hint">"स्लाइड सब, लिखवाक लेल दबाऊ."</string>
+<string name="smil_unsupported_content_type">"असमर्थित तत्वक प्रकार."</string>
+<string name="pref_internal_memory_usage_title">"एमएमएस/उपलब्ध/सबटा"</string>
+<string name="pref_internal_memory_usage_progress_summary">"याद राखय बला जगह क नापल जा रहल अछि..."</string>
+<string name="discard_message_reason">"अहां क संदेश क अलग कय देल गेल किएक तय एकरा कियो हासिल करय बला वैध लोग नहिं अछि"</string>
+<string name="no_common_phrase">"सामान्य रुपसँ उपयोग कयल जाय वला शब्द सब"</string>
+<string name="action_copy_to_sim">"सिमक लेल नकल"</string>
+<string name="select_sim">"SIM चयन करू"</string>
+<string name="sim_space_not_enough">"SIM पर sms के लेल पर्याप्त जगह नहि अछि"</string>
+<string name="move_message_to_phone_memory">"फोनक याद मं संदेशक नकल ठीक सं भय गेल"</string>
+<string name="can_not_copy_the_message">"संदेशक नकल नहिं भय सकैय"</string>
+<string name="failed_to_add_media">"अहां एकरा नहिं जोड़ि सकैत छी <xliff:g id="NAME">%1$s</xliff:g> अहां क संदेश ."</string>
+<string name="contentType_audio">"आवाज"</string>
+<string name="contentType_video">"चलचित्र"</string>
+<string name="contentType_image">"चित्र"</string>
+<string name="contentType_other">"असमर्थित फाइलक प्रकार साझी नहि कय सकलौ अछि"</string>
+<string name="no_record_audio_permission">"कोनो श्रब्य अनुमतिक रेकार्ड नहि करू!"</string>
+<string name="close_float_video">"जखन कैमरा क खोलय छी तं उड़य बला चलचित्रक मशीन क बंद कय दिऔ"</string>
+<string name="unable_get_data">"डाटा नहि भेटल"</string>
+<string name="unexpected_recording_error">"कृपाकय रेकार्डिंग एप केर बंद करू आ पुन: प्रयास करू"</string>
+<string name="add_contacts_dialog_title">"लोक कय जोड़ृ"</string>
+<string name="add_contact_as_text">"टैक्ट्स संदेश"</string>
+<string name="file_not_found_exception">"फाइल नहि भेटल!"</string>
+<string name="pref_title_mms_size_limit">"MMS आकारक सीमा"</string>
+<string name="pref_summary_mms_size_limit">"सँदेश लिखवाक लेल MMS आकारक सीमा"</string>
+    <string name="action_edit_contact">"जुड़ाव क सुधारू"</string>
+     <string name="sub_card_download_mms_noti">"नेटवर्क बदलू जहन सहायक कार्ड MMS प्राप्त करय"</string>
+     <string name="compressing">"फोटो बड़ पैघ अछि, छोट कयल जा रहल अछि..."</string>
+     <string name="add_contact_toast">"कृपाकय पहिने संपर्क केर जोड़ू"</string>
+
+<string name="folder_display_option">"विकल्प क देखाऊ"</string>
+<string name="folder_sortby">"छांटू"</string>
+<string name="folder_delete_messages">"संदेश क मेंटाऊ"</string>
+<string name="sort_msg_list_empty_text">"अहाँ एतय सूचिबद्ध कयल संदेश देखब"</string>
+<string name="folder_display_all">"सबटा संदेश क देखाऊ"</string>
+<string name="delete_messages_confirmation_dialog_title">"चयनित संदेश सबकें मिटाऊ?"</string>
+<string name="delete_message_fail">"चयनित संदेश सबकें मिटायब असफल भेल!"</string>
+<string name="have_select_message">"चयनित %1$d"</string>
+<string name="copy_sim_sms_to_phone">"संदेश फोनमे काँपी करू"</string>
+<string name="simsms_title">"सिम कॉर्ड मं संदेश"</string>
+     <string name="copy_fail">"काँपी असफल भय गेल!"</string>
+<string-array name="sort_type">
+<item>"समय अवरोहीसँ"</item>
+<item>"समय आरोहीसँ"</item>
+<item>"पताक अवरोहीसँ"</item>
+<item>"पताक आरोहीसँ"</item>
+</string-array>
+</resources>

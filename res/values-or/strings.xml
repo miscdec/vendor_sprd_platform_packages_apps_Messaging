@@ -1,0 +1,505 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<plurals name="num_minutes_ago">
+<item quantity="one">"<xliff:g id="count">%d</xliff:g> ମିନିଟ୍"</item>
+<item quantity="other">"<xliff:g id="count">%d</xliff:g> ମିନିଟ୍"</item>
+</plurals>
+<plurals name="num_hours_ago">
+<item quantity="one">"<xliff:g id="count">%d</xliff:g> ଘଣ୍ଟା"</item>
+<item quantity="other">"<xliff:g id="count">%d</xliff:g> ଘଣ୍ଟା"</item>
+</plurals>
+<plurals name="num_days_ago">
+<item quantity="one">"<xliff:g id="count">%d</xliff:g> ଦିନ"</item>
+<item quantity="other">"<xliff:g id="count">%d</xliff:g> ଦିନଗୁଡ଼ିକ"</item>
+</plurals>
+<plurals name="week_count">
+<item quantity="one">"ଗୋଟିଏ ସପ୍ତାହ"</item>
+<item quantity="other">"<xliff:g id="count">%d</xliff:g> ସପ୍ତାହଗୁଡ଼ିକ"</item>
+</plurals>
+<plurals name="month_count">
+<item quantity="one">"ଗୋଟିଏ ମାସ"</item>
+<item quantity="other">"<xliff:g id="count">%d</xliff:g> ମାସଗୁଡ଼ିକ"</item>
+</plurals>
+<plurals name="year_count">
+<item quantity="one">"ଗୋଟିଏ ବର୍ଷ"</item>
+<item quantity="other">"<xliff:g id="c">%d</xliff:g> ବର୍ଷଗୁଡ଼ିକ"</item>
+</plurals>
+<plurals name="notification_send_failures">
+<item quantity="one">"ଗୋଟିଏ ବାର୍ତ୍ତାଳାପରେ <xliff:g id="messages">%d</xliff:g> ବାର୍ତ୍ତାଗୁଡ଼ିକ"</item>
+<item quantity="other">"<xliff:g id="conversations">%d</xliff:g> ବାର୍ତ୍ତାଳାପରେ <xliff:g id="messages">%d</xliff:g> ବାର୍ତ୍ତାଗୁଡ଼ିକ"</item>
+</plurals>
+<plurals name="notification_download_failures">
+<item quantity="one">"ଗୋଟିଏ ବାର୍ତ୍ତାଳାପରେ <xliff:g id="messages">%d</xliff:g> ବାର୍ତ୍ତାଗୁଡ଼ିକ"</item>
+<item quantity="other">"<xliff:g id="conversations">%d</xliff:g> ବାର୍ତ୍ତାଳାପରେ <xliff:g id="messages">%d</xliff:g> ବାର୍ତ୍ତାଗୁଡ଼ିକ"</item>
+</plurals>
+<plurals name="notification_new_messages">
+<item quantity="one">"ନୂଆ ବାର୍ତ୍ତା"</item>
+<item quantity="other">"<xliff:g id="messages">%d</xliff:g> ନୂଆ ବାର୍ତ୍ତାଗୁଡ଼ିକ"</item>
+</plurals>
+<plurals name="delete_conversations_confirmation_dialog_title">
+<item quantity="one">"ଏହି ବାର୍ତ୍ତାଳାପ ଡିଲିଟ୍ କରିବେ କି?"</item>
+<item quantity="other">"ଏହି ବାର୍ତ୍ତାଳାପଗୁଡ଼ିକ ଡିଲିଟ୍ କରିବେ କି?"</item>
+</plurals>
+<plurals name="wearable_participant_count">
+<item quantity="one">"<xliff:g id="count">%d</xliff:g> ଅଂଶଗ୍ରହଣକାରୀ"</item>
+<item quantity="other">"<xliff:g id="count">%d</xliff:g> ଅଂଶଗ୍ରହଣକାରୀମାନେ"</item>
+</plurals>
+<plurals name="attachment_preview_close_content_description">
+<item quantity="one">"ଆଟାଚମେଣ୍ଟ ପ୍ରତ୍ୟାଖ୍ୟାନ କରନ୍ତୁ"</item>
+<item quantity="other">"ଆଟାଚମେଣ୍ଟଗୁଡ଼ିକ ପ୍ରତ୍ୟାଖ୍ୟାନ କରନ୍ତୁ"</item>
+</plurals>
+
+<plurals name="photos_saved_to_album">
+<item quantity="one">"<xliff:g id="quantity">%d</xliff:g> ଫୋଟୋ \"<xliff:g id="albumName">%s</xliff:g>\" ଆଲବମ୍ ରେ ସେଭ୍ ହୋଇଛି"</item>
+<item quantity="other">"<xliff:g id="quantity">%d</xliff:g> ଫୋଟୋଗୁଡ଼ିକ \"<xliff:g id="albumName">%s</xliff:g>\" ଆଲବମ୍ ରେ ସେଭ୍ ହୋଇଛି ।"</item>
+</plurals>
+<plurals name="videos_saved_to_album">
+<item quantity="one">"<xliff:g id="quantity">%d</xliff:g> ଭିଡିଓ \"<xliff:g id="albumName">%s</xliff:g>\" ଆଲବମ୍ ରେ ସେଭ୍ ହୋଇଛି"</item>
+<item quantity="other">"<xliff:g id="quantity">%d</xliff:g> ଭିଡିଓଗୁଡ଼ିକ \"<xliff:g id="albumName">%s</xliff:g>\" ଆଲବମ୍ ରେ ସେଭ୍ ହୋଇଛି"</item>
+</plurals>
+<plurals name="attachments_saved_to_album">
+<item quantity="one">"<xliff:g id="quantity">%d</xliff:g> ଆଟାଚମେଣ୍ଟ \"<xliff:g id="albumName">%s</xliff:g>\" ଆଲବମ୍ ରେ ସେଭ୍ ହୋଇଛି"</item>
+<item quantity="other">"<xliff:g id="quantity">%d</xliff:g> ଆଟାଚମେଣ୍ଟଗୁଡ଼ିକ \"<xliff:g id="albumName">%s</xliff:g>\" ଆଲବମ୍ ରେ ସେଭ୍ ହୋଇଛି ।"</item>
+</plurals>
+<plurals name="attachments_saved_to_downloads">
+<item quantity="one">"<xliff:g id="quantity">%d</xliff:g> ଆଟାଚମେଣ୍ଟ \"ଡାଉନଲୋଡ୍ସ \"ରେ ସେଭ୍ ହୋଇଛି"</item>
+<item quantity="other">"<xliff:g id="quantity">%d</xliff:g> ଆଟାଚମେଣ୍ଟଗୁଡ଼ିକ \"ଡାଉନଲୋଡ୍ସ\"ରେ ସେଭ୍ ହୋଇଛି"</item>
+</plurals>
+<plurals name="attachments_saved">
+<item quantity="one">"<xliff:g id="quantity">  %d</xliff:g> ଆଟାଚମେଣ୍ଟ ସେଭ୍ ହୋଇଛି"</item>
+<item quantity="other">"<xliff:g id="quantity">%d</xliff:g> ଆଟାଚମେଣ୍ଟଗୁଡ଼ିକ ସେଭ୍ ହୋଇଛି ।"</item>
+</plurals>
+<plurals name="attachment_save_error">
+<item quantity="one">"<xliff:g id="quantity">%d</xliff:g> ଆଟାଚମେଣ୍ଟ ସେଭ୍ କରିପାରିଲା ନାହିଁ"</item>
+<item quantity="other">"<xliff:g id="quantity">%d</xliff:g> ଆଟାଚମେଣ୍ଟଗୁଡ଼ିକ ସେଭ୍ କରିପାରିଲା ନାହିଁ"</item>
+</plurals>
+<plurals name="compose_message_view_hint_text_photo">
+<item quantity="one">"ଫୋଟୋ ପଠାନ୍ତୁ"</item>
+<item quantity="other">"ଫୋଟୋଗୁଡ଼ିକ ପଠାନ୍ତୁ"</item>
+</plurals>
+<plurals name="compose_message_view_hint_text_audio">
+<item quantity="one">"ଅଡିଓ ପଠାନ୍ତୁ"</item>
+<item quantity="other">"ଅଡିଓଗୁଡ଼ିକ ପଠାନ୍ତୁ" </item>
+</plurals>
+<plurals name="compose_message_view_hint_text_video">
+<item quantity="one">"ଭିଡିଓ ପଠାନ୍ତୁ"</item>
+<item quantity="other">"ଭିଡିଓଗୁଡ଼ିକ ପଠାନ୍ତୁ" </item>
+</plurals>
+<plurals name="compose_message_view_hint_text_vcard">
+<item quantity="one">"କଣ୍ଟାକ୍ଟ କାର୍ଡ ପଠାନ୍ତୁ"</item>
+<item quantity="other">"କଣ୍ଟାକ୍ଟ କାର୍ଡଗୁଡ଼ିକ ପଠାନ୍ତୁ" </item>
+</plurals>
+<plurals name="compose_message_view_hint_text_attachments">
+<item quantity="one">"ଆଟାଚମେଣ୍ଟ ପଠାନ୍ତୁ"</item>
+<item quantity="other">"ଆଟାଚମେଣ୍ଟଗୁଡ଼ିକ ପଠାନ୍ତୁ"</item>
+</plurals>
+<plurals name="attachment_changed_accessibility_announcement">
+<item quantity="one">"ଗୋଟିଏ ଆଟାଚମେଣ୍ଟ ପଠାଯିବା ପାଇଁ ପ୍ରସ୍ତୁତ ରହିଛି"</item>
+<item quantity="other">"<xliff:g id="attachment_count">%d</xliff:g> ଆଟାଚମେଣ୍ଟଗୁଡ଼ିକ ପଠାଯିବା ପାଇଁ ପ୍ରସ୍ତୁତ ରହିଛି"</item>
+</plurals>
+<plurals name="vcard_multiple_display_name">
+<item quantity="one">"<xliff:g id="count">%d</xliff:g> କଣ୍ଟାକ୍ଟ"</item>
+<item quantity="other">"<xliff:g id="count">%d</xliff:g> ଯୋଗାଯୋଗ ଗୁଡିକ"</item>
+</plurals>
+<plurals name="add_invalid_contact_error">
+<item quantity="one">"ଅବୈଧ ଯୋଗାଯୋଗ"</item>
+<item quantity="other">"ଅବୈଧ ଯୋଗାଯୋଗଗୁଡ଼ିକ"</item>
+</plurals>
+
+<string name="share_intent_activity_label">"ବାର୍ତ୍ତାଳାପ ଚୟନ କରନ୍ତୁ"</string>
+<string name="action_settings">"ସଂସ୍ଥାପନା"</string>
+<string name="sendButtonContentDescription">"ମେସେଜ ପଠାନ୍ତୁ"</string>
+<string name="attachMediaButtonContentDescription">"ଏକ ଆଟାଚମେଣ୍ଟ ଯୋଡ଼ନ୍ତୁ"</string>
+<string name="help_and_feedback_activity_label">"ସାହାଯ୍ୟ"</string>
+<string name="alarm_message_date">"ଏକ ତାରିଖ ଚୟନ କରନ୍ତୁ"</string>
+<string name="alarm_message_time">"ଏକ ସମୟ ଚୟନ କରନ୍ତୁ"</string>
+<string name="alarm_message_setup">"ସେଟଅପ୍"</string>
+<string name="alarm_message_cancel">"ବାତିଲ କରନ୍ତୁ"</string>
+<string name="welcome">"ସ୍ୱାଗତ"</string>
+<string name="skip">"ଛାଡି/ବାଦ ଦିଅ"</string>
+<string name="next_with_arrow">"ପରବର୍ତ୍ତୀ&gt;"</string>
+<string name="next">"ପର"</string>
+<string name="exit">"ପ୍ରସ୍ଥାନ"</string>
+<string name="settings_with_arrow">"ସେଟିଂସ୍‍&gt;"</string>
+<string name="settings">"ସଂସ୍ଥାପନା"</string>
+<string name="required_permissions_promo">"SMS, ଫୋନ୍ ଏବଂ ଯୋଗାଯୋଗକୁ ବାର୍ତ୍ତା ପଠାଇବା ପାଇଁ ଅନୁମତି ଆବଶ୍ୟକ ।"</string>
+<string name="enable_permission_procedure">"ଆପଣ ସେଟିଂସ୍ &gt; ଆପ୍ସ &gt; ମେସେଜିଂ &gt; ଅନୁମତିଗୁଡ଼ିକରେ ପରିବର୍ତ୍ତନ କରିପାରିବେ ।"</string>
+<string name="enable_permission_procedure_description">"ଆପଣ ସେଟିଂସ୍, ଆପ୍ସ, ମେସେଜିଂ, ପରମିସନ୍ ଗୁଡ଼ିକରେ ଅନୁମତିଗୁଡ଼ିକ ପରିବର୍ତ୍ତନ କରିପାରିବେ ।"</string>
+<string name="contact_picker_frequents_tab_title">"ଫ୍ରିକ୍ୱେଣ୍ଟସ୍"</string>
+<string name="contact_picker_all_contacts_tab_title">"ସମସ୍ତ ଯୋଗାଯୋଗ ଗୁଡିକ"</string>
+<string name="contact_list_send_to_text">"<xliff:g id="destination">%s</xliff:g> କୁ ପଠାନ୍ତୁ"</string>
+<string name="mediapicker_cameraChooserDescription">"ପିକଚର୍ ଏବଂ ଭିଡିଓଗୁଡ଼ିକ ସଂଗ୍ରହ କରନ୍ତୁ"</string>
+<string name="mediapicker_galleryChooserDescription">"ଏହି ଡିଭାଇସ୍ ରୁ ପ୍ରତିଛବିଗୁଡ଼ିକ ଚୟନ କରନ୍ତୁ"</string>
+<string name="mediapicker_audioChooserDescription">"ଅଡିଓ ରେକର୍ଡ କର"</string>
+<string name="mediapicker_gallery_title">"ଫୋଟୋ ବାଛନ୍ତୁ"</string>
+<string name="mediapicker_gallery_item_selected_content_description">"ମିଡିଆ ଚୟନ ହୋଇଛି ।"</string>
+<string name="mediapicker_gallery_item_unselected_content_description">"ମିଡିଆ ଚୟନ ହୋଇନାହିଁ ।"</string>
+<string name="mediapicker_gallery_title_selection">"<xliff:g id="count">%d</xliff:g> ଚୟନ ହୋଇଛି"</string>
+<string name="mediapicker_gallery_image_item_description">"<xliff:g id="date">%1$tB %1$te %1$tY %1$tl %1$tM %1$tp</xliff:g> ଚିତ୍ର"</string>
+<string name="mediapicker_gallery_image_item_description_no_date">"ଛବି"</string>
+<string name="mediapicker_audio_title">"ଅଡିଓ ରେକର୍ଡ କର"</string>
+<string name="action_share">"ଭାଗୀଦାରୀତା କରନ୍ତୁ"</string>
+<string name="posted_just_now">"ଏଇ ସଙ୍ଗେ ସଙ୍ଗେ"</string>
+<string name="posted_now">"ବର୍ତ୍ତମାନ"</string>
+<string name="class_0_message_activity">"କ୍ଲାସ୍ 0 ବାର୍ତ୍ତା"</string>
+<string name="save">"ସଞ୍ଚୟ କରନ୍ତୁ"</string>
+<string name="sms_storage_low_auto_delete_enabled_dialog_text">"ଡିଭାଇସରେ କମ୍ ସ୍ଥାନ ରହିଛି । ବାର୍ତ୍ତା ପଠାଇବା ଦ୍ୱାରା ସ୍ଥାନ ଖାଲି କରିବା ପାଇଁ ସ୍ୱୟଂକ୍ରିୟ ଭାବରେ ପୁରୁଣା ବାର୍ତ୍ତା ଡିଲିଟ୍ ହୋଇଯିବ ।"</string>
+<string name="sms_storage_low_title">"ସଂରକ୍ଷକ ସ୍ଥାନ ସରିଯାଇଛି"</string>
+<string name="sms_storage_low_text">"ଆପଣଙ୍କ ଡିଭାଇସରେ ଅଧିକ ସ୍ଥାନ ଉପଲବ୍ଧ ନ ହେବା ପର୍ଯ୍ୟନ୍ତ ମେସେଜିଂ ଦ୍ୱାରା ବାର୍ତ୍ତା ପ୍ରେରଣ କିମ୍ବା ଗ୍ରହଣ କାମ ହୋଇ ନ ପାରେ ।"</string>
+<string name="sms_storage_low_notification_ticker">"କମ୍ SMS ଷ୍ଟୋରେଜ । ଆପଣ ବାର୍ତ୍ତାଗୁଡ଼ିକ ଡିଲିଟ୍ କରିବା ଦରକାର ହୋଇପାରେ ।"</string>
+<string name="enter_phone_number_title">"ଆପଣଙ୍କ ଫୋନ୍ ନମ୍ବର ସୁନିଶ୍ଚିତ କରନ୍ତୁ"</string>
+<string name="enter_phone_number_text">"ଏହି ୱାନ୍-ଟାଇମ୍ ଷ୍ଟେପ୍ ମେସେଜିଂ ଆପଣଙ୍କ ଗ୍ରୁପ୍ ମେସେଜ୍ ଗୁଡ଼ିକ ଠିକ୍ ଭାବରେ ଡେଲିଭର କରିବ ବୋଲି ସୁନିଶ୍ଚିତ କରିବ ।"</string>
+<string name="enter_phone_number_hint">"ଫୋନ ନମ୍ବର"</string>
+<string name="delete_all_media">"ମିଡିଆରେ ଥିବା ସମସ୍ତ ବାର୍ତ୍ତା ଗୁଡ଼ିକ ଡିଲିଟ୍ କରନ୍ତୁ"</string>
+<string name="delete_oldest_messages">"<xliff:g id="duration">%s</xliff:g> ଠାରୁ ପୁରୁଣା ବାର୍ତ୍ତାଗୁଡ଼ିକ ଡିଲିଟ୍ କରନ୍ତୁ"</string>
+<string name="auto_delete_oldest_messages">"<xliff:g id="duration">%s</xliff:g> ଠାରୁ ପୁରୁଣା ବାର୍ତ୍ତାଗୁଡ଼ିକ ସ୍ୱୟଂକ୍ରିୟ ଭାବରେ ଡିଲିଟ୍ କରନ୍ତୁ"</string>
+<string name="ignore">"ଉପେକ୍ଷାକରନ୍ତୁ"</string>
+<string name="delete_all_media_confirmation">"ମିଡିଆରେ ଥିବା ସମସ୍ତ ବାର୍ତ୍ତା ଗୁଡ଼ିକ ଡିଲିଟ୍ କରିବେ କି?"</string>
+<string name="delete_oldest_messages_confirmation">"<xliff:g id="duration">%s</xliff:g> ଠାରୁ ପୁରୁଣା ବାର୍ତ୍ତା ଗୁଡ଼ିକ ଡିଲିଟ୍ କରିବେ କି?"</string>
+<string name="auto_delete_oldest_messages_confirmation">"<xliff:g id="duration">%s</xliff:g> ଠାରୁ ପୁରୁଣା ବାର୍ତ୍ତାଗୁଡ଼ିକ ଡିଲିଟ୍ କରିବେ କି ଏବଂ ଅଟୋ-ଡିଲିଟ୍ ଅନ୍ କରିବେ କି?"</string>
+<string name="incoming_text_sender_content_description">"<xliff:g id="sender">%s</xliff:g> କହିଲେ"</string>
+<string name="outgoing_text_sender_content_description">"ଆପଣ କହିଲେ"</string>
+<string name="incoming_sender_content_description">"<xliff:g id="sender">%s</xliff:g> ଠାରୁ ବାର୍ତ୍ତା"</string>
+<string name="outgoing_sender_content_description">"ଆପଣ ଏକ ବାର୍ତ୍ତା ପଠାଇଛନ୍ତି"</string>
+<string name="message_status_sending">"...ପଠାଉଛି"</string>
+<string name="message_status_alarm">"ଆଲାର୍ମ ପଠେଇବା ପାଇଁ"</string>
+<string name="message_status_send_failed">"ପଠାଯାଇ ନାହିଁ । ପୁଣି ଥରେ ଚେଷ୍ଟା କରିବା ପାଇଁ ଟଚ୍ କରନ୍ତୁ ।"</string>
+<string name="user_not_exist">"ବ୍ୟବହାରକାରୀ ନାହାଁନ୍ତି"</string>
+<string name="message_status_send_retrying">"ପଠାଯାଇ ନାହିଁ । ...ପୁଣି ଥରେ ଚେଷ୍ଟା କରୁଛି"</string>
+<string name="message_status_resend">"ପୁଣି ଥରେ ପଠାନ୍ତୁ କିମ୍ବା ଡିଲିଟ୍ କରନ୍ତୁ"</string>
+<string name="message_status_send_failed_emergency_number">"ଜରୁରୀକାଳୀନ ସେବାକୁ ଦୟାକରି ଏକ ଭଏସ୍ କଲ୍ କରନ୍ତୁ । ଏହି ସମୟରେ ଆପଣଙ୍କର ଟେକ୍ସଟ ମେସେଜ୍ ଡେଲିଭର ହୋଇପାରିବ ନାହିଁ ।"</string>
+<string name="message_status_failed">"ବିଫଳ ହୋଇଛି"</string>
+<string name="message_title_manual_download">"ଡାଉନଲୋଡ୍ ହେବା ପାଇଁ ନୂଆ MMS ବାର୍ତ୍ତା"</string>
+<string name="message_title_downloading">"ନୂଆ MMS ବାର୍ତ୍ତା"</string>
+<string name="message_title_download_failed">"ଡାଉନଲୋଡ୍ ହୋଇପାରିଲା ନାହିଁ"</string>
+<string name="message_status_download_failed">"ପୁଣି ଥରେ ଚେଷ୍ଟା କରିବା ପାଇଁ ଟଚ୍ କରନ୍ତୁ"</string>
+<string name="message_status_download">"ଡାଉନଲୋଡ୍ କରିବା ପାଇଁ ଟଚ୍ କରନ୍ତୁ"</string>
+<string name="message_status_download_action">"ଡାଉନଲୋଡ୍ କରନ୍ତୁ କିମ୍ବା ଡିଲିଟ୍ କରନ୍ତୁ"</string>
+<string name="message_status_downloading">"... ଡାଉନଲୋଡ୍ ହେଉଛି"</string>
+<string name="message_status_download_error">"ବାର୍ତ୍ତା ଅବଧି ଶେଷ ହୋଇଯାଇଛି କିମ୍ବା ଉପଲବ୍ଧ ନୁହେଁ"</string>
+<string name="mms_info">"ଆକାର: <xliff:g id="messageSize">%1$s</xliff:g>, ଅନ୍ତିମ ତାରିଖ: <xliff:g id="messageExpire">%2$s</xliff:g>"</string>
+<string name="invalid_destination">"ପଠାଇ ପାରିବ ନାହିଁ । ଗ୍ରହୀତା ବୈଧ ନୁହଁନ୍ତି ।"</string>
+<string name="service_not_activated">"ନେଟୱର୍କରେ ସର୍ଭିସ୍ ଆକ୍ଟିଭେଟ୍ ହୋଇନାହିଁ"</string>
+<string name="service_network_problem">"ନେଟୱର୍କ ସମସ୍ୟା ଯୋଗୁଁ ପଠାଯାଇ ପାରିଲା ନାହିଁ"</string>
+<string name="service_message_not_found">"ବାର୍ତ୍ତା ଅବଧି ଶେଷ ହୋଇଯାଇଛି କିମ୍ବା ଉପଲବ୍ଧ ନୁହେଁ"</string>
+<string name="no_subject">"(କୌଣସି ବିଷୟ ନୁହେଁ)"</string>
+<string name="unknown_sender">"ଅଜଣା ଗ୍ରହୀତା"</string>
+<string name="delivered_status_content_description">"ଡେଲିଭରି ହୋଇଛି"</string>
+<string name="dl_failure_notification">"<xliff:g id="from">%2$s</xliff:g> ରୁ <xliff:g id="subject">%1$s</xliff:g> ବାର୍ତ୍ତା ଡାଉନଲୋଡ୍ ହୋଇପାରିଲା ନାହିଁ ।"</string>
+<string name="low_memory">"କମ୍ ମେମୋରୀ ଯୋଗୁଁ ଡାଟାବେସ୍ ଅପରେସନ୍ ସମ୍ପୂର୍ଣ୍ଣ ହୋଇପାରିଲା ନାହିଁ"</string>
+<string name="notification_send_failures_line1_singular">"ବାର୍ତ୍ତା ପଠାଯାଇ ନାହିଁ"</string>
+<string name="notification_send_failures_line1_plural">"ମେସେଜିଂରେ କିଛି ବାର୍ତ୍ତା ପଠାଯାଇ ନାହିଁ"</string>
+<string name="notification_download_failures_line1_singular">"ବାର୍ତ୍ତାଗୁଡ଼ିକ ଡାଉନଲୋଡ୍ ହୋଇନାହିଁ"</string>
+<string name="notification_download_failures_line1_plural">"ମେସେଜିଂରେ କେତେକ ବାର୍ତ୍ତା ଡାଉନଲୋଡ୍ ହୋଇନାହିଁ"</string>
+<string name="notification_emergency_send_failure_line1">"<xliff:g id="number">%1$s</xliff:g> ବାର୍ତ୍ତା ପଠାଯାଇ ନାହିଁ"</string>
+<string name="notification_emergency_send_failure_line2">"ଦୟାକରି ଜରୁରୀକାଳୀନ ସେବାକୁ ଏକ ଭଏସ୍ କଲ୍ କରନ୍ତୁ । <xliff:g id="number">%1$s</xliff:g> କୁ ଆପଣଙ୍କ ଟେକ୍ସଟ ବାର୍ତ୍ତା ଏହି ସମୟରେ ଡେଲିଭର ହୋଇ ପାରିଲା ନାହିଁ ।"</string>
+<string name="start_conversation">"ଆରମ୍ଭ"</string>
+<string name="camera_error_opening">"କ୍ୟାମେରା ଉପଲବ୍ଧ ନୁହେଁ"</string>
+<string name="camera_error_unknown">"କ୍ୟାମେରା ଉପଲବ୍ଧ ନୁହେଁ"</string>
+<string name="camera_error_video_init_fail">"ଭିଡିଓ କ୍ୟପଚର୍ ଉପଲବ୍ଧ ନୁହେଁ"</string>
+<string name="camera_error_storage_fail">"ମିଡିଆ ସେଭ୍ କରିପାରିବ ନାହିଁ"</string>
+<string name="camera_error_failure_taking_picture">"ପିକଚର୍ ନେଇ ପାରିବ ନାହିଁ"</string>
+<string name="back">"ପଛ"</string>
+<string name="action_menu_show_archived">"ଆର୍କାଇଭ୍ ହୋଇଛି"</string>
+<string name="action_delete">"କାଟ"</string>
+<string name="action_archive">"ଆର୍କାଇଭ୍"</string>
+<string name="action_unarchive">"ଆର୍କାଇଭ୍ କରନ୍ତୁ ନାହିଁ"</string>
+<string name="action_notification_off">"ନୋଟିଫିକେସନ୍ ଗୁଡ଼ିକ ବନ୍ଦ କରନ୍ତୁ"</string>
+<string name="action_notification_on">"ନୋଟିଫିକେସନ୍‍ ଟର୍ଣ୍ଣ ଅନ୍‌ କରନ୍ତୁ"</string>
+<string name="action_add_contact">"କଣ୍ଟାକ୍ଟ ଯୋଗକରନ୍ତୁ"</string>
+<string name="action_download">"ଡ଼ାଉନଲୋଡ"</string>
+<string name="action_send">"ପଠାନ୍ତୁ"</string>
+<string name="action_delete_message">"କାଟ"</string>
+<string name="delete_message_confirmation_dialog_title">"ଏହି ବାର୍ତ୍ତା ଡିଲିଟ୍ କରିବେ କି?"</string>
+<string name="delete_message_confirmation_dialog_text">"ଏହି କାମ ଅନଡନ୍ ହୋଇପାରିବ ନାହିଁ ।"</string>
+<string name="delete_message_confirmation_button">"କାଟ"</string>
+<string name="delete_conversation_confirmation_button">"କାଟ"</string>
+<string name="delete_conversation_decline_button">"ବାତିଲ କରନ୍ତୁ"</string>
+<string name="recipient_hint">"ପ୍ରାପ୍ତେଷୁ"</string>
+<string name="action_multiselect">"ଏକାଧିକ ପ୍ରତିଛବି ଚୟନ କରନ୍ତୁ"</string>
+<string name="action_confirm_multiselect">"ଚୟନ ସୁନିଶ୍ଚିତ କରନ୍ତୁ"</string>
+<string name="audio_recording_start_failed">"ଅଡିଓ ରେକର୍ଡ କରିପାରିବ ନାହିଁ । ଦୟାକରି ପର୍ମିସନ୍ ଯାଂଚ କରନ୍ତୁ ଏବଂ ପୁଣି ଥରେ ଚେଷ୍ଟା କରନ୍ତୁ ।"</string>
+<string name="audio_recording_replay_failed">"ଶବ୍ଦ ବଜାଇ ପାରିବ ନାହିଁ । ପୁଣିଥରେ ଚେଷ୍ଟା କରନ୍ତୁ ।"</string>
+<string name="audio_recording_error">"ଶବ୍ଦ ସେଭ୍ କରିପାରିବ ନାହିଁ । ପୁଣିଥରେ ଚେଷ୍ଟା କରନ୍ତୁ ।"</string>
+<string name="audio_picker_hint_text">"ଟଚ୍ କରନ୍ତୁ &amp; ଧରି ରଖନ୍ତୁ"</string>
+<string name="enumeration_comma">",\u0020"</string>
+<string name="notification_separator">"\u0020\u0020"</string>
+<string name="notification_ticker_separator">":\u0020"</string>
+<string name="notification_space_separator">"\u0020\u0020"</string>
+<string name="notification_picture">"ଚିତ୍ର"</string>
+<string name="notification_audio">"ଅଡିଓ କ୍ଲିପ୍"</string>
+<string name="notification_video">"ଭିଡ଼ିଓ"</string>
+<string name="notification_vcard">"କଣ୍ଟାକ୍ଟ କାର୍ଡ"</string>
+<string name="notification_download_mms">"ଡ଼ାଉନଲୋଡ"</string>
+<string name="notification_reply_via_sms">"SMS ଜରିଆରେ ଉତ୍ତର ଦିଅନ୍ତୁ"</string>
+<string name="notification_reply_via_mms">"MMS ଜରିଆରେ ଉତ୍ତର ଦିଅନ୍ତୁ"</string>
+<string name="notification_reply_prompt">"ଉତ୍ତର"</string>
+<string name="unknown_self_participant">"ମତେ"</string>
+<string name="blocked_toast_message">"ଯୋଗାଯୋଗ ବ୍ଲକ୍ ହୋଇଛି &amp; ଆର୍କାଇଭ୍ କରାଯାଇଛି"</string>
+<string name="unblocked_toast_message">"ଯୋଗାଯୋଗ ବ୍ଲକ୍ ହୋଇନାହିଁ &amp; ଆର୍କାଇଭ୍ କରାଯାଇ ନାହିଁ"</string>
+<string name="archived_toast_message">"<xliff:g id="count">%d</xliff:g> ଆର୍କାଇଭ୍ କରାଯାଇଛି"</string>
+<string name="unarchived_toast_message">"<xliff:g id="count">%d</xliff:g> ଆର୍କାଇଭ୍ କରାଯାଇନାହିଁ"</string>
+<string name="notification_off_toast_message">"ନୋଟିଫିକେସନ୍ ଗୁଡ଼ିକ ବନ୍ଦ ହୋଇଛି"</string>
+<string name="notification_on_toast_message">"ନୋଟିଫିକେସନ୍ ଗୁଡ଼ିକ ଅନ୍ ହୋଇଛି"</string>
+<string name="toast_after_setting_default_sms_app_for_message_send">"ସବୁ ସେଟ୍ ହୋଇଛି । ଟଚ୍ କରନ୍ତୁ ପୁଣିଥରେ ପଠାନ୍ତୁ ।"</string>
+<string name="toast_after_setting_default_sms_app">"ସଫଳତାର ସହ ମେସେଜ କରିବା ଡିଫଲ୍ଟ SMS ଆପ୍ ଭାବରେ ସେଟ୍ କରାଯାଇଛି ।"</string>
+<string name="audio_attachment_content_description">"ଅଡିଓ ଆଟାଚମେଣ୍ଟ"</string>
+<string name="audio_play_content_description">"ଅଡିଓ ଆଟାଚମେଣ୍ଟ ବଜାନ୍ତୁ"</string>
+<string name="audio_pause_content_description">"ବିରତି ନିଅନ୍ତୁ"</string>
+<string name="incoming_message_announcement">"<xliff:g id="sender">%s</xliff:g>: <xliff:g id="message">%s</xliff:g> ଠାରୁ ବାର୍ତ୍ତା ।"</string>
+<string name="one_on_one_incoming_failed_message_prefix">"<xliff:g id="sender">%s</xliff:g>: <xliff:g id="message">%s</xliff:g> ଠାରୁ ବାର୍ତ୍ତା ବିଫଳ ହୋଇଛି । ସମୟ: <xliff:g id="time">%s</xliff:g>"</string>
+<string name="one_on_one_incoming_successful_message_prefix">"<xliff:g id="sender">%s</xliff:g>: <xliff:g id="message">%s</xliff:g>ଠାରୁ ବାର୍ତ୍ତା । ସମୟ: <xliff:g id="time">%s</xliff:g>."</string>
+<string name="one_on_one_outgoing_draft_message_prefix">"<xliff:g id="contact">%s</xliff:g>: <xliff:g id="message">%s</xliff:g>କୁ ପଠାଯାଇ ନ ଥିବା ବାର୍ତ୍ତା । ସମୟ: <xliff:g id="time">%s</xliff:g>।"</string>
+<string name="one_on_one_outgoing_sending_message_prefix">"<xliff:g id="contact">%s</xliff:g>: <xliff:g id="message">%s</xliff:g>କୁ ବାର୍ତ୍ତା ପଠାଉଛି । ସମୟ: <xliff:g id="time">%s</xliff:g>।"</string>
+<string name="one_on_one_outgoing_failed_message_prefix">"<xliff:g id="contact">%s</xliff:g>: <xliff:g id="message">%s</xliff:g> କୁ ବାର୍ତ୍ତା ପଠାଇବା ବିଫଳ ହୋଇଛି । ସମୟ: <xliff:g id="time">%s</xliff:g>।"</string>
+<string name="one_on_one_outgoing_successful_message_prefix">"<xliff:g id="contact">%s</xliff:g>: <xliff:g id="message">%s</xliff:g>କୁ ବାର୍ତ୍ତା । ସମୟ: <xliff:g id="time">%s</xliff:g>।"</string>
+<string name="group_incoming_failed_message_prefix">"<xliff:g id="sender">%s</xliff:g>: <xliff:g id="message">%s</xliff:g> ରୁ ବାର୍ତ୍ତା ବିଫଳ ହୋଇଛି । ସମୟ: <xliff:g id="time">%s</xliff:g>. <xliff:g id="groupInfo">%s</xliff:g>."</string>
+<string name="group_incoming_successful_message_prefix">"<xliff:g id="sender">%s</xliff:g>: <xliff:g id="message">%s</xliff:g> ରୁ ବାର୍ତ୍ତା । ସମୟ: <xliff:g id="time">%s</xliff:g>. <xliff:g id="groupInfo">%s</xliff:g>"</string>
+<string name="group_outgoing_draft_message_prefix">"<xliff:g id="group">%s</xliff:g>: <xliff:g id="message">%s</xliff:g> କୁ ପଠାଯାଇ ନ ଥିବା ବାର୍ତ୍ତା । ସମୟ: <xliff:g id="time">%s</xliff:g>."</string>
+<string name="group_outgoing_sending_message_prefix">"<xliff:g id="group">%s</xliff:g>: <xliff:g id="message">%s</xliff:g> କୁ ବାର୍ତ୍ତା ପଠାଉଛି । ସମୟ: <xliff:g id="time">%s</xliff:g>।"</string>
+<string name="group_outgoing_failed_message_prefix">"<xliff:g id="group">%s</xliff:g>: <xliff:g id="message">%s</xliff:g> କୁ ବାର୍ତ୍ତା ପଠାଇବା ବିଫଳ ହୋଇଛି । ସମୟ: <xliff:g id="time">%s</xliff:g>।"</string>
+<string name="group_outgoing_successful_message_prefix">"<xliff:g id="group">%s</xliff:g>: <xliff:g id="message">%s</xliff:g> କୁ ବାର୍ତ୍ତା । ସମୟ: <xliff:g id="time">%s</xliff:g>।"</string>
+<string name="failed_message_content_description">"ବାର୍ତ୍ତା ବିଫଳ ହୋଇଛି । ପୁଣି ଥରେ ଚେଷ୍ଟା କରିବା ପାଇଁ ଟଚ୍ କରନ୍ତୁ ।"</string>
+<string name="group_conversation_description">"<xliff:g id="participants">%s</xliff:g> ଙ୍କ ସହ ବାର୍ତ୍ତାଳାପ"</string>
+<string name="delete_subject_content_description">"ବିଷୟ ଡିଲିଟ୍ କରନ୍ତୁ"</string>
+<string name="camera_switch_to_video_mode">"ଭିଡିଓ କ୍ୟାପଚର୍ କରନ୍ତୁ"</string>
+<string name="camera_switch_to_still_mode">"ଏକ ସ୍ଥିର ପ୍ରତିଛବି କ୍ୟାପଚର୍ କରନ୍ତୁ"</string>
+<string name="camera_take_picture">"ଚିତ୍ର ନିଅନ୍ତୁ"</string>
+<string name="camera_start_recording">"ଭିଡିଓ ରେକର୍ଡ କରିବା ଆରମ୍ଭ କରନ୍ତୁ"</string>
+<string name="camera_switch_full_screen">"ଫୁଲ୍ ସ୍କ୍ରିନ୍ କ୍ୟାମେରାକୁ ସ୍ୱିଚ୍ କରନ୍ତୁ"</string>
+<string name="camera_switch_camera_facing">"ଫ୍ରଣ୍ଟ ଏବଂ ବ୍ୟାକ୍ କ୍ୟାମେରା ମଧ୍ୟରେ ସ୍ୱିଚ୍ କରନ୍ତୁ"</string>
+<string name="camera_stop_recording">"ରେକର୍ଡିଂ ବନ୍ଦ କରନ୍ତୁ ଏବଂ ଭିଡିଓ ଆଟାଚ୍ କରନ୍ତୁ"</string>
+<string name="camera_cancel_recording">"ଭିଡିଓ ରେକର୍ଡିଂ ବନ୍ଦ କରନ୍ତୁ"</string>
+<string name="photo_view_activity_title">"ଫୋଟୋ ମେସେଜ୍ କରିବା"</string>
+<string name="attachment_file_description">"MMS ଆଟାଚମେଣ୍ଟ ସେଭ୍ ହେଲା"</string>
+<string name="settings_activity_title">"ସଂସ୍ଥାପନା"</string>
+<string name="archived_activity_title">"ଆର୍କାଇଭ୍ ହୋଇଛି"</string>
+<string name="action_close">"ବନ୍ଦ"</string>
+<string name="mms_messaging_category_pref_title">"ଏମଏମଏସ"</string>
+<string name="advanced_category_pref_title">"ଉନ୍ନତ"</string>
+<string name="debug_category_pref_title">"ଡିବଗ୍‌"</string>
+<string name="notifications_enabled_pref_title">"ବିଜ୍ଞପ୍ତି"</string>
+<string name="notification_sound_pref_title">"ଶବ୍ଦ"</string>
+<string name="silent_ringtone">"ନିରବ"</string>
+<string name="notification_vibrate_pref_title">"ଭାଇବ୍ରେଟ"</string>
+<string name="blocked_pref_title">"ଅବରୋଧିତ"</string>
+<string name="send_reports_pref_title">"SMS ପ୍ରେରଣ ରିପୋର୍ଟ"</string>
+<string name="send_reports_pref_summary">"ଆପଣ ପ୍ରେରଣ କରୁଥିବା ପ୍ରତି SMS ପାଇଁ ଏକ ପ୍ରେରଣ ରିପୋର୍ଟ ଅନୁରୋଧ କରନ୍ତୁ"</string>
+<string name="delivery_reports_pref_title">"SMS ଡେଲିଭରୀ ରିପୋର୍ଟ ଗୁଡ଼ିକ"</string>
+<string name="delivery_reports_pref_summary">"ଆପଣ ପଠାଇଥିବା ପ୍ରତ୍ୟେକ SMS ପାଇଁ ଏକ ଡେଲିଭରୀ ରିପୋର୍ଟ ଅନୁରୋଧ କରନ୍ତୁ"</string>
+<string name="auto_retrieve_mms_pref_title">"ଅଟୋ-ରିଟ୍ରାଇଭ୍"</string>
+<string name="auto_retrieve_mms_pref_summary">"MMS ବାର୍ତ୍ତାଗୁଡ଼ିକ ସ୍ୱୟଂକ୍ରିୟଭାବରେ ରିଟ୍ରାଇଭ୍ କରନ୍ତୁ"</string>
+<string name="auto_retrieve_mms_when_roaming_pref_title">"ରୋମିଂ ଅଟୋ-ରିଟ୍ରାଇଭ୍"</string>
+<string name="auto_retrieve_mms_when_roaming_pref_summary">"ରୋମିଂରେ ଥିବା ସମୟରେ MMS ସ୍ୱୟଂକ୍ରିୟଭାବରେ ରିଟ୍ରାଇଭ୍ କରନ୍ତୁ"</string>
+<string name="group_mms_pref_title">"ଗ୍ରୁପ୍ ମେସେଜିଂ"</string>
+<string name="group_mms_pref_summary">"ଏକାଧିକ ଗ୍ରହୀତା ଥିବା ସମୟରେ ଗୋଟିଏ ବାର୍ତ୍ତା ପଠାଇବା ପାଇଁ MMS ବ୍ୟବହାର କରନ୍ତୁ"</string>
+<string name="mms_phone_number_pref_title">"ଆପଣଙ୍କ ଫୋନ୍ ନମ୍ବର"</string>
+<string name="unknown_phone_number_pref_display_value">"ଅଜଣା"</string>
+<string name="send_sound_pref_title">"ଆଉଟଗୋଇଂ ମେସେଜ୍ ଶବ୍ଦଗୁଡ଼ିକ"</string>
+<string name="dump_sms_pref_title">"SMS ଡମ୍ପ୍ କରନ୍ତୁ"</string>
+<string name="dump_sms_pref_summary">"ବାହ୍ୟ ଷ୍ଟୋରେଜ୍ ଫାଇଲ୍ ରେ ଗ୍ରହଣ କରିଥିବା SMS ର’ ଡାଟା ଡମ୍ପ୍ କରନ୍ତୁ"</string>
+<string name="dump_mms_pref_title">"MMS ଡମ୍ପ୍ କରନ୍ତୁ"</string>
+<string name="dump_mms_pref_summary">"ବାହ୍ୟ ଷ୍ଟୋରେଜ୍ ଫାଇଲ୍ ରେ ଗ୍ରହଣ କରିଥିବା MMS ର’ ଡାଟା ଡମ୍ପ୍ କରନ୍ତୁ"</string>
+<string name="wireless_alerts_title">"ୱାୟାରଲେସ୍ ଆଲର୍ଟ ଗୁଡ଼ିକ"</string>
+<string name="message_context_menu_title">"ମେସେଜ ଅପସନ୍‍"</string>
+<string name="message_context_menu_copy_text">"ଟେକ୍ସଟ କପି କରନ୍ତୁ"</string>
+<string name="message_context_menu_view_details">"ସବିଶେଷ ବିବରଣୀ ଭିଉ କରନ୍ତୁ"</string>
+<string name="message_context_menu_delete_message">"କାଟ"</string>
+<string name="message_context_menu_forward_message">"ଫର୍ୱାର୍ଡ଼"</string>
+<string name="message_details_title">"ବାର୍ତ୍ତା ବିବରଣିଗୁଡ଼ିକ"</string>
+<string name="message_type_label">"ଟାଇପ୍ କରନ୍ତୁ:\u0020"</string>
+<string name="text_message">"ମେସେଜ ଲେଖନ୍ତୁ"</string>
+<string name="multimedia_message">"ମଲ୍ଟିମିଡିଆ ମେସେଜ୍"</string>
+<string name="from_label">"ରୁ:\u0020"</string>
+<string name="to_address_label">"କୁ:\u0020"</string>
+<string name="sent_label">"ପଠାଯାଇଛି:\u0020"</string>
+<string name="received_label">"ଗ୍ରହଣ ହୋଇଛି:\u0020"</string>
+<string name="subject_label">"ବିଷୟ:\u0020"</string>
+<string name="message_size_label">"ଆକାର: \u0020"</string>
+<string name="priority_label">"ପ୍ରାଥମିକତା:\u0020"</string>
+<string name="sim_label">"SIM:\u0020"</string>
+<string name="priority_high">"ଅଧିକ"</string>
+<string name="priority_normal">"ସ୍ୱାଭାବିକ"</string>
+<string name="priority_low">"କମ"</string>
+<string name="sim_slot_identifier">"<xliff:g id="sim_slot_number">%s</xliff:g> SIM"</string>
+<string name="hidden_sender_address">"ଉହ୍ୟ ପ୍ରେରକ ଠିକଣା"</string>
+<string name="cant_send_message_while_loading_attachments">"ଆଟାଚମେଣ୍ଟଗୁଡ଼ିକ ଲୋଡ୍ କରିବା ସମୟରେ ବାର୍ତ୍ତା ପଠାଇପାରିବ ନାହିଁ ।"</string>
+<string name="fail_to_load_attachment">"ଆଟାଚମେଣ୍ଟ ଲୋଡ୍ କରିପାରିବ ନାହିଁ । ପୁଣି ଥରେ ଚେଷ୍ଟା କରନ୍ତୁ ।"</string>
+<string name="cant_send_message_without_active_subscription">"ନେଟୱର୍କ ପ୍ରସ୍ତୁତ ନୁହେଁ । ପୁଣି ଥରେ ଚେଷ୍ଟା କରନ୍ତୁ ।"</string>
+<string name="chips_text_delete_button_content_description">"ଟେକ୍ସଟ ଡିଲିଟ୍ କରନ୍ତୁ"</string>
+<string name="numeric_text_keyboard_toggle_button_content_description">"ଟେକ୍ସଟ ଏଣ୍ଟର କରିବା ଏବଂ ସଂଖ୍ୟା ମଧ୍ୟରେ ସ୍ୱିଚ୍ କରନ୍ତୁ"</string>
+<string name="add_more_participants_button_content_description">"ଅଧିକ ଅଂଶଗ୍ରହଣକାରୀଙ୍କୁ ଯୋଡ଼ନ୍ତୁ"</string>
+<string name="confrim_participants_button_content_description">"ଅଂଶଗ୍ରହଣକାରୀମାନଙ୍କୁ ସୁନିଶ୍ଚିତ କରନ୍ତୁ"</string>
+<string name="start_new_conversation">"ନୂଆ ବାର୍ତ୍ତାଳାପ ଆରମ୍ଭ କରନ୍ତୁ"</string>
+<string name="gallery_checkbox_content_description">"ଏହି ଆଇଟମ୍ ଚୟନ୍ କରନ୍ତୁ"</string>
+<string name="video_thumbnail_view_play_button_content_description">"ଭିଡ଼ିଓ ଚଲାନ୍ତୁ"</string>
+<string name="action_people_and_options">"ଲୋକେ &amp; ବିକଳ୍ପଗୁଡ଼ିକ"</string>
+<string name="action_debug_options">"ଡିବଗ୍‌"</string>
+<string name="people_and_options_activity_title">"ଲୋକେ &amp; ବିକଳ୍ପଗୁଡ଼ିକ"</string>
+<string name="general_settings_title">"ସାଧାରଣ"</string>
+<string name="participant_list_title">"ଏହି ବାର୍ତ୍ତାଳାପରେ ଥିବା ଲୋକେ"</string>
+<string name="action_call">"ଗୋଟିଏ କଲ୍‌ କରନ୍ତୁ"</string>
+<string name="compose_message_view_hint_text">"ମେସେଜ ପଠାନ୍ତୁ"</string>
+<string name="compose_message_view_hint_text_multi_sim">"ବାର୍ତ୍ତା ପ୍ରେରଣ କରନ୍ତୁ <br/><small>ଠାରୁ <xliff:g id="sim_name">%s</xliff:g></small>"</string>
+<string name="menu_send_feedback">"ମତାମତ ପଠାନ୍ତୁ"</string>
+<string name="menu_view_in_store">"ଗୁଗୁଲ୍ ପ୍ଲେ ଷ୍ଟାରରେ ଦେଖନ୍ତୁ"</string>
+<string name="menu_version_info">"ଭର୍ସନ୍ ସୂଚନା"</string>
+<string name="subtitle_format_for_version_number">"%1$s ଭର୍ସନ୍"</string>
+<string name="menu_license">"ଓପନ୍‌ ସୋର୍ସ୍‌ ଲାଇସେନ୍ସଗୁଡିକ"</string>
+<string name="notifications_enabled_conversation_pref_title">"ବିଜ୍ଞପ୍ତି"</string>
+<string name="mms_attachment_limit_reached">"ଆଟାଚମେଣ୍ଟ ସୀମା ଅଧିକ ହୋଇଯାଇଛି"</string>
+<string name="mms_attachment_load_failed">"ଆଟାଚମେଣ୍ଟ ଲୋଡ୍ କରିବା ପାଇଁ ବିଫଳ ହୋଇଛି ।"</string>
+<string name="add_contact_confirmation_dialog_title">"ଯୋଗାଯୋଗ ଗୁଡ଼ିକରେ ଯୋଗକରନ୍ତୁ"</string>
+<string name="add_contact_confirmation">"କଣ୍ଟାକ୍ଟ ଯୋଗକରନ୍ତୁ"</string>
+<string name="compose_message_view_subject_hint_text">"ବିଷୟ"</string>
+<string name="conversation_message_view_subject_text">"ବିଷୟ:\u0020"</string>
+<string name="loading_vcard">"କଣ୍ଟାକ୍ଟ କାର୍ଡ ଲୋଡ୍ କରୁଛି"</string>
+<string name="failed_loading_vcard">"କଣ୍ଟାକ୍ଟ କାର୍ଡ ଲୋଡ୍ କରିପାରିଲା ନାହିଁ"</string>
+<string name="vcard_tap_hint">"କଣ୍ଟାକ୍ଟ କାର୍ଡ ଦେଖନ୍ତୁ"</string>
+<string name="vcard_detail_activity_title">"କଣ୍ଟାକ୍ଟ କାର୍ଡଗୁଡ଼ିକ"</string>
+<string name="vcard_detail_birthday_label">"ଜନ୍ମଦିନ"</string>
+<string name="vcard_detail_notes_label">"ନୋଟ୍‌ସ୍‍"</string>
+<string name="forward_message_activity_title">"ମେସେଜ୍ ଫର୍ୱାର୍ଡ କରନ୍ତୁ"</string>
+<string name="reply_activity_title">"ଉତ୍ତର"</string>
+<string name="sms_disabled">"SMS ଅସମର୍ଥ ହୋଇଛି"</string>
+<string name="requires_default_sms_app_to_send">"ପଠାଇବା ପାଇଁ, ମେସେଜିଂକୁ ଡିଫଲ୍ଟ SMS ଆପ୍ ଭାବରେ ସେଟ୍ କରନ୍ତୁ"</string>
+<string name="requires_default_sms_app">"ମେସେଜିଂକୁ ଡିଫଲ୍ଟ SMS ଆପ୍ ଭାବରେ ସେଟ୍ କରନ୍ତୁ"</string>
+<string name="requires_default_sms_change_button">"ପରିବର୍ତ୍ତନ"</string>
+<string name="recommend_set_default_sms_app">"ବାର୍ତ୍ତା ଗ୍ରହଣ କରିବା ପାଇଁ, ମେସେଜିଂକୁ ଡିଫଲ୍ଟ SMS ଆପ୍ ଭାବରେ ସେଟ୍ କରନ୍ତୁ"</string>
+<string name="no_preferred_sim_selected">"SMS ବାର୍ତ୍ତାଗୁଡ଼ିକ ପଠାଇବା ପାଇଁ କୌଣସି ପସନ୍ଦଯୋଗ୍ୟ SIM ଚୟନ କରାଯାଇ ନାହିଁ"</string>
+<string name="requires_sms_permissions_message">"ଡିଭାଇସ୍ ସତ୍ତ୍ୱାଧିକାରୀଙ୍କ ଦ୍ୱାରା ଏହି ଆପ୍ ଅନୁମତିପ୍ରାପ୍ତ ନୁହେଁ ।"</string>
+<string name="requires_sms_permissions_close_button">"ଠିକଠାକ"</string>
+<string name="too_many_participants">"ଗୋଟିଏ ବାର୍ତ୍ତାଳାପରେ ବହୁତ ଅଧିକ ଅଂଶଗ୍ରହଣକାରୀ"</string>
+<string name="camera_media_failure">"କ୍ୟାମେରା ପ୍ରତିଛବି ଲୋଡ୍ କରିପାରିଲା ନାହିଁ"</string>
+<string name="conversation_list_item_view_sent_from_you_prefix">"ଆପଣ: \u0020"</string>
+<string name="conversation_list_item_view_sent_from_other_prefix">"<xliff:g id="firstNameOfSender">%s</xliff:g>:\u0020"</string>
+<string name="conversation_list_item_view_draft_message">"ଡ୍ରାଫ୍ଟ"</string>
+<string name="conversation_list_empty_text">"ଆପଣ ଏକ ନୂଆ ବାର୍ତ୍ତାଳାପ ଆରମ୍ଭ କରିବା ପରେ, ଆପଣ ଏହା ଏଠାରେ ତାଲିକାଭୁକ୍ତ ହୋଇଥିବା ଦେଖିବେ"</string>
+<string name="archived_conversation_list_empty_text">"ଆର୍ଚିଭ୍‍ ହୋଇଥିବା ବାର୍ତ୍ତାଳାପଗୁଡ଼ିକ ଏଠାରେ ଦେଖାଯିବ"</string>
+<string name="conversation_list_first_sync_text">"... ବାର୍ତ୍ତାଳାପଗୁଡ଼ିକ ଲୋଡ୍ କରୁଛି"</string>
+<string name="conversation_list_snippet_picture">"ଚିତ୍ର"</string>
+<string name="conversation_list_snippet_audio_clip">"ଅଡିଓ କ୍ଲିପ୍"</string>
+<string name="conversation_list_snippet_video">"ଭିଡ଼ିଓ"</string>
+<string name="conversation_list_snippet_vcard">"କଣ୍ଟାକ୍ଟ କାର୍ଡ"</string>
+<string name="mms_text">"ଏମଏମଏସ"</string>
+<string name="snack_bar_undo">"ଫୂର୍ବବତ"</string>
+<string name="snack_bar_retry">"ପୁନଃ ଚେଷ୍ଟା"</string>
+<string name="contact_list_empty_text">"ଏକ ନୂଆ ବାର୍ତ୍ତା ଆରମ୍ଭ କରିବା ପାଇଁ ଏକ ଯୋଗାଯୋଗ ନାମ କିମ୍ବା ଫୋନ୍ ନମ୍ବର ପ୍ରବିଷ୍ଟ କରନ୍ତୁ"</string>
+<string name="action_block">"ବ୍ଲକ୍‌"</string>
+<string name="block_contact_title">"<xliff:g id="destination">%s</xliff:g> ବ୍ଲକ୍ କରନ୍ତୁ"</string>
+<string name="unblock_contact_title">"<xliff:g id="destination">%s</xliff:g> ବ୍ଲକ୍ କରନ୍ତୁ ନାହିଁ"</string>
+<string name="block_confirmation_title">"<xliff:g id="destination">%s</xliff:g> ବ୍ଲକ୍ କରିବେ କି?"</string>
+<string name="block_confirmation_message">"ଆପଣ ଏହି ନମ୍ବରରୁ ବାର୍ତ୍ତା ପାଇବା ଜାରି ରହିବ କିନ୍ତୁ ଆଉ ନୋଟିଫିକେସନ୍ ପାଇବେ ନାହିଁ । ଏହି ବାର୍ତ୍ତାଳାପ ଆର୍କାଇଭ୍ ହେବ ।"</string>
+<string name="blocked_contacts_title">"ବ୍ଲକ୍ ହୋଇଥିବା ଯୋଗାଯୋଗଗୁଡ଼ିକ"</string>
+<string name="tap_to_unblock_message">"ଅନବ୍ଲକ୍"</string>
+<string name="view_blocked_contacts_title">"ବ୍ଲକ୍ ହୋଇଥିବା ଯୋଗାଯୋଗଗୁଡ଼ିକ"</string>
+<string name="pick_image_from_document_library_content_description">"ଡକ୍ୟୁମେଣ୍ଟ ଲାଇବ୍ରେରୀରୁ ପ୍ରତିଛବି ଚୟନ କରନ୍ତୁ"</string>
+<string name="sending_message">"ବାର୍ତ୍ତା ପଠାଉଛି"</string>
+<string name="send_message_success">"ବାର୍ତ୍ତା ପଠାଯାଇ ସରିଛି"</string>
+<string name="send_message_failure_no_data">"ସେଲ୍ୟୁଲାର୍ ଡାଟା ବନ୍ଦ ହୋଇଛି । ଆପଣଙ୍କ ସେଟିଂସ୍ ଚେକ୍ କରନ୍ତୁ ।"</string>
+<string name="send_message_failure_airplane_mode">"ଏୟାରପ୍ଲେନ୍ ମୋଡରେ ବାର୍ତ୍ତା ପଠାଯାଇପାରିବ ନାହିଁ ।"</string>
+<string name="assistant_card_not_allow_for_mms">"ଆସିଷ୍ଟାଣ୍ଟ କାର୍ଡ ପାଇଁ ମେସେଜ୍ ପଠାଇ ପାରିବ ନାହିଁ"</string>
+<string name="send_message_failure">"ବାର୍ତ୍ତା ପଠାଯାଇପାରିବ ନାହିଁ"</string>
+<string name="download_message_success">"ବାର୍ତ୍ତା ଡାଉନଲୋଡ୍ ହୋଇଗଲା"</string>
+<string name="download_message_failure_no_data">"ସେଲ୍ୟୁଲାର୍ ଡାଟା ବନ୍ଦ ହୋଇଛି । ଆପଣଙ୍କ ସେଟିଂସ୍ ଚେକ୍ କରନ୍ତୁ ।"</string>
+<string name="download_message_failure_airplane_mode">"ଏୟାରପ୍ଲେନ୍ ମୋଡରେ ବାର୍ତ୍ତା ଡାଉନଲୋଡ୍ କରାଯାଇପାରିବ ନାହିଁ ।"</string>
+<string name="download_message_failure">"ବାର୍ତ୍ତା ଡାଉନଲୋଡ୍ ହୋଇପାରିଲା ନାହିଁ"</string>
+<string name="content_description_for_number_zero">"0"</string>
+<string name="content_description_for_number_one">"1"</string>
+<string name="content_description_for_number_two">"2"</string>
+<string name="content_description_for_number_three">"3"</string>
+<string name="content_description_for_number_four">"4"</string>
+<string name="content_description_for_number_five">"5"</string>
+<string name="content_description_for_number_six">"6"</string>
+<string name="content_description_for_number_seven">"7"</string>
+<string name="content_description_for_number_eight">"8"</string>
+<string name="content_description_for_number_nine">"9"</string>
+<string name="carrier_send_error">"<xliff:g id="carrierName">%1$s</xliff:g> ସହ ପଠାଇ ପାରିବ ନାହିଁ, ତ୍ରୁଟି <xliff:g id="errorCode">%2$d</xliff:g>"</string>
+<string name="carrier_send_error_unknown_carrier">"ଅଜଣା ବାହକ ସହ ବାର୍ତ୍ତା ପଠାଇ ପାରିବ ନାହିଁ, ତ୍ରୁଟି <xliff:g id="errorCode">%1$d</xliff:g>"</string>
+<string name="message_fwd">"ଫରୱାର୍ଡ: <xliff:g id="subject">%s</xliff:g>"</string>
+<string name="mms_failure_outgoing_service">"ବାର୍ତ୍ତା ପଠାଯାଇ ନାହିଁ: ନେଟୱର୍କରେ ସର୍ଭିସ୍ ଆକ୍ଟିଭେଟ୍ ହୋଇନାହିଁ"</string>
+<string name="mms_failure_outgoing_address">"ବାର୍ତ୍ତା ପଠାଯାଇ ନାହିଁ: ଅବୈଧ ଗନ୍ତବ୍ୟ ସ୍ଥଳ ଠିକଣା"</string>
+<string name="mms_failure_outgoing_corrupt">"ବାର୍ତ୍ତା ପଠାଯାଇ ନାହିଁ: ଅବୈଧ ବାର୍ତ୍ତା"</string>
+<string name="mms_failure_outgoing_content">"ବାର୍ତ୍ତା ପଠାଯାଇ ନାହିଁ: ଅସମର୍ଥିତ ସୂଚୀ"</string>
+<string name="mms_failure_outgoing_unsupported">"ବାର୍ତ୍ତା ପଠାଯାଇ ନାହିଁ: ଅସମର୍ଥିତ ବାର୍ତ୍ତା"</string>
+<string name="mms_failure_outgoing_too_large">"ବାର୍ତ୍ତା ପଠାଯାଇ ନାହିଁ: ବହୁତ ବଡ଼"</string>
+<string name="in_conversation_notify_new_message_text">"ନୂଆ ବାର୍ତ୍ତା"</string>
+<string name="in_conversation_notify_new_message_action">"ଦୃଶ୍ୟ"</string>
+<string name="message_image_content_description">"ଛବି"</string>
+<string name="activity_not_found_message">"ଏକ ଉପଯୁକ୍ତ ଆପ୍ଲିକେସନ୍ ପାଇ ପାରୁ ନାହିଁ"</string>
+<string name="chips_delete_content_description">"ଗ୍ରହୀତା ହଟାନ୍ତୁ"</string>
+<string name="share_new_message">"ନୂଆ ବାର୍ତ୍ତା"</string>
+<string name="share_cancel">"ବାତିଲ କରନ୍ତୁ"</string>
+<string name="apn_edit">"ଆକସେସ୍ ପଏଣ୍ଟ ସମ୍ପାଦନା କରନ୍ତୁ"</string>
+<string name="apn_not_set">"ସେଟ୍ ହୋଇ ନାହିଁ"</string>
+<string name="apn_name">"ନାମ"</string>
+<string name="apn_mms_proxy">"MMS ପ୍ରୋକ୍ସି"</string>
+<string name="apn_mms_port">"MMS ପୋର୍ଟ"</string>
+<string name="apn_type">"APN ପ୍ରକାର"</string>
+<string name="menu_delete_apn">"APN ଡିଲିଟ୍ କରନ୍ତୁ"</string>
+<string name="menu_new_apn">"ନୂଆ APN"</string>
+<string name="menu_save_apn">"ସଞ୍ଚୟ କରନ୍ତୁ"</string>
+<string name="menu_discard_apn_change">"ବର୍ଜନ"</string>
+<string name="error_apn_name_empty">"ନାମ ସ୍ଥାନ ଖାଲି ରହିପାରିବ ନାହିଁ ।"</string>
+<string name="error_apn_empty">"APN ଖାଲି ରହିପାରିବ ନାହିଁ ।"</string>
+<string name="error_mcc_not3">"MCC ସ୍ଥାନରେ 3ଟି ସଂଖ୍ୟା ରହିବା ଉଚିତ ।"</string>
+<string name="error_mnc_not23">"MNC ସ୍ଥାନରେ 2 କିମ୍ବା 3ଟି ସଂଖ୍ୟା ରହିବା ଉଚିତ ।"</string>
+<string name="restore_default_apn">"ଡିଫଲ୍ଟ APN ସେଟିଂସ୍ ରିଷ୍ଟୋର କରୁଛି ।"</string>
+<string name="menu_restore_default_apn">"ଡିଫଲ୍‌ଟ୍‌କୁ ରିସେଟ୍‌ କରନ୍ତୁ"</string>
+<string name="restore_default_apn_completed">"ଡିଫଲ୍ଟ APN ସେଟିଂସ୍ ରିସେଟ୍ କରିବା ସମ୍ପୂର୍ଣ୍ଣ ହୋଇଛି ।"</string>
+<string name="untitled_apn">"ଟାଇଟଲ୍ ଦିଆଯାଇ ନ ଥିବା"</string>
+<string name="sms_apns_title">"ଆକସେସ୍ ପଏଣ୍ଟ ନାମଗୁଡ଼ିକ"</string>
+<string name="apn_settings">"APN"</string>
+<string name="menu_new">"ନୂଆ APN"</string>
+<string name="apn_settings_not_available">"ଏହି ବ୍ୟବହାରକାରୀଙ୍କ ପାଇଁ ଆକସେସ୍ ପଏଣ୍ଟ ନାମ ସେଟିଂଗୁଡ଼ିକ ଉପଲବ୍ଧ ନୁହେଁ"</string>
+<string name="copy_to_clipboard_dialog_title">"କ୍ଲିପବୋର୍ଡକୁ କପି କରିବେ କି?"</string>
+<string name="copy_to_clipboard">"ନକଲ କରନ୍ତୁ"</string>
+<string name="incoming_sim_name_text">"<xliff:g id="sim_name">%s</xliff:g> କୁ"</string>
+<string name="general_settings">"ସାଧାରଣ"</string>
+<string name="advanced_settings">"ଉନ୍ନତ"</string>
+<string name="general_settings_activity_title">"ସାଧାରଣ ସେଟିଂସ୍‌"</string>
+<string name="advanced_settings_activity_title">"ଆଡଭାନ୍ସଡ ସେଟିଂସ୍"</string>
+<string name="sim_specific_settings">"\"<xliff:g id="sim_name">%s</xliff:g>\" SIM"</string>
+<string name="disable_group_mms">"ସମସ୍ତ ଗ୍ରହୀତାଙ୍କୁ ପୃଥକ୍ SMS ବାର୍ତ୍ତା ପଠାନ୍ତୁ । କେବଳ ଆପଣ କୌଣସି ଉତ୍ତର ପାଇବେ"</string>
+<string name="enable_group_mms">"ସମସ୍ତ ଗ୍ରହୀତାଙ୍କୁ ଗୋଟିଏ MMS ପଠାନ୍ତୁ"</string>
+<string name="sim_settings_unknown_number">"ଅଜଣା ନମ୍ବର"</string>
+<string name="secondary_user_new_message_title">"ନୂଆ ବାର୍ତ୍ତା"</string>
+<string name="secondary_user_new_message_ticker">"ନୂଆ ବାର୍ତ୍ତା ।"</string>
+<string name="sim_selector_button_content_description">"SIM ସିଲେକ୍ଟର"</string>
+<string name="sim_selector_button_content_description_with_selection">"<xliff:g id="sim">%1$s</xliff:g> ଚୟନ ହୋଇଛି, SIM ସିଲେକ୍ଟର"</string>
+<string name="send_button_long_click_description_no_sim_selector">"ବିଷୟ ସମ୍ପାଦନା କରନ୍ତୁ"</string>
+<string name="send_button_long_click_description_with_sim_selector">"SIM ଚୟନ କରନ୍ତୁ କିମ୍ବା ବିଷୟ ସମ୍ପାଦନା କରନ୍ତୁ"</string>
+<string name="audio_record_view_content_description">"ଅଡିଓ ରେକର୍ଡ କରିବା ପାଇଁ ଟଚ୍ କରି ହୋଲ୍ଡ କରନ୍ତୁ"</string>
+<string name="widget_new_conversation_content_description">"ନୂଆ ବାର୍ତ୍ତାଳାପ ଆରମ୍ଭ କରନ୍ତୁ"</string>
+<string name="widget_conversation_list_name">"ମେସେଜିଂ ତାଲିକା"</string>
+<string name="widget_new_message_content_description">"ନୂଆ ବାର୍ତ୍ତା"</string>
+<string name="widget_conversation_list_content_description">"ବାର୍ତ୍ତାଳାପ ତାଲିକା"</string>
+<string name="loading_conversations">"ବାର୍ତ୍ତାଳାପଗୁଡ଼ିକ ଲୋଡ୍ କରୁଛି"</string>
+<string name="loading_messages">"ବାର୍ତ୍ତାଗୁଡ଼ିକ ଲୋଡ୍ କରୁଛି"</string>
+<string name="view_more_conversations">"ଅଧିକ ବାର୍ତ୍ତାଳାପଗୁଡ଼ିକ ଦେଖନ୍ତୁ"</string>
+<string name="view_more_messages">"ଅଧିକ ବାର୍ତ୍ତାଗୁଡ଼ିକ ଦେଖନ୍ତୁ"</string>
+<string name="conversation_deleted">"ବାର୍ତ୍ତାଳାପ ଡିଲିଟ୍ ହୋଇଗଲା" </string>
+<string name="tap_to_configure">"ବାର୍ତ୍ତାଳାପ ଡିଲିଟ୍ ହୋଇଗଲା । ଏକ ଭିନ୍ନ ମେସେଜିଂ ବାର୍ତ୍ତାଳାପ ଦର୍ଶାଇବା ପାଇଁ ଟଚ୍ କରନ୍ତୁ"</string>
+<string name="update_destination_blocked">"ଅବରୋଧିତ"</string>
+<string name="update_destination_unblocked">"ବ୍ଲକ୍ ହୋଇନାହିଁ"</string>
+<string name="db_full">"ଷ୍ଟୋରେଜ୍ ସ୍ଥାନ କମ୍ ଅଛି । କିଛି ଡାଟା ବୋଧହୁଏ ହଜି ଯିବ ।"</string>
+<string name="attachment_chooser_activity_title">"ଆଟାଚମେଣ୍ଟଗୁଡ଼ିକ ଚୟନ କରନ୍ତୁ"</string>
+<string name="action_confirm_selection">"ଚୟନ ସୁନିଶ୍ଚିତ କରନ୍ତୁ"</string>
+<string name="attachment_chooser_selection">"<xliff:g id="count">%d</xliff:g> ଚୟନ ହୋଇଛି"</string>
+<string name="attachment_limit_reached_dialog_message_when_composing">"ଦୟାକରି ଗୋଟିଏ କିମ୍ବା ଅଧିକ ଆଟାଚମେଣ୍ଟ ହଟାନ୍ତୁ ଏବଂ ପୁଣି ଥରେ ଚେଷ୍ଟା କରନ୍ତୁ ।"</string>
+<string name="attachment_limit_reached_dialog_message_when_sending">"ଆପଣ ନିଜ ବାର୍ତ୍ତା ପଠାଇବା ପାଇଁ ଚେଷ୍ଟା କରିପାରନ୍ତି, କିନ୍ତୁ ଆପଣ ଗୋଟିଏ କିମ୍ବା ଅଧିକ ଆଟାଚମେଣ୍ଟ ନ ହଟାଇଲେ ଏହା ଡେଲିଭର ହୋଇ ନ ପାରେ ।"</string>
+<string name="video_attachment_limit_exceeded_when_sending">"ବାର୍ତ୍ତା ପିଛା ଆପଣ କେବଳ ଗୋଟିଏ ଭିଡିଓ ପଠାଇପାରିବେ । ଦୟାକରି ଅତିରିକ୍ତ ଭିଡିଓଗୁଡ଼ିକ ହଟାନ୍ତୁ ଏବଂ ପୁଣି ଥରେ ଚେଷ୍ଟା କରନ୍ତୁ ।"</string>
+<string name="attachment_load_failed_dialog_message">"ଆଟାଚମେଣ୍ଟ ଲୋଡ୍ କରିବା ପାଇଁ ମେସେଜିଂ ବିଫଳ ହୋଇଛି ।"</string>
+<string name="attachment_limit_reached_send_anyway">"ଯାହା ହେଲେ ମଧ୍ୟ ପଠାନ୍ତୁ"</string>
+<string name="conversation_creation_failure">"ବାର୍ତ୍ତାଳାପ ଆରମ୍ଭ କରିପାରିଲା ନାହିଁ"</string>
+<string name="selected_sim_content_message">"<xliff:g id="selected_sim">%s</xliff:g> ଚୟନ କରନ୍ତୁ"</string>
+<string name="empty_msg">"ଖାଲି ବାର୍ତ୍ତା"</string>
+<string name="send_empty_msg">"ଆପଣ ଏକ ଖାଲି ବାର୍ତ୍ତା ପଠାଇବା ପାଇଁ ଚେଷ୍ଟା କରୁଛନ୍ତି କି?"</string>
+<string name="yes">"ହଁ"</string>
+<string name="no">"ନାହିଁ"</string>
+<string name="donotset_time_before_now">"ବର୍ତ୍ତମାନ  ପୂର୍ବରୁ ସମୟ ସେଟ ହୋଇପାରିବ ନାହିଁ "</string>
+<string name="please_reset_time">"ଟାଇମ୍‍ ପଜ୍‍ ହୋଇ  ଯାଇଥିଲା, ଦୟାକରି ଆଉଥରେ ଆଲାର୍ମ ସେଟ କରନ୍ତୁ"</string>
+<string name="please_set_date">"ଦୟାକରି ତାରିଖ ସେଟ କରନ୍ତୁ"</string>
+<string name="please_set_time">"ଦୟାକରି ସମୟ ସେଟ କରନ୍ତୁ"</string>
+<string name="audio_format_unknow">"ଏହି ଅଡିଓ ଫର୍ମାଟ୍ ସାହାଯ୍ୟ କରୁନାହିଁ"</string>
+</resources>

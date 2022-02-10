@@ -1,0 +1,2 @@
+debug和release分别对应debug和release版本的签名文件。
+以debug为例，通过终端进入debug目录，运行signature.sh可生成signs_debug.jks签名文件。release目录中生成signs_release.jks。

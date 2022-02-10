@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Add by SPRD for bug 566399 Start -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/swipe_shadow"
+    android:orientation="vertical" >
+<!-- Add by SPRD for bug 566399 End -->
+
+    <com.android.messaging.smil.view.SmileditPar
+        android:id="@+id/item_edit"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+    </com.android.messaging.smil.view.SmileditPar>
+
+<!-- Add by SPRD for bug 566399 Start -->
+    <TextView
+        android:id="@+id/smil_editpar_page_indicator"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingTop="1dp"
+        android:paddingRight="5dp"
+        android:gravity="center"
+        android:textSize="10sp"
+        android:textColor="#000000" />
+</LinearLayout>
+<!-- Add by SPRD for bug 566399 End -->

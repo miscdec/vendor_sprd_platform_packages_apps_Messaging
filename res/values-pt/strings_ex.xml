@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="folder_display_option">Opção de display</string>
+    <string name="folder_sortby">Classificar por</string>
+    <string name="folder_delete_messages">Deletar as mensagens</string>
+    <string name="sort_msg_list_empty_text">"Você vai ver as mensagens listadas aqui"</string>
+    <string name="folder_display_all">"Display todas as mensagens"</string>
+    <string name="delete_messages_confirmation_dialog_title">"Deletar as mensagens seleccionadas?"</string>
+    <string name="delete_message_fail">"Deletar as mensagens seleccionadas com falha!"</string>
+    <string name="have_select_message">"Seleccionado %1$d"</string>
+    <string name="copy_sim_sms_to_phone">"Copiar mensagem para telefone"</string>
+    <string name="simsms_title">"SIM SMS"</string>
+    <string name="copy_fail">Falha ao copiar!</string>
+    <string-array name="sort_type">
+        <item>"Por desc de tempo"</item>
+        <item>"Por asc de tempo"</item>
+        <item>"Por desc de endereço"</item>
+        <item>"Por asc de endereço"</item>
+    </string-array>
+</resources>

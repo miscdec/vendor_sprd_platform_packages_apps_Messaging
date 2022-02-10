@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="folder_display_option">திரையிடும் விருப்பத்தெரிவு</string>
+    <string name="folder_sortby">"இதனால் வரிசைப்படுத்து"</string>
+    <string name="folder_delete_messages">செய்திகளை அழிக்கவும்</string>
+    <string name="sort_msg_list_empty_text">"இங்கு பட்டியலிடப்பட்ட செய்தியை நீங்கள் பார்ப்பீர்கள்"</string>
+    <string name="folder_display_all">"அனைத்து செய்திகளையும் காண்பி"</string>
+    <string name="delete_messages_confirmation_dialog_title">"தேர்ந்தெடுத்த செய்தியை அழிக்கவா?"</string>
+    <string name="delete_message_fail">"தேர்ந்தெடுத்த செய்தி தோல்வியை அழிக்கவும்!"</string>
+    <string name="have_select_message">"%1$d" தேர்ந்தெடுக்கப்பட்டுள்ளது"</string>
+    <string name="copy_sim_sms_to_phone">"செய்தியை போனுக்கு காப்பி பண்ணவும்"</string>
+    <string name="simsms_title">"சிம்எஸ்எம்எஸ்"</string>
+    <string name="copy_fail">"காபி செய்ய இயலவில்லை!"</string>
+    <string-array name="sort_type">
+        <item>"நேரம் desc மூலம்"</item>
+        <item>"நேரம் asc மூலம்"</item>
+        <item>"அட்ரஸ் desc மூலம்"</item>
+        <item>"அட்ரஸ் asc மூலம்"</item>
+    </string-array>
+</resources>

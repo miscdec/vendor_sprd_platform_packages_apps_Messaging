@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/copySimSmsToPhone"
+        style="@style/contextmenu_textview"
+        android:gravity="center_vertical"
+        android:paddingRight="@dimen/contextmenu_text_padding"
+        android:text="@string/copy_sim_sms_to_phone" />
+
+    <TextView
+        android:id="@+id/delSimSms"
+        style="@style/contextmenu_textview"
+        android:gravity="center_vertical"
+        android:paddingRight="@dimen/contextmenu_text_padding"
+        android:text="@string/action_delete_message" />
+</LinearLayout>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string-array name="mms_validity_pref_entries">
+<item>"କୌଣସି ସେଟ୍ ନାହିଁ"</item>
+<item>"1 ଘଣ୍ଟା"</item>
+<item>"12 ଘଣ୍ଟା"</item>
+<item>"24 ଘଣ୍ଟା"</item>
+<item>"2 ଦିନ"</item>
+<item>"ସର୍ବାଧିକ"</item>
+</string-array>
+<string-array name="sms_validity_pref_entries">
+<item>"କୌଣସି ସେଟ୍ ନାହିଁ"</item>
+<item>"1 ଘଣ୍ଟା"</item>
+<item>"12 ଘଣ୍ଟା"</item>
+<item>"24 ଘଣ୍ଟା"</item>
+<item>"2 ଦିନ"</item>
+<item>"ସର୍ବାଧିକ"</item>
+</string-array>
+<string-array name="sms_save_to_sim_pref_entries">
+<item>"ସିମରେ ସେଭ୍ କରିବା SMSର ପ୍ରାଥମିକତା ରହିଛି"</item>
+<item>"ମେସେଜିଂ ଡାଟାବେସରେ ସେଭ୍ କରିବା SMSର ପ୍ରାଥମିକତା ରହିଛି"</item>
+</string-array>
+</resources>

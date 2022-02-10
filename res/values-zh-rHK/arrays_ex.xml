@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string-array name="mms_validity_pref_entries">
+<item>"不設定"</item>
+<item>"1 小時"</item>
+<item>"12 小時"</item>
+<item>"24 小時"</item>
+<item>"2 天"</item>
+<item>"最長"</item>
+</string-array>
+<string-array name="sms_validity_pref_entries">
+<item>"不設定"</item>
+<item>"1 小時"</item>
+<item>"12 小時"</item>
+<item>"24 小時"</item>
+<item>"2 天"</item>
+<item>"最長"</item>
+</string-array>
+<string-array name="sms_save_to_sim_pref_entries">
+<item>"短訊優先儲存在sim卡裡"</item>
+<item>"短訊儲存在訊息應用程式資料庫裡"</item>
+</string-array>
+</resources>

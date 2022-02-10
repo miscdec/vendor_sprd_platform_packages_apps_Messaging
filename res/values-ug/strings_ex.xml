@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="signature_title">"ئىمزا"</string>
+<string name="pref_title_sms_retry_times">قىسقا ئۇچۇر ئەۋەتىشنى قايتا سىناشقا بولىدۇ</string>
+<string name="conversation_deleteAll_failed">".بىر ئازدىن كېيىن قايتا سىناڭ"</string>
+<string name="warning">ئاگاھلاندۇرۇش</string>
+<string name="attachment_exceeded">"!سىز تاللىغان قۇشۇمچە ھۆججەتنىڭ چوڭلۇقى ئېشىپ كەتتى"</string>
+<string name="attachment_size">":قۇشۇمچە ھۆججەتنىڭ چوڭلۇقى"</string>
+<string name="mms_size">":رەڭلىك ئۇچۇرنىڭ چوڭلۇقى"</string>
+<string name="permission_read_messages_attachment_label">"ئۇچۇر قۇشۇمچە ھۆججەتلىرىنى ئۇقۇش"</string>
+<string name="permission_read_messages_attachment_desc">"ئەپنىڭ ئۇچۇر قۇشۇمچە ھۆججەتلىرىنى ئۇقۇشىغا رۇخسەت قىلىش"</string>
+<string name="preference_name">"دائىمىي سۆز بىرىكمىسىنى"</string>
+<string name="select">"تاللاندى"</string>
+<string name="item_cancel">ئەمەلدىن قالدۇرۇش</string>
+<string name="item_delete">ئۆچۈرۈش</string>
+<string name="save_as_teltype">"يانڧۇن ئىشلىتىشى ئۈچۈن"</string>
+<string name="save_as_mmstype">"قىسقا ئۇچۇر ئىشلىتىشى ئۈچۈن"</string>
+<string name="type_to_pharser">"دائىملىق سۆز بىرىكمىلىرىنى كىرگۈزۈش"</string>
+<string name="add">قوشۇش</string>
+<string name="edit">تەھرىرلەش</string>
+<string name="delete">ئۆچۈرۈش</string>
+<string name="finish">"تاماملاش"</string>
+<string name="cancel">ئەمەلدىن قالدۇرۇش</string>
+<string name="add_pharser">"دائىملىق سۆز بىرىكمىلىرىنى قوشۇش"</string>
+<string name="edit_pharser">"دائىمىي سۆز بىرىكمىسىنى تەھرىرلەش"</string>
+<string name="exit_pharser_dialog_title">كۆرسەتمە</string>
+<string name="exit_pharser_dialog_content">"دائىم ئىشلىتىلگەن سۆز بىرىكمىلىرىنى ساقلامسىز؟"</string>
+<string name="pharser_can_modify">"ئابۇنىچىلاشتۇرۇلغان سۆز بىرىكمىسى"</string>
+<string name="pharser_cannot_modify">"سۆز بىرىكمىسىنى مۇقىملاش"</string>
+<string name="empty_pharser_not_save">"!قۇرۇق سۆز بىرىكمىسىنى ساقلىغىلى بولمايدۇ"</string>
+<string name="select_item">"سىز تاللىغان"</string>
+<string name="select_commmon_phrase">دائىمىي سۆز بىرىكمىسى تاللاش</string>
+<string name="common_phrase_empty">"تۇراقلىق ئىبارىلەر يوق"</string>
+<string name="action_add_phrase">"دائىملىق سۆز بىرىكمىسىنى قىستۇرۇش"</string>
+<string name="pref_other_settings_title">"باشقا"</string>
+<string name="action_wireless_alerts">"سىمسىز ئاگاھلاندۇرۇش سىگنالى"</string>
+<string name="positive">"ئېنىق"</string>
+<string name="wap_push_message_dialog_title">"Wap ئىتتىرمە ئۇچۇرى"</string>
+<string name="open_website">"تور بەتنى ئىچىش"</string>
+<string name="activity_not_found">"لايىق قوللانما دېتال تىپىلمىدى"</string>
+<string-array name="fixed_mms_phrase">
+<item>ئىشخانامدىكى تېلېفۇنغا ئۇرۇڭ، رەھمەت.</item>
+<item>مەن بىلەن ئالاقىلشىڭ، رەھمەت.</item>
+<item>ئورنىڭىزنى ماڭا ئىيتىپ بېرىڭ.</item>
+<item>يان تېلېفۇنۇمغا سەل تۇرۇپ ئۇرۇڭ. رەھمەت.</item>
+<item>مەن سىرىتتا، ئۆيگە قايتىپ سىزگە تېلېفۇن قايتۇرىمەن.</item>
+<item>"مەن ماشىنا ھەيدەۋاتىمەن شۇڭا سەل تۇرۇپ قايتۇراي."</item>
+<item>"مەن يولدا، ھازىرلا يىتىپ بارىمەن."</item>
+<item>قاتناش توسۇلۇپ قالدى، كىچېكىپ قالىدىغان بولدۇم، كەچۈرۈڭ.</item>
+<item>كىيىن تېلېفۇن قايتۇرىمەن. </item>
+<item>يىغىن ئېچىۋاتىمەن، سەل تۇرۇپ قايتۇراي.</item>
+</string-array>
+<string-array name="fixed_both_phrase">
+<item>".كېيىنچە ماڭا تېلىڧۇن قىلىڭ ياكى ماڭا ئۇچۇر يوللاڭ"</item>
+</string-array>
+<string name="share_video_exceeded">"!سىز تاللىغان سىننىڭ چوڭلۇقى چەكتىن ئېشىپ كەتتى"</string>
+<string name="share_audio_exceeded">"!سىز تاللىغان ئاۋازنىڭ چوڭلۇقى چەكتىن ئېشىپ كەتتى"</string>
+<string name="share_image_exceeded">"!سىز تاللىغان رەسىمنىڭ چوڭلۇقى چەكتىن ئېشىپ كەتتى"</string>
+<string name="share_muimgae_exceeded">"!چوڭلۇقى چەكتىن ئېشىپ كەتكەن رەسىمنى بەھىرلىمەڭ"</string>
+<string name="share_noimgae_exceeded">"!رەسىمدىن باشقا ھۆججەتلەر بار، بەھىرلىگىلى بولمايدۇ"</string>
+<string name="exceed_text_length_limitation">".تېكست ئۇزۇنلۇق چېكىدىن ئېشىپ كەتتى"</string>
+<string name="drm_no_application_open">"ھۆججەتنى ئاچالمىدى"</string>
+<string name="ok_drm_rights_consume">مۇقىملاش</string>
+<string name="cancel_drm_rights_consume">ئەمەلدىن قالدۇرۇش</string>
+<string name="orgdrm_no_share">"بەھىرلەشنى قوللىمايدۇ"</string>
+<string name="drm_can_not_processed">"ھۆججىتىنى بىر تەرەپ قىلغىلى بولمايدۇDrm"</string>
+<string name="protect_information">"ئۇچۇرنى قوغداش"</string>
+<string name="drm_consume_title">"  ھوقۇقىنى ئىستىمال قىلىشDrm"</string>
+<string name="drm_consume_hint">"  ھوقۇقىنى ئىستىمال قىلىدۇDrmسىزنىڭ مەشغۇلاتىڭىز"</string>
+<string name="drm_file_path">"%1$s:لىنىيە"</string>
+<string name="drm_file_name">"%1$s :ھۆججەت نامى"</string>
+<string name="drm_rights_validity">" نەشىر ھوقۇقى: ئىناۋەتلىك"</string>
+<string name="drm_rights_invalidity">" نەشىر ھوقۇقى: ئىناۋەتسىز"</string>
+<string name="drm_rights_status_transfer">" قوغداش ھالىتى: يۆتكەپ تارقىتىشقا رۇخسەت قىلىش"</string>
+<string name="drm_rights_status_untransfer">" قوغداش ھالىتى: يۆتكەپ تارقىتىشنى چەكلەش"</string>
+<string name="drm_start_time">"%1$s :باشلاش ۋاقتى"</string>
+<string name="drm_end_time">"%1$s :ئاخىرلاشتۇرۇش ۋاقتى"</string>
+<string name="drm_expiration_time">"%1$s :مۇددىتى تۇشۇش ۋاقتى"</string>
+<string name="drm_remain_times">"%1$s :ئېشىپ قالغان قېتىم سانى"</string>
+<string name="drm_no_info">"ئۇچۇر يوق"</string>
+<string name="drm_unlimited_rights">"چەكلىمىسىز"</string>
+<string name="drm_rights_unknown">نامەلۇم</string>
+<string name="drm_inactive_rights">"نەشىر ھۇقۇقى ئاكتىپلاشتۇرۇلمىغان"</string>
+<string name="drm_shared_not_drmdownload">"چۈشۈرۈش لىنىيەسىگە يۆتكەڭ، ئاندىن ئۇنى بەھىرلەڭDrmئۇنى"</string>
+<string name="share_nofile_exceeded">"!رەڭلىك ئۇچۇر چېكىدىن ئېشىپ كەتتى"</string>
+<string name="no_few_participants">"قاتناشقۇچىلار يوق"</string>
+<string name="mms_validity_pref_title">"رەڭلىك ئۇچۇر ئىناۋەتلىك ۋاقىت تەڭشىكى"</string>
+<string name="sms_validity_pref_title">"قىسقا ئۇچۇر ئىناۋەتلىك ۋاقىت تەڭشىكى"</string>
+<string name="attach_vcalendar">كالېندار</string>
+<string name="confirm_import_vcalendar">ھۆججىتىنى كىرگۈزەمسىز؟Vcalendarبۇ</string>
+<string name="confirm_save_otherfiles">بۇ قۇشۇمچە ھۆججەتنى ساقلامسىز؟</string>
+<string name="confirm_import">ھەئە</string>
+<string name="cancel_import">ياق</string>
+<string name="attach_other_file">"نامەلۇم ھۆججەت"</string>
+<string name="copy_to_sdcard_success">"قوشۇمچە ھۆججەت ساقلىنىپ بولدى."</string>
+<string name="copy_to_sdcard_fail">"قوشۇمچە ھۆججەتنى ساقلىغىلى بولمىدى."</string>
+<string name="attach_sound">ئۈن</string>
+<string name="select_vcard_button">"كۇنۇپكىنى بېسىپ مەزمۇننى كىرگۈزۈڭ"</string>
+<string name="select_video_button">"كۇنۇپكىنى بېسىپ سىننى كىرگۈزۈڭ"</string>
+<string name="select_audio_button">"كۇنۇپكىنى بېسىپ ئاۋازنى كىرگۈزۈڭ"</string>
+<string name="select_vcalendar_button">"كۇنۇپكىنى بېسىپ تۇرۇپ كالىندارنى كىرگۈزۈڭ"</string>
+<string name="select_slideshow_button">"چېكىش ئارقىلىق پرويېكسىيە پليونكىسىدا كۆرسىتىش ھالىتىگە كىرىش"</string>
+<string name="slideshow_detail_activity_title">پروكسىيە</string>
+<string name="no_mms_plugin">"ھۆججەت پاپكىسىنىڭ كۆرمە سۈرىتى يوق"</string>
+<string name="attachment_details">"قۇشۇمچە ھۆججەت تەپسىلاتى"</string>
+<string name="context_menu_copy_to_sim_memory">ئۇچۇرنى SIM غا كۆچۈرۈش</string>
+<string name="copy_message_text">"ھەرپ نۇسخىلاش"</string>
+<string name="min_zoom">"ئەڭ كىچىكىگە يەتتى"</string>
+<string name="max_zoom">"ئەڭ چوڭىغا يەتتى"</string>
+<string name="message_details_text">"ئۇچۇر تەپسلى ئەھۋالى"</string>
+<string name="folder_reply">قايتۇرۇش</string>
+<string name="new_message">"يېڭى ئۇچۇر"</string>
+<string name="folder_forward">باشقىغا يۆتكىمەك</string>
+<string name="delete_message">ئۆچۈرۈش</string>
+<string name="menu_resend">"قايتا يوللاش"</string>
+<string name="save_all_attachments">"بارلىق قۇشۇمچە ھۆججەتلەرنى ساقلاش"</string>
+<string name="host_app_name">ئۇچۇر</string>
+<string name="need_messaging_is_default_app">"%1نى سۈكۈتلۈك قىسقا ئۇچۇر ئەپى قىلىپ تەڭشىشىڭىز لازىم$sسىز چۇقۇم"</string>
+<string name="message_outgoing_successful">"يوللاش ئۇتۇقلۇق بولدى"</string>
+<string name="message_outgoing_failure">"ئۇچۇر ئىۋەتىلمىدى"</string>
+<string name="share_unsupported_type">"!قوللانمايدىغان مەزمۇن تۈرى، بەھىرلىگىلى بولمايدۇ"</string>
+<string name="mms_send_reports_pref_title">"رەڭلىك ئۇچۇر يوللىنىش دوكلاتى"</string>
+<string name="mms_send_reports_pref_summary">"سىز يوللىغان ھەربىر رەڭلىك ئۇچۇر ئۈچۈن يوللىنىش دوكلاتى تەلەپ قىلىش"</string>
+<string name="mms_delivery_reports_pref_title">"رەڭلىك ئۇچۇر يوللاش دوكلاتى"</string>
+<string name="mms_delivery_reports_pref_summary">"سىز يوللىغان ھەربىر رەڭلىك ئۇچۇرغا بىردىن يوللاش دوكلاتى تەلەپ قىلىش"</string>
+<string name="mms_read_reports_pref_title">"رەڭلىك ئۇچۇر ئوقۇش دوكلاتى"</string>
+<string name="mms_read_reports_pref_summary">"سىز يوللىغان ھەربىر رەڭلىك ئۇچۇرغا بىردىن ئوقۇش دوكلاتى تەلەپ قىلىش"</string>
+<string name="enable_return_mms_delivery_reports_pref_title">"رەڭلىك ئۇچۇر يوللاش دوكلاتىنى قايتۇرۇشقا رۇخسەت قىلىش"</string>
+<string name="enable_return_mms_delivery_reports_pref_summary">"سىز يوللىغان ھەربىر رەڭلىك ئۇچۇرغا بىردىن يوللاش دوكلاتى قايتۇرۇشىنى تەلەپ قىلىش"</string>
+<string name="enable_return_mms_read_reports_pref_title">"رەڭلىك ئۇچۇر ئوقۇش دوكلاتىنى قايتۇرۇشقا رۇخسەت قىلىش"</string>
+<string name="enable_return_mms_read_reports_pref_summary">"سىز يوللىغان ھەربىر رەڭلىك ئۇچۇرغا بىردىن ئوقۇش دوكلاتى قايتۇرۇشىنى تەلەپ قىلىش"</string>
+<string name="delivery_toast_body">"تەرىپىدىن قۇبۇللىنىدۇ%sئۇچۇر"</string>
+<string name="delivery_toast_body_expired">"%sئۇچۇرنىڭ مۇددىتى ئۆتتى"</string>
+<string name="delivery_toast_body_fail_rejected">"تەرىپىدىن رەت قىلىندى%sئۇچۇر"</string>
+<string name="delivery_toast_body_fail">"تەرىپىدىن قۇبۇل قىلىنمىدى%sئۇچۇر"</string>
+<string name="read_report_toast_body">"تەرىپىدىن ئوقۇلدى%sئۇچۇر"</string>
+<string name="read_report_toast_body_fail">"تەرىپىدىن ئوقۇلمىدى%sئۇچۇر"</string>
+<string name="mimetype_null">"قۇرۇقكەن، قۇشۇمچە ھۆججەتنى ساقلىغىلى بولمايدۇmimetype"</string>
+<string name="pref_title_manage_simx_smsc">"SIM<xliff:g id="COUNT">%1$s</xliff:g> قىسقا ئۇچۇر مۇلازىمەت مەركىزى"</string>
+<string name="pref_title_manage_sim_smsc">قىشقا ئۇچۇر مۇلازىمەت مەركىزى</string>
+<string name="smsc_set_fails">قىسقا ئۇچۇر مەركىزىنى بېكىتىش مەغلۇپ بولدى</string>
+<string name="smsc_set_success">"مۇۋاپىقيەتلىك بېكىتىلدى."</string>
+<string name="smsc_update_success">"يېڭىلاش ئۇتۇقلۇق بولدى"</string>
+<string name="smsc_cannot_be_null">"!قىسقا ئۇچۇرنىڭ مەزكىزى نۇمۇرى قۇرۇق بولسا بولمايدۇ"</string>
+<string name="smsc_should_be_number">"قىسقا ئۇچۇرنىڭ مەزكىزى نۇمۇرى بىر نۇمۇر بولىشى كېرەك"</string>
+<string name="smsc_list">قىسقا ئۇچۇر مەركىزى تىزىملىكى</string>
+<string name="smsc_list_empty">قىسقا ئۇچۇر مەركىزى نومۇرلىرى يوق</string>
+<string name="smsc_list_loading">يۈكلەۋاتىدۇ</string>
+<string name="smsc_list_empty_toast">"ئۇچۇر يوللانمىدى، قىسقا ئۇچۇر مەزكىزى نۇمۇرى يوق"</string>
+<string name="smsc_list_empty_notify_des">"يېڭى بىر قىسقا ئۇچۇر مەزكىزى نۇمۇرىنى قوشۇڭ"</string>
+<string name="smsc_list_empty_notify_title">"قىسقا ئۇچۇر مەزكىزى نۇمۇرى يوق"</string>
+<string name="shared_image_number_exceed">".ئۇنىڭدىن كۆپ بولغىنى يۆتكىۋېتىلىدۇ،%dئەڭ كۆپ بولغاندا بەھىرلىگىلى بولىدىغان رەسىم سانى"</string>
+<string name="drm_unsupported_toast">".ھۆججىتىنى ئىشلەتكىلى بولمايدۇ. باشقا ھۆججەتنى تاللاڭDRM"</string>
+<string name="err_sent_no_sim">"كارتىسى يوقSIMئۇچۇر يوللانمىدى"</string>
+<string name="dlg_save_attachment">"...ھۆججەتنى ساقلاۋاتىدۇ"</string>
+<string name="is_redirect_to">"%1غا يۆتكىلەمسىز؟$s"</string>
+<string name="browser">كۆز يۈگۈرتۈش</string>
+<string name="email">"Email"</string>
+<string name="telephone">"تېلىڧۇن"</string>
+<string name="map">"خەرىتە"</string>
+<string name="message_signature_setting">ئىمزا تەڭشىلى</string>
+<string name="pref_signature_enable_title">ئىختىيارىي ئىمزا</string>
+<string name="pref_signature_enabl_summary">"سىز يوللىغان ھەر بىر ئۇچۇرنىڭ كەينىگە ئاپتوماتىك ھالدا ئىمزا قوشۇش"</string>
+<string name="pref_signature_input_title">ئىمزا تەھرىرلەش</string>
+<string name="pref_signature_input_summary">كىرگۈزۈپ ئىمزايىڭىزنى بەلگىلەڭ</string>
+<plurals name="attachments_saved_dir">
+<item quantity="one">"نىڭ ئىچىگە ساقلاندى\"<xliff:g id="dir">%s</xliff:g>\"دانە قۇشۇمچە ھۆججەت<xliff:g id="quantity">%d</xliff:g>"</item>
+<item quantity="other">"نىڭ ئىچىگە ساقلاندى\"<xliff:g id="dir">%s</xliff:g>\"دانە قۇشۇمچە ھۆججەت<xliff:g id="quantity">%d</xliff:g>"</item>
+</plurals>
+<string name="no_permissions">"ھوقۇق يوق"</string>
+<string name="no_call_permissions">"سۆزلىشىش ھوقۇقى يوق"</string>
+<string name="folder_loading">"يۈكلەۋاتدۇ..."</string>
+<string name="sms_merge_forward_empty">بىرلەشتۈرىدىغان ياكى باشقىلارغا يوللايدىغان قىسقا ئۇچۇر يوق.</string>
+<string name="sms_forward">باشقىغا يۆتكىمەك</string>
+<string name="sms_merge_dialog_title">كۆرسەتمە</string>
+<string name="sms_merge_dialog_content1">"پارچىنىڭ ئىچىدىكى ئۇچۇرلارنى بىرىكتۈرەلەيسىز%dسىز پەقەت"</string>
+<string name="sms_merge_dialog_content2">".پارچە قىسقا ئۇچۇر. تەكشۈرۈپ بېقىڭ%dۋە"</string>
+<string name="messagelist_sender_self">مەن</string>
+<string name="sms_merge_forward">بىرلەشتۈرۈش ۋە باشقىلارغا يوللاش</string>
+<string name="muti_select_all">ھەممىنى تاللاش</string>
+<string name="menu_select_none">"ھەممىنى بىكار قىلىش"</string>
+<string name="sms_merge_dialog_content_exceed">"!نىڭ يۇقىرى چېكىدىن ئېشىپ كەتتى، تەكشۈرۈپ بېقىڭ%dسىز بىرلەشتۈرۈپ ئۆزگەرتىپ يوللىغان ئۇچۇر مەزمۇنى"</string>
+<string name="no_sms_permissions">".قىسقا ئۇچۇر ھوقۇقى يوق، ئاۋازنى قويالمايدۇ"</string>
+<string name="smil_subject_hint">"رەڭلىك ئۇچۇر ئاساسى تېمىسى يوق، سىز تەھرىرلىسىڭىز بولىدۇ"</string>
+<string name="smil_out_of_size">"ساقلىغۇچنىڭ چوڭلۇقىدىن ئېشىپ كەتتى"</string>
+<string-array name="smil_choice_items">
+<item>"سكاننىرلىشىSmil"</item>
+<item>"Smilقويۇلىشى"</item>
+</string-array>
+<string name="video_content_type">":سىن"</string>
+<string name="iamge_content_type">":رەسىم"</string>
+<string name="audio_content_type">":ئاۋاز"</string>
+<string name="subject_edit">"ئاساسى تېما تەھرىرلىنىشى"</string>
+<string name="text_edit">"تېكست تەھرىرلىنىشى"</string>
+<string name="repalce_slide">"پرويېكسىيە پليونكىسىنى ئالماشتۇرۇش"</string>
+<string name="remove_slide">"پرويېكسيە پلاستىنكىسىنى ئۆچۇرۋېتىش"</string>
+<string name="insert_befor_slide">"ئالدىنقى بەتكە پرويېكسىيە پليونكىسىنى قىستۇرۇش"</string>
+<string name="insert_after_slide">"كېيىنكى بەتكە پرويېكسىيە پليونكىسىنى قىستۇرۇش"</string>
+<string name="add_attachment">"قۇشۇمچە ھۆججەت قوشۇش"</string>
+<string name="remove_attachment">"قۇشۇمچە ھۆججەتنى يۆتكەش"</string>
+<string name="repalce_attachment">"قۇشۇمچە ھۆججەتنى ئالماشتۇرۇش"</string>
+<string name="hint_for_input">"قېنى تەھرىرلەڭ"</string>
+<string name="hint_for_empty">".قېنى تەھرىرلەڭ، ھازىرقى ھالەتتىكى قۇشۇمچە ھۆججەت بولسا بىر قۇرۇق قۇشۇمچە ھۆججەت"</string>
+<string name="goto_smil">پروكسىيە</string>
+<string name="smil_subject">":ئاساسى تېما"</string>
+<string name="action_sim_sms">SIM كارتىدىكى ئۇچۇر</string>
+<string name="sms_save_to_sim_pref_title">قىسقا ئۇچۇرنى SIM كارتىغا ساقلاش</string>
+<string name="sms_save_to_sim_pref_summary">"كارتىدا ساقلاش ياكى ساقلىماسلىقsimيېڭى قىسقا ئۇچۇر كەلگەندە، ئۇنى"</string>
+<string name="sms_sim_full_title">Sim توشۇپ كەتتى</string>
+<string name="sms_sim_full_notification_ticker">".قىسقا ئۇچۇر ساقلاش بوشلۇقى كەمچىل. سىز بەلكىم ئۇچۇرلارنى يۇيۇشىڭىز كېرەك"</string>
+<string name="sms_sim_full_text">".كارتىنىڭ ئىچىدىكى ئۇچۇرلارنى يۇيۇۋېتىڭsimكارتىنىڭ ئىچىگە ساقلىماقچى بولسىڭىز، ئۇنداقتاsimكارتا توشۇپ كەتتى، قىسقا ئۇچۇر ئۇچۇر يوللاش ئەپىنىڭ سانلىق مەلۇمات ئامبىرىغا ساقلىنىدۇ. ئەگەر سىز داۋاملىقsim"</string>
+<plurals name="search_results_title">
+<item quantity="one">"نىڭ ئىزدەش نەتىجىسىگە ماس كېلىدىكەن“<xliff:g id="SEARCH">%2$s</xliff:g>”تال تۈر<xliff:g id="NUMBER">%1$s</xliff:g>"</item>
+<item quantity="other">"نىڭ ئىزدەش نەتىجىسىگە ماس كېلىدىكەن“<xliff:g id="SEARCH">%2$s</xliff:g>”تال تۈر<xliff:g id="NUMBER">%1$s</xliff:g>"</item>
+</plurals>
+<string name="menu_search_text">"ئىزدەش"</string>
+<string name="search_label">"ئۇچۇر يوللىنۋاتىدۇ"</string>
+<string name="search_hint">"ئۇچۇر ئىزدەش"</string>
+<string name="search_max_length">"ئىزدەش جۈملىسى بەك ئۇزۇن، 512 گە قىسقارتىلىدۇ."</string>
+<string name="search_setting_description">"ئۇچۇر مەزمۇنى"</string>
+<string name="search">"ئۇچۇر يوللىنۋاتىدۇ"</string>
+<string name="search_empty">"ماس كەلمىدى"</string>
+<string name="search_history">"<xliff:g id="count">%1$s</xliff:g> نەتىجە \"<xliff:g id="search">%2$s</xliff:g>\""</string>
+<string name="can_not_add_same_attachment">"ئوخشاش بىر قوشۇمچە ھۆججەتنى قايتىلاپ قوشۇشقا بولمايدۇ"</string>
+<string name="can_not_add_same_picture">"ئوخشاش رەسىمنى قايتىلاپ قوشۇشقا بولمايدۇ"</string>
+<string name="smil_add_text">"بىر تېكېست قوشۇمچىسى قوشۇش"</string>
+<string name="smil_update_text">"تېكست قۇشۇمچە ھۆججىتىنى يېڭىلاش ئۇتۇقلۇق بولدى"</string>
+<string name="smil_empty_content">"!قۇرۇق مەزمۇن، يوللاشنى توختىتىش"</string>
+<string name="exceed_participant_limit">".نى يۇيۇۋېتىڭ<xliff:g>%2$s</xliff:g>،(<xliff:g>%1$s</xliff:g>)قاتناشقۇچىلار سانى چەكتىن ئېشىپ كەتتى"</string>
+<string name="folder_view_menu_item_title">ھۆججەت قىسقۇچ كۆرمە سۈرەت</string>
+<string name="capacity_sim_message_title">"SIM سىغىمى"</string>
+<string name="capacity_sim_message_summary">"%s:ھازىرقى سانى\ئەڭ كۆپ سىغىمى"</string>
+<string name="audio_record_retry">".ئارقا سەھنە ئۈنغا ئېلىشىنى ئېتىۋېتىڭ، ئاندىن قايتا سىناڭ"</string>
+<string name="contact_invalid">".ئىناۋەتسىز ئالاقىلاشقۇچى، قايتىدىن ئىناۋەتلىك ئالاقىلاشقۇچى تاللاڭ"</string>
+<string name="message_size_counting">"ھېسابلاۋاتىدۇ"</string>
+<string name="pref_encode_type_setting_title">"نومۇرلاش شەكلى تەڭشىكى"</string>
+<string name="pref_encode_type_title">شىفىرلاش شەكلى</string>
+<string name="fdn_check_failure">".سىز پەقەت سىزنىڭ مۇقىملانغان تېلىڧۇن ئۇرۇش نۇمۇرلىرىغىلا ئۇچۇر يوللىيالايسىز"</string>
+<string name="data_call_fdn_check_failure">".مۇقىملانغان تېلىڧۇن ئۇرۇش نۇمۇرى ئىقتىدارى قوزغىتىلغانلىقى ئۈچۈن،ھازىرقى رەڭلىك ئۇچۇرنى يوللىيالمىدى.مۇقىملانغان تېلىڧۇن ئۇرۇش نۇمۇرلىرى تىزىملىكىگە *99#نى قوشۇپ قايتا سىناڭ"</string>
+<string name="smsc_fdn_check_failure">".مۇقىملانغان تېلىڧۇن ئۇرۇش نۇمۇرى ئىقتىدارى قوزغىتىلغانلىقى ۋە قىسقا ئۇچۇر مەركىزى نۇمۇرى مۇقىملانغان تېلىڧۇن ئۇرۇش نۇمۇرلىرى تىزىملىكىدە بولمىغانلىقى ئۈچۈن،ھازىرقى رەڭلىك ئۇچۇرنى يوللىيالمىدى"</string>
+<string name="smil_wait_comparing_att_size">"!يۈكلىنىۋاتىدۇ، سەل ساقلاڭ"</string>
+<string name="smil_max_slide_count">"پارچە پرويېكسىيە پليونكىسىنى قوشالايدۇ%sپەقەت"</string>
+<string name="sms_wap_pref_title">"قىسقا ئۇچۇرىنى قوزغىتىشWAP"</string>
+<string name="sms_wap_pref_summary">"قىسقا ئۇچۇرىنى قۇبۇللاشنى قوزغىتىشWAP"</string>
+<string name="smil_Player_title">"قويغۇچSMIL"</string>
+<string name="smil_caption_description">"پرويېكسىيە پليونكىسى"</string>
+<string name="smil_caption_edit_hint">"(چېكىش ئارقىلىق تەھرىرلەڭ)"</string>
+<string name="show_save_attachment_info">"ساقلامسىز؟"</string>
+<string name="attachment_save_success">"ساقلاش ئۇتۇقلۇق بولدى"</string>
+<string name="unread_message_count">"ئوقۇلمىغان ئۇچۇر"</string>
+<string name="mms_convert_to_smil_title">"پرويېكسىيە پليونكىسىغا ئۆزگەرتىش"</string>
+<string name="mms_convert_to_smil_message">"بۇ رەڭلىك ئۇچۇر پرويېكسىيە پليونكىسىغا ئۆزگەرتىلمەكچى، بۇنداق بولغاندا پرويېكسىيە پليونكىسى قۇبۇللىمايدىغان قۇشۇمچە ھۆججەتلەر چۈشۈپ قالىدۇ، ئۆزگەرتىشنى مۇقىملامسىز؟"</string>
+<string name="confirm_convert">مۇقىملاش</string>
+<string name="cancel_convert">ئەمەلدىن قالدۇرۇش</string>
+<string name="smil_max_part_count">".پارچە قۇشۇمچە ھۆججەت قوشۇشقىلا بولىدۇ%sبىر پرويېكسىيە پليونكىسىغا پەقەت"</string>
+<string name="smil_add_error_same_content_type">".ئىككى ئوخشاش تىپتىكى مىدىيا قوشۇمچە ھۆججىتىنى بىر پرويېكسىيە پليونكىسىغا قوشۇشقا بولمايدۇ"</string>
+<string name="smil_add_error_video_conflict">".ئاۋاز ياكى رەسىم بولغان پرويېكسىيە پليونكىسىدا سىننى ئورۇنلاشتۇرۇشقا بولمايدۇ"</string>
+<string name="smil_replace_error_same_content_type">".ئالماشتۇرغىلى بولمايدۇ، چۈنكى بىر پرويېكسىيە پليونكىسىنىڭ ئىچىگە ئىككى ئوخشاش تىپتىكى قوشۇمچە ھۆججەتنى قوشۇشقا بولمايدۇ"</string>
+<string name="smil_replace_error_video_conflict">".سىنغا ئالماشتۇرۇشقا بولمايدۇ، قۇشۇمچە ھۆججەتلىرىڭىزنى يۆتكىۋېتىپ قايتا سىناڭ"</string>
+<string name="smil_edit_hint">".پرويېكسىيە پليونكىسى، چېكىش ئارقىلىق تەھرىرلەڭ"</string>
+<string name="smil_unsupported_content_type">".قوللانمايدىغان مەزمۇن تۈرى"</string>
+<string name="pref_internal_memory_usage_title">"رەڭلىك ئۇچۇر/ئىشلەتكىلى بولىدىغىنى/ھەممىسى"</string>
+<string name="pref_internal_memory_usage_progress_summary">"ساقلىغۇچ بوشلۇقىنى ھېسابلاۋاتىدۇ..."</string>
+<string name="no_common_phrase">"دائىم ئىشلىتىدىغان سۆز بىرىكمىسى يوق"</string>
+<string name="action_copy_to_sim">"كارتىغا كۆپەيتەمسىز؟SIM"</string>
+<string name="select_sim">"كارتىنى تاللاشSim"</string>
+<string name="sim_space_not_enough">"كارتىدىكى قىسقا ئۇچۇر ساقلايدىغان بوشلۇق يىتەرلىك ئەمەسSIM"</string>
+<string name="move_message_to_phone_memory">"يانڧۇن ئىچكى سىغىمىغا كۆپەيتىپ ساقلاش ئۇتۇقلۇق بولدى"</string>
+<string name="can_not_copy_the_message">"ئۇچۇرنى كۆچۈرگىلى بولمىدى"</string>
+<string name="failed_to_add_media">"<xliff:g id="NAME">%1$s</xliff:g> نى رەڭلىك ئۇچۇرغا قوشقىلى بولمايدۇ."</string>
+<string name="contentType_audio">ئۈن</string>
+<string name="contentType_video">ۋېدىئو</string>
+<string name="contentType_image">رەسىم</string>
+<string name="contentType_other">"قوللانمايدىغان مەزمۇن تۈرىنى بەھىرلىيەلمەيدۇ"</string>
+<string name="no_record_audio_permission">".ئاۋازنى ئۈنغا ئېلىش ھوقۇقى يوق"</string>
+<string name="close_float_video">".كامېرانى ئاچقاندا سىن لەيلىمىسى كۆزنىكىنى ئېتىۋېتىش"</string>
+<string name="unable_get_data">"سانلىق مەلۇماتقا ئېرىشەلمىدى"</string>
+<string name="unexpected_recording_error">"ئۈنگە ئېلىش ئەپىنى ئېتىۋېتىپ قايتا سىناڭ"</string>
+<string name="add_contacts_dialog_title">"ئالاقىلاشقۇچىلارنى قوشۇش"</string>
+<string name="add_contact_as_text">"خەتلىك ئۇچۇر"</string>
+<string name="file_not_found_exception">"!بۇ ھۆججەتنى تاپالمىدى"</string>
+    <string name="discard_message_reason">"سىزنىڭ ئۇچۇرىڭىز ئەمەلدىن قالدۇرۇلماقچى،چۈنكى ئۇنىڭ ئىناۋەتلىك تاپشۇرۋالغۇچىسى يوق."</string>
+     <string name="pref_title_mms_size_limit">"رەڭلىك ئۇچۇر چوڭلۇق چەكلىمىسى"</string>
+     <string name="pref_summary_mms_size_limit">"ئۇچۇر تۈزەشتىكى رەڭلىك ئۇچۇر چوڭلۇق چەكلىمىسى"</string>
+<string name="folder_display_option">تاللاشنى كۆرسىتىش</string>
+<string name="folder_sortby">تىزىش شەكلى</string>
+<string name="folder_delete_messages">"ئۇچۇرلارنى يۇيۇش"</string>
+<string name="sort_msg_list_empty_text">"بۇ يەرگە تىزىلغان ئۇچۇرلارنى كۆرىسىز"</string>
+<string name="folder_display_all">"ھەممە ئۇچۇرنى كۆرسىتىش"</string>
+<string name="delete_messages_confirmation_dialog_title">"تاللانغان ئۇچۇرلارنى يۇيامسىز؟"</string>
+<string name="delete_message_fail">"!تاللانغان ئۇچۇرلارنى يۇيۇش مەغلۇپ بولدى"</string>
+<string name="have_select_message">"%1نى تاللاندى$d"</string>
+<string name="copy_sim_sms_to_phone">"ئۇچۇرنى يانڧۇنغا كۆپەيتتى"</string>
+<string name="simsms_title">"كارتا قىسقا ئۇچۇرىSim"</string>
+<string-array name="sort_type">
+<item>"ۋاقىت بويىچە تەرتىپ تۆۋەنلىتىش"</item>
+<item>"ۋاقىت بويىچە تەرتىپ يۇقىرىلىتىش"</item>
+<item>"ئادرېس بويىچە تەرتىپ تۆۋەنلىتىش"</item>
+<item>"ئادرېس بويىچە تەرتىپ يۇقىرىلىتىش"</item>
+</string-array>
+
+</resources>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string-array name="empty_subject_strings">
+<item>"Ciwaan malaha"</item>
+<item>"Ciwaan maleh"</item>
+</string-array>
+<string-array name="notification_reply_choices">
+<item>"Haa"</item>
+<item>"Maya"</item>
+<item>"OK"</item>
+<item>"hehe"</item>
+<item>"Mahadsanid"</item>
+<item>"Waa ogolahay"</item>
+<item>"Hagaag"</item>
+<item>"Waan soosocdaa"</item>
+<item>",Haye, aan kugu soo noqdo hdhoow"</item>
+<item>":)"</item>
+<item>":("</item>
+</string-array>
+</resources>

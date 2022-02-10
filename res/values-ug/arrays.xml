@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string-array name="empty_subject_strings">
+<item>ماۋزۇ يوق</item>
+<item>"ئاساسى تېما يوق"</item>
+</string-array>
+<string-array name="notification_reply_choices">
+<item>ھەئە</item>
+<item>ياق</item>
+<item>مۇقىملاش</item>
+<item>"ھى ھى"</item>
+<item>"رەھمەت"</item>
+<item>"قوشۇلىمەن"</item>
+<item>"توغرا"</item>
+<item>"يولدا"</item>
+<item>"بولىدۇ، بىر ئازدىن كېيىن سىزگە قايتۇراي"</item>
+<item>":)"</item>
+<item>":("</item>
+</string-array>
+</resources>

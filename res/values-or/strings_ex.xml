@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<plurals name="attachments_saved_dir">
+<item quantity="one">"<xliff:g id="quantity">%d</xliff:g> ଆଟାଚମେଣ୍ଟ ଫାଇଲ୍ \"<xliff:g id="dir">%s</xliff:g>\"ରେ ସେଭ୍ ହୋଇଛି"</item>
+<item quantity="other">"<xliff:g id="quantity">%d</xliff:g> ଆଟାଚମେଣ୍ଟ ଫାଇଲ୍ ଗୁଡ଼ିକ \"<xliff:g id="dir">%s</xliff:g>\"ରେ ସେଭ୍ ହୋଇଛି"</item>
+</plurals>
+<plurals name="search_results_title">
+<item quantity="one">"<xliff:g id="NUMBER">%1$s</xliff:g> ଆଇଟମ୍ "<xliff:g id="SEARCH">%2$s</xliff:g>" ସର୍ଚ୍ଚ ପରିଣାମ ସହ ମେଳ ଖାଉଛି"</item>
+<item quantity="other">"<xliff:g id="NUMBER">%1$s</xliff:g> ଆଇଟମ୍ ଗୁଡ଼ିକ "<xliff:g id="SEARCH">%2$s</xliff:g>" ସର୍ଚ୍ଚ ପରିଣାମ ସହ ମେଳ ଖାଉଛି"</item>
+</plurals>
+
+<string name="signature_title">"ଦସ୍ତଖତ"</string>
+<string name="pref_title_sms_retry_times">"SMS ରିଟ୍ରାଏ ଏନାବଲ୍ କରନ୍ତୁ"</string>
+<string name="conversation_deleteAll_failed">"ଦୟାକରି ପରେ ପୁଣିଥରେ ଚେଷ୍ଟା କରନ୍ତୁ ।"</string>
+<string name="warning">"ସତର୍କତା"</string>
+<string name="attachment_exceeded">"ଆପଣ ଚୟ କରିଥିବା ଆଟାଚମେଣ୍ଟ ଅଧିକ ହୋଇଛି!"</string>
+<string name="attachment_size">"ଆଟାଚମେଣ୍ଟର ସାଇଜ୍ ହେଉଛି:"</string>
+<string name="mms_size">"MMSର ସାଇଜ୍ ହେଉଛି:"</string>
+<string name="permission_read_messages_attachment_label">"ବାର୍ତ୍ତାଗୁଡ଼ିକ ଆଟାଚମେଣ୍ଟଗୁଡ଼ିକ ପଢ଼ନ୍ତୁ"</string>
+<string name="permission_read_messages_attachment_desc">"ଆପଣଙ୍କ ମେସେଜେସଆଟାଚମେଣ୍ଟସ୍ ପଢ଼ିବା ପାଇଁ ଆପ୍ କୁ ଅନୁମତି ଦିଏ"</string>
+<string name="preference_name">"ସାଧାରଣ ଖଣ୍ଡବାକ୍ୟ"</string>
+<string name="select">"ସିଲେକ୍ଟ ହେଲା"</string>
+<string name="item_cancel">"ବାତିଲ କରନ୍ତୁ"</string>
+<string name="item_delete">"କାଟ"</string>
+<string name="save_as_teltype">"ଫୋନ୍ ପାଇଁ"</string>
+<string name="save_as_mmstype">"SMS ପାଇଁ"</string>
+<string name="type_to_pharser">"ସାଧାରଣ ଖଣ୍ଡବାକ୍ୟ ଟାଇପ କରନ୍ତୁ"</string>
+<string name="add">"ଯୋଗ କରନ୍ତୁ"</string>
+<string name="edit">"ସଂଶୋଧନ କରନ୍ତୁ"</string>
+<string name="delete">"କାଟ"</string>
+<string name="finish">"ଶେଷ କରନ୍ତୁ"</string>
+<string name="cancel">"ବାତିଲ କରନ୍ତୁ"</string>
+<string name="add_pharser">"ସାଧାରଣ ଖଣ୍ଡବାକ୍ୟ ମିଶାନ୍ତୁ"</string>
+<string name="edit_pharser">"ସାଧାରଣ ଖଣ୍ଡବାକ୍ୟ ଏଡିଟ୍ କରନ୍ତୁ"</string>
+<string name="exit_pharser_dialog_title">"ପ୍ରମ୍ପ୍ଟ କରନ୍ତୁ"</string>
+<string name="exit_pharser_dialog_content">"ବହୁଳଭାବରେ ବ୍ୟବହୃତ ଖଣ୍ଡବାକ୍ୟଗୁଡ଼ିକ ସେଭ୍ କରିବ କି ନାହିଁ?"</string>
+<string name="pharser_can_modify">"କଷ୍ଟମାଇଜ୍ ହୋଇଥିବା ଖଣ୍ଡବାକ୍ୟ"</string>
+<string name="pharser_cannot_modify">"ଖଣ୍ଡବାକ୍ୟ ଫିକ୍ସ କରନ୍ତୁ"</string>
+<string name="empty_pharser_not_save">"ଶୂନ୍ୟ ଖଣ୍ଡବାକ୍ୟ ସେଭ୍ କରାଯାଇ ପାରିବ ନାହିଁ !"</string>
+<string name="select_item">"ଆପଣ ଚୟନ କରିଛନ୍ତି"</string>
+<string name="select_commmon_phrase">"ସାଧାରଣ ଖଣ୍ଡବାକ୍ୟ ଚୟନ କରନ୍ତୁ"</string>
+<string name="common_phrase_empty">"କୌଣସି ସାଧାରଣ ଖଣ୍ଡବାକ୍ୟ ନାହିଁ"</string>
+<string name="action_add_phrase">"ସାଧାରଣ ଖଣ୍ଡବାକ୍ୟ ଇନସର୍ଟ କରନ୍ତୁ"</string>
+<string name="pref_other_settings_title">"ଅନ୍ୟ"</string>
+<string name="action_wireless_alerts">"ୱାୟାରଲେସ୍ ଆଲର୍ଟ ଗୁଡ଼ିକ"</string>
+<string name="positive">"ଠିକଠାକ"</string>
+<string name="wap_push_message_dialog_title">"ୱାପ୍ ପୁଶ୍ ମେସେଜ୍"</string>
+<string name="open_website">"ୱେବସାଇଟ୍ ଓପନ୍ କରନ୍ତୁ"</string>
+<string name="activity_not_found">"ଏକ ଉପଯୁକ୍ତ ଆପ୍ଲିକେସନ୍ ମିଳିଲା ନାହିଁ"</string>
+<string-array name="fixed_mms_phrase">
+<item>"ଦୟାକରି ମୋ ଅଫିସ୍ ଫୋନ୍ ରେ କଲ୍ କରନ୍ତୁ, ଧନ୍ୟବାଦ ।"</item>
+<item>"ଦୟାକରି ମୋ ସହ ଯୋଗାଯୋଗ କରନ୍ତୁ, ଧନ୍ୟବାଦ ।"</item>
+<item>"ଦୟାକରି ମୋତେ ଆପଣଙ୍କ ସ୍ଥାନ ବିଷୟରେ କୁହନ୍ତୁ ।"</item>
+<item>"ଦୟାକରି ମୋ ସେଲ୍ ଫୋନ୍ କୁ ପରେ କଲ୍ କରନ୍ତୁ, ଧନ୍ୟବାଦ ।"</item>
+<item>"ମୁଁ ବାହାରେ ଥିଲି, ଘରକୁ ଯିବି ଏବଂ ଆପଣଙ୍କୁ କଲ୍ କରିବି ।"</item>
+<item>"ମୁଁ ଗାଡ଼ି ଚଲାଉଛି ଏବଂ ପରେ ଉତ୍ତର ଦେବି ।"</item>
+<item>"ମୁଁ ରାସ୍ତାରେ ଅଛି, ଜଲ୍ଦି ପହଞ୍ଚିପାରିବି ।"</item>
+<item>"ଟ୍ରାଫିକ୍ ଜାମ୍ ଅଛି, ଡେରି ହେବ, ମୁଁ ଦୁଃଖିତ ।"</item>
+<item>"ଆପଣଙ୍କୁ ପରେ କଲ୍ କରିବି ।"</item>
+<item>"ମୁଁ ଏକ ମିଟିଂରେ ଅଛି, ପରେ ଉତ୍ତର ଦେବି ।"</item>
+</string-array>
+<string-array name="fixed_both_phrase">
+<item>"ଦୟାକରି ମୋତେ କଲ୍ କରନ୍ତୁ କିମ୍ବା ପରେ ମୋତେ ଏସ୍ଏମ୍ଏସ୍ ପଠାନ୍ତୁ ।"</item>
+</string-array>
+<string name="share_video_exceeded">"ନିର୍ବାଚିତ ଭିଡିଓଟି ସର୍ବୋଚ୍ଚ ଆକାର ସୀମା ଅତିକ୍ରମ କରିଛି!"</string>
+<string name="share_audio_exceeded">"ନିର୍ବାଚିତ ଅଡିଓଟି ସର୍ବୋଚ୍ଚ ଆକାର ସୀମା ଅତିକ୍ରମ କରିଛି!"</string>
+<string name="share_image_exceeded">"ନିର୍ବାଚିତ ଚିତ୍ରଟି ସର୍ବୋଚ୍ଚ ଆକାର ସୀମା ଅତିକ୍ରମ କରିଛି!"</string>
+<string name="share_muimgae_exceeded">"ସୀମା ଅତିକ୍ରମ କରିଥିବା ଚିତ୍ର ସେୟାର କରନ୍ତୁ ନାହିଁ!"</string>
+<string name="share_noimgae_exceeded">"ନନ୍-ଇମେଜ୍ ଫାଇଲ୍ ଗୁଡ଼ିକ ରହିଛି, ସେୟାର କରାଯାଇପାରିବ ନାହିଁ!"</string>
+<string name="exceed_text_length_limitation">"ଏହା ଟେକ୍ସଟ ଦୈର୍ଘ୍ୟ ସୀମା ଅତିକ୍ରମ କରିଛି ।"</string>
+<string name="drm_no_application_open">"ଫାଇଲ୍ ଓପନ୍ କରିପାରିବେ ନାହିଁ"</string>
+<string name="ok_drm_rights_consume">"ଠିକଠାକ"</string>
+<string name="cancel_drm_rights_consume">"ବାତିଲ କରନ୍ତୁ"</string>
+<string name="orgdrm_no_share">"ବାର୍ତ୍ତା ପ୍ରେରଣରେ ଶେୟାରିଂକୁ ସମର୍ଥନ କରୁନାହି"</string>
+<string name="drm_can_not_processed">"ଡିଆରଏମ୍ ଫାଇଲ୍ ପ୍ରୋସେସ୍ ହୋଇପାରିବ ନାହିଁ"</string>
+<string name="protect_information">"ତଥ୍ୟ ସୁରକ୍ଷିତ ରଖନ୍ତୁ"</string>
+<string name="drm_consume_title">"ଡିଆରଏମ୍ ଅଧିକାର ଉପଭୋଗ କରନ୍ତୁ"</string>
+<string name="drm_consume_hint">"ଆପଣଙ୍କ ଅପରେସନ୍ ଡିଆରଏମ୍ ଅଧିକାରର ବ୍ୟବହାର କରିବ"</string>
+<string name="drm_file_path">"ପାଥ୍:%1$s"</string>
+<string name="drm_file_name">"ଫାଇଲ୍ ନାମ:%1$s"</string>
+<string name="drm_rights_validity">"ଅଧିକାର ବୈଧତା:ବୈଧ"</string>
+<string name="drm_rights_invalidity">"ଅଧିକାର ବୈଧତା:ଅବୈଧ"</string>
+<string name="drm_rights_status_transfer">"ଅଧିକାର ସ୍ଥିତି: ସ୍ଥାନାନ୍ତରିତ ହେବା ପାଇଁ ଅନୁମତିପ୍ରାପ୍ତ"</string>
+<string name="drm_rights_status_untransfer">"ଅଧିକାର ସ୍ଥିତି: ସ୍ଥାନାନ୍ତରିତ ହେବା ପାଇଁ ଅନୁମତିପ୍ରାପ୍ତ ନୁହେଁ"</string>
+<string name="drm_start_time">"ଆରମ୍ଭ ସମୟ:%1$s"</string>
+<string name="drm_end_time">"ଶେଷ ସମୟ:%1$s"</string>
+<string name="drm_expiration_time">"ଏକ୍ସପାରେସନ୍ ସମୟ:%1$s"</string>
+<string name="drm_remain_times">"ବାକି ଥିବା ସମୟ: %1$s"</string>
+<string name="drm_no_info">"କୌଣସି ତଥ୍ୟ ନାହିଁ"</string>
+<string name="drm_unlimited_rights">"ଅସୀମ"</string>
+<string name="drm_rights_unknown">"ଅଜଣା"</string>
+<string name="drm_inactive_rights">"ଅଧିକାର ସକ୍ରିୟ ନୁହେଁ"</string>
+<string name="drm_shared_not_drmdownload">"ଏହାକୁ ଡିଆରଏମ୍ଡାଉନଲୋଡ୍ ଡିରେକ୍ଟୋରୀକୁ ନିଅନ୍ତୁ ଏବଂ ତାପରେ ଦୟାକରି ସେୟାର କରନ୍ତୁ"</string>
+<string name="share_nofile_exceeded">"MMS ଲିମିଟ୍ ରୁ ଅଧିକ!"</string>
+<string name="no_few_participants">"କୌଣସି ଅଂଶଗ୍ରହଣକାରୀ ନାହାଁନ୍ତି"</string>
+<string name="mms_validity_pref_title">"MMS ବୈଧତା ସେଟିଂ"</string>
+<string name="sms_validity_pref_title">"SMS ବୈଧତା ସେଟିଂ"</string>
+<string name="attach_vcalendar">"କେଲେଣ୍ଡର"</string>
+<string name="confirm_import_vcalendar">"ଏହି ଭିକ୍ୟାଲେଣ୍ଡର ଇମ୍ପୋର୍ଟ କରିବେ କି?"</string>
+<string name="confirm_save_otherfiles">"ଏହି ଆଟାଚମେଣ୍ଟ ସେଭ୍ କରିବେ କି?"</string>
+<string name="confirm_import">"ହଁ"</string>
+<string name="cancel_import">"ନାହିଁ"</string>
+<string name="attach_other_file">"ଅଜଣା ଫାଇଲ"</string>
+<string name="copy_to_sdcard_success">"ଆଟାଚମେଣ୍ଟ <xliff:g id="copy_to_sdcard_success_id">%s</xliff:g> ରେ ସେଭ୍ ହୋଇଛି"</string>
+<string name="copy_to_sdcard_fail">"ଆଟାଚମେଣ୍ଟ ସେଭ୍ ହୋଇପାରିଲା ନାହିଁ ।"</string>
+<string name="attach_sound">"ଅଡ଼ିଓ"</string>
+<string name="select_vcard_button">"କଣ୍ଟାକ୍ଟ ପ୍ରବିଷ୍ଟ କରିବା ପାଇଁ ବଟନ୍ କ୍ଲିକ୍ କରନ୍ତୁ"</string>
+<string name="select_video_button">"ଭିଡିଓ ପ୍ରବିଷ୍ଟ କରିବା ପାଇଁ ବଟନ୍ କ୍ଲିକ୍ କରନ୍ତୁ"</string>
+<string name="select_audio_button">"ଅଡିଓ ପ୍ରବିଷ୍ଟ କରିବା ପାଇଁ ବଟନ୍ କ୍ଲିକ୍ କରନ୍ତୁ"</string>
+<string name="select_vcalendar_button">"କ୍ୟାଲେଣ୍ଡର ପ୍ରବିଷ୍ଟ କରିବା ପାଇଁ ବଟନ୍ କ୍ଲିକ୍ କରନ୍ତୁ"</string>
+<string name="select_slideshow_button">"ସ୍ଲାଇଡ୍‍ ଶୋ\'ରେ ପ୍ରବିଷ୍ଟ କରିବା ପାଇଁ ବୋତାମରେ କ୍ଲିକ୍‍ କରନ୍ତୁ"</string>
+<string name="slideshow_detail_activity_title">"ସ୍ଲାଇଡ଼ସୋ"</string>
+<string name="no_mms_plugin">"କୌଣସି ଫୋଲ୍ଡର ଭିଉ ନାହିଁ"</string>
+<string name="attachment_details">"ଆଟାଚମେଣ୍ଟ ବିବରଣି"</string>
+<string name="context_menu_copy_to_sim_memory">"SIMକୁ ବାର୍ତ୍ତାଗୁଡ଼ିକ କପି କରନ୍ତୁ"</string>
+<string name="copy_message_text">"ଟେକ୍ସଟ କପି କରନ୍ତୁ"</string>
+<string name="min_zoom">"ସର୍ବନିମ୍ନ ସୀମା ଶେଷ ହୋଇଯାଇଛି"</string>
+<string name="max_zoom">"ସର୍ବାଧିକ ସୀମା ଶେଷ ହୋଇଯାଇଛି"</string>
+<string name="message_details_text">"ବାର୍ତ୍ତା ବିବରଣିଗୁଡ଼ିକ"</string>
+<string name="folder_reply">"ଉତ୍ତର"</string>
+<string name="new_message">"ନୂଆ ବାର୍ତ୍ତା"</string>
+<string name="folder_forward">"ଫର୍ୱାର୍ଡ଼"</string>
+<string name="delete_message">"କାଟ"</string>
+<string name="menu_resend">"ପୁଣି ଥରେ ପଠାନ୍ତୁ"</string>
+<string name="save_all_attachments">"ସମସ୍ତ ଆଟାଚମେଣ୍ଟ ସେଭ୍ କରନ୍ତୁ"</string>
+<string name="host_app_name">"ମେସେଜ"</string>
+<string name="need_messaging_is_default_app">"ଏସ୍ଏମ୍ଏସ୍ ଡିଫଲ୍ଟ ଆପ୍ ରେ ଆପଣ \"%1$s\" ସେଟ୍ କରିବା ଉଚିତ"</string>
+<string name="message_outgoing_successful">"ଫିଡବ୍ୟାକ ସଫଳତାର ସହ ପଠାଗଲା"</string>
+<string name="message_outgoing_failure">"ବାର୍ତ୍ତା ପଠାଯାଇ ନାହିଁ"</string>
+<string name="share_unsupported_type">"ଅସମର୍ଥିତ ସୂଚୀ ପ୍ରକାର, ସେୟାର କରାଯାଇପାରିବ ନାହିଁ!"</string>
+<string name="mms_send_reports_pref_title">"MMS ପ୍ରେରଣ ରିପୋର୍ଟ"</string>
+<string name="mms_send_reports_pref_summary">"ଆପଣ ପ୍ରେରଣ କରୁଥିବା ପ୍ରତି MMS ପାଇଁ ଏକ ପ୍ରେରଣ ରିପୋର୍ଟ ଅନୁରୋଧ କରନ୍ତୁ"</string>
+<string name="mms_delivery_reports_pref_title">"MMS ଡେଲିଭରୀ ରିପୋର୍ଟଗୁଡ଼ିକ"</string>
+<string name="mms_delivery_reports_pref_summary">"ଆପଣ ପଠାଉଥିବା ପ୍ରତ୍ୟେକ ରିପୋର୍ଟ ପାଇଁ ଏକ ଡେଲିଭରୀ ରିପୋର୍ଟ ଅନୁରୋଧ କରନ୍ତୁ"</string>
+<string name="mms_read_reports_pref_title">"MMS ରେଡ୍ ରିପୋର୍ଟଗୁଡ଼ିକ"</string>
+<string name="mms_read_reports_pref_summary">"ଆପଣ ପଠାଉଥିବା ପ୍ରତ୍ୟେକ MMS ପାଇଁ ଏକ ରେଡ୍ ରିପୋର୍ଟ ଅନୁରୋଧ କରନ୍ତୁ"</string>
+<string name="enable_return_mms_delivery_reports_pref_title">"ରିଟର୍ନ MMS ଡେଲିଭରୀ ରିପୋର୍ଟ ଏନାବଲ୍ କରନ୍ତୁ"</string>
+<string name="enable_return_mms_delivery_reports_pref_summary">"ଆପଣ ପଠାଉଥିବା ପ୍ରତ୍ୟେକ MMS ପାଇଁ ଏକ ରିଟର୍ନ ରିକ୍ୱେଷ୍ଟ ଡେଲିଭରୀ ରିପୋର୍ଟ ଏନାବଲ୍ କରନ୍ତୁ"</string>
+<string name="enable_return_mms_read_reports_pref_title">"ରିଟର୍ନ MMS ରେଡ୍ ରିପୋର୍ଟ ଏନାବଲ୍ କରନ୍ତୁ"</string>
+<string name="enable_return_mms_read_reports_pref_summary">"ଆପଣ ପଠାଉଥିବା ପ୍ରତ୍ୟେକ MMS ପାଇଁ ଏକ ରିଟର୍ନ ରିକ୍ୱେଷ୍ଟ ରେଡ୍ ରିପୋର୍ଟ ଏନାବଲ୍ କରନ୍ତୁ"</string>
+<string name="delivery_toast_body">"%s ଦ୍ୱାରା ମେସେଜ ରିସିଭ୍‌ ହେଲା"</string>
+<string name="delivery_toast_body_expired">"ବାର୍ତ୍ତାର ମିଆଦ ପୂର୍ଣ୍ଣ ହୋଇଛି %s"</string>
+<string name="delivery_toast_body_fail_rejected">"%s ଦ୍ୱାରା ବାର୍ତ୍ତା ପ୍ରତ୍ୟାଖ୍ୟାନ ହୋଇଛି"</string>
+<string name="delivery_toast_body_fail">"%s ଦ୍ୱାରା ବାର୍ତ୍ତା ଗ୍ରହଣ କରାଯାଇନାହିଁ"</string>
+<string name="read_report_toast_body">"%s ଦ୍ୱାରା ବାର୍ତ୍ତାକୁ ପାଠ କରାଯାଇଛି"</string>
+<string name="read_report_toast_body_fail">"%s ଦ୍ୱାରା ବାର୍ତ୍ତାକୁ ପାଠ କରାଯାଇନାହିଁ"</string>
+<string name="mimetype_null">"ମାଇମଟାଇପ୍ ଶୂନ୍ୟ ଅଛି, ଆଟାଚମେଣ୍ଟ ଷ୍ଟୋର କରିପାରିବ ନାହିଁ"</string>
+<string name="pref_title_manage_simx_smsc">"<xliff:g id="COUNT">%1$s</xliff:g> SIM SMS ସର୍ଭିସ୍ ସେଣ୍ଟର"</string>
+<string name="pref_title_manage_sim_smsc">"SMS ସର୍ଭିସ୍ ସେଣ୍ଟର"</string>
+<string name="smsc_set_fails">"Smsc ସେଟ୍ ବିଫଳ ହୋଇଛି"</string>
+<string name="smsc_set_success">"ସଫଳତାର ସହ ସେଟ୍ ହୋଇଛି ।"</string>
+<string name="smsc_update_success">"ସଫଳତାର ସହ ଅପଡେଟ୍ କରନ୍ତୁ"</string>
+<string name="smsc_cannot_be_null">"Smsc ଶୂନ୍ୟ ହୋଇପାରିବ ନାହିଁ!"</string>
+<string name="smsc_should_be_number">"Smsc ଏକ ସଂଖ୍ୟା ହେବା ଉଚିତ"</string>
+<string name="smsc_list">"SMS ସେଣ୍ଟର ତାଲିକା"</string>
+<string name="smsc_list_empty">"କୌଣସି SMS ସେଣ୍ଟର ନମ୍ବର ନାହିଁ"</string>
+<string name="smsc_list_loading">"ଲୋଡ଼ କରୁଛି"</string>
+<string name="smsc_list_empty_toast">"ବାର୍ତ୍ତା ପଠାଯାଇ ନାହିଁ, କୌଣସି SMS ସେଣ୍ଟର ନମ୍ବର ନାହିଁ"</string>
+<string name="smsc_list_empty_notify_des">"ଦୟାକରି ଏକ ନୂଆ SMS ସେଣ୍ଟର ନମ୍ବର ମିଶାନ୍ତୁ"</string>
+<string name="smsc_list_empty_notify_title">"କୌଣସି SMS ସେଣ୍ଟର ନମ୍ବର ନାହିଁ"</string>
+<string name="shared_image_number_exceed">"ସେୟାର ହୋଇଥିବା ସର୍ବାଧିକ ପ୍ରତିଛବିର ନମ୍ବର ହେଉଛି %d, ସୀମା ଅତିକ୍ରମ କରିଥିବା ପ୍ରତିଛବିଗୁଡ଼ିକ ହଟାଇଦିଆଯାଇଛି ।"</string>
+<string name="drm_unsupported_toast">"DRM ଫାଇଲ୍ ଉପଲବ୍ଧ ନୁହେଁ । ଦୟାକରି ଅନ୍ୟ ଗୋଟିଏ ଫାଇଲ୍ ଚୟନ କରନ୍ତୁ ।"</string>
+<string name="err_sent_no_sim">"ବାର୍ତ୍ତା ପଠାଯାଇ ନାହିଁ, କୌଣସି SIM କାର୍ଡ ନାହିଁ ।"</string>
+<string name="dlg_save_attachment">"... ଫାଇଲ୍ ସେଭ୍ କରନ୍ତୁ"</string>
+<string name="is_redirect_to">"%1$sକୁ ରିଡାଇରେକ୍ଟ ହୋଇଛି କି?"</string>
+<string name="browser">"ବ୍ରାଉଜର"</string>
+<string name="email">"ଇମେଲ"</string>
+<string name="telephone">"ଟେଲିଫୋନ୍"</string>
+<string name="map">"ମ୍ୟାପ"</string>
+<string name="message_signature_setting">"ସିଗନେଚର ସେଟିଂ"</string>
+<string name="pref_signature_enable_title">"ବୈକଳ୍ପିକ ଦସ୍ତଖତ"</string>
+<string name="pref_signature_enabl_summary">"ଆପଣ ପଠାଉଥିବା ପ୍ରତ୍ୟେକ ବାର୍ତ୍ତା ତଳେ ସ୍ୱୟଂକ୍ରିୟଭାବରେ ଦସ୍ତଖତ ସଂଲଗ୍ନ କରନ୍ତୁ"</string>
+<string name="pref_signature_input_title">"ଦସ୍ତଖତ ସମ୍ପାଦନା କରନ୍ତୁ"</string>
+<string name="pref_signature_input_summary">"ଆପଣଙ୍କ ଦସ୍ତଖତ ସେଟ୍ କରିବା ପାଇଁ ଏଠାରେ ପ୍ରବିଷ୍ଟ କରନ୍ତୁ"</string>
+<string name="no_permissions">"କୌଣସି ଅନୁମତି ନାହିଁ"</string>
+<string name="no_call_permissions">"କୌଣସି ଅନୁମତି ନାହିଁ"</string>
+<string name="folder_loading">"ଲୋଡ୍ ହେଉଛି…"</string>
+<string name="sms_merge_forward_empty">"ମର୍ଜ ଏବଂ ଫରୱାର୍ଡ କରିବା ପାଇଁ କୌଣସି SMS ବାର୍ତ୍ତା ନାହିଁ ।"</string>
+<string name="action_edit_contact">"ଯୋଗାଯୋଗ ସଂଶୋଧନ"</string>
+<string name="sms_forward">"ମର୍ଜ କରନ୍ତୁ ଏବଂ ଫରୱାର୍ଡ କରନ୍ତୁ"</string>
+<string name="sms_merge_dialog_title">"ପ୍ରମ୍ପ୍ଟ କରନ୍ତୁ"</string>
+<string name="sms_merge_dialog_content1">"ଆପଣ କେବଳ %d SMS ମଧ୍ୟରେ ମର୍ଜ କରିପାରିବେ"</string>
+<string name="sms_merge_dialog_content2">"ଏବଂ %d SMS ବାର୍ତ୍ତାଗୁଡ଼ିକ । ଦୟାକରି ଏହା ଯାଂଚ କରନ୍ତୁ ।"</string>
+<string name="messagelist_sender_self">"ମତେ"</string>
+<string name="sms_merge_forward">"ମର୍ଜ କରନ୍ତୁ ଏବଂ ଫରୱାର୍ଡ କରନ୍ତୁ"</string>
+<string name="muti_select_all">"ସବୁ ଯାକ ବାଛନ୍ତୁ"</string>
+<string name="menu_select_none">"ଅଲ୍‌କୁ ବାତିଲକରନ୍ତୁ"</string>
+<string name="sms_merge_dialog_content_exceed">"ଆପଣ ଫରୱାର୍ଡ କରାଯାଇଥିବା ବାର୍ତ୍ତା ସୂଚୀର ମିଶ୍ରଣ %d ସୀମା ଉପରକୁ କରିଛନ୍ତି, ଦୟାକରି ପୁଣିଥରେ ଯାଂଚ କରନ୍ତୁ!"</string>
+<string name="no_sms_permissions">"କୌଣସି SMS ଅନୁମତି ନାହିଁ, ଅଡିଓ ବଜାଇ ପାରିବ ନାହିଁ ।"</string>
+<string name="smil_subject_hint">"କୌଣସି MMS ବିଷୟ ନାହିଁ, ଆପଣ ସମ୍ପାଦନ କରିପାରିବେ"</string>
+<string name="smil_out_of_size">"ମେମୋରୀ ବାହାରେ"</string>
+<string-array name="smil_choice_items">
+<item>"ସ୍ଲାଇଡ ଶୋ ଖୋଲ୍ନ୍ତୁ"</item>
+</string-array>
+<string name="video_content_type">"ଭିଡିଓ:"</string>
+<string name="iamge_content_type">"ପ୍ରତିଛବି:"</string>
+<string name="audio_content_type">"ଅଡିଓ:"</string>
+<string name="subject_edit">"ସବଜେକ୍ଟ ଏଡିଟ୍"</string>
+<string name="text_edit">"ଟେକ୍ସଟ ଏଡିଟର"</string>
+<string name="repalce_slide">"ସ୍ଲାଇଡ୍ ରିପ୍ଲେସ୍ କରନ୍ତୁ"</string>
+<string name="remove_slide">"ସ୍ଲାଇଡ୍ ହଟାନ୍ତୁ"</string>
+<string name="insert_befor_slide">"ବିଫୋର ସ୍ଲାଇଡ୍ ଇନସର୍ଟ କରନ୍ତୁ"</string>
+<string name="insert_after_slide">"ଆଫ୍ଟର ସ୍ଲାଇଡ୍ ଇନସର୍ଟ କରନ୍ତୁ"</string>
+<string name="add_attachment">"ଏ ଆଟାଚମେଣ୍ଟ ଯୋଡ଼ନ୍ତୁ"</string>
+<string name="remove_attachment">"ଆଟାଚମେଣ୍ଟ ହଟାନ୍ତୁ"</string>
+<string name="repalce_attachment">"ଆଟାଚମେଣ୍ଟ ରିପ୍ଲେସ କରନ୍ତୁ"</string>
+<string name="hint_for_input">"ଦୟାକରି ଏଡିଟ୍ କରିବା ପାଇଁ"</string>
+<string name="hint_for_empty">"ଦୟାକରି ଏଡିଟ୍ କରିବା ପାଇଁ, ବର୍ତ୍ତମାନ ପୋଜିସନ ଆଟାଚମେଣ୍ଟ ହେଉଛି ଏକ ଖାଲି ଆଟାଚମେଣ୍ଟ"</string>
+<string name="goto_smil">"ସ୍ଲାଇଡ଼ସୋ"</string>
+<string name="smil_subject">"ବିଷୟ:"</string>
+<string name="action_sim_sms">"SIMରେ ବାର୍ତ୍ତା ଗୁଡ଼ିକ"</string>
+<string name="sms_save_to_sim_pref_title">"SMS SIMରେ ସେଭ୍ କରନ୍ତୁ"</string>
+<string name="sms_save_to_sim_pref_summary">"ଯେତେବେଳେ ଏକ ନୂଆ SMS ଆସୁଛି, ଏହାକୁ SIM ରେ ସେଭ୍ କରାଯିବ କି ନାହିଁ"</string>
+<string name="sms_sim_full_title">"Sim ଭର୍ତ୍ତି ହୋ‌ଇଯାଇଛି"</string>
+<string name="sms_sim_full_notification_ticker">"କମ୍ SMS ଷ୍ଟୋରେଜ । ଆପଣ ବାର୍ତ୍ତାଗୁଡ଼ିକ ଡିଲିଟ୍ କରିବା ଦରକାର ହୋଇପାରେ ।"</string>
+<string name="sms_sim_full_text">"ସିମ୍ ଭର୍ତ୍ତି ହୋଇଯାଇଛି, ଏସ୍ଏମ୍ଏସ୍ ମେସେଜିଂ ଡାଟାବେସରେ ସେଭ୍ ହେବ । ଏବଂ ଯଦି ଆପଣ ପୁଣି ଥରେ ସିମ୍ ରେ ସେଭ୍ କରିବାକୁ ଚାହୁଁଛନ୍ତି ଦୟାକରି ଏସ୍ଏମ୍ଏସ୍ ଡିଲିଟ୍ କରନ୍ତୁ"</string>
+<string name="ctcc_smart_sms_pref_title">"CTCC ସ୍ମାର୍ଟ SMS ଖୋଲନ୍ତୁ"</string>
+<string name="ctcc_smart_sms_pref_summary">"CTCC ସ୍ମାର୍ଟ SMS ଖୋଲିବେ ନା ନାହିଁ"</string>
+<string name="menu_search_text">"ଖୋଜ"</string>
+<string name="search_label">"ବାର୍ତ୍ତା ପଠାଉଛି"</string>
+<string name="search_hint">"ମେସେଜିଂ ସର୍ଚ୍ଚ କରନ୍ତୁ"</string>
+<string name="search_max_length">"ଖୋଜିବାକୁ ଥିବା ବାକ୍ୟ ବହୁତ ଲମ୍ବା, 512 ପର୍ଯ୍ୟନ୍ତ ସୀମିତ ହେବ ।"</string>
+<string name="search_setting_description">"ଆପଣଙ୍କ ବାର୍ତ୍ତାରେ ଅକ୍ଷର"</string>
+<string name="search">"ବାର୍ତ୍ତା ପଠାଉଛି"</string>
+<string name="search_empty">"କୌଣସି ମେଳ ନାହିଁ ।"</string>
+<string name="search_history">"\"<xliff:g id="search">%2$s</xliff:g>\" ପରିଣାମ ପାଇଁ <xliff:g id="count">%1$s</xliff:g>"</string>
+<string name="can_not_add_same_attachment">"ସମାନ ସଂଲଗ୍ନକୁ ଯୋଗ କରିବା ନିମନ୍ତେ ପୁନରାବୃତ୍ତି କରାଯାଇପାରିବ ନାହିଁ"</string>
+<string name="can_not_add_same_picture">"ଏକା ଚିତ୍ର ଯୋଡ଼ିବା ପାଇଁ ପୁନରାବୃତ୍ତି କରାଯାଇ ପାରିବ ନାହିଁ"</string>
+<string name="smil_add_text">"ଏକ ଟେକ୍ସଟ ଆଟାଚମେଣ୍ଟ ଯୋଡ଼ନ୍ତୁ"</string>
+<string name="smil_update_text">"ଏକ ଲେଖା ସଂଲଗ୍ନ ଅଧୁନାତନ ସଫଳ ହେଲା"</string>
+<string name="smil_empty_content">"ଖାଲି ସୂଚୀ, ପଠାଇବା ପାଇଁ ବନ୍ଦ କରନ୍ତୁ!"</string>
+<string name="exceed_participant_limit">"ଅଂଶଗ୍ରହଣକାରୀମାନଙ୍କ ପରିମାଣ ସୀମା ଅତିକ୍ରମ କରିଛି (<xliff:g>%1$s</xliff:g>), ଦୟାକରି <xliff:g>%2$s</xliff:g> ଗୁଡ଼ିକ ଡିଲିଟ୍ କରନ୍ତୁ ।"</string>
+<string name="folder_view_menu_item_title">"ଫୋଲ୍ଡର ଭିଉ"</string>
+<string name="capacity_sim_message_title">"SIM କ୍ଷମତା"</string>
+<string name="capacity_sim_message_summary">"ବର୍ତ୍ତମାନ/ସର୍ବୋଚ୍ଚ କ୍ଷମତା:%s"</string>
+<string name="audio_record_retry">"ଦୟାକରି ବ୍ୟାକଗ୍ରାଉଣ୍ଡ ରେକର୍ଡିଂ ବନ୍ଦ କରନ୍ତୁ ଏବଂ ପୁଣିଥରେ ଚେଷ୍ଟା କରନ୍ତୁ ।"</string>
+<string name="contact_invalid">"ଅବୈଧ ଯୋଗାଯୋଗ, ଦୟାକରି ପୁଣି ଥରେ ବୈଧ ଯୋଗାଯୋଗ ଚୟନ କରନ୍ତୁ ।"</string>
+<string name="message_size_counting">"ଗଣନା କରୁଛି"</string>
+<string name="pref_encode_type_setting_title">"ଟାଇପ ସେଟିଂ ଏନକୋଡ୍ କରନ୍ତୁ"</string>
+<string name="pref_encode_type_title">"ଏନକୋଡ଼ ଟାଇପ୍‌"</string>
+<string name="fdn_check_failure">"ଆପଣ କେବଳ ନିଜର ଫିକ୍ସଡ ଡାଏଲିଂ ନମ୍ବରକୁ ବାର୍ତ୍ତା ପଠାଇ ପାରିବେ ।"</string>
+<string name="data_call_fdn_check_failure">"ଯେହେତୁ FDN ଏନାବଲ୍ କରାଯାଇଛି, MMS ପଠାଯାଇପାରିବ ନାହିଁ । ଦୟାକରି FDN ତାଲିକାରେ *99# ଯୋଡ଼ନ୍ତୁ ଏବଂ ତାପରେ ଚେଷ୍ଟା କରନ୍ତୁ ।"</string>
+<string name="smsc_fdn_check_failure">"ଯେହେତୁ FDN ଏନାବଲ୍ କରାଯାଇଛି, SMS ପଠାଯାଇପାରିବ ନାହିଁ ଏବଂ ଆପଣଙ୍କ ମେସେଜ୍ ସେଣ୍ଟର ନମ୍ବର FDN ତାଲିକାରେ ନାହିଁ ।"</string>
+<string name="smil_wait_comparing_att_size">"ଲୋଡ୍ ହେଉଛି, ଦୟାକରି ଗୋଟିଏ ମୁହୂର୍ତ୍ତ ଅପେକ୍ଷା କରନ୍ତୁ!"</string>
+<string name="smil_max_slide_count">"କେବଳ %s ସ୍ଲାଇଡ୍ ଯୋଡ଼ି ପାରିବ"</string>
+<string name="sms_wap_pref_title">"SMS WAP ବାର୍ତ୍ତାଗୁଡ଼ିକ ଏନାବଲ୍ କରନ୍ତୁ"</string>
+<string name="sms_wap_pref_summary">"SMS WAP ବାର୍ତ୍ତା ଗ୍ରହଣ କରିବା ପାଇଁ ଏନାବଲ୍ କରନ୍ତୁ"</string>
+<string name="smil_Player_title">"SMIL ପ୍ଲେୟାର"</string>
+<string name="smil_caption_description">"SMIL"</string>
+<string name="smil_caption_edit_hint">"(ଏଡିଟ୍ କରିବା ପାଇଁ କ୍ଲିକ୍ କରନ୍ତୁ)"</string>
+<string name="show_save_attachment_info">"ଏହାକୁ ସଂରକ୍ଷଣ କରିବେ?"</string>
+<string name="attachment_save_success">"ସଫଳତାର ସହ ସେଭ୍‌ହେଲା"</string>
+<string name="unread_message_count">"ସୂଚନା ପାଠ କରିବେ ନାହିଁ?"</string>
+<string name="mms_convert_to_smil_title">"ସ୍ଲାଇଡ୍‍‍ରେ ପରିଣତ କରନ୍ତୁ"</string>
+<string name="mms_convert_to_smil_message">"MMS ସ୍ଲାଇଡ୍‍‍ରେ ପରିବର୍ତ୍ତିତ ହେବ, ଯାହା କିଛି ସଂଲଗ୍ନକୁ ପକାଇବ ଯାହା ଯାହା ସ୍ଲାଇଡ୍‍ ମୋଡ୍‍‍ରେ ସମର୍ଥିତ ନୁହେ, ନିଶ୍ଚିତ ଅଟନ୍ତି?"</string>
+<string name="confirm_convert">"ଠିକଠାକ"</string>
+<string name="cancel_convert">"ବାତିଲ କରନ୍ତୁ"</string>
+<string name="smil_max_part_count">"ଏକ ସ୍ଲାଇଡ୍‍‍ରେ କେବଳ %s ସଂଲଗ୍ନକୁ ଯୋଗ କରିପାରିବ"</string>
+<string name="smil_add_error_same_content_type">"ଗୋଟିଏ ସ୍ଲାଇଡ୍‍‍ରେ ଦୁଇଗୋଟି ମିଡିଆ ପ୍ରକାରକୁ ଯୋଗ କରାଯାଇପାରିବ ନାହିଁ ।"</string>
+<string name="smil_add_error_video_conflict">"ଅଡିଓ ଓ ଛବି ଥିବା ସ୍ଲାଇଡ୍‍‍ରେ ଭିଡିଓକୁ ରଖାଯାଇପାରିବ ନାହିଁ ।"</string>
+<string name="smil_replace_error_same_content_type">"ପ୍ରତିସ୍ଥାପନ କରିପାରିବ ନାହିଁ କାରଣ ଦୁଇଗୋଟି ସମାନ ମିଡିଆ ପ୍ରକାର ସଂଲଗ୍ନକୁ ଗୋଟିଏ ସ୍ଲାଇଡ୍‍‍ରେ ରଖାଯାଇପାରିବ ନାହିଁ ।" </string>
+<string name="smil_replace_error_video_conflict">"ଭିଡିଓକୁ ପ୍ରତିସ୍ଥାପନ କରିପାରିବ ନାହିଁ, ଦୟାକରି ଆପଣଙ୍କ ସଂଲଗ୍ନ ଅପସାରଣ କରନ୍ତୁ ଓ ପୁନର୍ବାର ଚେଷ୍ଟା କରନ୍ତୁ ।"</string>
+<string name="smil_edit_hint">"ସ୍ଲାଇଡ୍‍‍ଗୁଡିକ, ସମ୍ପାଦନ କରିବା ନିମନ୍ତେ କ୍ଲିକ୍‍ କରନ୍ତୁ ।"</string>
+<string name="smil_unsupported_content_type">"ଅସମର୍ଥିତ ବିଷୟବସ୍ତୁ ପ୍ରକାର ।"</string>
+<string name="pref_internal_memory_usage_title">"MMS/ଉପଲବ୍ଧ/ମୋଟ"</string>
+<string name="pref_internal_memory_usage_progress_summary">"ମେମୋରୀ ସ୍ପେସ୍ ଗଣନା କରୁଛି…"</string>
+<string name="discard_message_reason">"ଆପଣଙ୍କ ବାର୍ତ୍ତା ପ୍ରତ୍ୟାଖ୍ୟାତ ହୋଇଯିବ କାରଣ ଏହାର କୌଣସି ବୈଧ ଗ୍ରହୀତା ନାହାଁନ୍ତି ।"</string>
+<string name="no_common_phrase">"ସାଧାରଣତଃ ବ୍ୟବହାର କରାଯାଉ ନ ଥିବା ଖଣ୍ଡବାକ୍ୟଗୁଡ଼ିକ"</string>
+<string name="action_copy_to_sim">"SIM କୁ କପି"</string>
+<string name="select_sim">"SIM ଚୟନ କରନ୍ତୁ"</string>
+<string name="sim_space_not_enough">"SIM ରେ ଏସ୍ଏମ୍ଏସ୍ ପାଇଁ ଯଥେଷ୍ଟ ସ୍ଥାନ ନାହିଁ"</string>
+<string name="move_message_to_phone_memory">"ବାର୍ତ୍ତା ଫୋନ୍ ମେମୋରୀକୁ ସଫଳତାର ସହ କପି ହୋଇଛି"</string>
+<string name="can_not_copy_the_message">"ବାର୍ତ୍ତା କପି କରିବାରେ ଅସମର୍ଥ"</string>
+<string name="failed_to_add_media">"ଆପଣଙ୍କ ବାର୍ତ୍ତାରେ ଆପଣ ଏହି <xliff:g id="name">%1$s</xliff:g> ମିଶାଇ ପାରିବେ ନାହିଁ ।"</string>
+<string name="contentType_audio">"ଅଡ଼ିଓ"</string>
+<string name="contentType_video">"ଭିଡ଼ିଓ"</string>
+<string name="contentType_image">"ଛବି"</string>
+<string name="contentType_other">"ଅସମର୍ଥିତ ଫାଇଲ୍‍ ପ୍ରକାର ସେୟାର୍‍ କରିବାକୁ ଅସମର୍ଥ"</string>
+<string name="no_record_audio_permission">"ଅଡ଼ିଓ ରେକର୍ଡ଼ କରିବାକୁ ଅନୁମତି ନାହିଁ!"</string>
+<string name="close_float_video">"କ୍ୟାମେରା ଖୋଲା କଲା ସମୟରେ ଭିଡିଓ ଫୋଟିଂ ୱିଣ୍ଡୋ ବନ୍ଦ କରନ୍ତୁ ।"</string>
+<string name="unable_get_data">"ଡାଟା ମିଳୁ ନାହିଁ"</string>
+<string name="unexpected_recording_error">"ଦୟାକରି ରେକର୍ଡିଂ ଆପ୍ ବନ୍ଦ କରନ୍ତୁ ଏବଂ ପୁଣି ଥରେ ଚେଷ୍ଟା କରନ୍ତୁ"</string>
+<string name="add_contacts_dialog_title">"ଯୋଗାଯୋଗଗୁଡ଼ିକ ଯୋଡ଼ନ୍ତୁ"</string>
+<string name="add_contact_as_text">"ମେସେଜ ଲେଖନ୍ତୁ"</string>
+<string name="file_not_found_exception">"ଫାଇଲ୍ ମିଳୁ ନାହିଁ!"</string>
+<string name="pref_title_mms_size_limit">"MMS ସାଇଜ୍ ଲିମିଟ୍"</string>
+<string name="pref_summary_mms_size_limit">"ଏକ ମେସେଜ୍ ଲେଖିବା ପାଇଁ MMS ସାଇଜ୍ ଲିମିଟ୍"</string>
+<string name="sub_card_download_mms_noti">"ସହାୟକ କାର୍ଡ କୁ MMS ପ୍ରାପ୍ତ ହେବା ପରେ ନେଟ୍ୱର୍କ ସ୍ୱିଚ କରନ୍ତୁ"</string>
+<string name="compressing">"ଚିତ୍ର ବହୁତ ବଡ଼, କମ୍ପ୍ରେସ୍ କରୁଛି…"</string>
+<string name="add_contact_toast">"ଦୟାକରି ପ୍ରଥମେ ସଂପର୍କ ଯୋଡନ୍ତୁ"</string>
+<string name="no_market_store_app">"ମାର୍କେଟ ଷ୍ଟୋର ଆପ୍‍ ଇନ୍‍ଷ୍ଟଲ କରାଯାଇନାହିଁ."</string>
+<string name="fdn_add_dialog_title">"SMS ସେଣ୍ଟର ନମ୍ବର ନିର୍ଦିଷ୍ଟ ଡାୟାଲିଂ ଯୋଗାଯୋଗରେ ଯୋଗ କରିବେ?"</string>
+<string name="upper_to_max_text_length">"ଉପର ଠାରୁ ସର୍ବୋଚ୍ଚ ଟେକ୍ସଟ ଦୈଘ"</string>
+<string name="upper_to_max_chips_parsed">"ଉପର ଠାରୁ ସର୍ବୋଚ୍ଚ ଚିପ୍‍ ପର୍ସ କରାଯାଇଛି"</string>
+<string name="text_copied">"କ୍ଲିପ୍‍ବୋର୍ଡକୁ ଟେକ୍ସଟ କପି କରାଯାଇଛି"</string>
+<string name="fail_start_record_videoaudio">"ଅନ୍ୟ ଆପ୍‍ କ୍ୟାମେରା ବା ମାଇକ୍‍ ବ୍ୟବହାର କରୁଅଛି, ବର୍ତ୍ତମାନ ରେକର୍ଡ କରିପାରିବ ନାହିଁ"</string>
+<string name="event_create">"ନୂତନ ଘଟନା"</string>
+<string name="sprd_parse_date_fail">"ବର୍ସିଂ ତାରିଖ ବ୍ୟର୍ଥ ହୋ‍ଇଛି!"</string>
+<string name="error_external_storage_access">"ବାହାରର ଷ୍ଟୋରେକ ବ୍ୟବହାର ସୁବିଧା ନାହିଁ"</string>
+<string name="download_request_confirm">"ଦୟାକରି ଫାଇଲ ପରିଚାଳନା ପାଇଁ ବାହାରର SD କାର୍ଡ ଡାଉନଲୋଡ ଡିରେକ୍ଟୋରି ନିର୍ବାଚନ କରନ୍ତୁ |"</string>
+<string name="folder_display_option">"ଡିସପ୍ଲେ ବିକଳ୍ପ"</string>
+<string name="folder_sortby">"ଦ୍ଵାରା ଶ୍ରେଣୀଭୁକ୍ତ କରନ୍ତୁ"</string>
+<string name="folder_delete_messages">"ବାର୍ତ୍ତା ଗୁଡ଼ିକ ଡିଲିଟ୍ କରନ୍ତୁ"</string>
+<string name="sort_msg_list_empty_text">"ଆପଣ ଏଠାରେ ତାଲିକାଭୁକ୍ତ କରାଯାଇଥିବା ବାର୍ତ୍ତାଗୁଡ଼ିକ ଦେଖିବେ"</string>
+<string name="folder_display_all">"ସମସ୍ତ ବାର୍ତ୍ତା ଦେଖାନ୍ତୁ"</string>
+<string name="delete_messages_confirmation_dialog_title">"ଚୟନ ହୋଇଥିବା ବାର୍ତ୍ତା ଗୁଡ଼ିକ ଡିଲିଟ୍ କରିବେ କି?"</string>
+<string name="delete_message_fail">"ଚୟନ ହୋଇଥିବା ବାର୍ତ୍ତା ଗୁଡ଼ିକ ଡିଲିଟ୍ କରିବା ବିଫଳ ହୋଇଛି!"</string>
+<string name="have_select_message">"%1$d ଚୟନ ହୋଇଛି"</string>
+<string name="copy_sim_sms_to_phone">"ଫୋନ୍ କୁ ବାର୍ତ୍ତାଗୁଡ଼ିକ କପି କରନ୍ତୁ"</string>
+<string name="simsms_title">"SIMରେ ବାର୍ତ୍ତା ଗୁଡ଼ିକ"</string>
+<string name="copy_fail">"କପି ଫେଲ ହୋଇଗଲା"</string>
+<string-array name="sort_type">
+<item>"ସମୟ ଅବରୋହଣ କ୍ରମରେ"</item>
+<item>"ସମୟ ଆରୋହଣ କ୍ରମରେ"</item>
+<item>"ଠିକଣା ଅବରୋହଣ କ୍ରମରେ"</item>
+<item>"ଠିକଣା ଆରୋହଣ କ୍ରମରେ"</item>
+</string-array>
+<string name="shared_attachment_number_exceed">"ସେୟାର କରା ଯାଇଥିବା ଆଟାଚମେଣ୍ଟ %d ଅତ୍ୟାଧିକ ଅତିକ୍ରମ କରିଛି ଏବଂ ବାହାର କରା ଯାଇଛି |"</string>
+</resources>

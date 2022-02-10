@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="signature_title">"ፊርማ"</string>
+<string name="pref_title_sms_retry_times">"SMS ሙከራ ክፈት"</string>
+<string name="conversation_deleteAll_failed">"ብኽብረትካ ጸኒሕኻ ደጊምካ ፈትን፡፡"</string>
+<string name="warning">"መጠንቀቕታ"</string>
+<string name="attachment_exceeded">"ዝመረጽካዮ ተተሓሓዚ ሓሊፉ!"</string>
+<string name="attachment_size">"ዓቐን ናይ ዝተተሓሓዘ ኽኣ፡"</string>
+<string name="mms_size">"ዓቐን ናይ MMS ኸእ፡"</string>
+<string name="permission_read_messages_attachment_label">"መልእኽቲ ኣታችመንት ኣንብብ"</string>
+<string name="permission_read_messages_attachment_desc">"ኣፕ ናይ መልእኽቲ ኣታችመነት ክንብብ ፍቀድ"</string>
+<string name="preference_name">"ሓበራዊ ፍሪዝ"</string>
+<string name="select">"ተመሪጹ"</string>
+<string name="item_cancel">"ኣሰናኽል"</string>
+<string name="item_delete">"ደምስስ"</string>
+<string name="save_as_teltype">"ንስልኪ"</string>
+<string name="save_as_mmstype">"ን Sms"</string>
+<string name="type_to_pharser">"ሓበራዊ ፍሪዝ ጸሓፍ"</string>
+<string name="add">"ወስኽ"</string>
+<string name="edit">"ኣስተኻኽል"</string>
+<string name="delete">"ደምስስ"</string>
+<string name="finish">"ወድእ"</string>
+<string name="cancel">"ኣሰናኽል"</string>
+<string name="add_pharser">"ሓበራዊ ፍሪዝ ወስኽ"</string>
+<string name="edit_pharser">"ሓበራዊ ፍሪዝ ኣስተኻክል"</string>
+<string name="exit_pharser_dialog_title">"ምፍላጥ"</string>
+<string name="exit_pharser_dialog_content">"ሐዚ ዝተጠቀምናሉ ፍሪዝ ኣቀምጥ?"</string>
+<string name="pharser_can_modify">"ዝተሓደሰ ፍሪዝ"</string>
+<string name="pharser_cannot_modify">"ፍሪዝ ኣስተኻኽል"</string>
+<string name="empty_pharser_not_save">"ነጻ ፍሪዝ ምቅማጥ ኣይከኣል"</string>
+<string name="select_item">"መሪጽኻ"</string>
+<string name="select_commmon_phrase">"ሓበራዊ ፍሪዝ ምረጽ"</string>
+<string name="common_phrase_empty">"ሓበራዊ ፍሪዝ የለን"</string>
+<string name="action_add_phrase">"ሓበራዊ ፍሪዝ"</string>
+<string name="pref_other_settings_title">"ካልኦት"</string>
+<string name="action_wireless_alerts">"ገመድ ኣልባ መፍለጢ"</string>
+<string name="positive">"ሕራይ"</string>
+<string name="wap_push_message_dialog_title">"“Wap መልእኽቲ መድፍኢ"</string>
+<string name="open_website">"መርበብሓበሬታ ኽፈት"</string>
+<string name="activity_not_found">"ዝስማዕማዕ ዓውደሙያ አይተረኸበን"</string>
+<string-array name="fixed_mms_phrase">
+<item>"ባጃኻ ናብ ናይ ኦፊስ ስልከይ ደውል፣ የቀንየለይ"</item>
+<item>"ባይዝ‘ኦም ይደዉሉለይ፣ የቀንየለይ"</item>
+<item>"ባጃኻ ቦታኻ ንገርረኒ"</item>
+<item>"ባጃኻ ናብ ናይ ስልከይ ደውል፣ የቀንየለይ"</item>
+<item>"ወጺኣ ነይረ፣ ገዛ ኽድና ክድዉለልካ እየ"</item>
+<item>"እንዳዘወርኩ እየ ጸኒሐ ክድውል እየ"</item>
+<item>"ኣብ ጽርግያ መጺኣ፣ ብቶሎ ተገነ"</item>
+<item>"ናይ ትራፊክ መብራሕቲ፣ ደሓረ ፣ ይቅርታ"</item>
+<item>"ጸኒሐ ክድውል እየ"</item>
+<item>"ኣብ ስብሰባ እየ ዘለኹ ጸኒሐ ክድውል እየ"</item>
+</string-array>
+<string-array name="fixed_both_phrase">
+<item>"በጃኻ ደውል ወይም መልእክቲ ለኣኸለይ"</item>
+</string-array>
+<string name="share_video_exceeded">"እቲ ዝተመርጸ ተንቀሳቓሲ ስእሊ ንጥርዚ መጠን ክብደት ሓሊፍዎ ኣሎ!"</string>
+<string name="share_audio_exceeded">"እቲ ዝተመርጸ ናይ ድምጺ ትሕዝቶ ንጥርዚ መጠን ክብደት ሓሊፍዎ ኣሎ!"</string>
+<string name="share_image_exceeded">"እቲ ዝተመርጸ ስእሊ ንጥርዚ መጠን ክብደት ሓሊፍዎ ኣሎ!"</string>
+<string name="share_muimgae_exceeded">"እቲ ዝሓለፈ ምስሊ አይተካፍል"</string>
+<string name="share_noimgae_exceeded">"ፎቶ ዘይብሎም ፋይላት ክብተኑ ኣይክእሉን"</string>
+<string name="exceed_text_length_limitation">"ናይቲ ጹሑፍ ንውሓት ይቅበሎ እዩ"</string>
+<string name="drm_no_application_open">"ክከፍት ኣይኽእልን"</string>
+<string name="ok_drm_rights_consume">"ሕራይ"</string>
+<string name="cancel_drm_rights_consume">"ኣሰናኽል"</string>
+<string name="orgdrm_no_share">" ንመስርሕ ምክፋል ትሕዝቶ ኣብ መዳይ ምልእኣኽ ጽሑፋዊ መልእኽቲ ከአንግዶ ኣይክእልን"</string>
+<string name="drm_can_not_processed">" Drm ክክፈት ኣይክእልን"</string>
+<string name="protect_information">"ሓበሪታ ሓሉ"</string>
+<string name="drm_consume_title">"Drm መሰል ሓሉ"</string>
+<string name="drm_consume_hint">"ኦፕሪሽኖም ናይ ቭ መሰል ይሕሉ እዩ"</string>
+<string name="drm_file_path">"ፓዝ%1$s"</string>
+<string name="drm_file_name">"ፋይል ስም:%1$s"</string>
+<string name="drm_rights_validity">"መሰል ሓለዋ፡ ትኽክል"</string>
+<string name="drm_rights_invalidity">"መሰል ሓለዋ፡ ትኽክል ኣይኮነን"</string>
+<string name="drm_rights_status_transfer">"መሰል ኣቀማምጣ:ንክብተን ተመሪጹ"</string>
+<string name="drm_rights_status_untransfer">"መሰል ኣቀማምጣ፡ ንክብተን ኣይፍቀድን"</string>
+<string name="drm_start_time">"መጀመሪ ግዘ%1$s"</string>
+<string name="drm_end_time">"መወድኢ ግዘ%1$s"</string>
+<string name="drm_expiration_time">"ኢክስፓየር ግዘ%1$s"</string>
+<string name="drm_remain_times">"ዝቀረየ ግዘ%1$s"</string>
+<string name="drm_no_info">"ሓበሪታ የለን"</string>
+<string name="drm_unlimited_rights">"ዘይውሱን"</string>
+<string name="drm_rights_unknown">"ኣይፍለጥን"</string>
+<string name="drm_inactive_rights">"መሰል የለን"</string>
+<string name="drm_shared_not_drmdownload">"ናብ DrmDownload መውረዲ ቦታ ወሲድኻ በትኖ በጃኻ"</string>
+<string name="share_nofile_exceeded">"ካብ MMS ዕእቀን ንላዕሊ"</string>
+<string name="no_few_participants">"ተሳተፍቲ የለዉን"</string>
+<string name="mms_validity_pref_title">"MMS ተቀባልነት መስተኻኸሊ"</string>
+<string name="sms_validity_pref_title">"SMS ተቀባልነት መስተኻኸሊ"</string>
+<string name="attach_vcalendar">"መቑፀሪ ግዘ"</string>
+<string name="confirm_import_vcalendar">"እዚ ካላንደር ኣእትው"</string>
+<string name="confirm_save_otherfiles">"እዚ ኣታችመንት ኣቀምጥ"</string>
+<string name="confirm_import">"እወ"</string>
+<string name="cancel_import">"ኣይኮነን"</string>
+<string name="attach_other_file">"ዘይፍለጥ ፋይል"</string>
+<string name="copy_to_sdcard_success">"“ኣታችመንት ኣትዩ ናብ”<xliff:g id="copy_to_sdcard_success_id">%s</xliff:g>"</string>
+<string name="copy_to_sdcard_fail">"ኣታችመንት ምቅማጥ ኣይተኽኣለን"</string>
+<string name="attach_sound">"ድምጼ"</string>
+<string name="select_vcard_button">"ኮንታክት ንምእታው ንዛ ባትን ንኽኡ"</string>
+<string name="select_video_button">"ቪድዮ ንምእታው ንዛ ባትን ንኽኡ"</string>
+<string name="select_audio_button">"ድምጺ ንምእታው ንዛ ባትን ንኽኡ"</string>
+<string name="select_vcalendar_button">"ካላንደር ንምእታው ንዛ ባትን ንኽኡ"</string>
+<string name="select_slideshow_button">"Slideshow ንምእታው ነቲ መጎም ጠውቕ"</string>
+<string name="slideshow_detail_activity_title">"ስላይድ ሾው"</string>
+<string name="no_mms_plugin">"ፎልደር መርኣይይ የብሉን"</string>
+<string name="attachment_details">"ኣታችመንት ዝርዝር"</string>
+<string name="context_menu_copy_to_sim_memory">"መልእኽቲ ናብ ሲም ቅዳሕ"</string>
+<string name="copy_message_text">"ጹሁፍ ቅዳሕ"</string>
+<string name="min_zoom">"ዝተሓተ በጺሑ"</string>
+<string name="max_zoom">"ዝለዓለ በጺሑ"</string>
+<string name="message_details_text">"ዝርዝር መልእኽቲ"</string>
+<string name="folder_reply">"መልስ"</string>
+<string name="new_message">"ሓዱሽ መልእኽቲ"</string>
+<string name="folder_forward">"ኣሕልፍ"</string>
+<string name="delete_message">"ደምስስ"</string>
+<string name="menu_resend">"ደጊኻ ለኣኽ"</string>
+<string name="save_all_attachments">"ኩሉ ኣታችመንት መዝግብ"</string>
+<string name="host_app_name">"መልእኽቲ"</string>
+<string name="need_messaging_is_default_app">"ናብ sms ደንበኛ መዝግብ \"%1$s\""</string>
+<string name="message_outgoing_successful">" ዕዉት ኣሳድዳ መልእኽቲ"</string>
+<string name="message_outgoing_failure">"መልእኽቲ ኣይተልኣኸን"</string>
+<string name="share_unsupported_type">"ኮንተንት ኣካል ኣይቅበሎን፣ ክብተን ኣይከኣልን"</string>
+<string name="mms_send_reports_pref_title">"Mms ጸብጻባትልአኽ"</string>
+<string name="mms_send_reports_pref_summary">"ናይ ነፍሲወከፍ ዝለኣኽካዮ MMS ናይ ዝለኣኽካዮ ጸብጻብ ሕተት"</string>
+<string name="mms_delivery_reports_pref_title">"ናይ MMS በጺሑ መልእኽቲ"</string>
+<string name="mms_delivery_reports_pref_summary">"ንኹሉ MMS ናይ በጺሑ መልእኽቲ ግበር"</string>
+<string name="mms_read_reports_pref_title">"MMS ምንባብ ሪፖርት"</string>
+<string name="mms_read_reports_pref_summary">"ን ኩሉ MMS ናይ ምንባብ መልእኽቲ ግበር"</string>
+<string name="enable_return_mms_delivery_reports_pref_title">"ን MMS ናይ ተመላሲ በጺሑ መልእኽቲ ግበር"</string>
+<string name="enable_return_mms_delivery_reports_pref_summary">"ንኹሉ MMS ናይ በጺሑ መልእኽቲ ግበር"</string>
+<string name="enable_return_mms_read_reports_pref_title">"ን MMS ናይ ተመላሲ በጺሑ መልእኽቲ ግበር"</string>
+<string name="enable_return_mms_read_reports_pref_summary">"ንኹሉ MMS ናይ ተነቢቡ መልእኽቲ ግበር"</string>
+<string name="delivery_toast_body">"እቲ መልእኽቲ ተቐቢሉ ብ %s"</string>
+<string name="delivery_toast_body_expired">"መልእኽቲ ግዚኡ ሓሊፉ %s"</string>
+<string name="delivery_toast_body_fail_rejected">"መልእኽቲ ተቀባልነት አይረኸበን %s"</string>
+<string name="delivery_toast_body_fail">"መልእኽቲ አይተቐበለን ብ %s"</string>
+<string name="read_report_toast_body">"መልእኽቲ ተነቢቡ ብ %s"</string>
+<string name="read_report_toast_body_fail">"መልእኽቲ አይተነበበን ብ %s"</string>
+<string name="mimetype_null">"ሚምታይፕ ጥርሑ እዩ ዘሎ፤ ጥብቆ ክኽዘን ኣይተኻእለን"</string>
+<string name="pref_title_manage_simx_smsc">"SIM<xliff:g id="COUNT">%1$s</xliff:g> SMSኣገልግሎትማእኸል"</string>
+<string name="pref_title_manage_sim_smsc">"ናይ SMS ኣገልግሎት ማእከል"</string>
+<string name="smsc_set_fails">"Smsc አሰራዓ አይተሳኽዐን"</string>
+<string name="smsc_set_success">"ብዝተሳኽዐ መገንዲ ተሰሪዑ።"</string>
+<string name="smsc_update_success">"መልእኽቲ ተሓዲሱ"</string>
+<string name="smsc_cannot_be_null">"Smsc ባዶ ክኸውን አይኽእልን"</string>
+<string name="smsc_should_be_number">"Smsc ቁፅሪ ክኸውን አይኽእልን"</string>
+<string name="smsc_list">"ናይ SMS ማእኸል ዝርዝር"</string>
+<string name="smsc_list_empty">"ናይ SMS ማእኸል ቁፅሪታት የለን"</string>
+<string name="smsc_list_loading">"ይእልሽ አሎ"</string>
+<string name="smsc_list_empty_toast">"መልእኽቲ አይተልአኸን፣ ናይ SMS ቁጽሪ የለን"</string>
+<string name="smsc_list_empty_notify_des">"በጃኻ ሓድሽ ናይ SMS መልእኽቲ ማእኸል ወስኽ"</string>
+<string name="smsc_list_empty_notify_title">"ናይ SMS ማእኸል ቁፅሪ የለን"</string>
+<string name="shared_image_number_exceed">"ዝልዓለ ናይ ዝተኻፈለ ምስሊታት ቁጽሪ %dእዩ፣ እቲ ዝሓለፈ ኣልጊሱ ኣሎ።"</string>
+<string name="drm_unsupported_toast">"DRM ፋይል ህሉው የለን። በጃኻ ካልእ ፋይል ምረጽ።"</string>
+<string name="err_sent_no_sim">"ጽሑፋዊ መልእኽቲ ኣይተሰደን፤ ሲም-ካርድ የብልኩምን"</string>
+<string name="is_redirect_to">"ናብ%1$sይምራሕ ኣሎ?"</string>
+<string name="browser">"ብሮውሰር"</string>
+<string name="email">"ኢ-ማይል"</string>
+<string name="telephone">"ስልኪ"</string>
+<string name="map">"ካርታ"</string>
+<string name="message_signature_setting">"ናይ ክታም ኣቀማምጣ"</string>
+<string name="pref_signature_enable_title">"ኣማራጺ ክታም"</string>
+<string name="pref_signature_enabl_summary">"ኣብ ነፍሲወከፍ ትሰዶ መልእኽቲ ብቐጥታ ክታም ወስኽ"</string>
+<string name="pref_signature_input_title">"ክታምኣርም"</string>
+<string name="pref_signature_input_summary">"ክታምካ ንምቕማጥ ኣብዚ ኣእትዉ"</string>
+<plurals name="attachments_saved_dir">
+<item quantity="one">"<xliff:g id="quantity">%d</xliff:g> ተተሓሓዚ ናብ\"<xliff:g id="dir">%s</xliff:g>\"ተዕቂቡ"</item>
+<item quantity="other">"<xliff:g id="quantity">%d</xliff:g> ተተሓሓዚ ፋይል ናብ\"<xliff:g id="dir">%s</xliff:g>\"ተዓቂቡ"</item>
+</plurals>
+<string name="no_permissions">"ፍቓድ የለን"</string>
+<string name="no_call_permissions">"ፍቓዳት ምፍጻም ጻውዒታት ተሌፎን ኣይተዋህቡን"</string>
+<string name="folder_loading">"አብምጽዓን"</string>
+<string name="sms_merge_forward_empty">"ሓዊስካዝተመሓላለፈ SMS መልእኽቲየለን"</string>
+<string name="sms_forward">"ኣሕልፍ"</string>
+<string name="sms_merge_dialog_title">"ምፍላጥ"</string>
+<string name="sms_merge_dialog_content1">"ኣብ መንጎ%dጥራሕ ኢኻ SMS መልእኽቲታት ክትሕውስ ትኽእል "</string>
+<string name="sms_merge_dialog_content2">"ከምኡ’ውን %d SMS መልእኽቲታት። በጃኻ ኣረጋግጽ።"</string>
+<string name="messagelist_sender_self">"ኣነ"</string>
+<string name="sms_merge_forward">"ሓዊስካ አመሓላልፍ"</string>
+<string name="muti_select_all">"ኩሉ ኣድምቆ"</string>
+<string name="menu_select_none">"ኩሉ ኣቋርፅ"</string>
+<string name="sms_merge_dialog_content_exceed">"ልዕሊ %d ገደብ ትሕዝቶ ዘለዎ ዝተላእኸ መልእኽቲታት ሓዊስካ፣ በጃኻ ከምእንደገና መርምሮ!"</string>
+<string name="no_sms_permissions">"ፍቓድ ናይ SMS የለን፣ መስምዓዉ ክተጻውት ኣይከኣልን።"</string>
+<string name="smil_subject_hint">"ኣርእስቲ ናይ ኤም.ኤም.ኤስ. የልቦን፤ ከተርትዑ ትኽእሉ ኢኹም"</string>
+<string name="smil_out_of_size">"ካብ መሞሪ ወጻኢ"</string>
+<string-array name="smil_choice_items">
+<item>"Smil ስካን"</item>
+<item>"ምርኢት ስላይዳት ከተጻውቱ ትኽእሉ ኢኹም"</item>
+</string-array>
+<string name="video_content_type">"ቪድዮ፡"</string>
+<string name="iamge_content_type">"ስእሊ፡"</string>
+<string name="audio_content_type">"ድምፂ፡"</string>
+<string name="subject_edit">"ኣርእስቲ ምእራም"</string>
+<string name="text_edit">"ፅሑፍ ኣራሚ"</string>
+<string name="repalce_slide">"Slide ተክእ"</string>
+<string name="remove_slide">"ስላይድ ኣወግድ"</string>
+<string name="insert_befor_slide">"ቅድሚ Slide የእቱ"</string>
+<string name="insert_after_slide">"ድሕር Slide የእቱ"</string>
+<string name="add_attachment">"ተተሓሓዚ ወስኽ"</string>
+<string name="remove_attachment">"ተተሓሓዚ ወግድ"</string>
+<string name="repalce_attachment">"ንጥብቆኹም ብኻልእ ተክእዎ"</string>
+<string name="hint_for_input">"በጃኻ ንምእራም"</string>
+<string name="hint_for_empty">"በጃኻ ንምእራም፣ ኣብዚ እዋንዚ ዘሎ ዝተተሓሓዘ ባዶ ዝተተሓሓዘ እዩ።"</string>
+<string name="goto_smil">"ስላይድ ሾው"</string>
+<string name="smil_subject">"ኣርእስቲ"</string>
+<string name="action_sim_sms">"መልእኽቲ ኣብ ሲም"</string>
+<string name="sms_save_to_sim_pref_title">"SMS አብ SIM አቐምጥ"</string>
+<string name="sms_save_to_sim_pref_summary">"ንዝመጸ ሓድሽ ናይ ኤስ.ኤም.ኤስ. መልእኽቲ ኣብ ሲም-ካርድ ዓቅብዮ ወይ ድማ ኣይፋል"</string>
+<string name="sms_sim_full_title">"ሲም መሊኡ"</string>
+<string name="sms_sim_full_notification_ticker">"ዝተሓተ ናይ ኢስ ም ኢስ ቦታ መልእክቲ ክትጥፍኡ ኢኹም"</string>
+<string name="sms_sim_full_text">"sim ምሉእ እዩ፣ እቲ sms ኣብቲ ናይ መልኣኺ ማዕከን-ዳታ ክዕቀብ እዩ። ከምኡ’ውን ከም እንደግና ናብ sim ክትዕቅብ እንተደሊኻ በጃኻ sms ካብ sim ሰርዝ።"</string>
+<plurals name="search_results_title">
+<item quantity="one">"<xliff:g id="NUMBER">%1$s</xliff:g> ባእታፍተሻ ዝተገበረሉ ውጺኢታት “<xliff:g id="SEARCH">%2$s</xliff:g>”ይሰማማዕ"</item>
+<item quantity="other">"<xliff:g id="NUMBER">%1$s</xliff:g> ባእታታት ፍተሻ ዝተገበረሉ ውጺኢታት “<xliff:g id="SEARCH">%2$s</xliff:g>”ይሰማማዕ"</item>
+</plurals>
+<string name="menu_search_text">"ድለ"</string>
+<string name="search_label">"መልእኽቲ"</string>
+<string name="search_hint">"መልእኽቲ ኣልሽ"</string>
+<string name="search_max_length">"ናይ ምእላሽ ሙሉእ ሓሳብ ነዊሑ፣ እስካብ 512 ብቻ"</string>
+<string name="search_setting_description">"ጽሑፍ ኣብ መልእኽቲ"</string>
+<string name="search">"መልእኽቲ"</string>
+<string name="search_empty">"ዝመሳሰል ኣይተረኸበን"</string>
+<string name="search_history">"<xliff:g id="count">%1$s</xliff:g> ናይ \"<xliff:g id="search">%2$s</xliff:g>\" መልሲ"</string>
+<string name="can_not_add_same_attachment">"ተመሳሳሊ ዝተተሓሓዘ ንምውሳኽ ክድገም ኣይከኣልን"</string>
+<string name="can_not_add_same_picture">"ሓደ ዓይነት ስእሊ ንምውሳኽ ክድገም ኣይከኣልን"</string>
+<string name="smil_add_text">"ናይ ጽሑፍ ዝተተሓሓዝ ወስኽ"</string>
+<string name="smil_update_text">"ንጽሑፋዊ ጥብቆ ዕዉት ብዝዀነ መገዲ ኣሐድስዎ"</string>
+<string name="smil_empty_content">"ባዶ ትሕዝቶ፣ ምስዳድ ደው ኣብል!"</string>
+<string name="exceed_participant_limit">"ናይ ተኻፈልቲ ብዝሒ ንገደብ ሓሊፉ(<xliff:g>%1$s</xliff:g>)፣ በጃኻ ሰርዞም<xliff:g>%2$s</xliff:g>እዚኣቶም።"</string>
+<string name="folder_view_menu_item_title">"ፎልደር መርኣይይ"</string>
+<string name="capacity_sim_message_title">"ናይ ሲም ዓቕሚ"</string>
+<string name="capacity_sim_message_summary">"ህሉው/ዝለዓለ መጠን ዓቕሚ፦%s"</string>
+<string name="audio_record_retry">"በጀኻ እቲ ናይ ድሕረባይታ መቕድሕ ዓጺኻ መሊስካ ፈትን።"</string>
+<string name="contact_invalid">"ዘይቅቡል ርክብ፣ በጃኻ እቲ ቅቡል ርክብ መሊስካ ምረጽ።"</string>
+<string name="message_size_counting">"ይቆጽር ኣሎ"</string>
+<string name="pref_encode_type_setting_title">"ናይ ምምስጣር ዓይነት ኣቀማምጣ"</string>
+<string name="pref_encode_type_title">"ናይ ኢንኮድ ዓይነት"</string>
+<string name="fdn_check_failure">"ኣብቲ ቀዋሚ መደወሊ ቁጽሪታትካ ጥራሕ ኢኻ መልእኽቲታት ክትሰድድ ትኽእል።"</string>
+<string name="data_call_fdn_check_failure">"FDN ስለ ዘይነቕሐ MMS ክስደድ ኣይክእልን እዩ። በጃኻ ኣብ ናይ FDN ዝርዝር *99# ወሲኽካ ደሓር ከምእንደገና ፈትን።"</string>
+<string name="smsc_fdn_check_failure">"FDN ስለ ዘይነቕሐ SMS ክስደድ ኣይክእልን እዩ ከምኡ’ውን ናይ መልእኽቲ ማእከል ቁጽሪ ኣብ ናይ FDN ዝርዝር የለን።"</string>
+<string name="smil_wait_comparing_att_size">"እናጸዓነ፣ በጃኻ ሓንሳብ ተጸበ!"</string>
+<string name="smil_max_slide_count">"ጥራሕ %sslides ክውስኽ ዝኽእል"</string>
+<string name="sms_wap_pref_title">"SMS WAP መልእኽቲ እንቅሕ"</string>
+<string name="sms_wap_pref_summary">"SMS WAP መልእኽቲ መቐበሊ እንቅሕ"</string>
+<string name="smil_Player_title">"SMIL መፃወቲ"</string>
+<string name="smil_caption_description">"SMIL"</string>
+<string name="smil_caption_edit_hint">"(ንምእራም ጠውቕ)"</string>
+<string name="show_save_attachment_info">"ክትዕቅቦ?"</string>
+<string name="attachment_save_success">"ምዕቃብ ትሳኺዑ"</string>
+<string name="unread_message_count">"ሓበሬታ አይተነበበን"</string>
+<string name="mms_convert_to_smil_title">"ናብ slides ቀይር"</string>
+<string name="mms_convert_to_smil_message">"እቲ Mms ናብ slides ክቕየር እዩ፣እዚ ገለብናይ slide ኣገባብ ዘይተደግፉ ተተሓሓዝቲ ከውድቕ ይኽእል፡ ርግጸኛ?"</string>
+<string name="confirm_convert">"ሕራይ"</string>
+<string name="cancel_convert">"ኣሰናኽል"</string>
+<string name="smil_max_part_count">"ጥራሕ %sዝተተሓሓዘ ኣብ slide ክውስኽ ዝኽእል።"</string>
+<string name="smil_add_error_same_content_type">"ኣብ ሓደ ስላይድ ክልተ ሓደ ዓይነት መራኸቢ ክውሰኽ ኣይከኣልን።"</string>
+<string name="smil_add_error_video_conflict">"ናይ መሳምዓዊ ምስሊ ዘለዎ ቪድዮ ኣብ ስላይድ ክምለስ ኣያከኣልን።"</string>
+<string name="smil_replace_error_same_content_type">"ክልተ ሓደ መራኸቢ ዓይነት ዝተተሓሓዘ ኣብ ሓደ ስላይድ ክውሰኽ ስለዘይክእል ክትካእ ኣይከኣልን።"</string>
+<string name="smil_replace_error_video_conflict">"ብቪድዮ ክትካእ ሰለዘይክእል፣ በጃካ ተተሓሓዚካ ኣልጊስካ መሊስካ ፈትን።"</string>
+<string name="smil_edit_hint">"ስላይድስ፣ ጠዊቕካ ኣርም።"</string>
+<string name="smil_unsupported_content_type">"ዘይተደገፈ ዓይነት ትሕዝቶ።"</string>
+<string name="pref_internal_memory_usage_title">"MMS/ህልው/ኩሉ"</string>
+<string name="pref_internal_memory_usage_progress_summary">"ናይ መዘከሪ ቦታ አብ ምቑፃር….."</string>
+<string name="discard_message_reason">"መልእኽትኹም ክቋረጽ እዩ ምክንያቱም ተቀባሊ ዝኮነ ረሲፕት የቡሉን"</string>
+<string name="no_common_phrase">"ልሙዳት ሓረጋት ቋንቋ የለዉን"</string>
+<string name="action_copy_to_sim">"ናብ SIM ቅዳሕ"</string>
+<string name="select_sim">"ሲም-ካርድ ምረጹ"</string>
+<string name="sim_space_not_enough">"እቲ ኣብ ሲም-ካርድ ዝርከብ መጠን ማዕከን ኤስ.ኤም.ኤስ. ኣኹል ኣይኰነን"</string>
+<string name="move_message_to_phone_memory">"መስርሕ ምድቃል መልእኽቲ ናብ ውሽጣዊ ቦታ ዝኽሪ ተሌፎን ዕዉት ነይሩ"</string>
+<string name="can_not_copy_the_message">"መልእኽቲክቕዳሕአይከአለን"</string>
+<string name="failed_to_add_media">"እዚ ምእታው ኣይከእልን <xliff:g id="name">%1$s</xliff:g> ናብ መልእኽቲ"</string>
+<string name="contentType_audio">"ድምጼ"</string>
+<string name="contentType_video">"ቪድዮ"</string>
+<string name="contentType_image">"ምስሊ"</string>
+<string name="contentType_other">"ዘይተደገፈ ፋይል ዓይነትል ክካፈል ኣይከኣልን"</string>
+<string name="no_record_audio_permission">"ናይ ዝተቐደሐ መስምዓዊ ፍቓድ የለን!"</string>
+<string name="close_float_video">"ካሜራ ክትከፍት እንከለኻ ኣብቲ windows ዝንሳፈፍ ዘሎ ቪድዮ ዕጸው።"</string>
+<string name="unable_get_data">"ክዙን ሓበሬታ ክርከብ ኣይተኻእለን"</string>
+<string name="unexpected_recording_error">"ብኽብረትኩም ነዚ ዝቐርጽ ዘሎ ኣፕሊኬሽን ዓጺኹም ከም እንደገና ፈትኑ"</string>
+<string name="add_contacts_dialog_title">"አድራሻ ወሰኽ"</string>
+<string name="add_contact_as_text">"ናየ ፅሑፍ መልእኽቲ"</string>
+<string name="file_not_found_exception">"እቲ ሰነድ ኣይተረኽበን!"</string>
+<string name="pref_title_mms_size_limit">"ደረት መጠን ጽዕነት ናይ ኤም.ኤም.ኤስ።"</string>
+<string name="pref_summary_mms_size_limit">"ደረት መጠን ጽዕነት ናይ ኤም.ኤም.ኤስ. ኣብ መዳይ ምጭባጥ ትሕዝቶ መልእኽቲ"</string>
+<string name="sub_card_download_mms_noti">"ተሓጋጋዚ ካርድ ኤም.ኤም.ኤስ. ድሕሪ ምቕባሉ፡ መስመር ርክብ መርበብ ቀይሩ"</string>
+<string name="compressing">"ፎቶ ዓብይይ እዩ፣ ኣብ ምቅያር\u2026"</string>
+<string name="folder_display_option">"መማረጺ ኣርእይ"</string>
+<string name="folder_sortby">"ብ ኣቀምጥ"</string>
+<string name="folder_delete_messages">"መልእኽቲ ኣርእይ"</string>
+<string name="sort_msg_list_empty_text">"መልእኽቲ ኣብዚ ተዘርዚሩ ተግኒዎ ትኽእሉ"</string>
+<string name="folder_display_all">"ኩሉ መልእኽቲ ኣርእይ"</string>
+<string name="delete_messages_confirmation_dialog_title">"ዝተመረጸ መልእኽቲ ኣርእይ"</string>
+<string name="delete_message_fail">"ዝተመረጸ መልእኽቲ ንምጣፍ ኣይተኽኣለን"</string>
+<string name="have_select_message">"ተመሪጹ %1$d"</string>
+<string name="copy_sim_sms_to_phone">"መልእኽቲ ናብ ስልኪ ቅዳሕ"</string>
+<string name="simsms_title">"መልእኽቲ ኣብ ሲም"</string>
+<string-array name="sort_type">
+<item>"ብ ግዘ desc"</item>
+<item>"ብ ግዘ asc"</item>
+<item>"ብ ኣድራሻ desc"</item>
+<item>"ብ ኣድራሻ asc"</item>
+</string-array>
+</resources>

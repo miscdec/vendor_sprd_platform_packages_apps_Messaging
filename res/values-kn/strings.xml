@@ -1,0 +1,537 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+    Copyright (C) 2015 The Android Open Source Project
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+         http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
+ -->
+
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name" msgid="3062916848713424329">"ಸಂದೇಶ ಕಳುಹಿಸುವಿಕೆ"</string>
+    <string name="share_intent_label" msgid="6920483598866144717">"ಸಂದೇಶ ಕಳುಹಿಸುವಿಕೆ"</string>
+    <plurals name="num_minutes_ago" formatted="false" msgid="4085627474543076735">
+      <item quantity="one"><xliff:g id="COUNT_1">%d</xliff:g> ನಿಮಿಷಗಳು</item>
+      <item quantity="other"><xliff:g id="COUNT_1">%d</xliff:g> ನಿಮಿಷಗಳು</item>
+    </plurals>
+    <plurals name="num_hours_ago" formatted="false" msgid="8010868301590914325">
+      <item quantity="one"><xliff:g id="COUNT_1">%d</xliff:g> ಗಂಟೆಗಳು</item>
+      <item quantity="other"><xliff:g id="COUNT_1">%d</xliff:g> ಗಂಟೆಗಳು</item>
+    </plurals>
+    <plurals name="num_days_ago" formatted="false" msgid="8753803762044567843">
+      <item quantity="one"><xliff:g id="COUNT_1">%d</xliff:g> ದಿನಗಳು</item>
+      <item quantity="other"><xliff:g id="COUNT_1">%d</xliff:g> ದಿನಗಳು</item>
+    </plurals>
+    <plurals name="week_count" formatted="false" msgid="1301973226125551953">
+      <item quantity="one"><xliff:g id="COUNT">%d</xliff:g> ವಾರಗಳು</item>
+      <item quantity="other"><xliff:g id="COUNT">%d</xliff:g> ವಾರಗಳು</item>
+    </plurals>
+    <plurals name="month_count" formatted="false" msgid="4858515363324110232">
+      <item quantity="one"><xliff:g id="COUNT">%d</xliff:g> ತಿಂಗಳು</item>
+      <item quantity="other"><xliff:g id="COUNT">%d</xliff:g> ತಿಂಗಳು</item>
+    </plurals>
+    <plurals name="year_count" formatted="false" msgid="4522546496183798317">
+      <item quantity="one"><xliff:g id="COUNT">%d</xliff:g> ವರ್ಷಗಳು</item>
+      <item quantity="other"><xliff:g id="COUNT">%d</xliff:g> ವರ್ಷಗಳು</item>
+    </plurals>
+    <plurals name="notification_send_failures" formatted="false" msgid="6938919932879650691">
+      <item quantity="one"><xliff:g id="CONVERSATIONS">%d</xliff:g> ಸಂವಾದಗಳಲ್ಲಿ <xliff:g id="MESSAGES_1">%d</xliff:g> ಸಂದೇಶಗಳು</item>
+      <item quantity="other"><xliff:g id="CONVERSATIONS">%d</xliff:g> ಸಂವಾದಗಳಲ್ಲಿ <xliff:g id="MESSAGES_1">%d</xliff:g> ಸಂದೇಶಗಳು</item>
+    </plurals>
+    <plurals name="notification_download_failures" formatted="false" msgid="5341490525457911398">
+      <item quantity="one"><xliff:g id="CONVERSATIONS">%d</xliff:g> ಸಂವಾದಗಳಲ್ಲಿ <xliff:g id="MESSAGES_1">%d</xliff:g> ಸಂದೇಶಗಳು</item>
+      <item quantity="other"><xliff:g id="CONVERSATIONS">%d</xliff:g> ಸಂವಾದಗಳಲ್ಲಿ <xliff:g id="MESSAGES_1">%d</xliff:g> ಸಂದೇಶಗಳು</item>
+    </plurals>
+    <plurals name="notification_new_messages" formatted="false" msgid="610594317958128842">
+      <item quantity="one"><xliff:g id="MESSAGES">%d</xliff:g> ಹೊಸ ಸಂದೇಶಗಳು</item>
+      <item quantity="other"><xliff:g id="MESSAGES">%d</xliff:g> ಹೊಸ ಸಂದೇಶಗಳು</item>
+    </plurals>
+    <plurals name="delete_conversations_confirmation_dialog_title" formatted="false" msgid="2285567882353326800">
+      <item quantity="one">ಈ ಸಂವಾದಗಳನ್ನು ಅಳಿಸುವುದೇ?</item>
+      <item quantity="other">ಈ ಸಂವಾದಗಳನ್ನು ಅಳಿಸುವುದೇ?</item>
+    </plurals>
+    <string name="attachment_more_items" msgid="2861573099241369958">"+<xliff:g id="COUNT">%d</xliff:g>"</string>
+    <plurals name="wearable_participant_count" formatted="false" msgid="3037889420270036143">
+      <item quantity="one"><xliff:g id="COUNT_1">%d</xliff:g> ಪಾಲ್ಗೊಳ್ಳುವವರು</item>
+      <item quantity="other"><xliff:g id="COUNT_1">%d</xliff:g> ಪಾಲ್ಗೊಳ್ಳುವವರು</item>
+    </plurals>
+    <plurals name="attachment_preview_close_content_description" formatted="false" msgid="5631719319690969981">
+      <item quantity="one">ಲಗತ್ತುಗಳನ್ನು ತಿರಸ್ಕರಿಸು</item>
+      <item quantity="other">ಲಗತ್ತುಗಳನ್ನು ತಿರಸ್ಕರಿಸು</item>
+    </plurals>
+    <plurals name="photos_saved_to_album" formatted="false" msgid="7529478299745446838">
+      <item quantity="one">\"<xliff:g id="ALBUMNAME_3">%s</xliff:g>\" ಆಲ್ಬಮ್‌ಗೆ <xliff:g id="QUANTITY_2">%d</xliff:g> ಫೋಟೋಗಳನ್ನು ಉಳಿಸಲಾಗಿದೆ</item>
+      <item quantity="other">\"<xliff:g id="ALBUMNAME_3">%s</xliff:g>\" ಆಲ್ಬಮ್‌ಗೆ <xliff:g id="QUANTITY_2">%d</xliff:g> ಫೋಟೋಗಳನ್ನು ಉಳಿಸಲಾಗಿದೆ</item>
+    </plurals>
+    <plurals name="videos_saved_to_album" formatted="false" msgid="6821121808257576788">
+      <item quantity="one">\"<xliff:g id="ALBUMNAME_3">%s</xliff:g>\" ಆಲ್ಬಮ್‌ಗೆ <xliff:g id="QUANTITY_2">%d</xliff:g> ವೀಡಿಯೊಗಳನ್ನು ಉಳಿಸಲಾಗಿದೆ</item>
+      <item quantity="other">\"<xliff:g id="ALBUMNAME_3">%s</xliff:g>\" ಆಲ್ಬಮ್‌ಗೆ <xliff:g id="QUANTITY_2">%d</xliff:g> ವೀಡಿಯೊಗಳನ್ನು ಉಳಿಸಲಾಗಿದೆ</item>
+    </plurals>
+    <plurals name="attachments_saved_to_album" formatted="false" msgid="8407480699515308929">
+      <item quantity="one">\"<xliff:g id="ALBUMNAME_3">%s</xliff:g>\" ಆಲ್ಬಮ್‌ಗೆ <xliff:g id="QUANTITY_2">%d</xliff:g> ಲಗತ್ತುಗಳನ್ನು ಉಳಿಸಲಾಗಿದೆ</item>
+      <item quantity="other">\"<xliff:g id="ALBUMNAME_3">%s</xliff:g>\" ಆಲ್ಬಮ್‌ಗೆ <xliff:g id="QUANTITY_2">%d</xliff:g> ಲಗತ್ತುಗಳನ್ನು ಉಳಿಸಲಾಗಿದೆ</item>
+    </plurals>
+    <plurals name="attachments_saved_to_downloads" formatted="false" msgid="1886864019411801995">
+      <item quantity="one">\"ಡೌನ್‌ಲೋಡ್‌ಗಳಿಗೆ\" <xliff:g id="QUANTITY_1">%d</xliff:g> ಲಗತ್ತುಗಳನ್ನು ಉಳಿಸಲಾಗಿದೆ</item>
+      <item quantity="other">\"ಡೌನ್‌ಲೋಡ್‌ಗಳಿಗೆ\" <xliff:g id="QUANTITY_1">%d</xliff:g> ಲಗತ್ತುಗಳನ್ನು ಉಳಿಸಲಾಗಿದೆ</item>
+    </plurals>
+    <plurals name="attachments_saved" formatted="false" msgid="6925000482183379648">
+      <item quantity="one"><xliff:g id="QUANTITY_1">%d</xliff:g> ಲಗತ್ತುಗಳನ್ನು ಉಳಿಸಲಾಗಿದೆ</item>
+      <item quantity="other"><xliff:g id="QUANTITY_1">%d</xliff:g> ಲಗತ್ತುಗಳನ್ನು ಉಳಿಸಲಾಗಿದೆ</item>
+    </plurals>
+    <plurals name="attachment_save_error" formatted="false" msgid="2068837227090109833">
+      <item quantity="one"><xliff:g id="QUANTITY_1">%d</xliff:g> ಲಗತ್ತುಗಳನ್ನು ಉಳಿಸಲು ಸಾಧ್ಯವಾಗಲಿಲ್ಲ</item>
+      <item quantity="other"><xliff:g id="QUANTITY_1">%d</xliff:g> ಲಗತ್ತುಗಳನ್ನು ಉಳಿಸಲು ಸಾಧ್ಯವಾಗಲಿಲ್ಲ</item>
+    </plurals>
+    <string name="sms_disabled_pref_title" msgid="6352764741524717132">"ಡೀಫಾಲ್ಟ್ SMS ಅಪ್ಲಿಕೇಶನ್"</string>
+    <string name="sms_enabled_pref_title" msgid="2961457081888153323">"ಡೀಫಾಲ್ಟ್ SMS ಅಪ್ಲಿಕೇಶನ್"</string>
+    <!-- no translation found for default_sms_app (3907546126124760465) -->
+    <skip />
+    <plurals name="compose_message_view_hint_text_photo" formatted="false" msgid="8937589900456604618">
+      <item quantity="one">ಫೋಟೋಗಳನ್ನು ಕಳುಹಿಸಿ</item>
+      <item quantity="other">ಫೋಟೋಗಳನ್ನು ಕಳುಹಿಸಿ</item>
+    </plurals>
+    <plurals name="compose_message_view_hint_text_audio" formatted="false" msgid="5934090345811195170">
+      <item quantity="one">ಆಡಿಯೋಗಳನ್ನು ಕಳುಹಿಸಿ</item>
+      <item quantity="other">ಆಡಿಯೋಗಳನ್ನು ಕಳುಹಿಸಿ</item>
+    </plurals>
+    <plurals name="compose_message_view_hint_text_video" formatted="false" msgid="9188048653766960507">
+      <item quantity="one">ವೀಡಿಯೊಗಳನ್ನು ಕಳುಹಿಸಿ</item>
+      <item quantity="other">ವೀಡಿಯೊಗಳನ್ನು ಕಳುಹಿಸಿ</item>
+    </plurals>
+    <plurals name="compose_message_view_hint_text_vcard" formatted="false" msgid="933064969858631242">
+      <item quantity="one">ಸಂಪರ್ಕ ಕಾರ್ಡ್‍ಗಳನ್ನು ಕಳುಹಿಸಿ</item>
+      <item quantity="other">ಸಂಪರ್ಕ ಕಾರ್ಡ್‍ಗಳನ್ನು ಕಳುಹಿಸಿ</item>
+    </plurals>
+    <plurals name="compose_message_view_hint_text_attachments" formatted="false" msgid="1778518334602418000">
+      <item quantity="one">ಲಗತ್ತುಗಳನ್ನು ಕಳುಹಿಸಿ</item>
+      <item quantity="other">ಲಗತ್ತುಗಳನ್ನು ಕಳುಹಿಸಿ</item>
+    </plurals>
+    <plurals name="attachment_changed_accessibility_announcement" formatted="false" msgid="5592871135747616108">
+      <item quantity="one"><xliff:g id="ATTACHMENT_COUNT">%d</xliff:g> ಕಳುಹಿಸಲು ಲಗತ್ತುಗಳು ಸಿದ್ಧವಾಗಿವೆ</item>
+      <item quantity="other"><xliff:g id="ATTACHMENT_COUNT">%d</xliff:g> ಕಳುಹಿಸಲು ಲಗತ್ತುಗಳು ಸಿದ್ಧವಾಗಿವೆ</item>
+    </plurals>
+    <string name="notification_subject" msgid="5229975483160300625">"<xliff:g id="SUBJECT_LABEL">%s</xliff:g><xliff:g id="MESSAGETEXT">%s</xliff:g>"</string>
+    <plurals name="vcard_multiple_display_name" formatted="false" msgid="2884224435488996028">
+      <item quantity="one"><xliff:g id="COUNT_1">%d</xliff:g> ಸಂಪರ್ಕಗಳು</item>
+      <item quantity="other"><xliff:g id="COUNT_1">%d</xliff:g> ಸಂಪರ್ಕಗಳು</item>
+    </plurals>
+    <string name="plus_one" msgid="9010288417554932581">"+1"</string>
+    <string name="plus_n" msgid="8961547034116059566">"+%d"</string>
+    <plurals name="add_invalid_contact_error" formatted="false" msgid="782438833843363189">
+      <item quantity="one">ಅಮಾನ್ಯ ಸಂಪರ್ಕಗಳು</item>
+      <item quantity="other">ಅಮಾನ್ಯ ಸಂಪರ್ಕಗಳು</item>
+    </plurals>
+    <string name="apn_apn" msgid="1197541953189716999">"APN"</string>
+    <string name="apn_mmsc" msgid="2584154739440281747">"MMSC"</string>
+    <string name="apn_mcc" msgid="8102023058623950736">"MCC"</string>
+    <string name="apn_mnc" msgid="1372437523197012866">"MNC"</string>
+    <string name="widget_title_content_description" msgid="5802836840910466231">"ಸಂದೇಶ ಕಳುಹಿಸುವಿಕೆ"</string>
+    <string name="widget_conversation_name" msgid="3900606239571892871">"ಸಂದೇಶ ಕಳುಹಿಸುವಿಕೆ"</string>
+    <string name="link_display_format" msgid="8700344957248709584">"<xliff:g id="TEXT">%1$s</xliff:g> (<xliff:g id="URL">%2$s</xliff:g>)"</string>
+<string name="share_intent_activity_label">"ಸಂವಾದವನ್ನು ಆಯ್ಕೆಮಾಡಿ"</string>
+<string name="action_settings">"ಸೆಟ್ಟಿಂಗ್ ಗಳು"</string>
+<string name="sendButtonContentDescription">"ಸಂದೇಶ ಕಳುಹಿಸಿ"</string>
+<string name="attachMediaButtonContentDescription">"ಲಗತ್ತನ್ನು ಸೇರಿಸಿ"</string>
+<string name="help_and_feedback_activity_label">"ಸಹಾಯ"</string>
+<string name="alarm_message_date">"ದಿನಾಂಕವನ್ನು ಆಯ್ಕೆಮಾಡಿ"</string>
+<string name="alarm_message_time">"ಸಮಯವನ್ನು ಆಯ್ಕೆಮಾಡಿ"</string>
+<string name="alarm_message_setup">"ಸೆಟ್ ಅಪ್"</string>
+<string name="alarm_message_cancel">"ರದ್ದು"</string>
+<string name="welcome">"ಸ್ವಾಗತ"</string>
+<string name="skip">"ಜಿಗಿದುಸಾಗಿ"</string>
+<string name="next_with_arrow">"ಮುಂದೆ&gt;"</string>
+<string name="next">"ಮುಂದಿನದು"</string>
+<string name="exit">"ಹೊರಕ್ಕೆ"</string>
+<string name="settings_with_arrow">"ಸೆಟ್ಟಿಂಗ್ಗಳು&gt;"</string>
+<string name="settings">"ಸೆಟ್ಟಿಂಗ್ ಗಳು"</string>
+<string name="required_permissions_promo">"ಫೋನ್ ಮತ್ತು ಸಂಪರ್ಕಗಳಿಗೆ ಸಂದೇಶ ಕಳುಹಿಸಲು SMS ಅನುಮತಿ ಬೇಕು"</string>
+<string name="enable_permission_procedure">"ನೀವು ಸೆಟ್ಟಿಂಗ್ ಗಳು &gt; ಆ್ಯಪ್ ಗಳು &gt; ಸಂದೇಶಗಳು &gt; ಅನುಮತಿಗಳಲ್ಲಿ ಅನುಮತಿಗಳನ್ನು ಬದಲಿಸಬಹುದು."</string>
+<string name="enable_permission_procedure_description">"ನೀವು ಸೆಟ್ಟಿಂಗ್ ಗಳು, ಆ್ಯಪ್  ಗಳು, ಸಂದೇಶ, ಅನುಮತಿಗಳಲ್ಲಿ ಅನುಮತಿಯನ್ನು ಬದಲಿಸಬಹುದು."</string>
+<string name="contact_picker_frequents_tab_title">"ಪುನರಾವರ್ತನೆಗಳು"</string>
+<string name="contact_picker_all_contacts_tab_title">"ಎಲ್ಲ ಸಂಪರ್ಕಗಳು"</string>
+<string name="contact_list_send_to_text">"<xliff:g id="destination">%s</xliff:g>ಇಲ್ಲಿಗೆ ಕಳುಹಿಸು "</string>
+<string name="mediapicker_cameraChooserDescription">"ಚಿತ್ರಗಳನ್ನು ಅಥವಾ ವಿಡಿಯೊವನ್ನು ಸೆರೆಹಿಡಿಯಿರಿ"</string>
+<string name="mediapicker_galleryChooserDescription">"ಈ ಸಾಧನದಿಂದ ಚಿತ್ರಗಳನ್ನು ಆರಿಸಿ"</string>
+<string name="mediapicker_audioChooserDescription">"ಆಡಿಯೋ ರೆಕಾರ್ಡ್ ಮಾಡಿಕೊಳ್ಳಿ"</string>
+<string name="mediapicker_gallery_title">"ಫೋಟೊ ಆಯ್ಕೆ ಮಾಡಿ"</string>
+<string name="mediapicker_gallery_item_selected_content_description">"ಮಾಧ್ಯಮವನ್ನು ಆಯ್ಕೆ ಮಾಡಲಾಗಿದೆ."</string>
+<string name="mediapicker_gallery_item_unselected_content_description">"ಮಾಧ್ಯಮವನ್ನು ಆಯ್ಕೆ ಮಾಡಲಾಗಿಲ್ಲ."</string>
+<string name="mediapicker_gallery_title_selection">"<xliff:g id="count">%d</xliff:g> ಆಯ್ಕೆಮಾಡಲಾಗಿದೆ"</string>
+<string name="mediapicker_gallery_image_item_description">"<xliff:g id="date">%1$tB %1$te %1$tY %1$tl %1$tM %1$tp</xliff:g> ಚಿತ್ರ "</string>
+<string name="mediapicker_gallery_image_item_description_no_date">"ಚಿತ್ರ"</string>
+<string name="mediapicker_audio_title">"ಆಡಿಯೋ ರೆಕಾರ್ಡ್ ಮಾಡಿಕೊಳ್ಳಿ"</string>
+<string name="action_share">"ಹಂಚಿಕೊಳ್ಳಿ"</string>
+<string name="posted_just_now">"ಈಗ ತಾನೆ"</string>
+<string name="posted_now">"ಈಗ"</string>
+<string name="class_0_message_activity">"ವರ್ಗ 0 ಸಂದೇಶ"</string>
+<string name="save">"ಉಳಿಸಿ"</string>
+<string name="sms_storage_low_auto_delete_enabled_dialog_text">"ಸಾಧನದಲ್ಲಿ ಸ್ಥಳಾವಕಾಶ ಕಡಿಮೆಯಿದೆ. ಸ್ಥಳಾವಕಾಶವನ್ನು ಮುಕ್ತಗೊಳಿಸಲು ಹಳೆಯ ಸಂದೇಶಗಳನ್ನು ಸ್ವಯಂಚಾಲಿತವಾಗಿ ಅಳಿಸಲಾಗುತ್ತದೆ."</string>
+<string name="sms_storage_low_title">"ಸ್ಟೋರೇಜ್ ಸ್ಥಳದಲ್ಲಿ ಜಾಗವಿಲ್ಲ"</string>
+<string name="sms_storage_low_text">"ನಿಮ್ಮ ಸಾಧನದಲ್ಲಿ ಹೆಚ್ಚು ಸ್ಥಳಾವಕಾಶ ಲಭ್ಯವಾಗುವವರೆಗೆ ಸಂದೇಶಗಳನ್ನು ಕಳುಹಿಸಲು ಅಥವಾ ಸ್ವೀಕರಿಸಲು ಸಾಧ್ಯವಾಗುವುದಿಲ್ಲ."</string>
+<string name="sms_storage_low_notification_ticker">"ಕಡಿಮೆ SMS ಸಂಗ್ರಹಣೆ ನೀವು ಸಂದೇಶಗಳನ್ನು ಅಳಿಸಬೇಕಾಗಬಹುದು."</string>
+<string name="enter_phone_number_title">"ನಿಮ್ಮ ಫೋನ್ ಸಂಖ್ಯೆಯನ್ನು ದೃಢೀಕರಿಸಿ"</string>
+<string name="enter_phone_number_text">"ಈ ಒಂದು ಬಾರಿಯ ಹಂತವು ಗ್ರೂಪ್ ಗೆ ಸಂದೇಶ ತಲುಪುವುದನ್ನು ಖಚಿತ ಪಡಿಸಿಕೊಳ್ಳುತ್ತದೆ." </string>
+<string name="enter_phone_number_hint">"ಫೋನ್ ನಂಬರ್"</string>
+<string name="delete_all_media">"ಮಾಧ್ಯಮದೊಂದಿಗೆ ಎಲ್ಲಾ ಸಂದೇಶಗಳನ್ನು ಅಳಿಸಿ"</string>
+<string name="delete_oldest_messages">"<xliff:g id="duration">%s</xliff:g> ಕ್ಕಿಂತ ಹಳೆಯದಾದ ಸಂದೇಶಗಳನ್ನು ಅಳಿಸಿ"</string>
+<string name="auto_delete_oldest_messages">"<xliff:g id="duration">%s</xliff:g>ಕ್ಕಿಂತ ಹಳೆಯದಾದ ಸಂದೇಶಗಳನ್ನು ಸ್ವಯಂ ಚಾಲಿತವಾಗಿ ಅಳಿಸಿ"</string>
+<string name="ignore">"ನಿರ್ಲಕ್ಷಿಸು"</string>
+<string name="delete_all_media_confirmation">"ಮಾಧ್ಯಮದ ವಿಷಯದೊಂದಿಗೆ ಎಲ್ಲ ಸಂದೇಶಗಳನ್ನು ಅಳಿಸಲು ಬಯಸುವಿರಾ?"</string>
+<string name="delete_oldest_messages_confirmation">"<xliff:g id="duration">%s</xliff:g>ಕ್ಕಿಂತ ಹಳೆಯದಾದ ಸಂದೇಶಗಳನ್ನು ಅಳಿಸಲು ಬಯಸುವಿರಾ?"</string>
+<string name="auto_delete_oldest_messages_confirmation">"ನೀವು <xliff:g id="duration">%s</xliff:g>ಕ್ಕಿಂತ ಹಳೆಯದಾದ ಸಂದೇಶಗಳನ್ನು ಅಳಿಸಲು ಮತ್ತು ಸ್ವಯಂಚಾಲಿತವಾಗಿ ಅಳಿಸುವುದನ್ನು ಟರ್ನ್ ಆನ್ ಮಾಡಲು ಬಯ್ಸುವಿರಾ?"</string>
+<string name="incoming_text_sender_content_description">"<xliff:g id="sender">%s</xliff:g> ಹೇಳುತ್ತಾರೆ"</string>
+<string name="outgoing_text_sender_content_description">"ನೀವು ಹೇಳಿದಿರಿ"</string>
+<string name="incoming_sender_content_description">"<xliff:g id="sender">%s</xliff:g> ನಿಂದ ಸಂದೇಶ"</string>
+<string name="outgoing_sender_content_description">"ನೀವು ಸಂದೇಶವನ್ನು ಕಳುಹಿಸಿದ್ದೀರಿ"</string>
+<string name="message_status_sending">"ಕಳುಹಿಸಲಾಗುತ್ತಿದೆ ..."</string>
+<string name="message_status_alarm">"ಕಳುಹಿಸಲು ಅಲಾರಾಮ್"</string>
+<string name="message_status_send_failed">"ಕಳುಹಿಸಲಾಗಿಲ್ಲ ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಲು ಸ್ಪರ್ಶಿಸಿ."</string>
+<string name="user_not_exist">"ಯುಸರ್ ಅಸ್ತಿತ್ವದಲ್ಲಿ ಇಲ್ಲ."</string>
+<string name="message_status_send_retrying">"ಕಳುಹಿಸುವುದು ವಿಫಲವಾಗಿದೆ, ಮರುಪ್ರಯತ್ನಿಸಲಾಗುತ್ತಿದೆ ..."</string>
+<string name="message_status_resend">"ಮರುಕಳುಹಿಸು ಅಥವಾ ಅಳಿಸು"</string>
+<string name="message_status_send_failed_emergency_number">"ತುರ್ತು ಸೇವೆಗಳಿಗೆ ದಯವಿಟ್ಟು ವಾಯ್ಸ್ ಕಾಲ್ ಮಾಡಿ.ಈ ಸಮಯದಲ್ಲಿ ನಿಮ್ಮ ಪಠ್ಯ ಸಂದೇಶವನ್ನು ಯಶಸ್ವಿಯಾಗಿ ಕಳುಹಿಸಲಾಗುವುದಿಲ್ಲ."</string>
+<string name="message_status_failed">"ವಿಫಲ"</string>
+<string name="message_title_manual_download">"ಹೊಸ MMS ಬಂದಿದೆ ಡೌನ್ಲೋಡ್ ಮಾಡಿ"</string>
+<string name="message_title_downloading">"ಹೊಸ MMS ಸಂದೇಶ"</string>
+<string name="message_title_download_failed">"ಇಳಿಸಿಕೊಳ್ಳಲು ಆಗಲಿಲ್ಲ"</string>
+<string name="message_status_download_failed">"ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಲು ಇಲ್ದ್ಲಿಮುಟ್ಟಿ"</string>
+<string name="message_status_download">"ಡೌನ್ಲೋಡ್ ಮಾಡಲು ಇಲ್ಲಿ ಮುಟ್ಟಿ"</string>
+<string name="message_status_download_action">"ಡೌನ್ಲೋಡ್ ಅಥವಾ ಅಳಿಸು"</string>
+<string name="message_status_downloading">"ಡೌನ್ಲೋಡ್ ಮಾಡಲಾಗುತ್ತಿದೆ ..."</string>
+<string name="message_status_download_error">"ಸಂದೇಶ ಅವಧಿ ಮೀರಿದೆ ಅಥವಾ ಲಭ್ಯವಿಲ್ಲ"</string>
+<string name="mms_info">"ಗಾತ್ರ: <xliff:g id="messageSize">%1$s</xliff:g>, ಮುಕ್ತಾಯ ಸಮಯ: <xliff:g id="messageExpire">%2$s</xliff:g>"</string>
+<string name="invalid_destination">"ಕಳುಹಿಸಲಾಗುವುದಿಲ್ಲ. ಸ್ವೀಕೃತದಾರರು ಮಾನ್ಯವಾಗಿಲ್ಲ."</string>
+<string name="service_not_activated">"ನೆಟ್ವರ್ಕ್ ನ್ನಲ್ಲಿ ಸೇವೆ ಕ್ರಿಯಾತ್ಮಕವಾಗಿಲ್ಲ"</string>
+<string name="service_network_problem">"ನೆಟ್ವರ್ಕ್ ಸಮಸ್ಯೆಯ ಕಾರಣ ಕಳುಹಿಸಲು ಸಾಧ್ಯವಾಗಲಿಲ್ಲ"</string>
+<string name="service_message_not_found">"ಸಂದೇಶ ಅವಧಿ ಮೀರಿದೆ ಅಥವಾ ಲಭ್ಯವಿಲ್ಲ"</string>
+<string name="no_subject">"(ವಿಷಯವಿಲ್ಲ)"</string>
+<string name="unknown_sender">"ಅಪರಿಚಿತ ಸ್ವೀಕೃತಿ"</string>
+<string name="delivered_status_content_description">"ತಲುಪಿಸಲಾಗಿದೆ"</string>
+<string name="dl_failure_notification">"ಸಂದೇಶವನ್ನು ಇಳಿಸಿಕೊಳ್ಳಲು ಆಗಲಿಲ್ಲ <xliff:g id="subject">%1$s</xliff:g> ಫ್ರಂ <xliff:g id="from">%2$s</xliff:g>."</string>
+<string name="low_memory">"ಕಡಿಮೆ ಮೆಮೊರಿಯ ಕಾರಣ ಡೇಟಾಬೇಸ್ ಕಾರ್ಯಾಚರಣೆಯನ್ನು ಪೂರ್ಣಗೊಳಿಸಲು ಸಾಧ್ಯವಾಗಲಿಲ್ಲ"</string>
+<string name="notification_send_failures_line1_singular">"ಸಂದೇಶ ಕಳುಹಿಸಲಿಲ್ಲ"</string>
+<string name="notification_send_failures_line1_plural">"ಕೆಲವು ಸಂದೇಶಗಳನ್ನು ಕಳುಹಿಸಲಾಗಿಲ್ಲ"</string>
+<string name="notification_download_failures_line1_singular">"ಸಂದೇಶ ಡೌನ್ಲೋಡ್ ಮಾಡಿಕೊಳ್ಳಲಾಗಿಲ್ಲ"</string>
+<string name="notification_download_failures_line1_plural">"ಕೆಲವು ಸಂದೇಶಗಳನ್ನು ಡೌನ್ಲೋಡ್ ಮಾಡಲಾಗಿಲ್ಲ"</string>
+<string name="notification_emergency_send_failure_line1">"<xliff:g id="number">%1$s</xliff:g>ಗೆ ಸಂದೇಶ  ಕಳುಹಿಸಲಾಗಿಲ್ಲ"</string>
+<string name="notification_emergency_send_failure_line2">"ತುರ್ತು ಸೇವೆಗಳಿಗೆ ದಯವಿಟ್ಟು ವಾಯ್ಸ್ ಕಾಲ್ ಮಾಡಿ.ಈ ಸಮಯದಲ್ಲಿ <xliff:g id="number">%1$s</xliff:g> ಗೆ ನಿಮ್ಮ ಪಠ್ಯ ಸಂದೇಶವನ್ನು ಕಳುಹಿಸಲಾಗುವುದಿಲ್ಲ."</string>
+<string name="start_conversation">"ಆರಂಭ"</string>
+<string name="camera_error_opening">"ಕ್ಯಾಮರಾ ಲಭ್ಯವಿಲ್ಲ"</string>
+<string name="camera_error_unknown">"ಕ್ಯಾಮರಾ ಲಭ್ಯವಿಲ್ಲ"</string>
+<string name="camera_error_video_init_fail">"ವಿಡಿಯೊ ಸೆರೆಹಿಡಿಯುವ ಕಾರ್ಯವನ್ನು ಬಳಸಲು ಸಾಧ್ಯವಿಲ್ಲ"</string>
+<string name="camera_error_storage_fail">"ಮಾಧ್ಯಮವನ್ನು ಉಳಿಸಲು ಸಾಧ್ಯವಾಗಲಿಲ್ಲ"</string>
+<string name="camera_error_failure_taking_picture">"ಚಿತ್ರಗಳನ್ನು ತೆಗೆದುಕೊಳ್ಳಲು ಸಾಧ್ಯವಿಲ್ಲ"</string>
+<string name="back">"ಹಿಂದೆ"</string>
+<string name="action_menu_show_archived">"ಸ್ಟೋರೇಜ್ಕ್ಕೆ ಸೇರಿಸಲಾಗಿದೆ"</string>
+<string name="action_delete">"ಅಳಿಸಿ"</string>
+<string name="action_archive">"ಸ್ಟೋರೇಜ್ಕ್ಕೆ ಸೇರಿಸಿ"</string>
+<string name="action_unarchive">"ಅನ್ಆರ್ಕೈವ್"</string>
+<string name="action_notification_off">"ಅಧಿಸೂಚನೆಗಳನ್ನು ಟರ್ನ್ ಆಫ್ ಮಾಡಿ"</string>
+<string name="action_notification_on">"ಪ್ರಕಟಣೆಗಳನ್ನು ಆನ್ ಮಾಡಿ"</string>
+<string name="action_add_contact">"ಸಂಪರ್ಕ ಸೇರಿಸಿ"</string>
+<string name="action_download">"ಡೌನ್ಲೋಡ್"</string>
+<string name="action_send">"ಕಳುಹಿಸಿ"</string>
+<string name="action_delete_message">"ಅಳಿಸಿ"</string>
+<string name="delete_message_confirmation_dialog_title">"ಈ ಸಂದೇಶವನ್ನು ಅಳಿಸಲು ಬಯಸುವಿರಾ?"</string>
+<string name="delete_message_confirmation_dialog_text">"ಈ ಕ್ರಿಯೆಯನ್ನು ರದ್ದುಗೊಳಿಸಲು ಸಾಧ್ಯವಿಲ್ಲ."</string>
+<string name="delete_message_confirmation_button">"ಅಳಿಸಿ"</string>
+<string name="delete_conversation_confirmation_button">"ಅಳಿಸಿ"</string>
+<string name="delete_conversation_decline_button">"ರದ್ದು"</string>
+<string name="recipient_hint">"ಗೆ"</string>
+<string name="action_multiselect">"ಬಹು ಚಿತ್ರಗಳನ್ನು ಆಯ್ಕೆಮಾಡಿ"</string>
+<string name="action_confirm_multiselect">"ಆಯ್ಕೆ ಖಚಿತಪಡಿಸಿ"</string>
+<string name="audio_recording_start_failed">"ಆಡಿಯೊ ರೆಕಾರ್ಡ್ ಮಾಡಲು ಸಾಧ್ಯವಾಗಲಿಲ್ಲ. ದಯವಿಟ್ಟು ಅನುಮತಿಗಳನ್ನು ಪರಿಶೀಲಿಸಿ ಮತ್ತು ಪುನಃ ಪ್ರಯತ್ನಿಸಿ."</string>
+<string name="audio_recording_replay_failed">"ಆಡಿಯೊ ಮಾಡಲು ಸಾಧ್ಯವಿಲ್ಲ. ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ."</string>
+<string name="audio_recording_error">"ಆಡಿಯೊ ಉಳಿಸಲು ಸಾಧ್ಯವಾಗಲಿಲ್ಲ. ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ."</string>
+<string name="audio_picker_hint_text">"ಮುಟ್ಟಿ ಮತ್ತು ಹಿಡಿದುಕೊಳ್ಳಿ"</string>
+<string name="enumeration_comma">",\u0020"</string>
+<string name="notification_separator">"\u0020\u0020"</string>
+<string name="notification_ticker_separator">":\u0020"</string>
+<string name="notification_space_separator">"\u0020\u0020"</string>
+<string name="notification_picture">"ಚಿತ್ರ"</string>
+<string name="notification_audio">"ಆಡಿಯೊ ಕ್ಲಿಪ್"</string>
+<string name="notification_video">"ವಿಡಿಯೋ"</string>
+<string name="notification_vcard">"ಸಂಪರ್ಕ ಕಾರ್ಡ್"</string>
+<string name="notification_download_mms">"ಡೌನ್ಲೋಡ್"</string>
+<string name="notification_reply_via_sms">"SMS ಮೂಲಕ ಉತ್ತರಿಸಿ"</string>
+<string name="notification_reply_via_mms">"MMS ಮೂಲಕ ಉತ್ತರಿಸಿ"</string>
+<string name="notification_reply_prompt">"ಉತ್ತರಿಸಿ"</string>
+<string name="unknown_self_participant">"ನಾನು"</string>
+<string name="blocked_toast_message">"ಸಂಪರ್ಕವನ್ನು ನಿರ್ಬಂಧಿಸಲಾಗಿದೆ ಮತ್ತು ಆರ್ಕೈವ್ ಮಾಡಲಾಗಿದೆ"</string>
+<string name="unblocked_toast_message">"ಸಂಪರ್ಕವನ್ನು ಅನಿರ್ಬಂಧಿಸಲಾಗಿದೆ ಮತ್ತು ಅನ್ಆರ್ಕೈವ್ ಮಾಡಲಾಗಿದೆ"</string>
+<string name="archived_toast_message">"<xliff:g id="count">%d</xliff:g> ಆರ್ಕೈವ್ ಮಾಡಲಾಗಿದೆ"</string>
+<string name="unarchived_toast_message">"<xliff:g id="count">%d</xliff:g> ಅನ್ಆರ್ಕೈವ್ ಮಾಡಲಾಗಿದೆ"</string>
+<string name="notification_off_toast_message">"ಅಧಿಸೂಚನೆಗಳನ್ನು ಟರ್ನ್ ಆಫ್ ಮಾಡಲಾಗಿದೆ"</string>
+<string name="notification_on_toast_message">"ಅಧಿಸೂಚನೆಗಳನ್ನು ಟರ್ನ್ ಆನ್ ಮಾಡಲಾಗಿದೆ"</string>
+<string name="toast_after_setting_default_sms_app_for_message_send">"ಎಲ್ಲಾ ಸರಿಯಾಗಿದೆ.ಮುಟ್ಟಿ ಮತ್ತು ಕಳುಹಿಸಿ." </string>
+<string name="toast_after_setting_default_sms_app">"ಸಂದೇಶ ಕಳುಹಿಸುವಿಕೆಯನ್ನು ಯಶಸ್ವಿಯಾಗಿ ಡೀಫಾಲ್ಟ್ SMS ಆ್ಯಪ್  ಗೆ ಹೊಂದಿಸಲಾಗಿದೆ."  </string>
+<string name="audio_attachment_content_description">"ಆಡಿಯೊ ಲಗತ್ತು"</string>
+<string name="audio_play_content_description">"ಆಡಿಯೊ ಲಗತ್ತನ್ನು ಪ್ಲೇ ಮಾಡು"</string>
+<string name="audio_pause_content_description">"ಸದ್ಯಕ್ಕೆ ನಿಲ್ಲಿಸಿ"</string>
+<string name="incoming_message_announcement">"<xliff:g id="sender">%s</xliff:g>: <xliff:g id="message">%s</xliff:g>ನಿಂದ ಸಂದೇಶ."</string>
+<string name="one_on_one_incoming_failed_message_prefix">"<xliff:g id="sender">%s</xliff:g>: <xliff:g id="message">%s</xliff:g>ನಿಂದ ವಿಫಲವಾದ ಸಂದೇಶ. ಸಮಯ: <xliff:g id="time">%s</xliff:g>."</string>
+<string name="one_on_one_incoming_successful_message_prefix">"<xliff:g id="sender">%s</xliff:g>: <xliff:g id="message">%s</xliff:g> ನಿಂದ  ಸಂದೇಶ. ಸಮಯ: <xliff:g id="time">%s</xliff:g>."</string>
+<string name="one_on_one_outgoing_draft_message_prefix">"<xliff:g id="contact">%s</xliff:g>: <xliff:g id="message">%s</xliff:g> ಗೆ ಕಳುಹಿಸದ ಸಂದೇಶ.ಸಮಯ: <xliff:g id="time">%s</xliff:g>."</string>
+<string name="one_on_one_outgoing_sending_message_prefix">"<xliff:g id="contact">%s</xliff:g>: <xliff:g id="message">%s</xliff:g> ಗೆ ಸಂದೇಶವನ್ನು ಕಳುಹಿಸಲಾಗುತ್ತಿದೆ. ಸಮಯ: <xliff:g id="time">%s</xliff:g>."</string>
+<string name="one_on_one_outgoing_failed_message_prefix">"<xliff:g id="contact">%s</xliff:g>: <xliff:g id="message">%s</xliff:g> ಗೆ ಕಳುಹಿಸುವ ಸಂದೇಶ ವಿಫಲವಾಗಿದೆ. ಸಮಯ: <xliff:g id="time">%s</xliff:g>."</string>
+<string name="one_on_one_outgoing_successful_message_prefix">"<xliff:g id="contact">%s</xliff:g>: <xliff:g id="message">%s</xliff:g> ಗೆ ಸಂದೇಶ. ಸಮಯ: <xliff:g id="time">%s</xliff:g>."</string>
+<string name="group_incoming_failed_message_prefix">"<xliff:g id="sender">%s</xliff:g>: <xliff:g id="message">%s</xliff:g> ನಿಂದ ವಿಫಲವಾದ ಸಂದೇಶ. ಸಮಯ: <xliff:g id="time">%s</xliff:g>. <xliff:g id="groupInfo">%s</xliff:g>."</string>
+<string name="group_incoming_successful_message_prefix">"<xliff:g id="sender">%s</xliff:g>: <xliff:g id="message">%s</xliff:g> ನಿಂದ ಸಂದೇಶ. ಸಮಯ: <xliff:g id="time">%s</xliff:g>. <xliff:g id="groupInfo">%s</xliff:g>."</string>
+<string name="group_outgoing_draft_message_prefix">"<xliff:g id="group">%s</xliff:g>: <xliff:g id="message">%s</xliff:g> ಗೆ ಕಳುಹಿಸಲಾಗದ ಸಂದೇಶ. ಸಮಯ: <xliff:g id="time">%s</xliff:g>."</string>
+<string name="group_outgoing_sending_message_prefix">"<xliff:g id="group">%s</xliff:g>: <xliff:g id="message">%s</xliff:g> ಗೆ ಸಂದೇಶವನ್ನು ಕಳುಹಿಸಲಾಗುತ್ತಿದೆ. ಸಮಯ: <xliff:g id="time">%s</xliff:g>."</string>
+<string name="group_outgoing_failed_message_prefix">"<xliff:g id="group">%s</xliff:g>: <xliff:g id="message">%s</xliff:g> ಗೆ ಕಳುಹಿಸುವ ಸಂದೇಶ ವಿಫಲವಾಗಿದೆ. ಸಮಯ: <xliff:g id="time">%s</xliff:g>."</string>
+<string name="group_outgoing_successful_message_prefix">"<xliff:g id="group">%s</xliff:g>: <xliff:g id="message">%s</xliff:g> ಗೆ ಸಂದೇಶ. ಸಮಯ: <xliff:g id="time">%s</xliff:g>."</string>
+<string name="failed_message_content_description">"ಸಂದೇಶ ವಿಫಲವಾಗಿದೆ. ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಲು ಇಲ್ಲಿ ಮುಟ್ಟಿ."</string>
+<string name="group_conversation_description">"<xliff:g id="participants">%s</xliff:g> ನೊಂದಿಗೆ ಸಂಭಾಷಣೆ"</string>
+<string name="delete_subject_content_description">"ವಿಷಯ ಅಳಿಸು"</string>
+<string name="camera_switch_to_video_mode">"ವಿಡಿಯೋ ಸೆರೆಹಿಡಿಯಿರಿ"</string>
+<string name="camera_switch_to_still_mode">"ಸ್ಥಬ್ಧ ಚಿತ್ರವನ್ನು ಸೆರೆಹಿಡಿಯಿರಿ"</string>
+<string name="camera_take_picture">"ಚಿತ್ರಪಟ ತೆಗೆ"</string>
+<string name="camera_start_recording">"ವಿಡಿಯೊ ರೆಕಾರ್ಡಿಂಗ್ ಪ್ರಾರಂಭಿಸಿ"</string>
+<string name="camera_switch_full_screen">"ಫುಲ್ ಸ್ಕ್ರೀನ್ ಕ್ಯಾಮರಾಗೆ ಬದಲಿಸು"</string>
+<string name="camera_switch_camera_facing">"ಮುಂಬದಿಯ ಮತ್ತು ಹಿಂಬದಿಯ ಕ್ಯಾಮರಾ ನಡುವೆ ಬದಲಿಸಿ"</string>
+<string name="camera_stop_recording">"ರೆಕಾರ್ಡಿಂಗ್ ಮಾಡುವುದನ್ನು ನಿಲ್ಲಿಸಿ ಮತ್ತು ವಿಡಿಯೊವನ್ನು ಲಗತ್ತಿಸಿ"</string>
+<string name="camera_cancel_recording">"ವಿಡಿಯೊ ರೆಕಾರ್ಡಿಂಗ್ ನಿಲ್ಲಿಸು"</string>
+<string name="photo_view_activity_title">"ಫೋಟೊಗಳನ್ನು ಮೆಸೇಜ್ ಮಾಡುವುದು"</string>
+<string name="attachment_file_description">"MMS ಲಗತ್ತನ್ನು ಉಳಿಸಲಾಗಿದೆ"</string>
+<string name="settings_activity_title">"ಸೆಟ್ಟಿಂಗ್ ಗಳು"</string>
+<string name="archived_activity_title">"ಸ್ಟೋರೇಜ್ಕ್ಕೆ ಸೇರಿಸಲಾಗಿದೆ"</string>
+<string name="action_close">"ಸಮಾಪ್ತಿಗೊಳಿಸಿ"</string>
+<string name="mms_messaging_category_pref_title">"MMS"</string>
+<string name="advanced_category_pref_title">"ಮುಂದುವರೆದ"</string>
+<string name="debug_category_pref_title">"ಡಿಬಗ್"</string>
+<string name="notifications_enabled_pref_title">"ಪ್ರಕಟಣೆಗಳು"</string>
+<string name="notification_sound_pref_title">"ಸದ್ದು"</string>
+<string name="silent_ringtone">"ನಿಃಶಬ್ದ"</string>
+<string name="notification_vibrate_pref_title">"ಕಂಪನ"</string>
+<string name="blocked_pref_title">"ಬ್ಲಾಕ್ ಆಗಿದೆ"</string>
+<string name="send_reports_pref_title">"SMS ವರದಿಗಳನ್ನು ಕಳುಹಿಸಿ"</string>
+<string name="send_reports_pref_summary">"ನೀವು ಕಳುಹಿಸುವ ಪ್ರತಿಯೊಂದು SMS ಗೆ ಒಂದೊಂದು ವರದಿ ಕಳುಹಿಸಿ,ಎಂದು ವಿನಂತಿಸಿ"</string>
+<string name="delivery_reports_pref_title">"SMS ಡೆಲಿವರಿ ವರದಿಗಳು"</string>
+<string name="delivery_reports_pref_summary">"ನೀವು ಕಳುಹಿಸುವ ಪ್ರತಿ SMS ಗಾಗಿ ಒಂದು ಡೆಲಿವರಿ ವರದಿಯನ್ನು ವಿನಂತಿಸಿ"</string>
+<string name="auto_retrieve_mms_pref_title">"ಸ್ವಯಂ-ಮರುಪಡೆಯುವಿಕೆ"</string>
+<string name="auto_retrieve_mms_pref_summary">"MMS ಸಂದೇಶಗಳನ್ನು ಸ್ವಯಂಚಾಲಿತವಾಗಿ ಮರುಪಡೆಯುವಿಕೆ"</string>
+<string name="auto_retrieve_mms_when_roaming_pref_title">"ರೋಮಿಂಗ್ ಸ್ವಯಂ- ಮರುಪಡೆಯುವಿಕೆ"</string>
+<string name="auto_retrieve_mms_when_roaming_pref_summary">"ರೋಮಿಂಗ್ ನಲ್ಲಿರುವಾಗ MMS ಅನ್ನು ಸ್ವಯಂಚಾಲಿತವಾಗಿ ಹಿಂಪಡೆಯಿರಿ"</string>
+<string name="group_mms_pref_title">"ಗುಂಪಿಗೆ ಸಂದೇಶ ಕಳುಹಿಸುವಿಕೆ"</string>
+<string name="group_mms_pref_summary">"ಸ್ವೀಕರಿಸುವವರು ಅನೇಕ ಇದ್ದಾಗ ಒಂದೇ ಸಂದೇಶವನ್ನು ಕಳುಹಿಸಲು MMS ಬಳಸಿರಿ"</string>
+<string name="mms_phone_number_pref_title">"ನಿಮ್ಮ ಫೋನ್ ಸಂಖ್ಯೆ"</string>
+<string name="unknown_phone_number_pref_display_value">"ಪರಿಚಿತವಲ್ಲದ್ದು"</string>
+<string name="send_sound_pref_title">"ಹೊರಹೋಗುವ ಸಂದೇಶದ ಶಬ್ದಗಳು"</string>
+<string name="dump_sms_pref_title">"ಡಂಪ್ SMS"</string>
+<string name="dump_sms_pref_summary">"ಸ್ವೀಕರಿಸಿದ SMS ಕಚ್ಚಾ ಡೇಟಾವನ್ನು ಬಾಹ್ಯ ಸಂಗ್ರಹಣೆಯ ಫೈಲ್ ಗಳಲ್ಲಿ ಡಂಪ್ ಮಾಡಿ"</string>
+<string name="dump_mms_pref_title">"ಡಂಪ್ MMS"</string>
+<string name="dump_mms_pref_summary">"ಸ್ವೀಕರಿಸಿದ MMS ಕಚ್ಚಾ ಡೇಟಾವನ್ನು ಬಾಹ್ಯ ಸಂಗ್ರಹಣೆಯ ಫೈಲ್ ಗಳಲ್ಲಿ ಡಂಪ್ ಮಾಡಿ"</string>
+<string name="wireless_alerts_title">"ನಿಸ್ತಂತು ಎಚ್ಚರಿಕೆಗಳು"</string>
+<string name="message_context_menu_title">"ಸಂದೇಶ ಆಯ್ಕೆಗಳು"</string>
+<string name="message_context_menu_copy_text">"ಪಠ್ಯ ನಕಲಿಸಿ"</string>
+<string name="message_context_menu_view_details">"ವಿವರಗಳನ್ನು ನೋಡಿ"</string>
+<string name="message_context_menu_delete_message">"ಅಳಿಸಿ"</string>
+<string name="message_context_menu_forward_message">"ಮುಂದಕ್ಕೆ"</string>
+<string name="message_details_title">"ಸಂದೇಶದ ವಿವರಗಳು"</string>
+<string name="message_type_label">"ಮಾದರಿ:\u0020"</string>
+<string name="text_message">"ಟೆಕ್ಸ್ಟ್ ಸಂದೇಶ"</string>
+<string name="multimedia_message">"ಮೀಡಿಯಾಮಲ್ಟಿಮೀಡಿಯಾ ಸಂದೇಶ"</string>
+<string name="from_label">"ಕಳುಹಿಸಿದವರ:\u0020"</string>
+<string name="to_address_label">"ಸ್ವೀಕರಿಸುವವರ:\u0020"</string>
+<string name="sent_label">"ಕಳುಹಿಸಲಾಗಿದೆ:\u0020"</string>
+<string name="received_label">"ಸ್ವೀಕೃತ:\u0020"</string>
+<string name="subject_label">"ವಿಷಯ:\u0020"</string>
+<string name="message_size_label">"ಗಾತ್ರ:\u0020"</string>
+<string name="priority_label">"ಆದ್ಯತೆ:\u0020"</string>
+<string name="sim_label">"SIM:\u0020"</string>
+<string name="priority_high">"ಉತ್ತಮ ಮಟ್ಟ"</string>
+<string name="priority_normal">"ಸಾಮಾನ್ಯ"</string>
+<string name="priority_low">"ಕೆಳಮಟ್ಟ"</string>
+<string name="sim_slot_identifier">"SIM <xliff:g id="sim_slot_number">%s</xliff:g>"</string>
+<string name="hidden_sender_address">"ಮರೆಮಾಚಿರುವ ಪ್ರೇಷಕನ ವಿಳಾಸ"</string>
+<string name="cant_send_message_while_loading_attachments">"ಲಗತ್ತುಗಳನ್ನು ಲೋಡ್ ಮಾಡುವಾಗ ಸಂದೇಶವನ್ನು ಕಳುಹಿಸಲು ಸಾಧ್ಯವಿಲ್ಲ."</string>
+<string name="fail_to_load_attachment">"ಲಗತ್ತನ್ನು ಲೋಡ್ ಮಾಡಲು ಸಾಧ್ಯವಿಲ್ಲ. ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ."</string>
+<string name="cant_send_message_without_active_subscription">"ನೆಟ್ವರ್ಕ್ ಸಿದ್ಧವಾಗಿಲ್ಲ, ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ."</string>
+<string name="chips_text_delete_button_content_description">"ಪಠ್ಯವನ್ನು ಅಳಿಸಿ "</string>
+<string name="numeric_text_keyboard_toggle_button_content_description">"ಪಠ್ಯ ಮತ್ತು ಸಂಖ್ಯೆಗಳನ್ನು ನಮೂದಿಸುವ ವಿಧಾನಗಳ ನಡುವೆ ಅದಲು ಬದಲು ಮಾಡಿ"</string>
+<string name="add_more_participants_button_content_description">"ಹೆಚ್ಚು ಭಾಗವಹಿಸುವವರನ್ನು ಸೇರಿಸಿ"</string>
+<string name="confrim_participants_button_content_description">"ಭಾಗವಹಿಸುವವರನ್ನು ದೃಢೀಕರಿಸಿ"</string>
+<string name="start_new_conversation">"ಹೊಸ ಸಂವಾದವನ್ನು ಪ್ರಾರಂಭಿಸಿ"</string>
+<string name="gallery_checkbox_content_description">"ಈ ಐಟಮ್ ಅನ್ನು ಆಯ್ಕೆ ಮಾಡಿ"</string>
+<string name="video_thumbnail_view_play_button_content_description">"ವಿಡಿಯೋ ನಡೆಸಿ"</string>
+<string name="action_people_and_options">"ಜನರು ಮತ್ತು ಆಯ್ಕೆಗಳು"</string>
+<string name="action_debug_options">"ಡಿಬಗ್"</string>
+<string name="people_and_options_activity_title">"ಜನರು ಮತ್ತು ಆಯ್ಕೆಗಳು"</string>
+<string name="general_settings_title">"ಸಾಮಾನ್ಯ"</string>
+<string name="participant_list_title">"ಈ ಸಂಭಾಷಣೆಯಲ್ಲಿರುವ ಜನರು"</string>
+<string name="action_call">"ಕರೆ ಮಾಡಿ"</string>
+<string name="compose_message_view_hint_text">"ಸಂದೇಶ ಕಳುಹಿಸಿ"</string>
+<string name="compose_message_view_hint_text_multi_sim">"ಸಂದೇಶವನ್ನು ಕಳುಹಿಸಿ<br/><small>ಇಂದ<xliff:g id="sim_name">%s</xliff:g></small>"</string>
+<string name="menu_send_feedback">"ಪ್ರತಿಕ್ರಿಯೆಯನ್ನು ಕಳುಹಿಸಿ"</string>
+<string name="menu_view_in_store">"ಗೂಗಲ್ ಪ್ಲೇ ಸ್ಟೋರ್ ನಲ್ಲಿ ವೀಕ್ಷಿಸಿ"</string>
+<string name="menu_version_info">"ವಿಧ ಮಾಹಿತಿ"</string>
+<string name="subtitle_format_for_version_number">"ಆವೃತ್ತಿ %1$s"</string>
+<string name="menu_license">"ಮುಕ್ತ ಮೂಲ ಪರವಾನಗಿಗಳು"</string>
+<string name="notifications_enabled_conversation_pref_title">"ಪ್ರಕಟಣೆಗಳು"</string>
+<string name="mms_attachment_limit_reached">"ಲಗತ್ತು ಮಿತಿಯನ್ನು ತಲುಪಿದೆ"</string>
+<string name="mms_attachment_load_failed">"ಲಗತ್ತನ್ನು ಲೋಡ್ ಮಾಡಲು ವಿಫಲವಾಗಿದೆ."</string>
+<string name="add_contact_confirmation_dialog_title">"ಸಂಪರ್ಕಗಳಿಗೆ ಸೇರಿಸಿ"</string>
+<string name="add_contact_confirmation">"ಸಂಪರ್ಕ ಸೇರಿಸಿ"</string>
+<string name="compose_message_view_subject_hint_text">"ವಿಷಯ"</string>
+<string name="conversation_message_view_subject_text">"ವಿಷಯ:\u0020"</string>
+<string name="loading_vcard">"ಸಂಪರ್ಕದ ಕಾರ್ಡ್ ಲೋಡ್ ಮಾಡಲಾಗುತ್ತಿದೆ"</string>
+<string name="failed_loading_vcard">"ಸಂಪರ್ಕದ ಕಾರ್ಡ್ ಲೋಡ್ ಮಾಡಲು ಸಾಧ್ಯವಿಲ್ಲ"</string>
+<string name="vcard_tap_hint">"ಸಂಪರ್ಕದ ಕಾರ್ಡ್ ವಿಕ್ಷಿಸಿ"</string>
+<string name="vcard_detail_activity_title">"ಸಂಪರ್ಕದ  ಕಾರ್ಡ್ ಗಳು"</string>
+<string name="vcard_detail_birthday_label">"ಜನ್ಮದಿನ"</string>
+<string name="vcard_detail_notes_label">"ಟಿಪ್ಪಣಿ"</string>
+<string name="forward_message_activity_title">"ಫಾರ್ವರ್ಡ್ ಸಂದೇಶ"</string>
+<string name="reply_activity_title">"ಉತ್ತರಿಸಿ"</string>
+<string name="sms_disabled">"SMS ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ"</string>
+<string name="requires_default_sms_app_to_send">"ಒಂದು ಸಂದೇಶವನ್ನು ಕಳುಹಿಸಲು, ಅದನ್ನು ಡೀಫಾಲ್ಟ್ SMS ಆ್ಯಪ್  ಆಗಿ ಹೊಂದಿಸಿ"</string>
+<string name="requires_default_sms_app">"ಸಂದೇಶ ಕಳುಹಿಸುವಿಕೆಯನ್ನು ಡೀಫಾಲ್ಟ್ SMS ಅಪ್ಲಿಕೇಶನ್ ಆಗಿ ಹೊಂದಿಸಿ"</string>
+<string name="requires_default_sms_change_button">"ಬದಲಾವಣೆ"</string>
+<string name="recommend_set_default_sms_app">"ಸಂದೇಶಗಳನ್ನು ಸ್ವೀಕರಿಸಲು, ಸಂದೇಶ ಕಳುಹಿಸುವಿಕೆಯನ್ನು ಡೀಫಾಲ್ಟ್ SMS ಆ್ಯಪ್ ಎಂದು ಹೊಂದಿಸಿ"</string>
+<string name="no_preferred_sim_selected">"SMS ಸಂದೇಶಗಳನ್ನು ಕಳುಹಿಸಲು ಆದ್ಯತೆಯ SIM ಆಯ್ಕೆಯಾಗಿಲ್ಲ"</string>
+<string name="requires_sms_permissions_message">"ಈ ಆ್ಯಪ್  ಅನ್ನು ಸಾಧನ ಮಾಲೀಕರು ಅನುಮತಿಸುವುದಿಲ್ಲ."</string>
+<string name="requires_sms_permissions_close_button">"ಸರಿ"</string>
+<string name="too_many_participants">"ಸಂಭಾಷಣೆಯಲ್ಲಿ ಅತಿ ಹೆಚ್ಚು ಜನರು ಪಾಲ್ಗೊಂಡಿದ್ದಾರೆ"</string>
+<string name="camera_media_failure">"ಕ್ಯಾಮರಾ ಚಿತ್ರವನ್ನು ಲೋಡ್ ಮಾಡಲಾಗಲಿಲ್ಲ"</string>
+<string name="conversation_list_item_view_sent_from_you_prefix">"ನೀವು:\u0020"</string>
+<string name="conversation_list_item_view_sent_from_other_prefix">"<xliff:g id="firstNameOfSender">%s</xliff:g>:\u0020"</string>
+<string name="conversation_list_item_view_draft_message">"ಕರಡು"</string>
+<string name="conversation_list_empty_text">"ನೀವು ಒಂದು  ಬಾರಿ ಹೊಸ ಸಂಭಾಷಣೆಯನ್ನು ಪ್ರಾರಂಭಿಸಿದಾಗ, ಅದು ಈ ಪಟ್ಟಿ ಸಾಲಿನಲ್ಲಿ ಸೇರುವುದನ್ನು ಕಾಣಬಹುದು"</string>
+<string name="archived_conversation_list_empty_text">"ಆರ್ಕೈವ್ ಮಾಡಲಾದ ಸಂವಾದಗಳು ಇಲ್ಲಿ ಗೋಚರಿಸುತ್ತವೆ"</string>
+<string name="conversation_list_first_sync_text">"ಸಂವಾದಗಳನ್ನು ಲೋಡ್ ಮಾಡಲಾಗುತ್ತಿದೆ ..."</string>
+<string name="conversation_list_snippet_picture">"ಚಿತ್ರ"</string>
+<string name="conversation_list_snippet_audio_clip">"ಆಡಿಯೊ ಕ್ಲಿಪ್"</string>
+<string name="conversation_list_snippet_video">"ವಿಡಿಯೋ"</string>
+<string name="conversation_list_snippet_vcard">"ಸಂಪರ್ಕ ಕಾರ್ಡ್"</string>
+<string name="mms_text">"MMS"</string>
+<string name="snack_bar_undo">"ಮಾಡಿದ್ದನ್ನು ವ್ಯತಿರಿಕ್ತವಾಗಿ ಮಾಡಿ"</string>
+<string name="snack_bar_retry">"ಮರುಪ್ರಯತ್ನಿಸಿ"</string>
+<string name="contact_list_empty_text">"ಹೊಸ ಸಂದೇಶವನ್ನು ಪ್ರಾರಂಭಿಸಲು ಸಂಪರ್ಕದ ಹೆಸರು ಅಥವಾ ಫೋನ್ ಸಂಖ್ಯೆಯನ್ನು ನಮೂದಿಸಿ"</string>
+<string name="action_block">"ತಡೆಗಟ್ಟಿ"</string>
+<string name="block_contact_title">"<xliff:g id="destination">%s</xliff:g> ನಿರ್ಬಂಧಿಸಿ "</string>
+<string name="unblock_contact_title">"<xliff:g id="destination">%s</xliff:g> ಅನಿರ್ಬಂಧಿಸಿ"</string>
+<string name="block_confirmation_title">"<xliff:g id="destination">%s</xliff:g> ನಿರ್ಬಂಧಿಸುವುದೆ?"</string>
+<string name="block_confirmation_message">"ನಿಮಗೆ ಈ ಸಂಖ್ಯೆಯಿಂದ ಸಂದೇಶಗಳು ಬರುವುದು ಮುಂದುವರಿಯುತ್ತದೆ.ಆದರೆ ಇನ್ನ್ನು ಮುಂದೆ ನಿಮಗೆ ಇವುಗಳ ಸೂಚನೆಗಾಳು ಬರುವುದಿಲ್ಲ. ಈ ಸಂವಾದವನ್ನು ಆರ್ಕೈವ್ ಮಾಡಲಾಗುತ್ತದೆ."</string>
+<string name="blocked_contacts_title">"ನಿರ್ಬಂಧಿಸಿದ ಸಂಪರ್ಕಗಳು"</string>
+<string name="tap_to_unblock_message">"ಅನಿರ್ಬಂಧಿಸಿ"</string>
+<string name="view_blocked_contacts_title">"ನಿರ್ಬಂಧಿಸಿದ ಸಂಪರ್ಕಗಳು"</string>
+<string name="pick_image_from_document_library_content_description">"ಡಾಕ್ಯುಮೆಂಟ್ ಲೈಬ್ರರಿಯಿಂದ ಚಿತ್ರವನ್ನು ಆರಿಸಿ"</string>
+<string name="sending_message">"ಸಂದೇಶ ಕಳುಹಿಸಲಾಗುತ್ತಿದೆ"</string>
+<string name="send_message_success">"ಸಂದೇಶ ಕಳುಹಿಸಲಾಗಿದೆ"</string>
+<string name="send_message_failure_no_data">"ಸೆಲ್ಯುಲಾರ್ ಡೇಟಾವನ್ನು ಟರ್ನ್ ಆಫ್ ಮಾಡಲಾಗಿದೆ ನಿಮ್ಮ ಸೆಟ್ಟಿಂಗ್ ಗಳನ್ನು ಪರಿಶೀಲಿಸಿ."</string>
+<string name="send_message_failure_airplane_mode">"ಏರೋಪ್ಲೇನ್ ಮೋಡ್ ನಲ್ಲಿ ಸಂದೇಶಗಳನ್ನು ಸಾಧ್ಯವಿಲ್ಲ"</string>
+<string name="assistant_card_not_allow_for_mms">"ಸಹಾಯಕ ಕಾರ್ಡ್ ಗೆ ಸಂದೇಶಗಳನ್ನು ಕಳುಹಿಸಲು ಸಾಧ್ಯವಿಲ್ಲ"</string>
+<string name="send_message_failure">"ಸಂದೇಶವನ್ನು ಕಳುಹಿಸಲಾಗಲಿಲ್ಲ"</string>
+<string name="download_message_success">"ಸಂದೇಶವನ್ನು ಡೌನ್ಲೋಡ್ ಮಾಡಲಾಗಿದೆ"</string>
+<string name="download_message_failure_no_data">"ಸೆಲ್ಯುಲಾರ್ ಡೇಟಾವನ್ನು ಟರ್ನ್ ಆಫ್ ಮಾಡಲಾಗಿದೆ ನಿಮ್ಮ ಸೆಟ್ಟಿಂಗ್ ಗಳನ್ನು ಪರಿಶೀಲಿಸಿ."</string>
+<string name="download_message_failure_airplane_mode">"ಏರೋಪ್ಲೇನ್ ಮೋಡ್ ನಲ್ಲಿ ಸಂದೇಶಗಳನ್ನು ಡೌನ್ಲೋಡ್ ಮಾಡಲು ಸಾಧ್ಯವಿಲ್ಲ"</string>
+<string name="download_message_failure">"ಸಂದೇಶವನ್ನು ಡೌನ್ಲೋಡ್ ಮಾಡಲು ಸಾಧ್ಯವಿಲ್ಲ"</string>
+<string name="content_description_for_number_zero">"ಶೂನ್ಯ"</string>
+<string name="content_description_for_number_one">"ಒಂದು"</string>
+<string name="content_description_for_number_two">"ಎರಡು"</string>
+<string name="content_description_for_number_three">"ಮೂರು"</string>
+<string name="content_description_for_number_four">"ನಾಲ್ಕು"</string>
+<string name="content_description_for_number_five">"ಐದು"</string>
+<string name="content_description_for_number_six">"ಆರು"</string>
+<string name="content_description_for_number_seven">"ಏಳು"</string>
+<string name="content_description_for_number_eight">"ಎಂಟು"</string>
+<string name="content_description_for_number_nine">"ಒಂಬತ್ತು"</string>
+<string name="carrier_send_error">"<xliff:g id="carrierName">%1$s</xliff:g>ಇದರೊಂದಿಗೆ ಸಂದೇಶವನ್ನು ಕಳುಹಿಸಲು ಸಾಧ್ಯವಿಲ್ಲ,<xliff:g id="errorCode">%2$d</xliff:g>ಕೋಡ್‌ ಎರರ್‌"</string>
+<string name="carrier_send_error_unknown_carrier">"ಅರಿಯದ ಕ್ಯಾರಿಯರ್, ದೋಷದೊಂದಿಗೆ ಸಂದೇಶವನ್ನು ಕಳುಹಿಸಲು ಸಾಧ್ಯವಿಲ್ಲ <xliff:g id="errorCode">%1$d</xliff:g>"</string>
+<string name="message_fwd">"ಫಾರ್ವರ್ಡ್: <xliff:g id="subject">%s</xliff:g>"</string>
+<string name="mms_failure_outgoing_service">"ಸಂದೇಶ ಕಳುಹಿಸಲಾಗಲಿಲ್ಲ: ಸೇವೆಯನ್ನು ನೆಟ್ವರ್ಕ್ ನಲ್ಲಿ ಸಕ್ರಿಯಗೊಳಿಸಲಾಗಿಲ್ಲ"</string>
+<string name="mms_failure_outgoing_address">"ಸಂದೇಶವನ್ನು ಕಳುಹಿಸಲಾಗಲಿಲ್ಲ: ಅಮಾನ್ಯ ವಿಳಾಸ"</string>
+<string name="mms_failure_outgoing_corrupt">"ಸಂದೇಶವನ್ನು ಕಳುಹಿಸಲಾಗಲಿಲ್ಲ: ಅಮಾನ್ಯ ಸಂದೇಶ"</string>
+<string name="mms_failure_outgoing_content">"ಸಂದೇಶ ಕಳುಹಿಸಲಾಗಲಿಲ್ಲ: ವಿಷಯ ಬೆಂಬಲಿಸುವುದಿಲ್ಲ"</string>
+<string name="mms_failure_outgoing_unsupported">"ಸಂದೇಶ ಕಳುಹಿಸಲಾಗಲಿಲ್ಲ:ಸಂದೇಶ ಬೆಂಬಲಿಸುವುದಿಲ್ಲ"</string>
+<string name="mms_failure_outgoing_too_large">"ಸಂದೇಶ ಕಳುಹಿಸಲಾಗಲಿಲ್ಲ: ತುಂಬಾ ಉದ್ದವಾಗಿದೆ"</string>
+<string name="in_conversation_notify_new_message_text">"ಹೊಸ ಸಂದೇಶ"</string>
+<string name="in_conversation_notify_new_message_action">"ನೋಡಿ"</string>
+<string name="message_image_content_description">"ಚಿತ್ರ"</string>
+<string name="activity_not_found_message">"ಸೂಕ್ತವಾದ ಆ್ಯಪ್  ಕಂಡುಬಂದಿಲ್ಲ."</string>
+<string name="chips_delete_content_description">"ಸ್ವೀಕೃತದಾರರನ್ನು ತೆಗೆದುಹಾಕಿ"</string>
+<string name="share_new_message">"ಹೊಸ ಸಂದೇಶ"</string>
+<string name="share_cancel">"ರದ್ದು"</string>
+<string name="apn_edit">"ಪ್ರವೇಶ ಸ್ಥಳವನ್ನು ಪರಿಷ್ಕರಿಸು"</string>
+<string name="apn_not_set">"ಸ್ಥಾಪಿತವಾಗಿಲ್ಲ"</string>
+<string name="apn_name">"ಹೆಸರು"</string>
+<string name="apn_mms_proxy">"MMS ಪ್ರಾಕ್ಸಿ"</string>
+<string name="apn_mms_port">"MMS ಬೆಂಬಲ"</string>
+<string name="apn_type">"APN ವಿಧ"</string>
+<string name="menu_delete_apn">"APN ಅಳಿಸಿ"</string>
+<string name="menu_new_apn">"ಹೊಸ APN"</string>
+<string name="menu_save_apn">"ಉಳಿಸಿ"</string>
+<string name="menu_discard_apn_change">"ತ್ಯಜಿಸಿ"</string>
+<string name="error_apn_name_empty">"ಹೆಸರಿನ ಕ್ಷೇತ್ರ ಖಾಲಿ ಬಿಡುವಂತಿಲ್ಲ."</string>
+<string name="error_apn_empty">"APN ಖಾಲಿ ಇರುವಂತಿಲ್ಲ."</string>
+<string name="error_mcc_not3">"MCC ಕ್ಷೇತ್ರವು 3 ಡಿಜಿಟ್ ಇರಬೇಕು."</string>
+<string name="error_mnc_not23">"MNC ಕ್ಷೇತ್ರವು 2 ಅಥವಾ 3 ಡಿಜಿಟ್ ಇರಬೇಕು"</string>
+<string name="restore_default_apn">"ಡಿಫ಼ಾಲ್ಟ್ APN ಸೆಟ್ಟಿಂಗ್ಸ್ ರಿಸ್ಟೋರ್ ಮಾಡಲಾಗುತ್ತಿದೆ."</string>
+<string name="menu_restore_default_apn">"ಪೂರ್ವನಿಯೋಜನೆಗಳಿಗೆ ಮರುಸ್ಥಾಪಿಸಿ"</string>
+<string name="restore_default_apn_completed">"ಡಿಫ಼ಾಲ್ಟ್ APN ಸೆಟ್ಟಿಂಗ್ಸ್ ರಿಸೆಟ್ ಸಂಪೂರ್ಣಗೊಂಡಿದೆ."</string>
+<string name="untitled_apn">"ಶೀರ್ಷಿಕೆರಹಿತ"</string>
+<string name="sms_apns_title">"ಪ್ರವೇಶಾವಕಾಶ ಸ್ಥಾನ ಹೆಸರುಗಳು"</string>
+<string name="apn_settings">"APNಗಳು"</string>
+<string name="menu_new">"ಹೊಸ APN"</string>
+<string name="apn_settings_not_available">"ಈ ಬಳಕೆದಾರರಿಗೆ ಪ್ರವೇಶ ಪಾಯಿಂಟ್ ಹೆಸರಿನ ಸೆಟ್ಟಿಂಗ್ ಗಳು ಲಭ್ಯವಿಲ್ಲ"</string>
+<string name="copy_to_clipboard_dialog_title">"ಕ್ಲಿಪ್ ಬೋರ್ಡ್ ಗೆ ನಕಲಿಸುವುದೇ?"</string>
+<string name="copy_to_clipboard">"ನಕಲು ಮಾಡಿ"</string>
+<string name="incoming_sim_name_text">"<xliff:g id="sim_name">%s</xliff:g>ಗೆ"</string>
+<string name="general_settings">"ಸಾಮಾನ್ಯ"</string>
+<string name="advanced_settings">"ಮುಂದುವರೆದ"</string>
+<string name="general_settings_activity_title">"ಸಾಮಾನ್ಯ ಅಳವಡಿಕೆಗಳು"</string>
+<string name="advanced_settings_activity_title">"ಮುಂದುವರೆದ ಅಳವಡಿಕೆಗಳು"</string>
+<string name="sim_specific_settings">"\"<xliff:g id="sim_name">%s</xliff:g>\"SIM"</string>
+<string name="disable_group_mms">"ಎಲ್ಲಾ ಸ್ವೀಕೃತದಾರರಿಗೆ ವೈಯಕ್ತಿಕ SMS ಸಂದೇಶಗಳನ್ನು ಕಳುಹಿಸಿ. ನೀವು ಕೇವಲ ಒಂದು ಪ್ರತಿಕ್ರಿಯೆಯನ್ನು ಪಡೆಯಬಹುದು"</string>
+<string name="enable_group_mms">"ಎಲ್ಲಾ ಸ್ವೀಕೃತದಾರರಿಗೆ ಒಂದೇ  MMS ಕಳುಹಿಸಿ"</string>
+<string name="sim_settings_unknown_number">"ತಿಳಿಯದ ಸಂಖ್ಯೆ"</string>
+<string name="secondary_user_new_message_title">"ಹೊಸ ಸಂದೇಶ"</string>
+<string name="secondary_user_new_message_ticker">"ಹೊಸ ಸಂದೇಶ."</string>
+<string name="sim_selector_button_content_description">"SIM ಸೆಲೆಕ್ಟರ್"</string>
+<string name="sim_selector_button_content_description_with_selection">"<xliff:g id="sim">%1$s</xliff:g> SIM ಸೆಲೆಕ್ಟರ್ ಆಯ್ಕೆ ಮಾಡಲಾಗಿದೆ"</string>
+<string name="send_button_long_click_description_no_sim_selector">"ವಿಷಯ ಸಂಪಾದಿಸು"</string>
+<string name="send_button_long_click_description_with_sim_selector">"SIM ಆಯ್ಕೆಮಾಡಿ ಅಥವಾ ವಿಷಯ ಸಂಪಾದಿಸಿ"</string>
+<string name="audio_record_view_content_description">"ಆಡಿಯೊ ರೆಕಾರ್ಡ್ ಮಾಡಲು ಇಲ್ಲಿ ಮುಟ್ಟಿ ಮತ್ತು ಹಿಡಿದುಕೊಳ್ಳಿ"</string>
+<string name="widget_new_conversation_content_description">"ಹೊಸ ಸಂವಾದವನ್ನು ಪ್ರಾರಂಭಿಸಿ"</string>
+<string name="widget_conversation_list_name">"ಸಂದೇಶ ಪಟ್ಟಿ"</string>
+<string name="widget_new_message_content_description">"ಹೊಸ ಸಂದೇಶ"</string>
+<string name="widget_conversation_list_content_description">"ಸಂಭಾಷಣೆಯ ಪಟ್ಟಿ"</string>
+<string name="loading_conversations">"ಸಂವಾದಗಳನ್ನು ಲೋಡ್ ಮಾಡಲಾಗುತ್ತಿದೆ"</string>
+<string name="loading_messages">"ಸಂದೇಶಗಳನ್ನು ಲೋಡ್ ಮಾಡಲಾಗುತ್ತಿದೆ"</string>
+<string name="view_more_conversations">"ಹೆಚ್ಚು ಸಂವಾದಗಳನ್ನು ವೀಕ್ಷಿಸಿ"</string>
+<string name="view_more_messages">"ಇನ್ನಷ್ಟು ಸಂದೇಶಗಳನ್ನು ವೀಕ್ಷಿಸಿ"</string>
+<string name="conversation_deleted">"ಸಂವಾದ ಅಳಿಸಲಾಗಿದೆ"</string>
+<string name="tap_to_configure">"ಸಂವಾದ ಅಳಿಸಲಾಗಿದೆ. ವಿಭಿನ್ನ ಸಂವಾದವನ್ನು ತೋರಿಸಲು ಇಲ್ಲಿ ಮುಟ್ಟಿ"</string>
+<string name="update_destination_blocked">"ಬ್ಲಾಕ್ ಆಗಿದೆ"</string>
+<string name="update_destination_unblocked">"ಅನಿರ್ಬಂಧಿಸಲಾಗಿದೆ"</string>
+<string name="db_full">"ಸಾಕಷ್ಟು ಸಂಗ್ರಹಣಾ ಸ್ಥಳ ಇಲ್ಲ ಮತ್ತು ಕೆಲವು ಡೇಟಾ ಕಳೆದು ಹೋಗಬಹುದು."</string>
+<string name="attachment_chooser_activity_title">"ಲಗತ್ತುಗಳನ್ನು ಆಯ್ಕೆಮಾಡಿ"</string>
+<string name="action_confirm_selection">"ಆಯ್ಕೆ ಖಚಿತಪಡಿಸಿ"</string>
+<string name="attachment_chooser_selection">"<xliff:g id="count">%d</xliff:g> ಆಯ್ಕೆಮಾಡಲಾಗಿದೆ"</string>
+<string name="attachment_limit_reached_dialog_message_when_composing">"ದಯವಿಟ್ಟು ಒಂದು ಅಥವಾ ಹೆಚ್ಚು ಲಗತ್ತುಗಳನ್ನು ತೆಗೆದು ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ."</string>
+<string name="attachment_limit_reached_dialog_message_when_sending">"ನಿಮ್ಮ ಸಂದೇಶವನ್ನು ಕಳುಹಿಸಲು ನೀವು ಪ್ರಯತ್ನಿಸಬಹುದು, ಆದರೆ ನೀವು ಒಂದು ಅಥವಾ ಹೆಚ್ಚಿನ ಲಗತ್ತುಗಳನ್ನು ತೆಗೆದು ಹಾಕದಿದ್ದರೆ  ಅದು ಅವರಿಗೆ ತಲುಪದೇ ಇರಬಹುದ."</string>
+<string name="video_attachment_limit_exceeded_when_sending">"ನೀವು ಪ್ರತಿ ಸಂದೇಶಕ್ಕೆ ಒಂದು ವಿಡಿಯೊವನ್ನು ಮಾತ್ರ ಕಳುಹಿಸಬಹುದು. ದಯವಿಟ್ಟು ಹೆಚ್ಚುವರಿ ವಿಡಿಯೊಗಳನ್ನು ತೆಗೆದು ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ."</string>
+<string name="attachment_load_failed_dialog_message">"ಲಗತ್ತನ್ನು ಲೋಡ್ ಮಾಡಲು ಸಂದೇಶ ವಿಫಲವಾಗಿದೆ."</string>
+<string name="attachment_limit_reached_send_anyway">"ಹೇಗಾದರೂ ಕಳುಹಿಸಿ"</string>
+<string name="conversation_creation_failure">"ಸಂವಾದವನ್ನು ಪ್ರಾರಂಭಿಸಲು ಸಾಧ್ಯವಿಲ್ಲ"</string>
+<string name="selected_sim_content_message">"<xliff:g id="selected_sim">%s</xliff:g> ಆಯ್ಕೆಮಾಡಲಾಗಿದೆ"</string>
+<string name="empty_msg">"ಖಾಲಿ ಸಂದೇಶ"</string>
+<string name="send_empty_msg">"ನೀವು ಖಾಲಿ ಸಂದೇಶವನ್ನು ಕಳುಹಿಸಲು ಪ್ರಯತ್ನಿಸುತ್ತಿರುವಿರಾ?"</string>
+<string name="yes">"ಹೌದು"</string>
+<string name="no">"ಇಲ್ಲ"</string>
+<string name="donotset_time_before_now">"ಪ್ರಸ್ತುತ ಸಮಯಕ್ಕಿಂತ ಮುಂಚಿತವಾಗಿ ಸಮಯವನ್ನು ಹೊಂದಿಸಲು ಸಾಧ್ಯವಿಲ್ಲ"</string>
+<string name="please_reset_time">"ಸಮಯವು ಮುಗಿದಿದೆ,ದಯವಿಟ್ಟು ಅಲಾರಾಮ್ ಅನ್ನು ಮರುಹೊಂದಿಸಿ" </string>
+<string name="please_set_date">"ದಿನಾಂಕವನ್ನು ಹೊಂದಿಸಿ"</string>
+<string name="please_set_time">"ದಯವಿಟ್ಟು ಸಮಯವನ್ನು ನಿಗದಿಪಡಿಸಿ"</string>
+<string name="audio_format_unknow">"ಈ ಆಡಿಯೋ ಫಾರ್ಮ್ಯಾಟ್‌ ಬೆಂಬಲಿಸುವುದಿಲ್ಲ"</string>
+</resources>

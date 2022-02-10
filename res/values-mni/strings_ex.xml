@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="signature_title">"সহি"</string>
+<string name="pref_title_sms_retry_times">"SMS হন্না হোৎনবা য়াহল্লু"</string>
+<string name="conversation_deleteAll_failed">"কোন্না হন্না হোৎনরিব্রা."</string>
+<string name="warning">"ৱার্নিং"</string>
+<string name="attachment_exceeded">"নহাক্না খনবা এতেচমেন্ট অদু হেল্লে!"</string>
+<string name="attachment_size">"এতেচমেন্টকি চাওবা পিকপা অদু নি :"</string>
+<string name="mms_size">"MMS কি চাওবা পিকপা অদু নি :"</string>
+<string name="permission_read_messages_attachment_label">"মেসেজশীংগী এতেচমেন্টশীং পাও"</string>
+<string name="permission_read_messages_attachment_desc">"এপ অদুবু নহাক্কি মেসেজশীংগী এতেচমেন্টশীং পাবা য়াহল্লি"</string>
+<string name="preference_name">"ময়াম্না খঙনবা ফ্রেজ"</string>
+<string name="select">"খল্লে"</string>
+<string name="item_cancel">"ককথৎলু"</string>
+<string name="item_delete">"মুথৎলু"</string>
+<string name="save_as_teltype">"ফোন গী"</string>
+<string name="save_as_mmstype">"Sms গী"</string>
+<string name="type_to_pharser">"ময়াম্না খঙনবা ফ্রেজ টাইপ তৌ"</string>
+<string name="add">"হাপচিল্লু"</string>
+<string name="edit">"এদিট"</string>
+<string name="delete">"মুথৎলু"</string>
+<string name="finish">"লোইশিল্লু"</string>
+<string name="cancel">"ককথৎলু"</string>
+<string name="add_pharser">"ময়াম্না খঙনবা ফ্রেজ হাপচিল্লু"</string>
+<string name="edit_pharser">"ময়াম্না খঙনবা ফ্রেজ এদিত তৌ"</string>
+<string name="exit_pharser_dialog_title">"খুদক্তা"</string>
+<string name="exit_pharser_dialog_content">"তোয়না শীজিন্নবা ফ্রেজশীং সেব তৌগদ্রা?"</string>
+<string name="pharser_can_modify">"কস্টমাইজ তৌরবা"</string>
+<string name="pharser_cannot_modify">"ফ্রেজ ফিক্স তৌ"</string>
+<string name="empty_pharser_not_save">"নল ফ্রেজ সেব তৌবা য়াদে !"</string>
+<string name="select_item">"নহাক্না খনখ্রে"</string>
+<string name="select_commmon_phrase">"ময়াম্না খঙনবা ফ্রেজশীং খল্লু"</string>
+<string name="common_phrase_empty">"ময়াম্না খঙনবা ফ্রেজশীং নত্তে"</string>
+<string name="action_add_phrase">"ময়াম্না খঙনবা ফ্রেজশীং"</string>
+<string name="pref_other_settings_title">"অতোপ্পা"</string>
+<string name="action_wireless_alerts">"ৱায়রলেস এলর্টশীং"</string>
+<string name="positive">"ওকে"</string>
+<string name="wap_push_message_dialog_title">""Wap Push মেসেজ"</string>
+<string name="open_website">"ৱেবসাইট হাঙঙু"</string>
+<string name="activity_not_found">"চুনবা এপ্লিকেশন অমা ফংদে"</string>
+<string-array name="fixed_mms_phrase">
+<item>"ঐহাক্কি ওফিস ফোনদা কোল তৌবিয়ু, থাগৎচরি."</item>
+<item>"ঐহাক্কা পাও ফাওনবিয়ু, থাগৎচরি."</item>
+<item>"ঐহাকপু নহাক্কি লৈফম তাকপিয়ু."</item>
+<item>"ঐহাক্কি সেল ফোনদা কোন্না কোল তৌবিয়ু, থাগৎচরি."</item>
+<item>"ঐহাক মপান্দা থোক্লুই, য়ুম য়ৌগনি অমসুং নহাকপু কোল অমা তৌরক্কনি."</item>
+<item>"ঐহাক গাড়ি থৌরি অমসুং কোন্না পাওখুম পীরক্কনি."</item>
+<item>"ঐহাক সরক্তা লাকই, খুদক্তা য়ৌরক্লগনি."</item>
+<item>"ত্রাফিক জামশীং থোক্লে, কোন্না লাক্লগে, লানজখ্রে."</item>
+<item>"নহাকপু কোন্না কোল তৌরক্কে."</item>
+<item>"ঐহাক মীতিং অমদা লৈ, কোন্না পাওখুম পীরক্কে."</item>
+</string-array>
+<string-array name="fixed_both_phrase">
+<item>"ঐঙোন্দা কোল তৌবিরকউ নত্ত্রগা কোন্না ঐহোন্দা sms থারকউ."</item>
+</string-array>
+<string name="share_video_exceeded">"নহাক্না খনবা ভিদিও অদু হেল্লে!"</string>
+<string name="share_audio_exceeded">"নহাক্না খনবা ওদিও অদু হেল্লে!"</string>
+<string name="share_image_exceeded">"নহাক্না খনবা পিকচর অদু হেল্লে!"</string>
+<string name="share_muimgae_exceeded">"শরুক য়ামিন্নগনু পিকচর অদু হেল্লে!"</string>
+<string name="share_noimgae_exceeded">"অয়াওবা লাই-নত্তবা ফাইলশীং শরুক য়ামিন্নবা য়াদে!"</string>
+<string name="exceed_text_length_limitation">"মসি টেক্সটকি অশাংবা ঙমখৈ লৈবা অদুদগী হেল্লি."</string>
+<string name="drm_no_application_open">"ফাইল হাংদোকপা য়াদে"</string>
+<string name="ok_drm_rights_consume">"ওকে"</string>
+<string name="cancel_drm_rights_consume">"ককথৎলু"</string>
+<string name="orgdrm_no_share">"শরুক য়ামিন্নবা অদু সপোর্ট তৌদে"</string>
+<string name="drm_can_not_processed">"Drm ফাইল প্রোসেস তৌবা য়াদে"</string>
+<string name="protect_information">"পাও ঙাক-শেল্লু"</string>
+<string name="drm_consume_title">"Drm অধিকারশীং শীজিন্নৌ"</string>
+<string name="drm_consume_hint">"নহাক্কি ওপরেসন Drm অধিকারশীং শীজিন্নগনি"</string>
+<string name="drm_file_path">"লম্বি:%1$s"</string>
+<string name="drm_file_name">"ফাইল মমিং:%1$s"</string>
+<string name="drm_rights_validity">"অধিকারশীং চৎনবা：চৎনৈ"</string>
+<string name="drm_rights_invalidity">"অধিকারশীং চৎনবা：চৎনদে"</string>
+<string name="drm_rights_status_transfer">"অধিকারশীংগী স্টেটস：ত্রান্সফর তৌবা য়াহল্লি"</string>
+<string name="drm_rights_status_untransfer">"অধিকারশীংগী স্টেটস：ত্রান্সফর তৌবা য়াহন্দে"</string>
+<string name="drm_start_time">"অহৌবা মতম：%1$s"</string>
+<string name="drm_end_time">"অরোইবা মতম：%1$s"</string>
+<string name="drm_expiration_time">"মতম হেনবা মতম：%1$s"</string>
+<string name="drm_remain_times">"লেমহৌবা মতমশীং：%1$s"</string>
+<string name="drm_no_info">"পাও নত্তে"</string>
+<string name="drm_unlimited_rights">"অকক্নবা লৈতবা"</string>
+<string name="drm_rights_unknown">"মশক খঙদবা"</string>
+<string name="drm_inactive_rights">"অধিকারশীং এক্তিব ওইদবা"</string>
+<string name="drm_shared_not_drmdownload">"মদু Drmদাওনলোদ দাইরেক্তরিদা লেংঙু অমসুং অদুদগী মদু শরুক য়ামিন্নবিয়ু"</string>
+<string name="share_nofile_exceeded">"MMS ঙমখৈ হেনবা!"</string>
+<string name="no_few_participants">"শরুক য়ানবা মীশীং লৈতে"</string>
+<string name="mms_validity_pref_title">"মল্টিমেদিয়া মেসেজ চৎনবা মতম"</string>
+<string name="sms_validity_pref_title">"SMS চৎনবা মতম"</string>
+<string name="attach_vcalendar">"কেলেন্দর"</string>
+<string name="confirm_import_vcalendar">"Vকেলেন্দর অসি ইমপোর্ট তৌগদ্রা?"</string>
+<string name="confirm_save_otherfiles">"এতেচমেন্ট অসি সেব তৌগদ্রা?"</string>
+<string name="confirm_import">"হোই"</string>
+<string name="cancel_import">"নত্তে"</string>
+<string name="attach_other_file">"মশক খঙদবা ফাইল"</string>
+<string name="copy_to_sdcard_success">""এটেচমেন্ট সেব তৌই দা "<xliff:g id="copy_to_sdcard_success_id">%s</xliff:g>"</string>
+<string name="copy_to_sdcard_fail">"এটেচমেন্ট সেব তৌবা ঙমদে."</string>
+<string name="attach_sound">"ওদিও"</string>
+<string name="select_vcard_button">"কন্টেক্ত অদু মেনশিন্নবা বট্টন অদু ক্লিক তৌ"</string>
+<string name="select_video_button">"ভিদিও অদু মেনশিন্নবা বট্টন অদু ক্লিক তৌ"</string>
+<string name="select_audio_button">"ওদিও অদু মেনশিন্নবা বট্টন অদু ক্লিক তৌ"</string>
+<string name="select_vcalendar_button">"কেলেন্দর অদু মেনশিন্নবা বট্টন অদু ক্লিক তৌ"</string>
+<string name="select_slideshow_button">"স্লাইদশো অদু মেনশিন্নবা বট্টন অদু ক্লিক তৌ"</string>
+<string name="slideshow_detail_activity_title">"স্লাইদশো"</string>
+<string name="no_mms_plugin">"ফোল্দর ভ্যু লৈতে"</string>
+<string name="attachment_details">"এতেচমেন্টকি অকুপ্পা ৱারোলশীং"</string>
+<string name="context_menu_copy_to_sim_memory">"মেসেজ SIM দা কোপি তৌ"</string>
+<string name="copy_message_text">"টেকস্ট কোপি তৌ"</string>
+<string name="min_zoom">"খ্বাইদগী য়ামদবা য়ৌরে"</string>
+<string name="max_zoom">"খ্বাইদগী য়াম্বা য়ৌরে"</string>
+<string name="message_details_text">"মেসেজগী অকুপ্পা ৱারোলশীং"</string>
+<string name="folder_reply">"পাওখুম পীয়ু"</string>
+<string name="new_message">"অনৌবা মেসেজ"</string>
+<string name="folder_forward">"ফোরৱার্দ তৌ"</string>
+<string name="delete_message">"মুথৎলু"</string>
+<string name="menu_resend">"হন্না থাও"</string>
+<string name="save_all_attachments">"এতেচমেন্টশীং লোইনমক সেব তৌ"</string>
+<string name="host_app_name">"মেসেজ"</string>
+<string name="need_messaging_is_default_app">"নহাক \"%1$s\" অদু sms দিফাওল্ট এপ ওইনা সেট তৌগদবনি"</string>
+<string name="message_outgoing_successful">"ফীদবেক মায় পাক্না থাখ্রে"</string>
+<string name="message_outgoing_failure">"মেসেজ থাদে"</string>
+<string name="share_unsupported_type">"সপোর্ট তৌদবা কন্টেন্ট মখল শরুক য়ামিন্নবা য়াদে!"</string>
+<string name="mms_send_reports_pref_title">"Mms থাবগী রিপোর্টশীং"</string>
+<string name="mms_send_reports_pref_summary">"নহাক্না থাবা MMS অমমমগী থাবগী রিপোর্ট অমা পীয়ু হায়জৌ"</string>
+<string name="mms_delivery_reports_pref_title">"MMS দেলিভরি রিপোর্টশীং"</string>
+<string name="mms_delivery_reports_pref_summary">"নহাক্না থাবা MMS অমমম খুদিংগী দেলিভরি রিপোর্ট অমা পীয়ু হায়জৌ"</string>
+<string name="mms_read_reports_pref_title">"MMS পাবগী রিপোর্টশীং"</string>
+<string name="mms_read_reports_pref_summary">"নহাক্না থাবা MMS অমমমগী পাবগী রিপোর্ট অমা পীয়ু হায়জৌ"</string>
+<string name="enable_return_mms_delivery_reports_pref_title">"হল্লকপা MMS দেলিভরি রিপোর্টশীং য়াহল্লু"</string>
+<string name="enable_return_mms_delivery_reports_pref_summary">"নহাক্না থাবা MMS অমমমগী দেলিভরি রিপোর্ট অমগী হায়জবা হল্লকপা য়াহল্লু"</string>
+<string name="enable_return_mms_read_reports_pref_title">"হল্লকপা MMS পাবগী রিপোর্টশীং য়াহল্লু"</string>
+<string name="enable_return_mms_read_reports_pref_summary">"নহাক্না থাবা MMS অমমমগী পাবগী রিপোর্ট অমগী হায়জবা হল্লকপা য়াহল্লু"</string>
+<string name="delivery_toast_body">"মেসেজ %s না ফংলে"</string>
+<string name="delivery_toast_body_expired">"মেসেজ মতম লোইরে %s"</string>
+<string name="delivery_toast_body_fail_rejected">"মেসেজ %s না লৌ য়াদ্রে"</string>
+<string name="delivery_toast_body_fail">"মেসেজ %s না ফংদে"</string>
+<string name="read_report_toast_body">"মেসেজ %s না পাই"</string>
+<string name="read_report_toast_body_fail">"মেসেজ %s না পাদে"</string>
+<string name="mimetype_null">"মাইমটাইপ অদু য়াওদে, এতেচমেন্ট অদু স্টোর তৌবা ঙমদে"</string>
+<string name="pref_title_manage_simx_smsc">"SIM<xliff:g id="COUNT">%1$s</xliff:g> SMS সার্ভিস সেন্তর"</string>
+<string name="pref_title_manage_sim_smsc">"SMS সার্ভিস সেন্তর"</string>
+<string name="smsc_set_fails">"Smsc সেট তৌবা মায় পাক্তে"</string>
+<string name="smsc_set_success">"মায় পাক্না সেট তৌরে."</string>
+<string name="smsc_update_success">"মায় পাক্না অপদেত তৌই"</string>
+<string name="smsc_cannot_be_null">"Smsc য়াওদবা য়াদে!"</string>
+<string name="smsc_should_be_number">"Smsc মশীং অমা ওইগদবনি"</string>
+<string name="smsc_list">"SMS সেন্তর লিস্ট"</string>
+<string name="smsc_list_empty">"SMS সেন্তর নম্বরশীং লৈতে"</string>
+<string name="smsc_list_loading">"লোদ তৌরি"</string>
+<string name="smsc_list_empty_toast">"মেসেজ থাদে, SMS সেন্তরগী নম্বর লৈতে"</string>
+<string name="smsc_list_empty_notify_des">"অনৌবা SMS সেন্তরগী নম্বর অমা হাপচিনবিয়ু"</string>
+<string name="smsc_list_empty_notify_title">"SMS সেন্তরগী নম্বর লৈতে"</string>
+<string name="shared_image_number_exceed">"খ্বাইদগী য়াম্বা শরুক য়ামিন্নবা লাইশীংগী মশীং %d নি, অহেনবশীং অদু লৌথোক্লে."</string>
+<string name="drm_unsupported_toast">"DRM ফাইল ফংদে. অতোপ্পা ফাইল অমা খনবিয়ু."</string>
+<string name="err_sent_no_sim">"মেসেজ থাদে, SIM কার্দ য়াওদে."</string>
+<string name="dlg_save_attachment">"ফাইল সেব তৌ..."</string>
+<string name="is_redirect_to">"%1$s দা হন্না থাগদ্রা?"</string>
+<string name="browser">"ব্রাওজর"</string>
+<string name="email">"ইমেল"</string>
+<string name="telephone">"ফোন কোলশীং"</string>
+<string name="map">"মেপ"</string>
+<string name="message_signature_setting">"সহি সেটিং"</string>
+<string name="pref_signature_enable_title">"ওপস্নেল সহি"</string>
+<string name="pref_signature_enabl_summary">"নহাক্না থাবা মেসেজ খুদিংমক মশা মথন্তা সহিগা লোয়নৈ"</string>
+<string name="pref_signature_input_title">"সহি এদিত তৌ"</string>
+<string name="pref_signature_input_summary">"নহাক্কি সহি সেট তৌনবা মফম অসিদা মেনশিল্লু"</string>
+<plurals name="attachments_saved_dir">
+<item quantity="one">"<xliff:g id="quantity">%d</xliff:g> এতেচমেন্ট ফাইল সেব তৌই দা \"<xliff:g id="dir">%s</xliff:g>\""</item>
+<item quantity="other">"<xliff:g id="quantity">%d</xliff:g> এতেচমেন্ট ফাইলশীং সেব তৌই দা \"<xliff:g id="dir">%s</xliff:g>\""</item>
+</plurals>
+<string name="no_permissions">"অয়াবা পীবশীং লৈতে"</string>
+<string name="no_call_permissions">"অয়াবা পীবশীং লৈতে"</string>
+<string name="folder_loading">"লোদ তৌরি.."</string>
+<string name="sms_merge_forward_empty">"পুনশিন্নবা অমসুং ফোরৱার্দ তৌনবা SMS মেসেজ লৈতে."</string>
+<string name="sms_forward">"ফোরৱার্দ তৌ"</string>
+<string name="sms_merge_dialog_title">"খুদক্তা"</string>
+<string name="sms_merge_dialog_content1">"নহাক %d SMS মেসেজশীংগী মরক্তখক্তং পুনশিন্নবা য়াই"</string>
+<string name="sms_merge_dialog_content2">"অমসুং %d SMS মেসেজশীং. মদু চেক তৌবিয়ু."</string>
+<string name="messagelist_sender_self">"ঐহাক"</string>
+<string name="sms_merge_forward">"পুনশিন্নৌ অমসুং ফোরৱার্দ তৌ"</string>
+<string name="muti_select_all">"লোইনা খল্লু"</string>
+<string name="menu_select_none">"লোইনমক ককথৎলু"</string>
+<string name="sms_merge_dialog_content_exceed">"নহাক %d ঙমখৈ অদুগী মথক্তা ফোরৱার্দ তৌবা মেসেজগী কন্টেন্ট পুনশিন্নৌ, হন্না চেক তৌবিয়ু!"</string>
+<string name="no_sms_permissions">"SMS অয়াবা পীবা লৈতে, ওদিও প্লে তৌবা য়াদে."</string>
+<string name="smil_subject_hint">"mms সবজেক্ট লৈতে，নহাক এদিত তৌবা য়াই"</string>
+<string name="smil_out_of_size">"নিংশিংদুনা লৈবা অদুদগী"</string>
+<string-array name="smil_choice_items">
+<item>"স্মিল স্কেন"</item>
+<item>"স্মিল প্লে তৌরি"</item>
+</string-array>
+<string name="video_content_type">"ভিদিও :"</string>
+<string name="iamge_content_type">"লাই :"</string>
+<string name="audio_content_type">"ওদিও :"</string>
+<string name="subject_edit">"সবজেক্ত এদিত"</string>
+<string name="text_edit">"টেক্সট এদিতর"</string>
+<string name="repalce_slide">"স্লাইজ মহুৎ শিল্লু"</string>
+<string name="remove_slide">"স্লাইদ লৌথোকউ"</string>
+<string name="insert_befor_slide">"স্লাইদ মমাংদা থিংজিল্লু"</string>
+<string name="insert_after_slide">"স্লাইদ মতুংদা থিংজিল্লু"</string>
+<string name="add_attachment">"ফাইল এতেচ তৌ"</string>
+<string name="remove_attachment">"এতেচমেন্ট লৌথোকউ"</string>
+<string name="repalce_attachment">"এতেচমেন্ট মহুৎ শিল্লু"</string>
+<string name="hint_for_input">"এদিত তৌবদা নুংঙাইজৈ"</string>
+<string name="hint_for_empty">"এদিত তৌবদা নুংঙাইজৈ, হৌজিক্কি পোজিসনগী এতেচমেন্ট অহাংবা এতেচমেন্ট অমনি."</string>
+<string name="goto_smil">"স্লাইদশো"</string>
+<string name="smil_subject">"সবজেক্ত :"</string>
+<string name="action_sim_sms">"SIM দা মেসেজশীং"</string>
+<string name="sms_save_to_sim_pref_title">"SIM দা SMS সেব তৌ"</string>
+<string name="sms_save_to_sim_pref_summary">"মদু অনৌবা SMS তা লাকপা মতমদা, SIM অদুদা সেব তৌগদ্রা নত্ত্রগা তৌরোইদ্রা"</string>
+<string name="sms_sim_full_title">"SIM পিক থল্লি"</string>
+<string name="sms_sim_full_notification_ticker">"SMS স্টোরেজ নেম্মি. নহাক মেসেজশীং মুথৎপা দরকার ওইবা য়াই."</string>
+<string name="sms_sim_full_text">"sim পীক থল্লি, sms অদু মেসেজ তৌনবা দাতাবেজদা সেব তৌগনি. অমসুং হন্না sim দা সেব তৌবা পাম্লবদি sim দগী sms মুথৎপিয়ু。"</string>
+<plurals name="search_results_title">
+<item quantity="one">"<xliff:g id="NUMBER">%1$s</xliff:g> আইটেম চানৈ“<xliff:g id="SEARCH">%2$s</xliff:g>”থিবগী ফলশীং"</item>
+<item quantity="other">"<xliff:g id="NUMBER">%1$s</xliff:g> আইটেমশীং চানৈ“<xliff:g id="SEARCH">%2$s</xliff:g>”থিবগী ফলশীং"</item>
+</plurals>
+<string name="menu_search_text">"থিবা"</string>
+<string name="search_label">"মেসেজ থারি"</string>
+<string name="search_hint">"মেসেজ তৌবা থিরি"</string>
+<string name="search_max_length">"সেন্টেন্স থিবা কা হেন্না শাংমনখ্রে, 512 তা অকক্নবা ওইহনগনি."</string>
+<string name="search_setting_description">"নহাক্কি মেসেজশীং টেকস্ট তৌ"</string>
+<string name="search">"মেসেজ থারি"</string>
+<string name="search_empty">"মপা চানদে."</string>
+<string name="search_history">"<xliff:g id="count">%1$s</xliff:g> ফলশীং গী \"<xliff:g id="search">%2$s</xliff:g>\""</string>
+<string name="can_not_add_same_attachment">"চপ মান্নবা এতেচমেন্ট অদু হাপচিন্নবা হন্না তৌবা য়াদে"</string>
+<string name="can_not_add_same_picture">"চপ মান্নবা পিকচর অদু হাপচিন্নবা হন্না তৌবা য়াদে"</string>
+<string name="smil_add_text">"টেক্সট এতেচমেন্ট অমা হাপচিল্লু"</string>
+<string name="smil_update_text">"টেক্সট এতেচমেন্ট অমা অপদেত তৌবা মায় পাক্লে"</string>
+<string name="smil_empty_content">"অহাংবা কন্টেন্ট, থানবা লেপ্পু!"</string>
+<string name="exceed_participant_limit">"শরুক য়াবশীংগী চাং ঙমখৈদগী হেল্লে (<xliff:g>%1$s</xliff:g>), মুথৎপিয়ু <xliff:g>%2$s</xliff:g> অমশীং."</string>
+<string name="folder_view_menu_item_title">"ফোল্দর উবা"</string>
+<string name="capacity_sim_message_title">"SIM কেপাসিতি"</string>
+<string name="capacity_sim_message_summary">"মশীং থীয়ু/খ্বাইদগী য়াম্বা কেপাসিতি:%s"</string>
+<string name="audio_record_retry">"বেকগ্রাওন্দ রেকোর্দিং অদু খুমজিনবিয়ুঅমসুং হন্না হোৎনবিয়ু."</string>
+<string name="contact_invalid">"চৎনদবা কন্টেক্ত, চৎনবা কন্টেক্ত অদু হন্না খনবিয়ু."</string>
+<string name="message_size_counting">"মশীং থীরি"</string>
+<string name="pref_encode_type_setting_title">"টাইপ সেটিং এনকোদ তৌ"</string>
+<string name="pref_encode_type_title">"এনকোদ মখল"</string>
+<string name="fdn_check_failure">"নহাক মেসেজশীং নহাক্কি ফিক্স তৌবা দাইলিং নম্বরশীংদা খক্তং থাবা য়াই."</string>
+<string name="data_call_fdn_check_failure">"MMS থাবা য়াদে FDN য়াহনবনিনা. *99# অসি FDN লিস্টতা তিনশিনবিয়ু অমসুং অদুদগী হন্না হোৎনৌ."</string>
+<string name="smsc_fdn_check_failure">"নহাক্কি মেসেজ সেন্তর মশীং FDN লিস্টতা য়াওদে."</string>
+<string name="smil_wait_comparing_att_size">"লোদ তৌরি, মিকুপ অমা ঙাইবিয়ু!"</string>
+<string name="smil_max_slide_count">"স্লাইদশীং %s খক্তং হাপচিনবা য়াই"</string>
+<string name="sms_wap_pref_title">"SMS WAP মেসেজ য়াহল্লু"</string>
+<string name="sms_wap_pref_summary">"SMS WAP মেসেজ ফংবা য়াহল্লু"</string>
+<string name="smil_Player_title">"SMIL প্লেয়র"</string>
+<string name="smil_caption_description">"SMIL"</string>
+<string name="smil_caption_edit_hint">"(এদিত তৌনবা ক্লিক তৌ)"</string>
+<string name="show_save_attachment_info">"মদু সেব তৌ?"</string>
+<string name="attachment_save_success">"মায় পাক্না সেব তৌরে."</string>
+<string name="unread_message_count">"পাদবা ই-পাও"</string>
+<string name="mms_convert_to_smil_title">"স্লাইদশীংদা ওন্থোকউ"</string>
+<string name="mms_convert_to_smil_message">"Mms অদু স্লাইদশীংদা ওন্থোক্কনি, মদুনা স্লাইদ মোদতা সপোর্ট তৌদবা এতেচমেন্টশীং খরা খন্নদবা য়াই, শোয়দ্রব্রা?"</string>
+<string name="confirm_convert">"ওকে"</string>
+<string name="cancel_convert">"ককথৎলু"</string>
+<string name="smil_max_part_count">"স্লাইদ অমদা এতেচমেন্টশীং %s খক্তং হাপচিনবা য়াই"</string>
+<string name="smil_add_error_same_content_type">"স্লাইদ অমদা চপ মান্নবা মেদিয়া মখলগী এতেচমেন্টশীং অনি হাপচিনবা য়াদে."</string>
+<string name="smil_add_error_video_conflict">"ওদিও নত্ত্রগা লাই য়াওবা স্লাইদ অমদা ভিদিও থম্বা য়াদে."</string>
+<string name="smil_replace_error_same_content_type">"মহুৎ শিনবা য়াদে মরমদি স্লাইদ অমদা চপ মান্নবা মেদিয়া মখলগী এতেচমেন্টশীং অনি থম্বা য়াদে."</string>
+<string name="smil_replace_error_video_conflict">"ভিদিওনা মহুৎ শিনবা য়াদে, নহাক্কি এতেচমেন্টশীং লৌথোকপিয়ু অমসুং হন্না হোৎনবিয়ু."</string>
+<string name="smil_edit_hint">"স্লাইদশীং, এদিত তৌনবা ক্লিক তৌ."</string>
+<string name="smil_unsupported_content_type">"সপোর্ট তৌদবা কন্টেন্ট মখল."</string>
+<string name="pref_internal_memory_usage_title">"MMS/ফংবা/অপুনবা"</string>
+<string name="pref_internal_memory_usage_progress_summary">"মেমোরি স্পেস মশীং থীরি..."</string>
+<string name="discard_message_reason">"নহাক্কি মেসেজ শীজিন্নররোই মরমদা মদুগী চৎনবা ফংগদবশীং লৈতে."</string>
+<string name="no_common_phrase">"ময়াম্না শীজিন্নবা ফ্রেজশীং য়াওদে"</string>
+<string name="action_copy_to_sim">"SIM দা কোপি তৌ"</string>
+<string name="select_sim">"SIM খল্লু"</string>
+<string name="sim_space_not_enough">"SIM দা sms গী স্পেস মতিক চানা ওক্নবা য়াওদে"</string>
+<string name="move_message_to_phone_memory">"মেসেজ ফোনগী মেমোরিদা মায় পাক্না কোপি তৌরে"</string>
+<string name="can_not_copy_the_message">"মেসেজ অদু কোপি তৌবা ঙমদ্রে"</string>
+<string name="failed_to_add_media">"নহাক মসি হাপচিনবা ঙমদে <xliff:g id="name">%1$s</xliff:g> নহাক্কি মেসেজদা."</string>
+<string name="contentType_audio">"ওদিও"</string>
+<string name="contentType_video">"ভিদিও"</string>
+<string name="contentType_image">"মমি"</string>
+<string name="contentType_other">"সপোর্ট তৌদবা ফাইল মখল শরুক য়ামিন্নবা ঙমদে"</string>
+<string name="no_record_audio_permission">"ওদিও রেকোর্দ তৌনবগী অয়াবা লৈতে!"</string>
+<string name="close_float_video">"কেমরা হাংবা মতমদা ভিদিও ফ্লোটিং ৱিন্দোশীং লোনশিল্লু."</string>
+<string name="unable_get_data">"দাতা ফংবা ঙমদে"</string>
+<string name="unexpected_recording_error">"রেকোর্দ তৌরিবা এপ অদু খুমজিনবিয়ু অমসুং হন্না হোৎনবিয়ু"</string>
+<string name="add_contacts_dialog_title">"কন্টেক্টশীং হাপচিল্লু"</string>
+<string name="add_contact_as_text">"টেকস্ট তৌ মেসেজ"</string>
+<string name="file_not_found_exception">"ফাইল অদু ফংদে!"</string>
+<string name="pref_title_mms_size_limit">"MMS চাওবা-পিকপগী অকক্নবা"</string>
+<string name="pref_summary_mms_size_limit">"মেসেজ অমা কম্পোজ তৌনবগী MMS চাওবা-পিকপগী অকক্নবা"</string>
+<string name="folder_display_option">"উৎনবা ওপসন"</string>
+<string name="folder_sortby">"খন্দোকপা না"</string>
+<string name="folder_delete_messages">"মেসেজশীং মুথৎলু"</string>
+<string name="sort_msg_list_empty_text">"নহাক মেসেজশীং অদু মফম অসিদা লিস্ট তৌবা উগনি"</string>
+<string name="folder_display_all">"মেসেজশীং লোইনমক উৎলু"</string>
+<string name="delete_messages_confirmation_dialog_title">"খল্লবা মেসেজশীং অদু মুথৎকদ্রা?"</string>
+<string name="delete_message_fail">"খল্লবা মেসেজশীং অদু মুথৎপা মায় পাক্তে!"</string>
+<string name="have_select_message">"খল্লবা %1$d"</string>
+<string name="copy_sim_sms_to_phone">"মেসেজ ফোন্দা কোপি তৌ"</string>
+<string name="simsms_title">"SIM দা মেসেজশীং"</string>
+     <string name="copy_fail">"কোপি তৌবা মায় পাক্তে!"</string>
+<string-array name="sort_type">
+<item>"মতম হন্থবগী মতুং ইন্না"</item>
+<item>"মতম হেনগৎপগী মতুং ইন্না"</item>
+<item>"এদ্রেশ হন্থবগী মতুং ইন্না"</item>
+<item>"এদ্রেশ হেনগৎপগী মতুং ইন্না"</item>
+</string-array>
+</resources>

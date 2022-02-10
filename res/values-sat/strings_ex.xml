@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="folder_display_option">"उदुग विकल्प"</string>
+    <string name="folder_sortby">"खाटो ते"</string>
+    <string name="folder_delete_messages">"सान्देस मेटाव  "</string>
+    <string name="sort_msg_list_empty_text">"आम दो नोण्डे सूची थार आकात् सान्देस एम ञेल दाड़ेयाक्आ"</string>
+    <string name="folder_display_all">"जोतो सान्देस उदुगमे"</string>
+    <string name="delete_messages_confirmation_dialog_title">"बाछाव सान्देस मेटाव?"</string>
+    <string name="delete_message_fail">"बाछावाक् सान्देस बाङ मेटाव लेना!"</string>
+    <string name="have_select_message">"बाछावाकाना %1$d"</string>
+    <string name="copy_sim_sms_to_phone">"फोन रे सान्देस कॉपीयमे"</string>
+    <string name="simsms_title">"SIM रे सानेदस"</string>
+    <string name="copy_fail">"नोकोल डिगा़वेना!"</string>
+    <string-array name="sort_type">
+        <item>"ओकते सिरगात् दारायते"</item>
+        <item>"ओकते सिदुप दारायते"</item>
+        <item>"ठिकाना सिरगात् दारायते"</item>
+        <item>"ठिकाना सिदुप् दारायते"</item>
+    </string-array>
+</resources>

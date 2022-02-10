@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string-array name="mms_validity_pref_entries">
+<item>"Guutuu hin jire"</item>
+<item>"Sa’aattii 1"</item>
+<item>"Sa’atoota 12"</item>
+<item>"Sa’atoota 24"</item>
+<item>"Guyyoota 2"</item>
+<item>"Olaanaa"</item>
+</string-array>
+<string-array name="sms_validity_pref_entries">
+<item>"Guutuu hin jire"</item>
+<item>"Sa’aattii 1"</item>
+<item>"Sa’atoota 12"</item>
+<item>"Sa’atoota 24"</item>
+<item>"Guyyoota 2"</item>
+<item>"Olaanaa"</item>
+</string-array>
+<string-array name="sms_save_to_sim_pref_entries">
+<item>"SMSn  sim irratti olkaa’amuuf dursa qaba"</item>
+<item>"SMSn daataa beezii ergiinsaa olkaa’uuf dursa qaba"</item>
+</string-array>
+</resources>

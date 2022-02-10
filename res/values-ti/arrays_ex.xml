@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string-array name="mms_validity_pref_entries">
+<item>"ምንም የለን"</item>
+<item>"1 ሰዓት"</item>
+<item>"12 ሰዓት"</item>
+<item>"24 ሰዓት"</item>
+<item>"2 መዓልታት"</item>
+<item>"ዝለዓለ"</item>
+</string-array>
+<string-array name="sms_validity_pref_entries">
+<item>"ምንም የለን"</item>
+<item>"1 ሰዓት"</item>
+<item>"12 ሰዓት"</item>
+<item>"24 ሰዓት"</item>
+<item>"2 መዓልታት"</item>
+<item>"ዝለዓለ"</item>
+</string-array>
+<string-array name="sms_save_to_sim_pref_entries">
+<item>"SMS ናብ sim ንምዕቃብ ቀዳምነት ኣለዎ"</item>
+<item>"SMS ናብ መልኣኺ ማዕኸን-ዳታ ንምዕቃብ ቀዳምነት ኣለዎ"</item>
+</string-array>
+</resources>

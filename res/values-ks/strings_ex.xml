@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="folder_display_option">ڈسپلی متابدل</string>
+    <string name="folder_sortby">"كتھ کین تھايو"</string>
+    <string name="folder_delete_messages">هٹايو میسیج</string>
+    <string name="sort_msg_list_empty_text">توہی وچھو میسیج يم فہرستس پیٹھ چھ هايتھ</string>
+    <string name="folder_display_all">هايو تمام میسیج</string>
+    <string name="delete_messages_confirmation_dialog_title">هٹايو چنمچ میسیج؟</string>
+    <string name="delete_message_fail">چنمچ میسیج هٹاون ناکاءم!</string>
+    <string name="have_select_message">چنمچ %1$d"</string>
+    <string name="copy_sim_sms_to_phone">نقل کرییو میسیج فونس کین</string>
+    <string name="simsms_title">میسیج SIM منز</string>
+    <string name="copy_fail">" نقل کرن گو ناکام!"</string>
+    <string-array name="sort_type">
+        <item>وقت پیٹھ کم گژھن</item>
+        <item>وقت پیٹھ ہیور کھسن</item>
+        <item>جاۓ پیٹھ بون واسن</item>
+        <item>جاۓ پیٹھ ہیور کھسن</item>
+    </string-array>
+</resources>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string-array name="empty_subject_strings">
+<item>"አርእስቲ የብሉን"</item>
+<item>"ምንም የለን"</item>
+</string-array>
+<string-array name="notification_reply_choices">
+<item>"እወ"</item>
+<item>"ኣይኮነን"</item>
+<item>"ሕራይ"</item>
+<item>"ሃሃ"</item>
+<item>"የቀንየለይ"</item>
+<item>"ይስማዕማዕ"</item>
+<item>"ጽቡቅ"</item>
+<item>"ይምጽእ ኣለኹ"</item>
+<item>"እሺ፣ ደሓረ ክምለሰካ እየ"</item>
+<item>":)"</item>
+<item>":("</item>
+</string-array>
+</resources>

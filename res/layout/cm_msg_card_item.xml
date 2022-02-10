@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <!--增加背景颜色  邸智源-->
+    <RelativeLayout
+        android:id="@+id/cm_msg_card_item_header"
+        android:layout_width="match_parent"
+        android:layout_height="46dp"
+        android:background="@drawable/dialog_title_bar_shape">
+
+        <TextView
+            android:id="@+id/cm_msg_card_item_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginStart="15dp"
+            android:ellipsize="end"
+            android:gravity="center_vertical"
+            android:maxEms="6"
+            android:singleLine="true"
+            android:textColor="@android:color/white"
+            android:textSize="16sp" />
+
+        <ImageView
+            android:id="@+id/cm_msg_card_item_right"
+            android:layout_width="23dp"
+            android:layout_height="26dp"
+            android:layout_alignParentEnd="true"
+            android:layout_centerVertical="true"
+            android:layout_marginEnd="8dp"
+            android:padding="5dp"
+            android:src="@drawable/cm_sms_check_resource"
+            android:visibility="visible" />
+    </RelativeLayout>
+
+    <FrameLayout
+        android:id="@+id/cm_msg_card_item_body"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/color_f1f1f1" />
+
+    <View
+        android:id="@+id/cm_msg_card_item_viewLine"
+        android:layout_width="match_parent"
+        android:layout_height="0.1dp"
+        android:background="@color/color_ccc" />
+
+    <LinearLayout
+        android:id="@+id/cm_msg_card_item_operation"
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:background="@color/color_f1f1f1"
+        android:gravity="center"
+        android:orientation="horizontal" />
+
+    <FrameLayout
+        android:id="@+id/cm_msg_card_item_ad"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+</LinearLayout>

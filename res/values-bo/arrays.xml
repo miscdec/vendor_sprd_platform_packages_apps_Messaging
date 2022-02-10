@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string-array name="empty_subject_strings">
+<item>"ཁ་བྱང་མེད།"</item>
+<item>"གཙོ་བྱང་མི་འདུག"</item>
+</string-array>
+<string-array name="notification_reply_choices">
+<item>ཡིན།</item>
+<item>"མིན།"</item>
+<item>ལགས་སོ།</item>
+<item>ཧ་ཧ།</item>
+<item>བཀའ་དྲིན་ཆེ།</item>
+<item>འཐད་པོ་ཡོད།</item>
+<item>འགྲིག་པོ་རེད།</item>
+<item>ལམ་དུ་ཡོད།</item>
+<item>"ཅུང་ཙམ་གྱི་རྗེས་སུ་ཨ་ལན་གནང་།"</item>
+<item>":)"</item>
+<item>":("</item>
+</string-array>
+</resources>

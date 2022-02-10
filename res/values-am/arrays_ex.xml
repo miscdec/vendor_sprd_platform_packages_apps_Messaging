@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string-array name="mms_validity_pref_entries">
+<item>"አልተስተካከለም"</item>
+<item>"1 ሰዓት"</item>
+<item>"12 ሰዓታት"</item>
+<item>24 ሰዓታት</item>
+<item>"2 ቀኖች"</item>
+<item>"የመጨረሻ"</item>
+</string-array>
+<string-array name="sms_validity_pref_entries">
+<item>"አልተስተካከለም"</item>
+<item>"1 ሰዓት"</item>
+<item>"12 ሰዓታት"</item>
+<item>24 ሰዓታት</item>
+<item>"2 ቀኖች"</item>
+<item>"የመጨረሻ"</item>
+</string-array>
+    <string-array name="sms_save_to_sim_pref_entries">
+        <item>"SMS በቅድሚያ በሲም ላይ ተቀምጧል"</item>
+        <item>"SMS በቅድሚያ በመልእክት መረጃ ቋት ላይ ተቀምጧል"</item>
+    </string-array>
+
+</resources>

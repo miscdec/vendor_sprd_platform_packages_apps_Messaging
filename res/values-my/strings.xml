@@ -1,0 +1,538 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+    Copyright (C) 2015 The Android Open Source Project
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+         http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
+ -->
+
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name" msgid="3062916848713424329">"စာပို့ခြင်း"</string>
+    <string name="share_intent_label" msgid="6920483598866144717">"စာပို့ခြင်း"</string>
+
+    <string name="attachment_more_items" msgid="2861573099241369958">"+<xliff:g id="COUNT">%d</xliff:g>"</string>
+
+    <string name="sms_disabled_pref_title" msgid="6352764741524717132">"စာတိုပို့ရန်သုံး အပလီကေးရှင်း"</string>
+    <string name="sms_enabled_pref_title" msgid="2961457081888153323">"စာတိုပို့ရန်သုံး အပလီကေးရှင်း"</string>
+    <!-- no translation found for default_sms_app (3907546126124760465) -->
+    <string name="notification_subject" msgid="5229975483160300625">"<xliff:g id="SUBJECT_LABEL">%s</xliff:g><xliff:g id="MESSAGETEXT">%s</xliff:g>"</string>
+    <string name="plus_one" msgid="9010288417554932581">"+၁"</string>
+    <string name="plus_n" msgid="8961547034116059566">"+%d"</string>
+    <string name="apn_apn" msgid="1197541953189716999">"APN"</string>
+    <string name="apn_mmsc" msgid="2584154739440281747">"MMSC"</string>
+    <string name="apn_mcc" msgid="8102023058623950736">"MCC"</string>
+    <string name="apn_mnc" msgid="1372437523197012866">"MNC"</string>
+    <string name="widget_conversation_name" msgid="3900606239571892871">"စာတိုပို့ခြင်း"</string>
+    <string name="link_display_format" msgid="8700344957248709584">"<xliff:g id="TEXT">%1$s</xliff:g> (<xliff:g id="URL">%2$s</xliff:g>)"</string>
+<string name="share_intent_activity_label">"စကားဝိုင်း ရွေးချယ်ပါ"</string>
+<string name="action_settings">"ဆက်တင်များ"</string>
+<string name="sendButtonContentDescription">"မက်ဆေခ်ျပို့"</string>
+<string name="attachMediaButtonContentDescription">"ပူးတွဲဖိုင် တစ်ဖိုင် ထည့်ပါ"</string>
+<string name="help_and_feedback_activity_label">"အကူအညီ"</string>
+<string name="alarm_message_date">"ရက်စွဲတစ်ခု ရွေးပါ"</string>
+<string name="alarm_message_time">"အချိန်တစ်ချိန် ရွေးပါ"</string>
+<string name="alarm_message_setup">"အသံမေးလ်အဆင်အပြင်များ"</string>
+<string name="alarm_message_cancel">"ပယ်ဖျက်ပါ"</string>
+<string name="welcome">"ကြိုဆိုပါ၏"</string>
+<string name="skip">"ကျော်သွားမည်"</string>
+<string name="next_with_arrow">"ရှေ့သို့ &gt;"</string>
+<string name="next">"ရှေ့ဆက်"</string>
+<string name="exit">"ထွက်ရန်"</string>
+<string name="settings_with_arrow">"ဆက်တင်များ &gt;"</string>
+<string name="settings">"ဆက်တင်များ"</string>
+<string name="required_permissions_promo">"မက်ဆေ့ဂ်ျပို့အက်ပ်သည် SMS၊ ဖုန်းနှင့် အဆက်အသွယ်များအတွက် ခွင့်ပြုချက် လိုအပ်သည်။"</string>
+<string name="enable_permission_procedure">"ဆက်တင်များ &gt; အက်ပ်များ &gt; မက်ဆေ့ဂ်ျပို့ခြင်း &gt; ခွင့်ပြုချက်များ ထဲတွင် သင်က ခွင့်ပြုချက်များကို ပြောင်းနိုင်သည်။"</string>
+<string name="enable_permission_procedure_description">"ဆက်တင်များ၊ အက်ပ်များ၊ မက်ဆေ့ဂ်ျပို့ခြင်း၊ ခွင့်ပြုချက်များ ထဲတွင် သင်က ခွင့်ပြုချက်များကို ပြောင်းနိုင်သည်။"</string>
+<string name="contact_picker_frequents_tab_title">"မကြာခဏများ"</string>
+<string name="contact_picker_all_contacts_tab_title">"ဖုန်းအဆက်အသွယ်အားလုံး"</string>
+<string name="contact_list_send_to_text">"<xliff:g id="destination">%s</xliff:g> သို့ ပို့ပါ"</string>
+<string name="mediapicker_cameraChooserDescription">"ပုံများ သို့မဟုတ် ဗီဒီယိုများကို ဖမ်းယူပါ"</string>
+<string name="mediapicker_galleryChooserDescription">"ဤစက်မှ ပုံများကို ရွေးချယ်ပါ"</string>
+<string name="mediapicker_audioChooserDescription">"အသံသွင်းမည်"</string>
+<string name="mediapicker_gallery_title">"ဓါတ်ပုံ ရွေးချယ်ပါ"</string>
+<string name="mediapicker_gallery_item_selected_content_description">"မီဒီယာကို ရွေးထားသည်။"</string>
+<string name="mediapicker_gallery_item_unselected_content_description">"မီဒီယာကို ရွေးမထားပါ။"</string>
+<string name="mediapicker_gallery_title_selection">"<xliff:g id="count">%d</xliff:g> ခု ရွေးထားသည်"</string>
+<string name="mediapicker_gallery_image_item_description">"ပုံ <xliff:g id="date">%1$tB %1$te %1$tY %1$tl %1$tM %1$tp</xliff:g>"</string>
+<string name="mediapicker_gallery_image_item_description_no_date">"ရုပ်ပုံများ"</string>
+<string name="mediapicker_audio_title">"အသံသွင်းမည်"</string>
+<string name="action_share">"ဝေမျှပါ"</string>
+<string name="posted_just_now">"ယခုလေးတင်"</string>
+<string name="posted_now">"ယခု"</string>
+<plurals name="num_minutes_ago">
+<item quantity="one">"<xliff:g id="count">%d</xliff:g> မိနစ်"</item>
+<item quantity="other">"<xliff:g id="count">%d</xliff:g> မိနစ်"</item>
+</plurals>
+<plurals name="num_hours_ago">
+<item quantity="one">"<xliff:g id="count">%d</xliff:g> နာရီ"</item>
+<item quantity="other">"<xliff:g id="count">%d</xliff:g> နာရီ"</item>
+</plurals>
+<plurals name="num_days_ago">
+<item quantity="one">"<xliff:g id="count">%d</xliff:g> ရက်"</item>
+<item quantity="other">"<xliff:g id="count">%d</xliff:g> ရက်"</item>
+</plurals>
+<plurals name="week_count">
+<item quantity="one">"တစ်ပတ်"</item>
+<item quantity="other">"<xliff:g id="count">%d</xliff:g> ပတ်"</item>
+</plurals>
+<plurals name="month_count">
+<item quantity="one">"တစ်လ"</item>
+<item quantity="other">"<xliff:g id="count">%d</xliff:g> လ"</item>
+</plurals>
+<plurals name="year_count">
+<item quantity="one">"တစ်နှစ်"</item>
+<item quantity="other">"<xliff:g id="count">%d</xliff:g> နှစ်"</item>
+</plurals>
+<string name="class_0_message_activity">"အဆင့် 0 မက်ဆေ့ခ်ျ"</string>
+<string name="save">"သိမ်းပါ"</string>
+<string name="sms_storage_low_auto_delete_enabled_dialog_text">"စက်သည် နေရာလွတ်နည်းနေသည်။ မက်ဆေ့ဂ်ျပို့အက်ပ်သည် နေရာလွတ် ရှင်းပေးရန် ပိုဟောင်းသောမက်ဆေ့ဂ်ျများကို အလိုအလျောက် ဖျက်ပေးပါလိမ့်မည်။"</string>
+<string name="sms_storage_low_title">"သိုလှောင်မှုနေရာ မရှိတော့ပါ"</string>
+<string name="sms_storage_low_text">"သင့်စက်ပေါ်တွင် နောက်ထပ် နေရာလွတ် မရမချင်း မက်ဆေ့ဂ်ျပို့အက်ပ်သည် မက်ဆေ့ဂ်ျများကို ပို့မည်၊ လက်ခံမည် မဟုတ်ပါ။"</string>
+<string name="sms_storage_low_notification_ticker">"SMS သိုလှောင်ခန်းနည်းနေသည်။ မက်ဆေ့ဂ်ျများကို သင်ဖျက်ပစ်ရန် လိုနိုင်သည်။"</string>
+<string name="enter_phone_number_title">"သင့်ဖုန်းနံပါတ်ကို အတည်ပြုပါ"</string>
+<string name="enter_phone_number_text">"တစ်ကြိမ်တည်းသော ဤအဆင့်သည် သင်၏ အုပ်စုလိုက် မက်ဆေ့ဂ်ျများကို မက်ဆေ့ဂ်ျပို့ အက်ပ်က ဆီလျော်စွာပို့ပေးရန် သေချာစေပါလိမ့်မည်။"</string>
+<string name="enter_phone_number_hint">"ဖုန်းနံပါတ်"</string>
+<string name="delete_all_media">"မီဒီယာကို သုံး၍ မက်ဆေ့ဂ်ျအားလုံးကို ဖျက်ပါ"</string>
+<string name="delete_oldest_messages">"<xliff:g id="duration">%s</xliff:g> ထက် ပိုကြာသော မက်ဆေ့ဂ်ျများကို ဖျက်ပစ်ပါ"</string>
+<string name="auto_delete_oldest_messages">"<xliff:g id="duration">%s</xliff:g> ထက် ပိုကြာသော မက်ဆေ့ဂ်ျများကို အော်တိုဖျက်ပါ။"</string>
+<string name="ignore">"လျစ်လျှူရှု"</string>
+<string name="delete_all_media_confirmation">"မီဒီယာကို သုံး၍ မက်ဆေ့ဂ်ျအားလုံးကို ဖျက်မလား။"</string>
+<string name="delete_oldest_messages_confirmation">"<xliff:g id="duration">%s</xliff:g> ထက် ပိုကြာသော မက်ဆေ့ဂ်ျများကို ဖျက်မလား။"</string>
+<string name="auto_delete_oldest_messages_confirmation">"<xliff:g id="duration">%s</xliff:g> ထက် ပိုကြာသော မက်ဆေ့ဂ်ျများကို ဖျက်ပြီး အော်တို ဖျက်ရန်ကို ဖွင့်မလား။"</string>
+<string name="incoming_text_sender_content_description">"<xliff:g id="sender">%s</xliff:g> က ပြောထား"</string>
+<string name="outgoing_text_sender_content_description">"သင်က ပြောထား"</string>
+<string name="incoming_sender_content_description">"<xliff:g id="sender">%s</xliff:g> ထံမှ မက်ဆေ့ဂ်ျ"</string>
+<string name="outgoing_sender_content_description">"သင်က မက်ဆေ့ဂ်ျတစ်စောင် ပို့လိုက်သည်"</string>
+<string name="message_status_sending">"ပို့နေသည်…"</string>
+<string name="message_status_alarm">"ပို့ရန် သတိပေးရမည့်အချိန်မှာ"</string>
+<string name="message_status_send_failed">"မပို့ဖြစ်ခဲ့ပါ။ ထပ်ကြိုးစားရန် တို့ပါ။"</string>
+<string name="user_not_exist">"သုံးစွဲသူမရှိပါ။"</string>
+<string name="message_status_send_retrying">"မပို့ဖြစ်ခဲ့ပါ။ ထပ်ကြိုးစားနေသည်…"</string>
+<string name="message_status_resend">"ပြန်ပို့ပါ သို့မဟုတ် ဖျက်ပါ"</string>
+<string name="message_status_send_failed_emergency_number">"အရေးပေါ် ဝန်ဆောင်များထံ အသံဖြင့် ဖုန်းခေါ်ဆိုမှု ပြုလုပ်ပေးပါ။ ဤအချိန်တွင် သင်၏ စာသားမက်ဆေ့ဂ်ျကို ပို့၍မရပါ။"</string>
+<string name="message_status_failed">"ကျရှုံးသည်"</string>
+<string name="message_title_manual_download">"ဒေါင်းလုဒ်လုပ်ရန် MMS မက်ဆေ့ဂ်ျသစ်"</string>
+<string name="message_title_downloading">"MMS မက်ဆေ့ဂ်ျသစ်"</string>
+<string name="message_title_download_failed">"ဒေါင်းလုဒ်လုပ်ခြင်းမအောင်မြင်ပါ"</string>
+<string name="message_status_download_failed">"ထပ်ကြိုးစားရန် တို့ပါ"</string>
+<string name="message_status_download">"ဒေါင်းလုဒ်လုပ်ရန် တို့ထိပါ"</string>
+<string name="message_status_download_action">"ဒေါင်းလုဒ်လုပ်ပါ သို့မဟုတ် ဖျက်ပါ"</string>
+<string name="message_status_downloading">"ဒေါင်းလုဒ်လုပ်နေသည်…"</string>
+<string name="message_status_download_error">"မက်ဆေ့ဂ်ျ သက်တမ်းကုန်သွားသည် (သို့) မရနိုင်ပါ"</string>
+<string name="mms_info">"အရွယ်အစား- <xliff:g id="messageSize">%1$s</xliff:g>၊ သက်တမ်းကုန်ခြင်း- <xliff:g id="messageExpire">%2$s</xliff:g>"</string>
+<string name="invalid_destination">"ပို့၍မရပါ။ လက်ခံမည့်သူ မှားနေသည်။"</string>
+<string name="service_not_activated">"ကွန်ရက်ပေါ်တွင် ဝန်ဆောင်မှုကို ဖွင့်သုံးမထားပါ"</string>
+<string name="service_network_problem">"ကွန်ရက်ပြဿနာကြောင့် ပို့၍မရပါ"</string>
+<string name="service_message_not_found">"မက်ဆေ့ဂ်ျ သက်တမ်းကုန်သွားသည် (သို့) မရနိုင်ပါ"</string>
+<string name="no_subject">"(အကြောင်းအရာမပါ)"</string>
+<string name="unknown_sender">"အမည်မသိ လက်ခံမည့်သူ"</string>
+<string name="delivered_status_content_description">"ပို့လိုက်ပါပြီ"</string>
+<string name="dl_failure_notification">"<xliff:g id="from">%2$s</xliff:g> မှ မက်ဆေ့ခ်ျ <xliff:g id="subject">%1$s</xliff:g> အား ဒေါင်းလုဒ်မလုပ်နိုင်ပါ။"</string>
+<string name="low_memory">"မမ်မိုရီနည်းနေ၍ ဒေတာဘေ့စ် ဆောင်ရွက်ချက်ပြီးအောင် မလုပ်နိုင်ခဲ့ပါ"</string>
+<string name="notification_send_failures_line1_singular">"မက်ဆေ့ခ်ျမပို့ပါ"</string>
+<string name="notification_send_failures_line1_plural">"မက်ဆေ့ဂ်ျပို့အက်ပ်ရှိ အချို့မက်ဆေ့ဂ်ျများကို မပို့ခဲ့ပါ"</string>
+<plurals name="notification_send_failures">
+<item quantity="one">"စကားဝိုင်းတစ်ခုတွင် မက်ဆေ့ဂ်ျ <xliff:g id="messages">%d</xliff:g> စောင်"</item>
+<item quantity="other">"စကားဝိုင်း <xliff:g id="conversations">%d</xliff:g> ခုတွင် မက်ဆေ့ဂ်ျ <xliff:g id="messages">%d</xliff:g> စောင်"</item>
+</plurals>
+<string name="notification_download_failures_line1_singular">"မက်ဆေ့ခ်ျကို ဒေါင်းလုဒ်မလုပ်ပါ"</string>
+<string name="notification_download_failures_line1_plural">"မက်ဆေ့ဂ်ျပို့အက်ပ်တွင် အချို့မက်ဆေ့ဂ်ျများကို ဒေါင်းလုဒ်မလုပ်ခဲ့ပါ"</string>
+<plurals name="notification_download_failures">
+<item quantity="one">"စကားဝိုင်းတစ်ခုတွင် မက်ဆေ့ဂ်ျ <xliff:g id="messages">%d</xliff:g> စောင်"</item>
+<item quantity="other">"စကားဝိုင်း <xliff:g id="conversations">%d</xliff:g> ခုတွင် မက်ဆေ့ဂ်ျ <xliff:g id="messages">%d</xliff:g> စောင်"</item>
+</plurals>
+<string name="notification_emergency_send_failure_line1">"<xliff:g id="number">%1$s</xliff:g> သို့ မက်ဆေ့ဂ်ျကို မပို့ဖြစ်ခဲ့ပါ"</string>
+<string name="notification_emergency_send_failure_line2">" အရေးပေါ် ဝန်ဆောင်များထံ အသံဖြင့် ဖုန်းခေါ်ဆိုမှု ပြုလုပ်ပေးပါ။ ဤအချိန်တွင် သင်၏ <xliff:g id="number">%1$s</xliff:g> သို့ စာသားမက်ဆေ့ဂ်ျကို ပို့၍မရပါ။ "</string>
+<plurals name="notification_new_messages">
+<item quantity="one">"မက်ဆေ့ခ်ျအသစ်"</item>
+<item quantity="other">"မက်ဆေ့ဂ်ျ <xliff:g id="messages">%d</xliff:g> စောင်"</item>
+</plurals>
+<string name="start_conversation">"စတင်ပါ"</string>
+<string name="camera_error_opening">"ကင်မရာကို မရနိုင်ပါ"</string>
+<string name="camera_error_unknown">"ကင်မရာကို မရနိုင်ပါ"</string>
+<string name="camera_error_video_init_fail">"ဗီဒီယိုဖမ်းယူမှုကို မရနိုင်ပါ"</string>
+<string name="camera_error_storage_fail">"မီဒီယာကို သိမ်း၍မရပါ"</string>
+<string name="camera_error_failure_taking_picture">"ပုံရိုက်ကူး၍ မရပါ"</string>
+<string name="back">"နောက်"</string>
+<string name="action_menu_show_archived">"မော်ကွန်းတင်ပြီး"</string>
+<string name="action_delete">"ပယ်ဖျက်သည်"</string>
+<string name="action_archive">"မော်ကွန်းတင်"</string>
+<string name="action_unarchive">"မှတ်တမ်းထိန်း မသိမ်းရန်"</string>
+<string name="action_notification_off">"အသိပေးချက်များကို ပိတ်ပါ"</string>
+<string name="action_notification_on">"သတိပေးချက်များကို ဖွင့်ပါ"</string>
+<string name="action_add_contact">"ဖုန်းအဆက်အသွယ် ပေါင်းထည့်မည်"</string>
+<string name="action_download">"ဒေါင်းလုပ်"</string>
+<string name="action_send">"ပို့"</string>
+<string name="action_delete_message">"ပယ်ဖျက်သည်"</string>
+<string name="delete_message_confirmation_dialog_title">"ဤမက်ဆေ့ဂ်ျကို ဖျက်မလား။"</string>
+<string name="delete_message_confirmation_dialog_text">"ဤလုပ်ဆောင်ချက်ကို နောက်ကြောင်းပြန်မလှည့်နိုင်ပါ။"</string>
+<string name="delete_message_confirmation_button">"ပယ်ဖျက်သည်"</string>
+<plurals name="delete_conversations_confirmation_dialog_title">
+<item quantity="one">"ဤစကားစမြည်ကို ပယ်ဖျက်မှာလား?"</item>
+<item quantity="other">"ယင်းစကားဝိုင်းများကို ဖျက်မလား။"</item>
+</plurals>
+<string name="delete_conversation_confirmation_button">"ပယ်ဖျက်သည်"</string>
+<string name="delete_conversation_decline_button">"ပယ်ဖျက်ပါ"</string>
+<string name="recipient_hint">"သို့"</string>
+<string name="action_multiselect">"ပုံမြောက်များစွာ ရွေးပါ"</string>
+<string name="action_confirm_multiselect">"ရွေးချယ်မှုကို အတည်ပြုပါ"</string>
+<string name="audio_recording_start_failed">"အသံ ဖမ်းယူ၍ မရပါ။ ခွင့်ပြုချက်များကို စစ်ဆေးပြီး ထပ်ကြိုးစားပါ။"</string>
+<string name="audio_recording_replay_failed">"အသံကို ဖွင့်၍ မရပါ။ ထပ်ကြိုးစားပါ။"</string>
+<string name="audio_recording_error">"အသံဖိုင်ကို သိမ်း၍မရပါ။ ထပ်ကြိုးစားပါ။"</string>
+<string name="audio_picker_hint_text">"တို့ထိထားပါ"</string>
+<string name="enumeration_comma">",\u0020"</string>
+<string name="notification_separator">"\u0020\u0020"</string>
+<string name="notification_ticker_separator">":\u0020"</string>
+<string name="notification_space_separator">"\u0020\u0020"</string>
+<string name="notification_picture">"ရုပ်ပုံ"</string>
+<string name="notification_audio">"အော်ဒီယို ကလစ်ပ်"</string>
+<string name="notification_video">"ဗီဒီယို"</string>
+<string name="notification_vcard">"ဆက်သွယ်ရန် ကတ်"</string>
+<string name="notification_download_mms">"ဒေါင်းလုပ်"</string>
+<string name="notification_reply_via_sms">"SMS သုံး၍ စာပြန်ရန်"</string>
+<string name="notification_reply_via_mms">"MMS သုံး၍ စာပြန်ရန်"</string>
+<string name="notification_reply_prompt">"ပြန်ပို့"</string>
+<plurals name="wearable_participant_count">
+<item quantity="one">"ပါဝင်တက်ရောက်သူ <xliff:g id="count">%d</xliff:g> ဦး"</item>
+<item quantity="other">"ပါဝင်တက်ရောက်သူ <xliff:g id="count">%d</xliff:g> ဦး"</item>
+</plurals>
+<string name="unknown_self_participant">"ကျွန်ုပ်"</string>
+<string name="blocked_toast_message">"အဆက်အသွယ်ကို ပိတ်ဆို့၍ မှတ်တမ်းသိမ်းလိုက်သည်"</string>
+<string name="unblocked_toast_message">"အဆက်အသွယ်ကို မပိတ်ဆို့တော့၊ မှတ်တမ်းထိန်းသိမ်းမှု မလုပ်တော့"</string>
+<string name="archived_toast_message">"<xliff:g id="count">%d</xliff:g> ဦး မှတ်တမ်းသိမ်းထားသည်"</string>
+<string name="unarchived_toast_message">"<xliff:g id="count">%d</xliff:g> ဦးကို မှတ်တမ်းမသိမ်းတော့"</string>
+<string name="notification_off_toast_message">"အသိပေးချက်များ ပိတ်ထားသည်"</string>
+<string name="notification_on_toast_message">"အသိပေးချက်များ ဖွင့်ထားသည်"</string>
+<string name="toast_after_setting_default_sms_app_for_message_send">"အားလုံး သတ်မှတ်ပြီးပါပြီ။ တို့ထိပြီး ထပ်ပို့ပါ။"</string>
+<string name="toast_after_setting_default_sms_app">"Messaging ကို ပုံသေ SMS အက်ပ်အဖြစ် အောင်မြင်စွာ သတ်မှတ်လိုက်သည်"</string>
+<plurals name="attachment_preview_close_content_description">
+<item quantity="one">"ပူးတွဲဖိုင်ကို ဖျက်ပစ်ပါ"</item>
+<item quantity="other">"ပူးတွဲဖိုင်များကို ဖျက်ပစ်ပါ"</item>
+</plurals>
+<string name="audio_attachment_content_description">"အသံ ပူးတွဲဖိုင်"</string>
+<string name="audio_play_content_description">"အသံ ပူးတွဲဖိုင်ကို ဖွင့်ပါ"</string>
+<string name="audio_pause_content_description">"ခဏရပ်"</string>
+<string name="incoming_message_announcement">"မက်ဆေ့ဂ်ျပို့သူ <xliff:g id="sender">%s</xliff:g>- <xliff:g id="message">%s</xliff:g>။"</string>
+<string name="one_on_one_incoming_failed_message_prefix">"<xliff:g id="sender">%s</xliff:g> ထံမှ မအောင်မြင်သော မက်ဆေ့ဂ်ျ- <xliff:g id="message">%s</xliff:g>။ အချိန်- <xliff:g id="time">%s</xliff:g>။"</string>
+<string name="one_on_one_incoming_successful_message_prefix">"မက်ဆေ့ဂ်ျပို့သူ <xliff:g id="sender">%s</xliff:g>- <xliff:g id="message">%s</xliff:g>။ အချိန်- <xliff:g id="time">%s</xliff:g>။"</string>
+<string name="one_on_one_outgoing_draft_message_prefix">"<xliff:g id="contact">%s</xliff:g> သို့ မပို့ဖြစ်သော မက်ဆေ့ဂ်ျ- <xliff:g id="message">%s</xliff:g>။ အချိန်- <xliff:g id="time">%s</xliff:g>။"</string>
+<string name="one_on_one_outgoing_sending_message_prefix">"<xliff:g id="contact">%s</xliff:g> သို့ မက်ဆေ့ဂ်ျပို့နေသည်- <xliff:g id="message">%s</xliff:g>။ အချိန်- <xliff:g id="time">%s</xliff:g>။"</string>
+<string name="one_on_one_outgoing_failed_message_prefix">"<xliff:g id="contact">%s</xliff:g> ထံသို့ ပို့မရသော မက်ဆေ့ဂ်ျ- <xliff:g id="message">%s</xliff:g>။ အချိန်- <xliff:g id="time">%s</xliff:g>။"</string>
+<string name="one_on_one_outgoing_successful_message_prefix">"<xliff:g id="contact">%s</xliff:g> ထံသို့ မက်ဆေ့ဂ်ျ- <xliff:g id="message">%s</xliff:g>။ အချိန်- <xliff:g id="time">%s</xliff:g>။"</string>
+<string name="group_incoming_failed_message_prefix">"<xliff:g id="sender">%s</xliff:g> ထံမှ မအောင်မြင်သော မက်ဆေ့ဂ်ျ- <xliff:g id="message">%s</xliff:g>။ အချိန်- <xliff:g id="time">%s</xliff:g>။ <xliff:g id="groupInfo">%s</xliff:g>။"</string>
+<string name="group_incoming_successful_message_prefix">"မက်ဆေ့ဂ်ျပို့သူ <xliff:g id="sender">%s</xliff:g>- <xliff:g id="message">%s</xliff:g>။ အချိန်- <xliff:g id="time">%s</xliff:g>။ <xliff:g id="groupInfo">%s</xliff:g>။"</string>
+<string name="group_outgoing_draft_message_prefix">"<xliff:g id="group">%s</xliff:g> သို့ မပို့ဖြစ်သော မက်ဆေ့ဂ်ျ- <xliff:g id="message">%s</xliff:g>။ အချိန်- <xliff:g id="time">%s</xliff:g>။"</string>
+<string name="group_outgoing_sending_message_prefix">"<xliff:g id="group">%s</xliff:g> သို့ မက်ဆေ့ဂ်ျပို့နေသည်- <xliff:g id="message">%s</xliff:g>။ အချိန်- <xliff:g id="time">%s</xliff:g>။"</string>
+<string name="group_outgoing_failed_message_prefix">"<xliff:g id="group">%s</xliff:g> ထံသို့ ပို့မရသော မက်ဆေ့ဂ်ျ- <xliff:g id="message">%s</xliff:g>။ အချိန်- <xliff:g id="time">%s</xliff:g>။"</string>
+<string name="group_outgoing_successful_message_prefix">"<xliff:g id="group">%s</xliff:g> ထံသို့ မက်ဆေ့ဂ်ျျ- <xliff:g id="message">%s</xliff:g>။ အချိန်- <xliff:g id="time">%s</xliff:g>။"</string>
+<string name="failed_message_content_description">"မအောင်မြင်သော မက်ဆေ့ဂ်ျ။ ထပ်ကြိုးစားရန် တို့ပါ။"</string>
+<string name="group_conversation_description">"<xliff:g id="participants">%s</xliff:g> နှင့် စကားဝိုင်း"</string>
+<string name="delete_subject_content_description">"အကြောင်းရင်းကို ဖျက်ပါ"</string>
+<string name="camera_switch_to_video_mode">"ဗီဒီယိုရိုက်မည်"</string>
+<string name="camera_switch_to_still_mode">"ရုပ်ငြိမ်ပုံတစ်ပုံ ဖမ်းယူပါ"</string>
+<string name="camera_take_picture">"ဓာတ်ပုံ ရိုက်ပါ"</string>
+<string name="camera_start_recording">"ဗီဒီယို စရိုက်ပါ"</string>
+<string name="camera_switch_full_screen">"စခရင်ပြည့်ကင်မရာသို့ ပြောင်းပါ"</string>
+<string name="camera_switch_camera_facing">"ရှေ့နှင့်နောက် ကင်မရာ ကူးပြောင်းရန်"</string>
+<string name="camera_stop_recording">"ရိုက်ကူးမှုရပ်ပြီး ဗီဒီယို ပူးတွဲထည့်ရန်"</string>
+<string name="camera_cancel_recording">"ဗီဒီယိုရိုက်ကူးခြင်း ရပ်ရန်"</string>
+<string name="photo_view_activity_title">"မက်ဆေ့ဂ်ျပို့ ဓာတ်ပုံများ"</string>
+<plurals name="photos_saved_to_album">
+<item quantity="one">"ဓာတ်ပုံ <xliff:g id="quantity">%d</xliff:g> ပုံ သိမ်းထားသောနေရာမှာ \"<xliff:g id="albumName">%s</xliff:g>\" အယ်လ်ဘမ်"</item>
+<item quantity="other">"ဓာတ်ပုံ <xliff:g id="quantity">%d</xliff:g> ပုံ သိမ်းထားသောနေရာမှာ \"<xliff:g id="albumName">%s</xliff:g>\" အယ်လ်ဘမ်"</item>
+</plurals>
+<plurals name="videos_saved_to_album">
+<item quantity="one">"ဗီဒီယို <xliff:g id="quantity">%d</xliff:g> ဖိုင် သိမ်းထားသောနေရာမှာ \"<xliff:g id="albumName">%s</xliff:g>\" အယ်လ်ဘမ်"</item>
+<item quantity="other">"ဗီဒီယို <xliff:g id="quantity">%d</xliff:g> ဖိုင် သိမ်းထားသောနေရာမှာ \"<xliff:g id="albumName">%s</xliff:g>\" အယ်လ်ဘမ်"</item>
+</plurals>
+<plurals name="attachments_saved_to_album">
+<item quantity="one">"ပူးတွဲဖိုင် <xliff:g id="quantity">%d</xliff:g> ဖိုင် သိမ်းထားသောနေရာမှာ \"<xliff:g id="albumName">%s</xliff:g>\" အယ်လ်ဘမ်"</item>
+<item quantity="other">"ပူးတွဲဖိုင် <xliff:g id="quantity">%d</xliff:g> ဖိုင် သိမ်းထားသောနေရာမှာ \"<xliff:g id="albumName">%s</xliff:g>\" အယ်လ်ဘမ်"</item>
+</plurals>
+<plurals name="attachments_saved_to_downloads">
+<item quantity="one">"ပူးတွဲဖိုင် <xliff:g id="quantity">%d</xliff:g> ဖိုင် ကို \"ဒေါင်းလုဒ်များ\" သို့ သိမ်းလိုက်သည်"</item>
+<item quantity="other">"ပူးတွဲဖိုင် <xliff:g id="quantity">%d</xliff:g> ဖိုင် ကို \"ဒေါင်းလုဒ်များ\" သို့ သိမ်းလိုက်သည်"</item>
+</plurals>
+<plurals name="attachments_saved">
+<item quantity="one">"ပူးတွဲဖိုင် <xliff:g id="quantity">%d</xliff:g> ဖိုင်ကို သိမ်းလိုက်သည်"</item>
+<item quantity="other">"ပူးတွဲဖိုင် <xliff:g id="quantity">%d</xliff:g> ဖိုင်ကို သိမ်းလိုက်သည်"</item>
+</plurals>
+<plurals name="attachment_save_error">
+<item quantity="one">"ပူးတွဲဖိုင် <xliff:g id="quantity">%d</xliff:g> ဖိုင်ကို သိမ်း၍မရပါ။"</item>
+<item quantity="other">"ပူးတွဲဖိုင် <xliff:g id="quantity">%d</xliff:g> ဖိုင်ကို သိမ်း၍မရပါ။"</item>
+</plurals>
+<string name="attachment_file_description">"MMS ပူးတွဲဖိုင်ကို သိမ်းလိုက်ပါပြီ"</string>
+<string name="settings_activity_title">"ဆက်တင်များ"</string>
+<string name="archived_activity_title">"မော်ကွန်းတင်ပြီး"</string>
+<string name="action_close">"ပိတ်ပါ"</string>
+<string name="mms_messaging_category_pref_title">"MMS"</string>
+<string name="advanced_category_pref_title">"အဆင့်မြင့်"</string>
+<string name="debug_category_pref_title">"ချို့ယွင်းချက်ပြင်မည်"</string>
+<string name="notifications_enabled_pref_title">"အချက်ပေးချက်များ"</string>
+<string name="notification_sound_pref_title">"အသံ"</string>
+<string name="silent_ringtone">"အသံတိတ်"</string>
+<string name="notification_vibrate_pref_title">"တုန်ခါမှု"</string>
+<string name="blocked_pref_title">"ဘလော့လုပ်ပြီးပါပြီ"</string>
+<string name="send_reports_pref_title">"SMS ပို့ သတင်းပို့ချက်များ"</string>
+<string name="send_reports_pref_summary">"သင်ပို့လိုက်သော SMS တစ်စောင်ချင်းစီအတွက် ပို့ပြီးကြောင်း သတင်းပို့ချက်တစ်ခု တောင်းဆိုပါ"</string>
+<string name="delivery_reports_pref_title">"SMS ပို့ပြီးကြောင်း သတင်းပို့ချက်များ"</string>
+<string name="delivery_reports_pref_summary">"သင် ပေးပို့လိုက်သော SMS တစ်စောင်ချင်းစီအတွက် ပို့ပြီးကြောင်း သတင်းပို့ချက်တစ်ခု တောင်းဆိုပါ"</string>
+<string name="auto_retrieve_mms_pref_title">"အလိုအလျောက်ပြန်လည်ရယူပါ"</string>
+<string name="auto_retrieve_mms_pref_summary">"MMS မက်ဆေ့ဂ်ျများကို အလိုအလျောက် ပြန်ရယူပါ"</string>
+<string name="auto_retrieve_mms_when_roaming_pref_title">"ပြင်ပကွန်ယက်သို့ဝင်ရောက်ခြင်း အလိုအလျောက်ပြန်လည်သွားပါ"</string>
+<string name="auto_retrieve_mms_when_roaming_pref_summary">"ရွမ်းမင်းဖွင့်ထားစဉ် MMS ကို အလိုအလျောက် ပြန်ရယူသည်"</string>
+<string name="group_mms_pref_title">"မက်ဆေ့ခ်ျသုံးခြင့် အဖွဲ့ဖွဲ့ပါ"</string>
+<string name="group_mms_pref_summary">"မာတီလက်ခံသူများ ရှိချိန်တွင် မက်ဆေ့ခ်ျတစ်ခု ပို့ရန် MMS ကို သုံးပါ"</string>
+<string name="mms_phone_number_pref_title">"သင့်ဖုန်းနံပါတ်"</string>
+<string name="unknown_phone_number_pref_display_value">"မသိ"</string>
+<string name="send_sound_pref_title">"အထွက်မက်ဆေ့ဂ်ျ အသံများ"</string>
+<string name="dump_sms_pref_title">"SMS ကို ပွား၍သိမ်းရန်"</string>
+<string name="dump_sms_pref_summary">"လက်ခံရရှိသော SMS ဒေတာအကြမ်းများကို ပြင်ပသိုလှောင်ခန်းဖိုင်သို့ ပွား၍သိမ်းပေးသည်"</string>
+<string name="dump_mms_pref_title">"MMS ကို ပွား၍သိမ်းရန်"</string>
+<string name="dump_mms_pref_summary">"လက်ခံရရှိသော MMS ဒေတာအကြမ်းများကို ပြင်ပသိုလှောင်ခန်းဖိုင်သို့ ပွား၍သိမ်းပေးသည်"</string>
+<string name="wireless_alerts_title">"ကြိုးမဲ့ နှိုးဆော်သတိပေးချက်များ"</string>
+<string name="message_context_menu_title">"မက်ဆေ့ခ်ျရွေးစရာများ"</string>
+<string name="message_context_menu_copy_text">"စာသားသို့ ကူးယူပါ"</string>
+<string name="message_context_menu_view_details">"အသေးစိတ်ကို ကြည့်ရှုပါ"</string>
+<string name="message_context_menu_delete_message">"ပယ်ဖျက်သည်"</string>
+<string name="message_context_menu_forward_message">"ရှေ့သို့သိမ်း"</string>
+<string name="message_details_title">"မက်ဆေ့ခ်ျအသေးစိတ်"</string>
+<string name="message_type_label">"ပုံစံ:\u0020"</string>
+<string name="text_message">"မက်ဆေ့ခ်ျရေးပါ"</string>
+<string name="multimedia_message">"မာတီမီဒီယာ မက်ဆေ့ခ်ျ"</string>
+<string name="from_label">"xxxမှ:\u0020"</string>
+<string name="to_address_label">"သို့:\u0020"</string>
+<string name="sent_label">"ပို့ပြီး:\u0020"</string>
+<string name="received_label">"လက်ခံရရှိသည်:\u0020"</string>
+<string name="subject_label">"အကြောင်းအရာ:\u0020"</string>
+<string name="message_size_label">"အရွယ်အစား-\u0020"</string>
+<string name="priority_label">"ဦးစားပေးမှု:\u0020"</string>
+<string name="sim_label">"SIM:\u0020"</string>
+<string name="priority_high">"မြင့်"</string>
+<string name="priority_normal">"ပုံမှန်"</string>
+<string name="priority_low">"နိမ့်သည်"</string>
+<string name="sim_slot_identifier">"SIM <xliff:g id="sim_slot_number">%s</xliff:g>"</string>
+<string name="hidden_sender_address">"ပေးပို့သူ၏ လိပ်စာ ဖျောက်ထားပါ"</string>
+<string name="cant_send_message_while_loading_attachments">"ပူးတွဲဖိုင်များ ဖွင့်နေစဉ် မက်ဆေ့ဂ်ျပို့၍ မရပါ။"</string>
+<string name="fail_to_load_attachment">"ပူးတွဲဖိုင်များကို ဖွင့်၍မရပါ။ ထပ်ကြိုးစားပါ။"</string>
+<string name="cant_send_message_without_active_subscription">"ကွန်ရက် အသင့်မဖြစ်သေးပါ။ ထပ်ကြိုးစားပါ။"</string>
+<string name="chips_text_delete_button_content_description">"စာသားကို ဖျက်ပါ"</string>
+<string name="numeric_text_keyboard_toggle_button_content_description">"စာသားနှင့် နံပါတ်များ ရိုက်ထည့်မှုအကြား ကူးပြောင်းရန်"</string>
+<string name="add_more_participants_button_content_description">"နောက်ထပ် ပါဝင်သူများ ထည့်ရန်"</string>
+<string name="confrim_participants_button_content_description">"ပါဝင်သူများကို အတည်ပြုပေးပါ"</string>
+<string name="start_new_conversation">"စကားဝိုင်းသစ် စတင်ပါ"</string>
+<string name="gallery_checkbox_content_description">"ဤအရာကို ရွေးပါ"</string>
+<string name="video_thumbnail_view_play_button_content_description">"ဗီဒီယိုကို ဖွင့်ပါ"</string>
+<string name="action_people_and_options">"လူများနှင့် ရွေးချယ်စရာများ"</string>
+<string name="action_debug_options">"ချို့ယွင်းချက်ပြင်မည်"</string>
+<string name="people_and_options_activity_title">"လူများနှင့် ရွေးချယ်စရာများ"</string>
+<string name="general_settings_title">"အထွေထွေ"</string>
+<string name="participant_list_title">"ဤစကားဝိုင်းထဲရှိ လူများ"</string>
+<string name="action_call">"ဖုန်းခေါ်ဆိုပါ"</string>
+<string name="compose_message_view_hint_text">"မက်ဆေ့ခ်ျပို့"</string>
+<string name="compose_message_view_hint_text_multi_sim">"မက်ဆေ့ဂ်ျကို ပို့ပါ<br/><small><xliff:g id="sim_name">%s</xliff:g></small> မှ"</string>
+<plurals name="compose_message_view_hint_text_photo">
+<item quantity="one">"ဓာတ်ပုံကို ပို့ပါ"</item>
+<item quantity="other">"ဓာတ်ပုံများကို ပို့ပါ"</item>
+</plurals>
+<plurals name="compose_message_view_hint_text_audio">
+<item quantity="one">"အသံဖိုင်ကို ပို့ပါ"</item>
+<item quantity="other">"အသံဖိုင်များကို ပို့ပါ"</item>
+</plurals>
+<plurals name="compose_message_view_hint_text_video">
+<item quantity="one">"ဗီဒီယိုကို ပို့ပါ"</item>
+<item quantity="other">"ဗီဒီယိုများကို ပို့ပါ"</item>
+</plurals>
+<plurals name="compose_message_view_hint_text_vcard">
+<item quantity="one">"အဆက်အသွယ်ကတ်ကို ပို့ပါ"</item>
+<item quantity="other">"အဆက်အသွယ်ကတ်များကို ပို့ပါ"</item>
+</plurals>
+<plurals name="compose_message_view_hint_text_attachments">
+<item quantity="one">"ပူးတွဲဖိုင်ကို ပို့ပါ"</item>
+<item quantity="other">"ပူးတွဲဖိုင်များကို ပို့ပါ"</item>
+</plurals>
+<plurals name="attachment_changed_accessibility_announcement">
+<item quantity="zero">"ပူးတွဲဖိုင်ရွေးမထားပါ"</item>
+<item quantity="one">"ပူးတွဲဖိုင်တစ်ဖိုင်ကို ပို့ရန်အသင့်ဖြစ်ပါပြီ"</item>
+<item quantity="other">"ပူးတွဲဖိုင် <xliff:g id="attachment_count">%d</xliff:g> ဖိုင်ကို ပို့ရန်အသင့်ဖြစ်ပါပြီ"</item>
+</plurals>
+<string name="menu_send_feedback">"တုံ့ပြန်ချက်ပို့"</string>
+<string name="menu_view_in_store">"Google Play စတိုးတွင် ကြည့်ရန်"</string>
+<string name="menu_version_info">"ဗားရှင်း အင်ဖို"</string>
+<string name="subtitle_format_for_version_number">"ဗားရှင်း %1$s"</string>
+<string name="menu_license">"ပင်မလိုင်စင်များဖွင့်မည်"</string>
+<string name="notifications_enabled_conversation_pref_title">"အချက်ပေးချက်များ"</string>
+<string name="mms_attachment_limit_reached">"ပူးတွဲဖိုင်ကန့်သတ်ချက်သို့ ရောက်ပါပြီ"</string>
+<string name="mms_attachment_load_failed">"ပူးတွဲဖိုင်များကို ဖွင့်၍ မရပါ။"</string>
+<string name="add_contact_confirmation_dialog_title">"ဆက်သွယ်သူ ပေါင်းထည့်မည်"</string>
+<string name="add_contact_confirmation">"ဖုန်းအဆက်အသွယ် ပေါင်းထည့်မည်"</string>
+<string name="compose_message_view_subject_hint_text">"အကြောင်းအရာ"</string>
+<string name="conversation_message_view_subject_text">"အကြောင်းအရာ:\u0020"</string>
+<string name="loading_vcard">"ဆက်သွယ်ရန်ကတ်ကို ဖွင့်နေသည်"</string>
+<string name="failed_loading_vcard">"ဆက်သွယ်ရန်ကတ်ကို ဖွင့်၍မရပါ"</string>
+<string name="vcard_tap_hint">"ဆက်သွယ်ရန်ကတ်ကို ကြည့်မည်"</string>
+<plurals name="vcard_multiple_display_name">
+<item quantity="one">"အဆက်အသွယ် <xliff:g id="count">%d</xliff:g> ခု"</item>
+<item quantity="other">"အဆက်အသွယ် <xliff:g id="count">%d</xliff:g> ခု"</item>
+</plurals>
+<string name="vcard_detail_activity_title">"ဆက်သွယ်ရန် ကတ်များ"</string>
+<string name="vcard_detail_birthday_label">"မွေးနေ့"</string>
+<string name="vcard_detail_notes_label">"မှတ်ချက်များ"</string>
+<string name="forward_message_activity_title">"မက်ဆေ့ဂ်ျ ထပ်ဆင့်ပို့ရန်"</string>
+<string name="reply_activity_title">"ပြန်ပို့"</string>
+<string name="sms_disabled">"SMS ပိတ်ပြီး"</string>
+<string name="requires_default_sms_app_to_send">"ပို့ရန် Messaging ကို ပုံသေ SMS အက်ပ်အဖြစ် သတ်မှတ်ပါ"</string>
+<string name="requires_default_sms_app">"Messaging ကို ပုံသေ SMS အက်ပ်အဖြစ် သတ်မှတ်ပါ"</string>
+<string name="requires_default_sms_change_button">"ပြောင်းပါ"</string>
+<string name="recommend_set_default_sms_app">"မက်ဆေ့ဂ်ျများ လက်ခံရန် Messaging ကို ပုံသေ SMS အက်ပ်အဖြစ် သတ်မှတ်ပါ"</string>
+<string name="no_preferred_sim_selected">"SMS မက်ဆေ့ဂ်ျများပို့ရန် ပိုလိုလားသော SIM ကို ရွေးမထားပါ"</string>
+<string name="requires_sms_permissions_message">"ဤအက်ပ်ကို စက်ပိုင်ရှင်က ခွင့်မပြုပါ။"</string>
+<string name="requires_sms_permissions_close_button">"အိုကေ"</string>
+<string name="too_many_participants">"စကားဝိုင်းတစ်ခုထဲတွင် ပါဝင်သူများလွန်းနေသည်"</string>
+<plurals name="add_invalid_contact_error">
+<item quantity="one">"အဆက်အသွယ် မှားနေသည်"</item>
+<item quantity="other">"အဆက်အသွယ်များ မှားနေသည်"</item>
+</plurals>
+<string name="camera_media_failure">"ကင်မရာပုံကို ဖွင့်၍မရပါ"</string>
+<string name="conversation_list_item_view_sent_from_you_prefix">"သင်-\u0020"</string>
+<string name="conversation_list_item_view_sent_from_other_prefix">"<xliff:g id="firstNameOfSender">%s</xliff:g>:\u0020"</string>
+<string name="conversation_list_item_view_draft_message">"ပုံကြမ်း"</string>
+<string name="conversation_list_empty_text">"သင်က စကားဝိုင်းအသစ်တစ်ခုကို စလိုက်သည်နှင့် ၎င်းကို ဤနေရာတွင် စာရင်းလုပ်ထားသည်ကို တွေ့ပါလိမ့်မည်"</string>
+<string name="archived_conversation_list_empty_text">"မှတ်တမ်းသိမ်း စကားပြောများ ဤနေရာတွင် ပေါ်ပါမည်"</string>
+<string name="conversation_list_first_sync_text">"စကားပြောများကို ဖွင့်နေသည်…"</string>
+<string name="conversation_list_snippet_picture">"ရုပ်ပုံ"</string>
+<string name="conversation_list_snippet_audio_clip">"အော်ဒီယို ကလစ်ပ်"</string>
+<string name="conversation_list_snippet_video">"ဗီဒီယို"</string>
+<string name="conversation_list_snippet_vcard">"ဆက်သွယ်ရန် ကတ်"</string>
+<string name="mms_text">"MMS"</string>
+<string name="snack_bar_undo">"အန်ဒို"</string>
+<string name="snack_bar_retry">"ပြန်ကြိုးစားပါ"</string>
+<string name="contact_list_empty_text">"မက်ဆေ့ဂ်ျသစ်တစ်စောင် စရေးရန် အဆက်အသွယ်အမည်/ဖုန်းနံပါတ်ကို ဖြည့်ပါ"</string>
+<string name="action_block">"တားမည်"</string>
+<string name="block_contact_title">"<xliff:g id="destination">%s</xliff:g> ကို ပိတ်ဆို့ရန်"</string>
+<string name="unblock_contact_title">"<xliff:g id="destination">%s</xliff:g> ကို မပိတ်ဆို့တော့ရန်"</string>
+<string name="block_confirmation_title">"<xliff:g id="destination">%s</xliff:g> ကို ပိတ်ဆို့မလား။"</string>
+<string name="block_confirmation_message">"ဤနံပါတ်မှ မက်ဆေ့ဂ်ျများကို သင်ဆက်လက် ရရှိမည်ဖြစ်သော်လည်း သင့်အား အသိမပေးတော့ပါ။ ဤစကားဝိုင်းကို မှတ်တမ်းသိမ်းထားပါမည်။"</string>
+<string name="blocked_contacts_title">"ပိတ်ဆို့ထားသော အဆက်အသွယ်များ"</string>
+<string name="tap_to_unblock_message">"ကို မပိတ်ဆို့တော့ရန်"</string>
+<string name="view_blocked_contacts_title">"ပိတ်ဆို့ထားသော အဆက်အသွယ်များ"</string>
+<string name="pick_image_from_document_library_content_description">"စာရွက်စာတမ်းလိုက်ဘရီမှ ပုံ ရွေးပါ"</string>
+<string name="sending_message">"မက်ဆေ့ဂ်ျ ပို့နေသည်"</string>
+<string name="send_message_success">"မက်ဆေ့ဂ်ျ ပို့လိုက်ပါပြီ"</string>
+<string name="send_message_failure_no_data">"ဆယ်လူလာဒေတာကို ပိတ်ထားသည်။ သင့်ဆက်တင်များကို ပြန်စစ်ပါ။"</string>
+<string name="send_message_failure_airplane_mode">"လေယာဉ်မုဒ်တွင် မက်ဆေ့ဂ်ျများ ပို့၍မရပါ"</string>
+<string name="assistant_card_not_allow_for_mms">"အကူအညီပေးကတ်အတွက် မက်ဆေ့ဂ်ျများ ပို့၍မရပါ"</string>
+<string name="send_message_failure">"မက်ဆေ့ဂ်ျ ပို့၍မရပါ"</string>
+<string name="download_message_success">"မက်ဆေ့ဂ်ျကို ဒေါင်းလုဒ် လုပ်ပြီးပါပြီ"</string>
+<string name="download_message_failure_no_data">"ဆယ်လူလာဒေတာကို ပိတ်ထားသည်။ သင့်ဆက်တင်များကို ပြန်စစ်ပါ။"</string>
+<string name="download_message_failure_airplane_mode">"လေယာဉ်မုဒ်တွင် မက်ဆေ့ဂ်ျများ ဒေါင်းလုဒ်လုပ်၍ မရပါ"</string>
+<string name="download_message_failure">"မက်ဆေ့ဂ်ျကို ဒေါင်းလုဒ်လုပ်၍ မရပါ"</string>
+<string name="content_description_for_number_zero">"သုံည"</string>
+<string name="content_description_for_number_one">"တစ်"</string>
+<string name="content_description_for_number_two">"နှစ်"</string>
+<string name="content_description_for_number_three">"သုံး"</string>
+<string name="content_description_for_number_four">"လေး"</string>
+<string name="content_description_for_number_five">"ငါး"</string>
+<string name="content_description_for_number_six">"ခြောက်"</string>
+<string name="content_description_for_number_seven">"ခုနစ်"</string>
+<string name="content_description_for_number_eight">"ရှစ်"</string>
+<string name="content_description_for_number_nine">"ကိုး"</string>
+<string name="carrier_send_error">"<xliff:g id="carrierName">%1$s</xliff:g> ဖြင့် မက်ဆေ့ဂ်ျ ပို့၍မရပါ၊ ချွတ်ယွင်းမှု <xliff:g id="errorCode">%2$d</xliff:g>"</string>
+<string name="carrier_send_error_unknown_carrier">"အမည်မသိ အော်ပရေတာဖြင့် မက်ဆေ့ဂ်ျ ပို့၍မရပါ၊ ချွတ်ယွင်းမှု <xliff:g id="errorCode">%1$d</xliff:g>"</string>
+<string name="message_fwd">"ထပ်ဆင့်ပို့ရန်- <xliff:g id="subject">%s</xliff:g>"</string>
+<string name="mms_failure_outgoing_service">"မက်ဆေ့ဂ်ျကို မပို့ခဲ့ပါ- ကွန်ရက်ပေါ်တွင် ဝန်ဆောင်မှုကို သက်ဝင်အောင်လုပ်မထားပါ"</string>
+<string name="mms_failure_outgoing_address">"မက်ဆေ့ဂ်ျကို မပို့ခဲ့ပါ- ဦးတည်ရာလိပ်စာ မှားနေသည်"</string>
+<string name="mms_failure_outgoing_corrupt">"မက်ဆေ့ဂ်ျကို မပို့ခဲ့ပါ- အကျုံးမဝင်သော မက်ဆေ့ဂ်ျဖြစ်သည်"</string>
+<string name="mms_failure_outgoing_content">"မက်ဆေ့ဂ်ျကို မပို့ခဲ့ပါ- ပံ့ပိုးမပေးသော အကြောင်းအရာဖြစ်သည်"</string>
+<string name="mms_failure_outgoing_unsupported">"မက်ဆေ့ဂ်ျကို မပို့ခဲ့ပါ- ပံ့ပိုးမပေးသော မက်ဆေ့ဂ်ျဖြစ်သည်"</string>
+<string name="mms_failure_outgoing_too_large">"မက်ဆေ့ဂ်ျကို မပို့ခဲ့ပါ- ကြီးလွန်းသည်"</string>
+<string name="in_conversation_notify_new_message_text">"မက်ဆေ့ခ်ျအသစ်"</string>
+<string name="in_conversation_notify_new_message_action">"မြင်ကွင်း"</string>
+<string name="message_image_content_description">"ရုပ်ပုံများ"</string>
+<string name="activity_not_found_message">"သင့်တော်သော အပလီကေးရှင်းကို ရှာမရခဲ့ပါ"</string>
+<string name="chips_delete_content_description">"လက်ခံမည့်သူကို ဖယ်ရှားပါ"</string>
+<string name="share_new_message">"မက်ဆေ့ခ်ျအသစ်"</string>
+<string name="share_cancel">"ပယ်ဖျက်ပါ"</string>
+<string name="apn_edit">"လက်ခံအမှတ်ကို တည်းဖြတ်ပါ"</string>
+<string name="apn_not_set">"မတပ်ဆင်ပါ"</string>
+<string name="apn_name">"အမည်"</string>
+<string name="apn_mms_proxy">"MMS ကြားခံ"</string>
+<string name="apn_mms_port">"ရုပ်သံမက်ဆေ့ခ်ျ ဝင်ပေါက်"</string>
+<string name="apn_type">"APN ပုံစံ"</string>
+<string name="menu_delete_apn">"APN ဖျက်ပါ"</string>
+<string name="menu_new_apn">"APN အသစ်"</string>
+<string name="menu_save_apn">"သိမ်းပါ"</string>
+<string name="menu_discard_apn_change">"ဖြုတ်ချမည်"</string>
+<string name="error_apn_name_empty">"အမည်နေရာတွင် ဗလာဖြစ်နေ၍မရပါ"</string>
+<string name="error_apn_empty">"APN ဗလာဖြစ်နေ၍မရပါ"</string>
+<string name="error_mcc_not3">"MCC နေရာတွင် ဂဏန်း 3 လုံးဖြစ်ရမည်"</string>
+<string name="error_mnc_not23">"MNC နေရာတွင် ဂဏန်း 2 လုံး သို့မဟုတ် 3 လုံးရှိရမည်"</string>
+<string name="restore_default_apn">"ဒီဖေါ့ APN အပြင်အဆင်များကို ပြန်လည်သိုလှောင်ခြင်းလုပ်နေသည်"</string>
+<string name="menu_restore_default_apn">"မူလပုံစံသို့ ပြန်ထားရှိပါ"</string>
+<string name="restore_default_apn_completed">"ဒီဖေါ့ APN အပြင်အဆင်များကို ပြန်လည်တပ်ဆင်ခြင်းပြီးဆုံး"</string>
+<string name="untitled_apn">"အမည်မပေးထား"</string>
+<string name="sms_apns_title">"နေရာအမည်များကို ရယူသုံးစွဲပါ"</string>
+<string name="apn_settings">"APNs"</string>
+<string name="menu_new">"APN အသစ်"</string>
+<string name="apn_settings_not_available">"နေရာအမည် ဆက်တင်များကို ရယူသုံးစွဲခြင်းသည် ဤအသုံးပြုသူအတွက် မရရှိနိုင်ပါ"</string>
+<string name="copy_to_clipboard_dialog_title">"ကလစ်ဘုတ်သို့ ကူးယူမလား။"</string>
+<string name="copy_to_clipboard">"ကူးယူပါ"</string>
+<string name="incoming_sim_name_text">"<xliff:g id="sim_name">%s</xliff:g> သို့"</string>
+<string name="general_settings">"အထွေထွေ"</string>
+<string name="advanced_settings">"အဆင့်မြင့်"</string>
+<string name="general_settings_activity_title">"ပုံမှန် ချိန်ညှိခြင်းများ"</string>
+<string name="advanced_settings_activity_title">"အမြင့်ဆုံးတပ်ဆင်ခြင်း"</string>
+<string name="sim_specific_settings">"\"<xliff:g id="sim_name">%s</xliff:g>\" SIM"</string>
+<string name="disable_group_mms">"SMS မက်ဆေ့ဂ်ျများ တစ်စောင်ချင်းစီကို လက်ခံမည့်သူအားလုံးထံ ပို့ပါ။ မည်သည့်ပြန်စာများကိုမဆို သင်ကသာ ရရှိပါမည်"</string>
+<string name="enable_group_mms">"MMS တစ်စောင်ချင်းစီကို လက်ခံမည့်သူအားလုံးထံ ပို့ပါ"</string>
+<string name="sim_settings_unknown_number">"အမည်မသိ နံပါတ်"</string>
+<string name="secondary_user_new_message_title">"မက်ဆေ့ခ်ျအသစ်"</string>
+<string name="secondary_user_new_message_ticker">"မက်ဆေ့ဂ်ျသစ်။"</string>
+<string name="sim_selector_button_content_description">"SIM ရွေးပေးသူ"</string>
+<string name="sim_selector_button_content_description_with_selection">"<xliff:g id="sim">%1$s</xliff:g> ကို ရွေးထားသည်၊ SIM ရွေးပေးသူ"</string>
+<string name="send_button_long_click_description_no_sim_selector">"အကြောင်းအရာ ပြင်ရန်"</string>
+<string name="send_button_long_click_description_with_sim_selector">"SIM ရွေးပါ/ အကြောင်းရင်း ပြင်ပါ"</string>
+<string name="audio_record_view_content_description">"အသံဖမ်းယူရန် တို့ထိထားပါ"</string>
+<string name="widget_new_conversation_content_description">"စကားဝိုင်းသစ် စတင်ပါ"</string>
+<string name="widget_conversation_list_name">"မက်ဆေ့ဂ်ျပို့ စာရင်း"</string>
+<string name="widget_new_message_content_description">"မက်ဆေ့ခ်ျအသစ်"</string>
+<string name="widget_conversation_list_content_description">"စကားစမြည် စာရင်း"</string>
+<string name="loading_conversations">"စကားဝိုင်းများကို ဖွင့်နေသည်"</string>
+<string name="loading_messages">"မက်ဆေ့ဂ်ျများကို ဖွင့်နေသည်"</string>
+<string name="view_more_conversations">"စကားစမြည်များရှာကြည့်ခြင်း"</string>
+<string name="view_more_messages">"နောက်ထပ် မက်ဆေ့ဂ်ျများ ကြည့်ရန်"</string>
+<string name="conversation_deleted">"စကားဝိုင်းကို ဖျက်လိုက်ပါပြီ"</string>
+<string name="tap_to_configure">"စကားဝိုင်းကို ဖျက်လိုက်ပါပြီ။ အခြား မက်ဆေ့ဂ်ျပို့ စကားဝိုင်းတစ်ခုကို ပြရန် တို့ထိပါ"</string>
+<string name="update_destination_blocked">"ဘလော့လုပ်ပြီးပါပြီ"</string>
+<string name="update_destination_unblocked">"မပိတ်ဆို့တော့ပါ"</string>
+<string name="db_full">"သိုလှောင်ခန်းနေရာ နည်းနေပါပြီ။ ဒေတာအချို့ ပျောက်သွားနိုင်သည်။"</string>
+<string name="attachment_chooser_activity_title">"ပူးတွဲဖိုင်များ ရွေးချယ်ပါ"</string>
+<string name="action_confirm_selection">"ရွေးချယ်မှုကို အတည်ပြုပါ"</string>
+<string name="attachment_chooser_selection">"<xliff:g id="count">%d</xliff:g> ခု ရွေးထားသည်"</string>
+<string name="attachment_limit_reached_dialog_message_when_composing">"ပူးတွဲဖိုင် တစ်ဖိုင် (သို့) ပို၍ ဖြုတ်ပစ်ပြီး ထပ်ကြိုးစားပါ။"</string>
+<string name="attachment_limit_reached_dialog_message_when_sending">"မက်ဆေ့ဂ်ျပို့ရန် သင်က ကြိုးစားနိုင်ပါသည်၊ သို့သော် ပူးတွဲဖိုင် တစ်ဖိုင် (သို့) ပို၍မဖြုတ်ပစ်လျှင် ပို့၍ရမည်မဟုတ်ပါ။"</string>
+<string name="video_attachment_limit_exceeded_when_sending">"သင်သည် မက်ဆေ့ဂ်ျတစ်စောင်လျှင် ဗီဒီယိုတစ်ကားသာ ပို့နိုင်သည်။ ပိုနေသော ဗီဒီယိုများကို ဖြုတ်ပြီး ထပ်ကြိုးစားပါ။"</string>
+<string name="attachment_load_failed_dialog_message">"မက်ဆေ့ဂ်ျပို့ရာတွင် ပူးတွဲဖိုင်များ တွဲထည့်ခြင်း မအောင်မြင်ပါ။"</string>
+<string name="attachment_limit_reached_send_anyway">"မည်သို့ပင်ဖြစ်စေ ပို့ပါ"</string>
+<string name="conversation_creation_failure">"စကားဝိုင်းကို စတင်၍မရပါ"</string>
+<string name="selected_sim_content_message">"<xliff:g id="selected_sim">%s</xliff:g> ကို ရွေးထားသည်"</string>
+<string name="empty_msg">"ဗလာ မက်ဆေ့ဂ်ျ"</string>
+<string name="send_empty_msg">"ဗလာမက်ဆေ့ဂ်ျတစ်စောင်ကို သင်က ပို့ရန် ကြိုးစားနေပါသလား။"</string>
+<string name="yes">"မှန်သည်"</string>
+<string name="no">"မဟုတ်ပါ"</string>
+<string name="donotset_time_before_now">"ယခုမတိုင်မီ အချိန်ကို သတ်မှတ်၍ မရပါ"</string>
+<string name="please_reset_time">"အချိန်ကျော်သွားပါပြီ။ နှိုးစက် ပြန်သတ်မှတ်ပေးပါ"</string>
+<string name="please_set_date">"ရက်စွဲ သတ်မှတ်ပေးပါ"</string>
+<string name="please_set_time">"အချိန် သတ်မှတ်ပေးပါ"</string>
+<string name="audio_format_unknow">"ဤအသံဖော်မတ်ကို မပံ့ပိုးပါ။"</string>
+</resources>

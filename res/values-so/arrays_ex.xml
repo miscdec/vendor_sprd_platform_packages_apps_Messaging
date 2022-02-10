@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string-array name="mms_validity_pref_entries">
+<item>"Iskuduw majiro"</item>
+<item>"1 saac"</item>
+<item>"12 saac"</item>
+<item>"24 saac"</item>
+<item>"2 maalmood"</item>
+<item>"Ugu badnaan"</item>
+</string-array>
+<string-array name="sms_validity_pref_entries">
+<item>"Iskuduw majiro"</item>
+<item>"1 saac"</item>
+<item>"12 saac"</item>
+<item>"24 saac"</item>
+<item>"2 maalmood"</item>
+<item>"Ugu badnaan"</item>
+</string-array>
+<string-array name="sms_save_to_sim_pref_entries">
+<item>"Fariintu waxay leedahay muhiimad si loogu kaydiyo simka"</item>
+<item>"Fariintu muhiimad ayay leedahay si loogu seefgareeyo kaydka macluumaadka fariinta"</item>
+</string-array>
+</resources>

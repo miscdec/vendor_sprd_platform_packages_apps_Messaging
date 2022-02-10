@@ -1,0 +1,29 @@
+include ':app'
+
+def initMessagingGradleEnvironment(){
+    println"initialize  Gradle Environment ....."
+    Properties properties = new Properties()
+    File propertyFile = new File(rootDir.getAbsolutePath() +"/build.gradle")
+    properties.load(propertyFile.newDataInputStream())
+    gradle.ext.useLocalLibs = properties.getProperty('useLocalLibs') == 'true' ? true : false
+
+}
+initMessagingGradleEnvironment()
+
+println('useLocalLibs = ' + gradle.useLocalLibs)
+if (!gradle.useLocalLibs) {
+    include ':chips'
+    include ':photoviewer'
+    include ':vcard'
+    include ':jsr305'
+    include ':guava'
+    include ':common'
+
+    def parentDir = "../../../../../../"
+    project(':chips').projectDir = new File(rootDir, 'libs/chips')
+    project(':photoviewer').projectDir = new File(parentDir, 'frameworks/opt/photoviewer')
+    project(':vcard').projectDir = new File(parentDir, 'frameworks/opt/vcard')
+    project(':jsr305').projectDir = new File(parentDir, 'external/jsr305')
+    project(':guava').projectDir = new File(parentDir, 'external/guava')
+    project(':common').projectDir = new File(parentDir, 'frameworks/ex/common')
+}

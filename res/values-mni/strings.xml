@@ -1,0 +1,494 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="share_intent_activity_label">"ৱারি শান্নবা খল্লু"</string>
+<string name="action_settings">"সেটিংশীং"</string>
+<string name="sendButtonContentDescription">"মেসেজ থাও"</string>
+<string name="attachMediaButtonContentDescription">"ফাইল এতেচ তৌ"</string>
+<string name="help_and_feedback_activity_label">"মতেং"</string>
+<string name="welcome">"তরাম্না ওকচরি"</string>
+<string name="skip">"চোংঙু"</string>
+<string name="next_with_arrow">"মথং &gt;"</string>
+<string name="next">"মথং"</string>
+<string name="exit">"থোকপা"</string>
+<string name="settings_with_arrow">"সেটিংশীং &gt;"</string>
+<string name="settings">"সেটিংশীং"</string>
+<string name="required_permissions_promo">"মেসেজ তৌনবা SMS, ফোন অমসুং কন্টেক্তশীংদা অয়াবা পীবা দরকার ওই."</string>
+<string name="enable_permission_procedure">"নহাক সেটিংশীং &gt; এপশীং &gt; মেসেজ তৌবা &gt; অয়াবা পীবশীং দা অয়াবা পীবশীং হোংবা য়াই."</string>
+<string name="enable_permission_procedure_description">"নহাক সেটিংশীং, এপশীং, মেসেজ তৌবা, অয়াবা পীবশীং দা অয়াবা পীবশীং হোংবা য়াই."</string>
+<string name="contact_picker_frequents_tab_title">"তোয়না কন্টেক্ট তৌবা"</string>
+<string name="contact_picker_all_contacts_tab_title">"কন্টেক্টশীং লোইনমক"</string>
+<string name="contact_list_send_to_text">"থাও দা <xliff:g id="destination">%s</xliff:g>"</string>
+<string name="mediapicker_cameraChooserDescription">"পিকচরশীং নত্ত্রগা ভিদিও কেপচর তৌ"</string>
+<string name="mediapicker_galleryChooserDescription">"দিভাইস অসিদগী লাইশীং খল্লু"</string>
+<string name="mediapicker_audioChooserDescription">"ওদিও রেকোর্দ তৌ"</string>
+<string name="mediapicker_gallery_title">"ফোটো খল্লু"</string>
+<string name="mediapicker_gallery_item_selected_content_description">"মেদিয়া অদু খল্লে."</string>
+<string name="mediapicker_gallery_item_unselected_content_description">"মেদিয়া অদু খনবা তোক্লে."</string>
+<string name="mediapicker_gallery_title_selection">"<xliff:g id="count">%d</xliff:g> খল্লে"</string>
+<string name="mediapicker_gallery_image_item_description">"লাই <xliff:g id="date">%1$tB %1$te %1$tY %1$tl %1$tM %1$tp</xliff:g>"</string>
+<string name="mediapicker_gallery_image_item_description_no_date">"মমি"</string>
+<string name="mediapicker_audio_title">"ওদিও রেকোর্দ তৌ"</string>
+<string name="action_share">"শরুক য়ামিন্নৌ"</string>
+<string name="posted_just_now">"হৌজিক্তা"</string>
+<string name="posted_now">"হৌজিক"</string>
+<plurals name="num_minutes_ago">
+<item quantity="one">"<xliff:g id="count">%d</xliff:g> মিনট"</item>
+<item quantity="other">"মিনটশীং <xliff:g id="count">%d</xliff:g>"</item>
+</plurals>
+<plurals name="num_hours_ago">
+<item quantity="one">"<xliff:g id="count">%d</xliff:g> পুং"</item>
+<item quantity="other">"পুংশীং <xliff:g id="count">%d</xliff:g>"</item>
+</plurals>
+<plurals name="num_days_ago">
+<item quantity="one">"<xliff:g id="count">%d</xliff:g> নুমিৎ"</item>
+<item quantity="other">"<xliff:g id="count">%d</xliff:g> নুমিৎশীং"</item>
+</plurals>
+<plurals name="week_count">
+<item quantity="one">"চয়োল 1"</item>
+<item quantity="other">"<xliff:g id="count">%d</xliff:g> চয়োলশীং"</item>
+</plurals>
+<plurals name="month_count">
+<item quantity="one">"থা অমা"</item>
+<item quantity="other">"<xliff:g id="count">%d</xliff:g> থাশীং"</item>
+</plurals>
+<plurals name="year_count">
+<item quantity="one">"চহী অমা"</item>
+<item quantity="other">"<xliff:g id="count">%d</xliff:g> চহীশীং"</item>
+</plurals>
+<string name="class_0_message_activity">"ক্লাস 0 মেসেজ"</string>
+<string name="save">"সেব তৌ"</string>
+<string name="sms_storage_low_auto_delete_enabled_dialog_text">"দিভাইস অদু স্পেস য়ামদ্রে. মেসেজ তৌবদা স্পেস লেমহন্নবা খরা কুইরবা মেসেজশীং মশা মথন্তা মুথৎখিগনি."</string>
+<string name="sms_storage_low_title">"স্টোরেজ স্পেস লোইশিল্লক্কদৌরি"</string>
+<string name="sms_storage_low_text">"নহাক্কি দিভাইসতা স্পেস হেন্না লৈত্রিবমখৈ মেসেজ তৌবদা মেসেজশীং থাবা নত্ত্রগা ফংবা য়াদবা য়াই."</string>
+<string name="sms_storage_low_notification_ticker">"SMS স্টোরেজ নেম্মি. নহাক মেসেজশীং মুথৎপা দরকার ওইবা য়াই."</string>
+<string name="enter_phone_number_title">"নহাক্কি ফোন নম্বর চুম্ব্রা হায়য়ু"</string>
+<string name="enter_phone_number_text">"মসিগী মতম-অমুরক্কি খোঙথাং অসিনা মেসেজিং তৌবদা নহাক্কি গ্রুপ মেসেজশীং ফজনা দেলিভর তৌহনবা ওইহনগনি."</string>
+<string name="enter_phone_number_hint">"ফোন নম্বর"</string>
+<string name="delete_all_media">"মেদিয়াগী মেসেজশীং লোইনমক মুথৎলু"</string>
+<string name="delete_oldest_messages">"মুথৎলু মেসেজশীং মসিদগী হেন্না কুইরবা <xliff:g id="duration">%s</xliff:g>"</string>
+<string name="auto_delete_oldest_messages">"মশা মথন্তা-মুথৎলু মেসেজশীং মসিদগী হেন্না কুইরবা <xliff:g id="duration">%s</xliff:g>"</string>
+<string name="ignore">"থওইনা লৌরুনু"</string>
+<string name="delete_all_media_confirmation">"মেদিয়াগী মেসেজশীং লোইনমক মুথৎকদ্রা?"</string>
+<string name="delete_oldest_messages_confirmation">"মুথৎলু মেসেজশীং মসিদগী হেন্না কুইরবা <xliff:g id="duration">%s</xliff:g>?"</string>
+<string name="auto_delete_oldest_messages_confirmation">"মুথৎলু মেসেজশীং মসিদগী হেন্না কুইরবা <xliff:g id="duration">%s</xliff:g> অমসুং থাগদ্রা মশা মথন্তা-মুথৎলু?"</string>
+<string name="incoming_text_sender_content_description">"<xliff:g id="sender">%s</xliff:g> হায়"</string>
+<string name="outgoing_text_sender_content_description">"নহাক্না হায়"</string>
+<string name="incoming_sender_content_description">"মেসেজ তৌ দগী <xliff:g id="sender">%s</xliff:g>"</string>
+<string name="outgoing_sender_content_description">"নহাক মেসেজ অমা থাই"</string>
+<string name="message_status_sending">"থারি..."</string>
+<string name="message_status_send_failed">"থাদে. হন্না হোৎননবা শোকউ."</string>
+<string name="user_not_exist">"য়ুজর অদু লৈতে."</string>
+<string name="message_status_send_retrying">"থাদে. হন্না হোৎনরি..."</string>
+<string name="message_status_resend">"হন্না থাও নত্ত্রগা মুথৎলু"</string>
+<string name="message_status_send_failed_emergency_number">"ইমর্জেন্সি সার্ভিসশীংদা ভোইস কোল অমা তৌবিয়ু. নহাক্কি টেক্সট মেসেজ মতম অসিদা দেলিভর তৌবা ঙমদ্রে."</string>
+<string name="message_status_failed">"মায় পাক্ত্রে"</string>
+<string name="message_title_manual_download">"দাওনলোদ তৌনবা অনৌবা MMS মেসেজ"</string>
+<string name="message_title_downloading">"অনৌবা MMS মেসেজ"</string>
+<string name="message_title_download_failed">"দাওনলোদ তৌবা ঙমদ্রে"</string>
+<string name="message_status_download_failed">"হন্না হোৎননবা শোকউ"</string>
+<string name="message_status_download">"দাওনলোদ তৌনবা শোকউ"</string>
+<string name="message_status_download_action">"দাওনলোদ তৌ নত্ত্রগা মুথৎলু"</string>
+<string name="message_status_downloading">"দাওনলোদ তৌরি..."</string>
+<string name="message_status_download_error">"মেসেজ মতম লোইখ্রে নত্ত্রগা ফংদ্রে"</string>
+<string name="mms_info">"চাওবা পিকপা: <xliff:g id="messageSize">%1$s</xliff:g>, মতম লোইবা: <xliff:g id="messageExpire">%2$s</xliff:g>"</string>
+<string name="invalid_destination">"থাবা ঙমদে. ফংলিবা মী চৎনদে."</string>
+<string name="service_not_activated">"সার্ভিস নেটৱার্কতা এক্তিভেত তৌদে"</string>
+<string name="service_network_problem">"নেটৱার্ক কি সমস্য না মরম ওইদুনা থাবা ঙমদে"</string>
+<string name="service_message_not_found">"মেসেজ মতম লোইখ্রে নত্ত্রগা ফংদ্রে"</string>
+<string name="no_subject">"(সবজেক্ট য়াওদে)"</string>
+<string name="unknown_sender">"মশক খঙদবা ফংবা মী"</string>
+<string name="delivered_status_content_description">"দেলিভর তৌরে"</string>
+<string name="dl_failure_notification">"মেসেজ দাওনলোদ তৌবা ঙমদে <xliff:g id="subject">%1$s</xliff:g> দগী <xliff:g id="from">%2$s</xliff:g>."</string>
+<string name="low_memory">"মেমোরি নেম্বনা মরম ওইদুনা দাতাবেজ ওপরেসন মপুং ফাবা ঙমদে"</string>
+<string name="notification_send_failures_line1_singular">"মেসেজ থাদে"</string>
+<string name="notification_send_failures_line1_plural">"মেসেজশীং খরা মেসেজিং তৌবদা থাদে"</string>
+<plurals name="notification_send_failures">
+<item quantity="one">"<xliff:g id="messages">%d</xliff:g> ৱারি শান্নবা অমদা মেসেজশীং"</item>
+<item quantity="other">"<xliff:g id="messages">%d</xliff:g> মেসেজশীং দা <xliff:g id="conversations">%d</xliff:g> ৱারি শান্নবশীং"</item>
+</plurals>
+<string name="notification_download_failures_line1_singular">"মেসেজ দাওনলোদ তৌদে"</string>
+<string name="notification_download_failures_line1_plural">"মেসেজিং তৌবদা মেসেজশীং খরা দাওনলোদ তৌদে"</string>
+<plurals name="notification_download_failures">
+<item quantity="one">"<xliff:g id="messages">%d</xliff:g> ৱারি শান্নবা অমদা মেসেজশীং"</item>
+<item quantity="other">"<xliff:g id="messages">%d</xliff:g> মেসেজশীং দা <xliff:g id="conversations">%d</xliff:g> ৱারি শান্নবশীং"</item>
+</plurals>
+<string name="notification_emergency_send_failure_line1">"নেসেজ তৌ দা <xliff:g id="number">%1$s</xliff:g> থাদে"</string>
+<string name="notification_emergency_send_failure_line2">"ইমর্জেন্সি সার্ভিসশীংদা ভোইস কোল অমা তৌবিয়ু. নহাক্কি টেক্সট মেসেজ দা <xliff:g id="number">%1$s</xliff:g> মতম অসিদা দেলিভর তৌবা ঙমদে. "</string>
+<plurals name="notification_new_messages">
+<item quantity="one">"অনৌবা মেসেজ"</item>
+<item quantity="other">"<xliff:g id="messages">%d</xliff:g> অনৌবা মেসেজশীং"</item>
+</plurals>
+<string name="start_conversation">"স্টার্ট তৌ"</string>
+<string name="camera_error_opening">"কেমেরা ফংদে"</string>
+<string name="camera_error_unknown">"কেমেরা ফংদে"</string>
+<string name="camera_error_video_init_fail">"ভিদিও কেপচর ফংদে"</string>
+<string name="camera_error_storage_fail">"মেদিয়া সেব তৌবা ঙমদে"</string>
+<string name="camera_error_failure_taking_picture">"পিকচর নম্বা ঙমদে"</string>
+<string name="back">"মনিং হল্লু"</string>
+<string name="action_menu_show_archived">"অর্কাইভ তৌরে"</string>
+<string name="action_delete">"মুথৎলু"</string>
+<string name="action_archive">"অর্কাইব"</string>
+<string name="action_unarchive">"অর্কাইব তৌগনু"</string>
+<string name="action_notification_off">"নোটিফিকেশনশীং মুথৎলু"</string>
+<string name="action_notification_on">"নোটিফিকেশনশীং থাও"</string>
+<string name="action_add_contact">"কন্টেক্ত হাপচিল্লু"</string>
+<string name="action_download">"দাওনলোদ"</string>
+<string name="action_send">"থাও"</string>
+<string name="action_delete_message">"মুথৎলু"</string>
+<string name="delete_message_confirmation_dialog_title">"মেসেজ অসি মুথৎলু?"</string>
+<string name="delete_message_confirmation_dialog_text">"এক্সন অসি তৌবা তোকপা ঙমদে."</string>
+<string name="delete_message_confirmation_button">"মুথৎলু"</string>
+<plurals name="delete_conversations_confirmation_dialog_title">
+<item quantity="one">"ৱারি শান্নবা অসি মুথৎকদ্রা?"</item>
+<item quantity="other">"ৱারি শান্নবশীং অসি মুথৎকদ্রা?"</item>
+</plurals>
+<string name="delete_conversation_confirmation_button">"মুথৎলু"</string>
+<string name="delete_conversation_decline_button">"ককথৎলু"</string>
+<string name="recipient_hint">"দা"</string>
+<string name="action_multiselect">"লাই ময়াম খল্লু"</string>
+<string name="action_confirm_multiselect">"খনবা চুম্মি হায়য়ু"</string>
+<string name="audio_recording_start_failed">"ওদিও রেকোর্দ তৌবা ঙমদে. অয়াবা লৌবশীং চেক তৌবিয়ু অমসুং হন্না হোৎনবিয়ু."</string>
+<string name="audio_recording_replay_failed">"ওদিও প্লে তৌবা ঙমদে. হন্না হোৎনৌ."</string>
+<string name="audio_recording_error">"ওদিও সেব তৌবা ঙমদে. হন্না হোৎনৌ."</string>
+<string name="audio_picker_hint_text">"শোকউ &amp; পায়য়ু"</string>
+<string name="enumeration_comma">",\u0020"</string>
+<string name="notification_separator">"\u0020\u0020"</string>
+<string name="notification_ticker_separator">":\u0020"</string>
+<string name="notification_space_separator">"\u0020\u0020"</string>
+<string name="notification_picture">"পিকচর"</string>
+<string name="notification_audio">"ভোইস"</string>
+<string name="notification_video">"ভিদিও"</string>
+<string name="notification_vcard">"Vকার্দ"</string>
+<string name="notification_download_mms">"দাওনলোদ"</string>
+<string name="notification_reply_via_sms">"SMS ফাওনা পাওখুম পীয়ু"</string>
+<string name="notification_reply_via_mms">"MMS ফাওনা পাওখুম পীয়ু"</string>
+<string name="notification_reply_prompt">"পাওখুম পীয়ু"</string>
+<plurals name="wearable_participant_count">
+<item quantity="one">"<xliff:g id="count">%d</xliff:g> শরুক য়াবা মী"</item>
+<item quantity="other">"<xliff:g id="count">%d</xliff:g> শরুক য়াবা মীশীং"</item>
+</plurals>
+<string name="unknown_self_participant">"ঐহাক"</string>
+<string name="blocked_toast_message">"কন্টেক্ত ব্লোক তৌরে &amp; অর্কাইব তৌরে"</string>
+<string name="unblocked_toast_message">"কন্টেক্ত ব্লোক তৌরে &amp; অর্কাইব তৌদ্রে"</string>
+<string name="archived_toast_message">"<xliff:g id="count">%d</xliff:g> অর্কাইব তৌরে"</string>
+<string name="unarchived_toast_message">"<xliff:g id="count">%d</xliff:g> অর্কাইব তৌদ্রে"</string>
+<string name="notification_off_toast_message">"নোটিফিকেশনশীং মুথৎলে"</string>
+<string name="notification_on_toast_message">"নোটিফিকেশনশীং থারে"</string>
+<string name="toast_after_setting_default_sms_app_for_message_send">"লোইনমক সেট তৌরে. হন্না থাও শোকউ."</string>
+<string name="toast_after_setting_default_sms_app">"মায় পাক্না মেসেজ তৌরে হায়বা SMS এপকি দিফাওল্ট ওইনা সেট তৌ."</string>
+<plurals name="attachment_preview_close_content_description">
+<item quantity="one">"এতেচমেন্ট লংথোকখো"</item>
+<item quantity="other">"এতেচমেন্টশীং লংথোকখো"</item>
+</plurals>
+<string name="audio_attachment_content_description">"ওদিও এতেচমেন্ট"</string>
+<string name="audio_play_content_description">"ওদিও এতেচমেন্ট প্লে তৌ"</string>
+<string name="audio_pause_content_description">"ঙাইহাক লেপ্পু"</string>
+<string name="incoming_message_announcement">"মেসেজ তৌ দগী <xliff:g id="sender">%s</xliff:g>: <xliff:g id="message">%s</xliff:g>."</string>
+<string name="one_on_one_incoming_failed_message_prefix">"মায় পাক্তবা মেসেজ দগী <xliff:g id="sender">%s</xliff:g>: <xliff:g id="message">%s</xliff:g>. মতম: <xliff:g id="time">%s</xliff:g>."</string>
+<string name="one_on_one_incoming_successful_message_prefix">"মেসেজ থাও দগী <xliff:g id="sender">%s</xliff:g>: <xliff:g id="message">%s</xliff:g>. মতম: <xliff:g id="time">%s</xliff:g>."</string>
+<string name="one_on_one_outgoing_draft_message_prefix">"মেসেজ থাগনু দা <xliff:g id="contact">%s</xliff:g>: <xliff:g id="message">%s</xliff:g>. মতম: <xliff:g id="time">%s</xliff:g>."</string>
+<string name="one_on_one_outgoing_sending_message_prefix">"মেসেজ থারি দা <xliff:g id="contact">%s</xliff:g>: <xliff:g id="message">%s</xliff:g>. মতম: <xliff:g id="time">%s</xliff:g>."</string>
+<string name="one_on_one_outgoing_failed_message_prefix">"মায় পাক্তবা মেসেজ দা <xliff:g id="contact">%s</xliff:g>: <xliff:g id="message">%s</xliff:g>. মতম: <xliff:g id="time">%s</xliff:g>."</string>
+<string name="one_on_one_outgoing_successful_message_prefix">"মেসেজ থাও দা <xliff:g id="contact">%s</xliff:g>: <xliff:g id="message">%s</xliff:g>. মতম: <xliff:g id="time">%s</xliff:g>."</string>
+<string name="group_incoming_failed_message_prefix">"মায় পাক্তবা মেসেজ দগী <xliff:g id="sender">%s</xliff:g>: <xliff:g id="message">%s</xliff:g>. মতম: <xliff:g id="time">%s</xliff:g>. <xliff:g id="groupInfo">%s</xliff:g>."</string>
+<string name="group_incoming_successful_message_prefix">"মেসেজ থাও দগী <xliff:g id="sender">%s</xliff:g>: <xliff:g id="message">%s</xliff:g>. মতম: <xliff:g id="time">%s</xliff:g>. <xliff:g id="groupInfo">%s</xliff:g>."</string>
+<string name="group_outgoing_draft_message_prefix">"মেসেজ থাগনু দা <xliff:g id="group">%s</xliff:g>: <xliff:g id="message">%s</xliff:g>. মতম: <xliff:g id="time">%s</xliff:g>."</string>
+<string name="group_outgoing_sending_message_prefix">"মেসেজ থারি দা <xliff:g id="group">%s</xliff:g>: <xliff:g id="message">%s</xliff:g>. মতম: <xliff:g id="time">%s</xliff:g>."</string>
+<string name="group_outgoing_failed_message_prefix">"মায় পাক্তবা মেসেজ দা <xliff:g id="group">%s</xliff:g>: <xliff:g id="message">%s</xliff:g>. মতম: <xliff:g id="time">%s</xliff:g>."</string>
+<string name="group_outgoing_successful_message_prefix">"মেসেজ থাও দা <xliff:g id="group">%s</xliff:g>: <xliff:g id="message">%s</xliff:g>. মতম: <xliff:g id="time">%s</xliff:g>."</string>
+<string name="failed_message_content_description">"মায় পাক্তবা মেসেজ. হন্না হোৎননবা শোকউ."</string>
+<string name="group_conversation_description">"ৱারি শান্নবা লোয়ননা <xliff:g id="participants">%s</xliff:g>"</string>
+<string name="delete_subject_content_description">"সবজেক্ট লৌথোকউ"</string>
+<string name="camera_switch_to_video_mode">"ভিদিও কোপচর তৌ"</string>
+<string name="camera_switch_to_still_mode">"লেংদবা মমিং অমা কেপচর তৌ"</string>
+<string name="camera_take_picture">"ফোটো লৌ"</string>
+<string name="camera_start_recording">"ভিদিও রেকোর্দ তৌবা হৌ"</string>
+<string name="camera_switch_full_screen">"মপুং ফাবা স্ক্রীন কেমেরাদা ওল্লু"</string>
+<string name="camera_switch_camera_facing">"মমাংথংবা অমসুং মনিংগী কেমেরাগী মরক্তা ওল্লু"</string>
+<string name="camera_stop_recording">"রেকোর্দ তৌবা লেপ্পু অমসুং ভিদিও এতেচ তৌ"</string>
+<string name="camera_cancel_recording">"ভিদিও রেকোর্দ তৌবা লেপ্পু"</string>
+<string name="photo_view_activity_title">"ফোটোশীং মেসেজ তৌরি"</string>
+<plurals name="photos_saved_to_album">
+<item quantity="one">"<xliff:g id="quantity">%d</xliff:g> ফোটো সেব তৌই দা \"<xliff:g id="albumName">%s</xliff:g>\" এলবুম"</item>
+<item quantity="other">"<xliff:g id="quantity">%d</xliff:g> ফোটোশীং সেব তৌই দা \"<xliff:g id="albumName">%s</xliff:g>\" এলবুম"</item>
+</plurals>
+<plurals name="videos_saved_to_album">
+<item quantity="one">"<xliff:g id="quantity">%d</xliff:g> ভিদিও সেব তৌই দা \"<xliff:g id="albumName">%s</xliff:g>\" এলবুম"</item>
+<item quantity="other">"<xliff:g id="quantity">%d</xliff:g> ভিদিওশীং সেব তৌই দা \"<xliff:g id="albumName">%s</xliff:g>\" এলবুম"</item>
+</plurals>
+<plurals name="attachments_saved_to_album">
+<item quantity="one">"<xliff:g id="quantity">%d</xliff:g> এতেচমেন্ট সেব তৌই দা \"<xliff:g id="albumName">%s</xliff:g>\" এলবুম"</item>
+<item quantity="other">"<xliff:g id="quantity">%d</xliff:g> এতেচমেন্টশীং সেব তৌই দা \"<xliff:g id="albumName">%s</xliff:g>\" এলবুম"</item>
+</plurals>
+<plurals name="attachments_saved_to_downloads">
+<item quantity="one">"<xliff:g id="quantity">%d</xliff:g> এতেচমেন্ট সেব তৌ দা \"দাওনলোদশীং\""</item>
+<item quantity="other">"<xliff:g id="quantity">%d</xliff:g> এতেচমেন্টশীং সেব তৌ দা \"দাওনলোদশীং\""</item>
+</plurals>
+<plurals name="attachments_saved">
+<item quantity="one">"<xliff:g id="quantity">%d</xliff:g> এতেচমেন্ট সেব তৌই"</item>
+<item quantity="other">"<xliff:g id="quantity">%d</xliff:g> এতেচমেন্টশীং সেব তৌরে"</item>
+</plurals>
+<plurals name="attachment_save_error">
+<item quantity="one">"সেব তৌবা ঙমদে <xliff:g id="quantity">%d</xliff:g> এতেচমেন্ট"</item>
+<item quantity="other">"সেব তৌবা ঙমদে <xliff:g id="quantity">%d</xliff:g> এতেচমেন্টশীং"</item>
+</plurals>
+<string name="attachment_file_description">"MMS এতেচমেন্ট সেব তৌরে"</string>
+<string name="settings_activity_title">"সেটিংশীং"</string>
+<string name="archived_activity_title">"অর্কাইভ তৌরে"</string>
+<string name="action_close">"খুমজিল্লু"</string>
+<string name="mms_messaging_category_pref_title">"MMS"</string>
+<string name="advanced_category_pref_title">"খুমাং থাবা"</string>
+<string name="debug_category_pref_title">"দিবগ"</string>
+<string name="notifications_enabled_pref_title">"নোটিফিকেসনশীং"</string>
+<string name="notification_sound_pref_title">"খোনজেল"</string>
+<string name="silent_ringtone">"তুমিন্না লৈবা"</string>
+<string name="notification_vibrate_pref_title">"নিকপা-হাইবা তৌই"</string>
+<string name="blocked_pref_title">"থিংলে"</string>
+<string name="send_reports_pref_title">"SMS থাবগী রিপোর্টশীং"</string>
+<string name="send_reports_pref_summary">"নহাক্না থাবা SMS অমমমগী থাবগী রিপোর্ট অমা পীয়ু হায়জৌ"</string>
+<string name="delivery_reports_pref_title">"SMS দেলিভরি রিপোর্টশীং"</string>
+<string name="delivery_reports_pref_summary">"নহাক্না থাবা SMS অমমমগী দেলিভরি রিপোর্ট অমা থানবা হায়জৌ"</string>
+<string name="auto_retrieve_mms_pref_title">"মশা মথন্তা হন্না ফংবা"</string>
+<string name="auto_retrieve_mms_pref_summary">"MMS মেসেজশীং মশা মথন্তা হন্না ফংই"</string>
+<string name="auto_retrieve_mms_when_roaming_pref_title">"রোমিং মশা মথন্তা হন্না ফংবা"</string>
+<string name="auto_retrieve_mms_when_roaming_pref_summary">"রোমিং তৌরিঙৈদা MMS মশা মথন্তা হন্না ফংই"</string>
+<string name="group_mms_pref_title">"গ্রুপ মেসেজ তৌবা"</string>
+<string name="group_mms_pref_summary">"ফংগদবশীং মশীং য়াম্বা মতমদা মেসেজ অমখক্তং থানবা MMS শীজিন্নৌ"</string>
+<string name="mms_phone_number_pref_title">"নহাক্কি ফোন নম্বর"</string>
+<string name="unknown_phone_number_pref_display_value">"মশক খঙদবা"</string>
+<string name="send_sound_pref_title">"থোকখিবা মেসেজ মখোলশীং"</string>
+<string name="dump_sms_pref_title">"SMS দম্প তৌ"</string>
+<string name="dump_sms_pref_summary">"অফংবা SMS রো দাতা মপানগী স্টোরেজ ফাইলদা দম্প তৌ"</string>
+<string name="dump_mms_pref_title">"MMS দম্প তৌ"</string>
+<string name="dump_mms_pref_summary">"অফংবা MMS রো দাতা মপানগী স্টোরেজ ফাইলদা দম্প তৌ"</string>
+<string name="wireless_alerts_title">"ৱায়রলেস এলর্টশীং"</string>
+<string name="message_context_menu_title">"মেসেজ ওপসনশীং"</string>
+<string name="message_context_menu_copy_text">"টেকস্ট কোপি তৌ"</string>
+<string name="message_context_menu_view_details">"অকুপ্পা ৱারোল য়েংঙু"</string>
+<string name="message_context_menu_delete_message">"মুথৎলু"</string>
+<string name="message_context_menu_forward_message">"ফোরৱার্দ তৌ"</string>
+<string name="message_details_title">"মেসেজগী অকুপ্পা ৱারোলশীং"</string>
+<string name="message_type_label">"টাইপ তৌ:\u0020"</string>
+<string name="text_message">"টেকস্ট তৌ মেসেজ"</string>
+<string name="multimedia_message">"মল্টিমেদিয়া মেসেজ"</string>
+<string name="from_label">"দগী:\u0020"</string>
+<string name="to_address_label">"দা:\u0020"</string>
+<string name="sent_label">"থাবা:\u0020"</string>
+<string name="received_label">"ফংলে:\u0020"</string>
+<string name="subject_label">"সবজেক্ট:\u0020"</string>
+<string name="message_size_label">"চাওবা পিকপা:\u0020"</string>
+<string name="priority_label">"হেন্না মরু ওইবা:\u0020"</string>
+<string name="sim_label">"SIM:\u0020"</string>
+<string name="priority_high">"ৱাংবা"</string>
+<string name="priority_normal">"সধারন"</string>
+<string name="priority_low">"নেম্বা"</string>
+<string name="sim_slot_identifier">"SIM <xliff:g id="sim_slot_number">%s</xliff:g>"</string>
+<string name="hidden_sender_address">"থাখিবা মীগী এদ্রেশ লোৎপা"</string>
+<string name="cant_send_message_while_loading_attachments">"এতেচমেন্ট লোদ তৌরিঙৈদা মেসেজ থাবা ঙমদে."</string>
+<string name="fail_to_load_attachment">"এতেচমেন্ট লোদ তৌবা ঙমদে. হন্না হোৎনৌ."</string>
+<string name="cant_send_message_without_active_subscription">"নেটৱার্ক শেম শাদ্রি. হন্না হোৎনৌ."</string>
+<string name="chips_text_delete_button_content_description">"টেক্সট মুথৎলু"</string>
+<string name="numeric_text_keyboard_toggle_button_content_description">"মেনশিল্লিবা টেক্সট অমসুং মশীংশীংগী মরক্তা ওন্নৌ"</string>
+<string name="add_more_participants_button_content_description">"শরুক য়াবশীং হেন্না হাপচিল্লু"</string>
+<string name="confrim_participants_button_content_description">"শরুক য়াবশীং চুম্মি হায়য়ু"</string>
+<string name="start_new_conversation">"অনৌবা ৱারি শান্নবা হৌ"</string>
+<string name="gallery_checkbox_content_description">"আইটেম অসি খল্লু"</string>
+<string name="video_thumbnail_view_play_button_content_description">"ভিদিও প্লে তৌ"</string>
+<string name="action_people_and_options">"মীয়াম &amp; ওপসনশীং"</string>
+<string name="action_debug_options">"দিবগ"</string>
+<string name="people_and_options_activity_title">"মীয়াম &amp; ওপসনশীং"</string>
+<string name="general_settings_title">"সধারন"</string>
+<string name="participant_list_title">"ৱারি শান্নবা অসিদা য়াওবা মীয়াম"</string>
+<string name="action_call">"কোল অমা তৌ"</string>
+<string name="compose_message_view_hint_text">"মেসেজ থাও"</string>
+<string name="compose_message_view_hint_text_multi_sim">"মেসেজ থাও<br/><small>দগী <xliff:g id="sim_name">%s</xliff:g></small>"</string>
+<plurals name="compose_message_view_hint_text_photo">
+<item quantity="one">"ফোটো থাও"</item>
+<item quantity="other">"ফোটোশীং থাও"</item>
+</plurals>
+<plurals name="compose_message_view_hint_text_audio">
+<item quantity="one">"ওদিও থাও"</item>
+<item quantity="other">"ওদিওশীং থাও"</item>
+</plurals>
+<plurals name="compose_message_view_hint_text_video">
+<item quantity="one">"ভিদিও থাও"</item>
+<item quantity="other">"ভিদিওশীং থাও"</item>
+</plurals>
+<plurals name="compose_message_view_hint_text_vcard">
+<item quantity="one">"কন্টেক্ত কার্দ থাও"</item>
+<item quantity="other">"কন্টেক্ত কার্দশীং থাও"</item>
+</plurals>
+<plurals name="compose_message_view_hint_text_attachments">
+<item quantity="one">"এতেচমেন্ট থাও"</item>
+<item quantity="other">"এতেচমেন্টশীং থাও"</item>
+</plurals>
+<plurals name="attachment_changed_accessibility_announcement">
+<item quantity="zero">"No attachments selected"</item>
+<item quantity="one">"এতেচমেন্ট অমা থানবা শেম শারে"</item>
+<item quantity="other">"<xliff:g id="attachment_count">%d</xliff:g> এতেচমেন্টশীং থানবা শেম শারে"</item>
+</plurals>
+<string name="menu_send_feedback">"ফীদবেক থাও"</string>
+<string name="menu_view_in_store">"Google Play Store দা য়েংঙু"</string>
+<string name="menu_version_info">"ভর্সনগী পাও"</string>
+<string name="subtitle_format_for_version_number">"ভর্সন %1$s"</string>
+<string name="menu_license">"অহাংবা হৌরকফমগী লাইসেন্সশীং"</string>
+<string name="notifications_enabled_conversation_pref_title">"নোটিফিকেসনশীং"</string>
+<string name="mms_attachment_limit_reached">"এতেচমেন্টকি ঙমখৈ য়ৌরে"</string>
+<string name="mms_attachment_load_failed">"এতেচমেন্ট লোদ তৌবা মায় পাক্তে."</string>
+<string name="add_contact_confirmation_dialog_title">"কন্টেক্তশীংদা হাপচিনগদ্রা?"</string>
+<string name="add_contact_confirmation">"কন্টেক্ত হাপচিল্লু"</string>
+<string name="compose_message_view_subject_hint_text">"সবজেক্ট"</string>
+<string name="conversation_message_view_subject_text">"সবজেক্ট:\u0020"</string>
+<string name="loading_vcard">"কন্টেক্ত কার্দ লোদ তৌরি"</string>
+<string name="failed_loading_vcard">"কন্টেক্ত কার্দ লোদ তৌবা ঙমদে"</string>
+<string name="vcard_tap_hint">"কন্টেক্ত কার্দ য়েংঙু"</string>
+<plurals name="vcard_multiple_display_name">
+<item quantity="one">"<xliff:g id="count">%d</xliff:g> কন্টেক্ত"</item>
+<item quantity="other">"<xliff:g id="count">%d</xliff:g> কন্টেক্টশীং"</item>
+</plurals>
+<string name="vcard_detail_activity_title">"Vকার্দ"</string>
+<string name="vcard_detail_birthday_label">"পোকপা নুমিৎ"</string>
+<string name="vcard_detail_notes_label">"খঙজিনগদবশীং"</string>
+<string name="forward_message_activity_title">"মেসেজ ফোরৱার্দ তৌ"</string>
+<string name="reply_activity_title">"পাওখুম পীয়ু"</string>
+<string name="sms_disabled">"SMS য়াহন্দ্রে"</string>
+<string name="requires_default_sms_app_to_send">"থানবা, মেসেজিং অসি SMS এপকি দিফাওল্ট ওইনা সেট তৌ"</string>
+<string name="requires_default_sms_app">"মেসেজিং অসি SMS এপকি দিফাওল্ট ওইনা সেট তৌ"</string>
+<string name="requires_default_sms_change_button">"হোংবা"</string>
+<string name="recommend_set_default_sms_app">"মেসেজ ফংনবা, মেসেজিং অসি SMS এপকি দিফাওল্ট ওইনা সেট তৌ"</string>
+<string name="no_preferred_sim_selected">"মেসেজশীং থানবা হেন্না পাম্বা SIM খন্দে"</string>
+<string name="requires_sms_permissions_message">"এপ অসি দিভাইস মপু অদুনা য়াদে."</string>
+<string name="requires_sms_permissions_close_button">"ওকে"</string>
+<string name="too_many_participants">"ৱারি শান্নবা অমদা মী কা হেন্না য়াম্না শরুক য়ামনখ্রে"</string>
+<plurals name="add_invalid_contact_error">
+<item quantity="one">"চৎনদবা কন্টেক্ত"</item>
+<item quantity="other">"চৎনদবা কন্টেক্তশীং"</item>
+</plurals>
+<string name="camera_media_failure">"কেমেরা গী মমি লোদ তৌবা ঙমদে"</string>
+<string name="conversation_list_item_view_sent_from_you_prefix">"নহাক:\u0020"</string>
+<string name="conversation_list_item_view_sent_from_other_prefix">"<xliff:g id="firstNameOfSender">%s</xliff:g>:\u0020"</string>
+<string name="conversation_list_item_view_draft_message">"দ্রাফ্ট"</string>
+<string name="conversation_list_empty_text">"নহাক অনৌবা ৱারি শান্নবা অমা হৌবগা, নহাক মদু মফম অসিদা লিস্ট তৌলা উগনি"</string>
+<string name="archived_conversation_list_empty_text">"অর্কাইব তৌখ্রবা ৱারি শান্নবা মফম অসিদা থোকই"</string>
+<string name="conversation_list_first_sync_text">"ৱারি শান্নবশীং লোদ তৌরি..."</string>
+<string name="conversation_list_snippet_picture">"পিকচর"</string>
+<string name="conversation_list_snippet_audio_clip">"ভোইস"</string>
+<string name="conversation_list_snippet_video">"ভিদিও"</string>
+<string name="conversation_list_snippet_vcard">"Vকার্দ"</string>
+<string name="mms_text">"MMS"</string>
+<string name="snack_bar_undo">"তৌখিবা অদু হন্দোকউ"</string>
+<string name="snack_bar_retry">"হন্না হোৎনবা"</string>
+<string name="contact_list_empty_text">"অনৌবা মেসেজ অমা হৌনবা কন্টেক্ত মমিং অমা নত্ত্রগা ফোন নম্বর মেনশিল্লু"</string>
+<string name="action_block">"থিংঙু"</string>
+<string name="block_contact_title">"ব্লোক তৌ <xliff:g id="destination">%s</xliff:g>"</string>
+<string name="unblock_contact_title">"ব্লোক তৌবা তোকউ <xliff:g id="destination">%s</xliff:g>"</string>
+<string name="block_confirmation_title">"ব্লোক তৌ <xliff:g id="destination">%s</xliff:g>?"</string>
+<string name="block_confirmation_message">"নহাক নম্বর অসিদগী মেসেজশীং ফংদুনা লৈখিগনি তৌইগুম্বশুং অমুক হন্না নোটিফাই তৌররোই. ৱারি শান্নবা অসি অর্কাই তৌরগনি."</string>
+<string name="blocked_contacts_title">"কন্টেক্তশীং ব্লোক তৌ"</string>
+<string name="tap_to_unblock_message">"ব্লোক তৌবা লৌথোকউ"</string>
+<string name="view_blocked_contacts_title">"কন্টেক্তশীং ব্লোক তৌ"</string>
+<string name="pick_image_from_document_library_content_description">"দোকুমেন্ট লাইব্রেরিদগী লাই খল্লু"</string>
+<string name="sending_message">"মেসেজ থারি"</string>
+<string name="send_message_success">"মেসেজ থাখ্রে"</string>
+<string name="send_message_failure_no_data">"সেল্লুলর দাতা মুথৎলে. নহাক্কি সেটিংশীং চেক তৌ."</string>
+<string name="send_message_failure_airplane_mode">"এয়রপ্লেন মোদতা মেসেজশীং থাবা ঙমদে"</string>
+<string name="assistant_card_not_allow_for_mms">"এসিস্টেন্ট কার্দকি মেসেজশীং থাবা য়াদে"</string>
+<string name="send_message_failure">"মেসেজ ফংবা ঙমদে"</string>
+<string name="download_message_success">"মেসেজ দাওনলোদ তৌরে"</string>
+<string name="download_message_failure_no_data">"সেল্লুলর দাতা মুথৎলে. নহাক্কি সেটিংশীং চেক তৌ."</string>
+<string name="download_message_failure_airplane_mode">"এয়রপ্লেন মোদতা মেসেজশীং দাওনলোদ তৌবা ঙমদে"</string>
+<string name="download_message_failure">"মেসেজ দাওনলোদ তৌবা ঙমখিদে"</string>
+<string name="content_description_for_number_zero">"শুন্য"</string>
+<string name="content_description_for_number_one">"অমা"</string>
+<string name="content_description_for_number_two">"অনি"</string>
+<string name="content_description_for_number_three">"অহুম"</string>
+<string name="content_description_for_number_four">"মরি"</string>
+<string name="content_description_for_number_five">"মঙা"</string>
+<string name="content_description_for_number_six">"তরুক"</string>
+<string name="content_description_for_number_seven">"তরেত"</string>
+<string name="content_description_for_number_eight">"নিপাল"</string>
+<string name="content_description_for_number_nine">"মাপল"</string>
+<string name="carrier_send_error">"মেসেজ থাবা ঙমদে লোয়ননা <xliff:g id="carrierName">%1$s</xliff:g>, অরানবা <xliff:g id="errorCode">%2$d</xliff:g>"</string>
+<string name="carrier_send_error_unknown_carrier">"খঙদবা কেরিয়রগা লোয়ননা মেসেজ থাবা ঙমদে, অরানবা <xliff:g id="errorCode">%1$d</xliff:g>"</string>
+<string name="message_fwd">"ফোরৱার্দ: <xliff:g id="subject">%s</xliff:g>"</string>
+<string name="mms_failure_outgoing_service">"মেসেজ থাদে: নোটৱার্কতা সার্ভিস এক্তিভেত তৌদে"</string>
+<string name="mms_failure_outgoing_address">"মেসেজ থাদে: চৎনদবা পন্থুংফমগী এদ্রেশ"</string>
+<string name="mms_failure_outgoing_corrupt">"মেসেজ থাদে: চৎনদবা মেসেজ"</string>
+<string name="mms_failure_outgoing_content">"মেসেজ থাদে: সপোর্ট তৌদবা কন্টেন্ট"</string>
+<string name="mms_failure_outgoing_unsupported">"মেসেজ থাদে: সপোর্ট তৌদবা মেসেজ"</string>
+<string name="mms_failure_outgoing_too_large">"মেসেজ থাদে: কা হেন্না চাওমল্লি"</string>
+<string name="in_conversation_notify_new_message_text">"অনৌবা মেসেজ"</string>
+<string name="in_conversation_notify_new_message_action">"ময়েং"</string>
+<string name="message_image_content_description">"মমি"</string>
+<string name="activity_not_found_message">"চুনবা এপ্লিকেশন অমা ফংবা ঙমদে"</string>
+<string name="chips_delete_content_description">"ফংবা মী লৌথোকউ"</string>
+<string name="share_new_message">"অনৌবা মেসেজ"</string>
+<string name="share_cancel">"ককথৎলু"</string>
+<string name="apn_edit">"এক্সেস পোইন্ট এদিত তৌ"</string>
+<string name="apn_not_set">"সেট তৌদে"</string>
+<string name="apn_name">"মমিং"</string>
+<string name="apn_mms_proxy">"MMS প্রোক্সি"</string>
+<string name="apn_mms_port">"MMS পোর্ট"</string>
+<string name="apn_type">"APN মখল"</string>
+<string name="menu_delete_apn">"APN মুথৎলু"</string>
+<string name="menu_new_apn">"অনৌবা APN"</string>
+<string name="menu_save_apn">"সেব তৌ"</string>
+<string name="menu_discard_apn_change">"লংথোকউ"</string>
+<string name="error_apn_name_empty">"মমিংগী ফিল্দ অদু হাংহনবা য়াদে."</string>
+<string name="error_apn_empty">"APN অদু হাংহনবা য়াদে."</string>
+<string name="error_mcc_not3">"MCC ফিল্দ দিজিত 3 গী ওইগদবনি."</string>
+<string name="error_mnc_not23">"MNC ফিল্দ দিজিত 2 নত্ত্রগা 3 গী ওইগদবনি."</string>
+<string name="restore_default_apn">"দিফাওল্ট APN সেটিংশীং হন্না পুরক্নবা তৌরি."</string>
+<string name="menu_restore_default_apn">"দিফাওল্টতা হন্না সেট তৌ"</string>
+<string name="restore_default_apn_completed">"দিফাওল্ট APN সেটিংশীং হন্না সেট তৌবা মপুং ফারে."</string>
+<string name="untitled_apn">"মমিং থোন্দবা"</string>
+<string name="sms_apns_title">"এক্সেস পোইন্ট মমিংশীং"</string>
+<string name="apn_settings">"APNs"</string>
+<string name="menu_new">"অনৌবা APN"</string>
+<string name="apn_settings_not_available">"এক্সেস পোইন্ট মমিংগী সেটিংশীং য়ুজর অসিগী ফংদে"</string>
+<string name="copy_to_clipboard_dialog_title">"ক্লিপবোর্দ তা কোপি তৌ?"</string>
+<string name="copy_to_clipboard">"কোপি তৌ"</string>
+<string name="incoming_sim_name_text">"দা <xliff:g id="sim_name">%s</xliff:g>"</string>
+<string name="general_settings">"সধারন"</string>
+<string name="advanced_settings">"খুমাং থাবা"</string>
+<string name="general_settings_activity_title">"সধারন সেটিংশীং"</string>
+<string name="advanced_settings_activity_title">"এদভান্স ওইবা সেটিংশীং"</string>
+<string name="sim_specific_settings">"\"<xliff:g id="sim_name">%s</xliff:g>\" SIM"</string>
+<string name="disable_group_mms">"ফংগদবা মী লোইনমক্তা লনায়গী SMS মেসেজশীং থাও. নহাক খক্তং পাওখুমশীং ফংগনি"</string>
+<string name="enable_group_mms">"MMS অমখক্তং থাও ফংগদবা মী লোইনমক্তা "</string>
+<string name="sim_settings_unknown_number">"খঙদবা নম্বর"</string>
+<string name="secondary_user_new_message_title">"অনৌবা মেসেজ"</string>
+<string name="secondary_user_new_message_ticker">"অনৌবা মেসেজ."</string>
+<string name="sim_selector_button_content_description">"SIM খনবা মী"</string>
+<string name="sim_selector_button_content_description_with_selection">"<xliff:g id="sim">%1$s</xliff:g> খল্লে, SIM খনবা মী"</string>
+<string name="send_button_long_click_description_no_sim_selector">"সবজেক্ট এদিত তৌ"</string>
+<string name="send_button_long_click_description_with_sim_selector">"SIM খল্লু নত্ত্রগা সবজেক্ট এদিত তৌ"</string>
+<string name="audio_record_view_content_description">"ওদিও রেকোর্দ তৌনবা শোকউ অমসুং পায়য়ু"</string>
+<string name="widget_new_conversation_content_description">"অনৌবা ৱারি শান্নবা হৌ"</string>
+<string name="widget_conversation_list_name">"মেসেজ তৌনবা লিস্ট"</string>
+<string name="widget_new_message_content_description">"অনৌবা মেসেজ"</string>
+<string name="widget_conversation_list_content_description">"ৱারি শান্নবা লিস্ট"</string>
+<string name="loading_conversations">"ৱারি শান্নবশীং লোদ তৌরি"</string>
+<string name="loading_messages">"মেসেজশীং লোদ তৌরি"</string>
+<string name="view_more_conversations">"ৱারি শান্নবশীং হেন্না য়েংঙু"</string>
+<string name="view_more_messages">"অহেনবা মেসেজশীং য়েংঙু"</string>
+<string name="conversation_deleted">"ৱারি শান্নবা মুথৎলে"</string>
+<string name="tap_to_configure">"ৱারি শান্নবা মুথৎলে. তোঙানবা মেসেজ থারগা ৱারি শান্নবা উৎনবা শোকউ"</string>
+<string name="update_destination_blocked">"থিংলে"</string>
+<string name="update_destination_unblocked">"ব্লোক তৌবা তোকউ"</string>
+<string name="db_full">"স্টোরেজ স্পেস নেম্মি. দাতা খরা মাংবা য়াই."</string>
+<string name="attachment_chooser_activity_title">"এতেচমেন্টশীং খল্লু"</string>
+<string name="action_confirm_selection">"খনবা চুম্মি হায়য়ু"</string>
+<string name="attachment_chooser_selection">"<xliff:g id="count">%d</xliff:g> খল্লে"</string>
+<string name="attachment_limit_reached_dialog_message_when_composing">"এতেচমেন্টশীং অমা নত্ত্রগা অমদগী হেনবা লৌথোকপিয়ু অমসুং হন্না হোৎনৌ."</string>
+<string name="attachment_limit_reached_dialog_message_when_sending">"নহাক নহাক্কি মেসেজ থাদুনা হোৎনবা য়াই, তৌইগুম্বশুং নহাক এতেচমেন্টশীং অমা নত্ত্রগা অমদগী হেনবা লৌথোক্ত্রবদি মদু দেলিভর তৌদবা য়াই."</string>
+<string name="video_attachment_limit_exceeded_when_sending">"নহাক মেসেজ অমগী ভিদিও অমখক্তং থাবা য়াই. অহেনবা ভিদিওশীং লৌথোকপিয়ু অমসুং হন্না হোৎনৌ."</string>
+<string name="attachment_load_failed_dialog_message">"মেসেজ তৌরগা এতেচমেন্ট লোদ তৌবা মায় পাক্ত্রে."</string>
+<string name="attachment_limit_reached_send_anyway">"থাও অমরা অমরা"</string>
+<string name="conversation_creation_failure">"ৱারি শাবা হৌবা ঙমদ্রে"</string>
+<string name="selected_sim_content_message">"<xliff:g id="selected_sim">%s</xliff:g> খল্লে"</string>
+<string name="empty_msg">"অহাংবা মেসেজ"</string>
+<string name="send_empty_msg">"নহাক অহাংবা মেসেজ অমা থানবা হোৎনরিব্রা?"</string>
+<string name="yes">"হোই"</string>
+<string name="no">"নত্তে"</string>
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="folder_display_option">"Mga kapilian sa pagpakita"</string>
+    <string name="folder_sortby">Ayosa </string>
+    <string name="folder_delete_messages">I-delete ang mga mensahe</string>
+    <string name="sort_msg_list_empty_text">"Imong makita ang mga mensahe nga nakalista dinhi"</string>
+    <string name="folder_display_all">"Ipakita tanan mga mensahe"</string>
+    <string name="delete_messages_confirmation_dialog_title">"Papason ang mga piniling mga mensahe?"</string>
+    <string name="delete_message_fail">"Pagpapas sa mga piniling mga mensahe pakyas!"</string>
+    <string name="have_select_message">"Pinili %1$d"</string>
+    <string-array name="sort_type">
+        <item>"Pinaagi sa takna nga pagkanaog"</item>
+        <item>"Pinaagi sa takna nga pagsaka"</item>
+        <item>"Pinaagi sa adres nga pagkanaog"</item>
+        <item>"Pinaagi sa adres nga pagsaka"</item>
+    </string-array>
+</resources>

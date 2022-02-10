@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string-array name="empty_subject_strings">
+<item>"कोनो विषय नहिं"</item>
+<item>"कोई विषय नहीं"</item>
+</string-array>
+<string-array name="notification_reply_choices">
+<item>"हं"</item>
+<item>"नैय"</item>
+<item>"ठीक छई"</item>
+<item>"हेहे"</item>
+<item>"धन्यवाद"</item>
+<item>"हम सहमत छी"</item>
+<item>"बहुत सुंदर"</item>
+<item>"हमर रस्ता मं"</item>
+<item>"ठीक अछि,चलू हमरा अहाँ लग बादमे वापस आबय दिअ"</item>
+<item>":)"</item>
+<item>":("</item>
+</string-array>
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string-array name="mms_validity_pref_entries">
+<item>"تەڭشەكسىز"</item>
+<item>1 سائەت</item>
+<item>"12 سائەت"</item>
+<item>24سائەت</item>
+<item>2كۈن</item>
+<item>ئەڭ چوڭ</item>
+</string-array>
+<string-array name="sms_validity_pref_entries">
+<item>"تەڭشەكسىز"</item>
+<item>1 سائەت</item>
+<item>"12 سائەت"</item>
+<item>24سائەت</item>
+<item>2كۈن</item>
+<item>ئەڭ چوڭ</item>
+</string-array>
+<string-array name="sms_save_to_sim_pref_entries">
+<item>"كارتىغا ساقلىنىدۇsimقىسقا ئۇچۇر ئالدى بىلەن"</item>
+<item>"قىسقا ئۇچۇر ئالدى بىلەن قىسقا ئۇچۇر ئەپىنىڭ سانلىق مەلۇمات ئامبىرىغا ساقلىنىدۇ"</item>
+</string-array>
+</resources>

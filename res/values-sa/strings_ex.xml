@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="folder_display_option">"प्रदर्शनस्य विकल्पः"</string>
+    <string name="folder_sortby">"द्वारा क्रमशः"</string>
+    <string name="folder_delete_messages">"सन्देशाः अपाक्रियन्ताम्"</string>
+    <string name="sort_msg_list_empty_text">"अत्र सूचीबद्धं सन्देशं द्रक्ष्यति"</string>
+    <string name="folder_display_all">"सर्वान् सन्देशान् प्रदर्शयतु"</string>
+    <string name="delete_messages_confirmation_dialog_title">"चितान् सन्देशान् अपाकर्तुम् इच्छति?"</string>
+    <string name="delete_message_fail">"चितानां सन्देशानां अपाकरणं विफलम्!"</string>
+    <string name="have_select_message">"चितः %1$d"</string>
+    <string name="copy_sim_sms_to_phone">दूरभाषे सन्देशस्य प्रतिकृतिं करोतु</string>
+    <string name="simsms_title">"SIM मध्ये सन्देशाः"</string>
+    <string name="copy_fail">"प्रतिकृतिः विफला!"</string>
+    <string-array name="sort_type">
+        <item>"समयानानुसारम् अवरुह्"</item>
+        <item>"समयानानुसारम् आरुह्"</item>
+        <item>"सङ्केतानुसारम् अवरुह्"</item>
+        <item>"सङ्केतानुसारम् आरुह्"</item>
+    </string-array>
+</resources>

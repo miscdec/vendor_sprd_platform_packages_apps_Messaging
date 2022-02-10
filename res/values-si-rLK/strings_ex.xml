@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="folder_display_option">"සංදර්ශක විකල්පය"</string>
+    <string name="folder_sortby">"අනුපිළිවෙලට සකසා ඇත්තේ"</string>
+    <string name="folder_delete_messages">"පණිවිඩ මකන්න"</string>
+    <string name="sort_msg_list_empty_text">"ඔබ මෙහි ලැයිස්තුගත කර ඇති පණිවිඩ නොදකිනු ඇත"</string>
+    <string name="folder_display_all">"සියලු පණිවිඩ සංදර්ශනය කරන්න"</string>
+    <string name="delete_messages_confirmation_dialog_title">"තෝරා ගත් පණිවිඩ මකන්නද?"</string>
+    <string name="delete_message_fail">"තෝරා ගත් පණිවිඩ මැකීම අසාර්ථකයි!"</string>
+    <string name="have_select_message">"තෝරා ගත් %1$d"</string>
+    <string name="copy_sim_sms_to_phone">"පණිවිඩය දුරකථනයට පිටපත් කරන්න"</string>
+    <string name="simsms_title">"SIM තුළ පණිවිඩ"</string>
+    <string name="copy_fail">"පිටපත් කිරීම අසාර්ථකයි!"</string>
+    <string-array name="sort_type">
+        <item>"වේලාව අනුව අවරෝ"</item>
+        <item>"වේලාව අනුව ආරෝ"</item>
+        <item>"ලිපිනය අනුව අවරෝ"</item>
+        <item>"ලිපිනය අනුව ආරෝ"</item>
+    </string-array>
+</resources>

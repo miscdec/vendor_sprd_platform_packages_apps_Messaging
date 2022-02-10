@@ -1,0 +1,504 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="share_intent_activity_label">"ውይይት ምረጥ"</string>
+    <string name="action_settings">"ቅንብሮች"</string>
+    <string name="sendButtonContentDescription">"መልዕክት ላክ"</string>
+    <string name="attachMediaButtonContentDescription">"ዓባሪ አክል"</string>
+    <string name="help_and_feedback_activity_label">"እገዛ"</string>
+    <string name="welcome">"እንኳን በደህና መጡ"</string>
+    <string name="skip">"ዝለል"</string>
+    <string name="next_with_arrow">"ቀጣይ &gt;"</string>
+    <string name="next">"ቀጣይ"</string>
+    <string name="exit">"መውጫ"</string>
+    <string name="settings_with_arrow">"ቅንብሮች &gt;"</string>
+    <string name="settings">"ቅንብሮች"</string>
+    <string name="required_permissions_promo">"አላላክ የኤስኤምኤስ፣ ስልክ እና እውቂያዎች ፍቃድ ያስፈልገዋል።"</string>
+    <string name="enable_permission_procedure">"ፍቃዶችን በቅንብሮች &gt; መተግበሪያዎች &gt; አላላክ &gt; ፍቃዶች ውስጥ መለወጥ ይችላሉ።"</string>
+    <string name="enable_permission_procedure_description">"ፍቃዶችን በቅንብሮች፣ መተግበሪያዎች፣ አላላክ፣ ፍቃዶች ውስጥ መለወጥ ይችላሉ።"</string>
+    <string name="contact_picker_frequents_tab_title">"ተደጋጋሚዎች"</string>
+    <string name="contact_picker_all_contacts_tab_title">"ሁሉም ዕውቂያዎች"</string>
+    <string name="contact_list_send_to_text">"ወደ <xliff:g id="DESTINATION">%s</xliff:g> ላክ"</string>
+    <string name="mediapicker_cameraChooserDescription">"ስዕሎችን አንሳ ወይም ቪዲዮ ቅረጽ"</string>
+    <string name="mediapicker_galleryChooserDescription">"ከዚህ መሣሪያ ላይ ምስሎችን ይምረጡ"</string>
+    <string name="mediapicker_audioChooserDescription">"ኦዲዮ ቅረጽ"</string>
+    <string name="mediapicker_gallery_title">"ፎቶ ይምረጡ"</string>
+    <string name="mediapicker_gallery_item_selected_content_description">"ሚዲያው ተመርጧል።"</string>
+    <string name="mediapicker_gallery_item_unselected_content_description">"ሚዲያው አልተመረጠም።"</string>
+    <string name="mediapicker_gallery_title_selection">"<xliff:g id="COUNT">%d</xliff:g> ተመርጠዋል"</string>
+    <string name="mediapicker_gallery_image_item_description">"ምስል <xliff:g id="DATE">%1$tB %1$te %1$tY %1$tl %1$tM %1$tp</xliff:g>"</string>
+    <string name="mediapicker_gallery_image_item_description_no_date">"ምስል"</string>
+    <string name="mediapicker_audio_title">"ኦዲዮ ቅረጽ"</string>
+    <string name="action_share">"አጋራ"</string>
+    <string name="posted_just_now">"ገና አሁን"</string>
+    <string name="posted_now">"አሁን"</string>
+    <string name="class_0_message_activity">"የክፍል 0 መልዕክት"</string>
+    <string name="save">አስቀምጥ</string>
+    <string name="sms_storage_low_auto_delete_enabled_dialog_text">"መሣሪያው አነስተኛ ቦታ ነው ያለው። አላላክ ቦታን ለማስለቀቅ የቆዩ መልዕክቶችን በራስ ሰር ይሰርዛል።"</string>
+    <string name="sms_storage_low_title">"የማከማቻ ቦታ እያለቀ ነው"</string>
+    <string name="sms_storage_low_text">"መሣሪያዎ ላይ ተጨማሪ ቦታ እስኪገኝ ድረስ አላላክ መልዕክቶችን ላይልክ ወይም ላይቀበል ይችላል።"</string>
+    <string name="sms_storage_low_notification_ticker">"ዝቅተኛ የኤስኤምኤስ ማከማቻ። መልዕክቶችን መሰረዝ ሊኖርብዎ ይችላል።"</string>
+    <string name="enter_phone_number_title">"ስልክ ቁጥርዎን ያረጋግጡ"</string>
+    <string name="enter_phone_number_text">"ይሄ የአንድ ጊዜ እርምጃ አላላክ የቡድን መልዕክቶችዎን በአግባቡ እንደሚልክ ያረጋግጣል።"</string>
+    <string name="enter_phone_number_hint">"ስልክ ቁጥር"</string>
+    <string name="delete_all_media">"ማህደረመረጃ ያላቸው ሁሉንም መልዕክቶች ሰርዝ"</string>
+    <string name="delete_oldest_messages">"ከ<xliff:g id="DURATION">%s</xliff:g> በላይ የቆዩ መልዕክቶችን ሰርዝ"</string>
+    <string name="auto_delete_oldest_messages">"ከ<xliff:g id="DURATION">%s</xliff:g> በላይ የቆዩ መልዕክቶችን በራስ-ሰር ሰርዝ"</string>
+    <string name="ignore">ተዉ</string>
+    <string name="delete_all_media_confirmation">"ማህደረመረጃ ያላቸው ሁሉም መልዕክቶች ይሰረዙ?"</string>
+    <string name="delete_oldest_messages_confirmation">"ከ<xliff:g id="DURATION">%s</xliff:g> በላይ የቆዩ መልዕክቶች ይሰረዙ?"</string>
+    <string name="auto_delete_oldest_messages_confirmation">"ከ<xliff:g id="DURATION">%s</xliff:g> በላይ የቆዩ መልዕክቶች ይሰረዙ እና ራስ-ሰር ሰራዥ ይብራ?"</string>
+    <string name="incoming_text_sender_content_description">"<xliff:g id="SENDER">%s</xliff:g> እንዲህ ብለዋል፦"</string>
+    <string name="outgoing_text_sender_content_description">"እርስዎ እንዲህ ብለዋል፦"</string>
+    <string name="incoming_sender_content_description">"መልዕክት ከ<xliff:g id="SENDER">%s</xliff:g>"</string>
+    <string name="outgoing_sender_content_description">"እርስዎ መልዕክት ልከዋል"</string>
+    <string name="message_status_sending">"በመላክ ላይ…"</string>
+    <string name="message_status_send_failed">"አልተላከም። እንደገና ለመሞከር ይንኩ።"</string>
+    <string name="user_not_exist">ተጠቃሚው የለም።</string>
+    <string name="message_status_send_retrying">"አልተላከም። እንደገና በመሞከር ላይ…"</string>
+    <string name="message_status_resend">"ዳግም ላክ ወይም ሰርዝ"</string>
+    <string name="message_status_send_failed_emergency_number">"ወደ ድንገተኛ አገልግሎቶች እባክዎ የድምፅ ጥሪ ያድርጉ። የእርስዎ የጽሑፍ መልዕክት አሁን ላይ ሊደርስ አይችልም።"</string>
+    <string name="message_status_failed">"አልተሳካም"</string>
+    <string name="message_title_manual_download">"አዲስ የሚወርድ የኤምኤምኤስ መልዕክት"</string>
+    <string name="message_title_downloading">"አዲስ የኤምኤምኤስ መልዕክት"</string>
+    <string name="message_title_download_failed">"ማውረድ አልተቻለም::"</string>
+    <string name="message_status_download_failed">"እንደገና ለመሞከር ይንኩ"</string>
+    <string name="message_status_download">"ለማውረድ ይንኩ"</string>
+    <string name="message_status_download_action">"አውርድ ወይም ሰርዝ"</string>
+    <string name="message_status_downloading">"በማውረድ ላይ…"</string>
+    <string name="message_status_download_error">"መልዕክቱ ጊዜው አልፎበታል ወይም አይገኝም።"</string>
+    <string name="mms_info">"መጠን፦ <xliff:g id="MESSAGESIZE">%1$s</xliff:g>፣ ጊዜው የሚያልፍበት፦ <xliff:g id="MESSAGEEXPIRE">%2$s</xliff:g>"</string>
+    <string name="invalid_destination">"መላክ አይቻልም። ተቀባይ ልክ አይደለም።"</string>
+    <string name="service_not_activated">"አገልግሎት በአውታረ መረብ ላይ አልገበረም"</string>
+    <string name="service_network_problem">"በአውታረ መረብ ችግር ምክንያት መላክ አልተቻለም"</string>
+    <string name="service_message_not_found">"መልዕክቱ ጊዜው አልፎበታል ወይም አይገኝም።"</string>
+    <string name="no_subject">"(ርዕሰ ጉዳይ የለውም)"</string>
+    <string name="unknown_sender">"ያልታወቀ ላኪ"</string>
+    <string name="delivered_status_content_description">"ደርሷል"</string>
+    <string name="dl_failure_notification">"<xliff:g id="SUBJECT">%1$s</xliff:g>ከ<xliff:g id="FROM">%2$s</xliff:g> መልዕክት ማውረድ አልተቻለም፡፡"</string>
+    <string name="low_memory">"በአነስተኛ ማህደረ ትውስታ ምክንያት የውሂብ ጎታ ክወና ማጠናቀቅ አልተቻለም"</string>
+    <string name="notification_send_failures_line1_singular">"መልዕክት አልተላከም"</string>
+    <string name="notification_send_failures_line1_plural">"አንዳንድ መልዕክቶች በአላላክ ውስጥ አልተላኩም"</string>
+    <string name="notification_download_failures_line1_singular">"መልዕክት አልወረደም"</string>
+    <string name="notification_download_failures_line1_plural">"አንዳንድ መልዕክቶች በአላላክ ውስጥ አልወረዱም"</string>
+    <string name="notification_emergency_send_failure_line1">"ወደ <xliff:g id="NUMBER">%1$s</xliff:g> የሚሄድ መልዕክት አልተላከም"</string>
+    <string name="notification_emergency_send_failure_line2">"ወደ ድንገተኛ አገልግሎቶች እባክዎ የድምፅ ጥሪ ያድርጉ። የእርስዎ ወደ <xliff:g id="NUMBER">%1$s</xliff:g> የጽሑፍ መልዕክት አሁን ላይ ሊደርስ አይችልም።"</string>
+    <string name="start_conversation">ጀምር</string>
+    <string name="camera_error_opening">"ካሜራ ሊገኝ አይችልም"</string>
+    <string name="camera_error_unknown">"ካሜራ ሊገኝ አይችልም"</string>
+    <string name="camera_error_video_init_fail">"የቪዲዮ ቀረጻ ሊገኝ አይችልም"</string>
+    <string name="camera_error_storage_fail">"ማህደረ መረጃን ማስቀመጥ አይቻልም"</string>
+    <string name="camera_error_failure_taking_picture">"ስዕል ማንሳት አልተቻለም"</string>
+    <string name="back">ወደ ኋላ</string>
+    <string name="action_menu_show_archived">"በማህደር የተቀመጠ"</string>
+    <string name="action_delete">ሰርዝ</string>
+    <string name="action_archive">"በማህደር አስቀምጥ"</string>
+    <string name="action_unarchive">"ከማህደር አስወጣ"</string>
+    <string name="action_notification_off">"ማሳወቂያዎችን አጥፋ"</string>
+    <string name="action_notification_on">"ማሳወቂያዎችን አብራ"</string>
+    <string name="action_add_contact">"እውቅያዎች አክል"</string>
+    <string name="action_download">"አውርድ"</string>
+    <string name="action_send">" ላክ"</string>
+    <string name="action_delete_message">ሰርዝ</string>
+    <string name="delete_message_confirmation_dialog_title">"ይህን መልዕክት ይሰረዝ?"</string>
+    <string name="delete_message_confirmation_dialog_text">"ይህ እርምጃ ሊቀለበስ አይችልም።"</string>
+    <string name="delete_message_confirmation_button">ሰርዝ</string>
+    <string name="delete_conversation_confirmation_button">ሰርዝ</string>
+    <string name="delete_conversation_decline_button">ይቅር</string>
+    <string name="recipient_hint">"ለ"</string>
+    <string name="action_multiselect">"በርካታ ምስሎችን ምረጥ"</string>
+    <string name="action_confirm_multiselect">"ምርጫ አረጋግጥ"</string>
+    <string name="audio_recording_start_failed">"ድምፅን መቅዳት አልተቻለም። እንደገና ይሞክሩ።"</string>
+    <string name="audio_recording_replay_failed">"ድምፅን ማጫወት አልተቻለም። እንደገና ይሞክሩ።"</string>
+    <string name="audio_recording_error">"ድምፅን ማስቀመጥ አልተቻለም። እንደገና ይሞክሩ።"</string>
+    <string name="audio_picker_hint_text">"ነካ ያድርጉ እና ይያዙ"</string>
+    <string name="enumeration_comma">"፣ "</string>
+    <string name="notification_separator">"  "</string>
+    <string name="notification_ticker_separator">"፦ "</string>
+    <string name="notification_space_separator">"  "</string>
+    <string name="notification_picture">"ስዕል"</string>
+    <string name="notification_audio">"የተሰሚ ቅንጥብ"</string>
+    <string name="notification_video">"ቪድዮ"</string>
+    <string name="notification_vcard">"የእውቂያ ካርድ"</string>
+    <string name="notification_download_mms">"አውርድ"</string>
+    <string name="notification_reply_via_sms">"በኤስኤምኤስ በኩል መልስ ስጥ"</string>
+    <string name="notification_reply_via_mms">"በኤምኤምኤስ በኩል ምላሽ ስጥ"</string>
+    <string name="notification_reply_prompt">"ተካ..."</string>
+    <string name="unknown_self_participant">"እኔ"</string>
+    <string name="blocked_toast_message">"እውቂያ ታግዶ በማህደር ውስጥ ተቀምጧል"</string>
+    <string name="unblocked_toast_message">"እውቂያ እገዳው ተነስቷል እና ከቤተማከማቻ ወጥቷል"</string>
+    <string name="archived_toast_message">"<xliff:g id="COUNT">%d</xliff:g> በማህደር ተቀምጧል"</string>
+    <string name="unarchived_toast_message">"<xliff:g id="COUNT">%d</xliff:g> ከማህደር ወጥተዋል"</string>
+    <string name="notification_off_toast_message">"ማሳወቂያዎች ጠፍተዋል"</string>
+    <string name="notification_on_toast_message">"ማሳወቂያዎች በርተዋል"</string>
+    <string name="toast_after_setting_default_sms_app_for_message_send">"ሁሉም ተቀናብሯል። እንደገና ላክ የሚለውን ይንኩ።"</string>
+    <string name="toast_after_setting_default_sms_app">"የአላላክ በተሳካ ሁኔታ እንደ ነባሪ የኤስኤምኤስ መተግበሪያ ተዘጋጅቷል።"</string>
+    <string name="audio_attachment_content_description">"የኦዲዮ ዓባሪ"</string>
+    <string name="audio_play_content_description">"የኦዲዮ ዓባሪ ያጫውቱ"</string>
+    <string name="audio_pause_content_description">"ላፍታ አቁም"</string>
+    <string name="incoming_message_announcement">"መልእክት ከ <xliff:g id="SENDER">%s</xliff:g>፦ <xliff:g id="MESSAGE">%s</xliff:g>።"</string>
+    <string name="one_on_one_incoming_failed_message_prefix">"ያልተሳካ መልዕክት ከ<xliff:g id="SENDER">%s</xliff:g>፦ <xliff:g id="MESSAGE">%s</xliff:g>። ሰዓት፦ <xliff:g id="TIME">%s</xliff:g>።"</string>
+    <string name="one_on_one_incoming_successful_message_prefix">"ከ<xliff:g id="SENDER">%s</xliff:g> የመጣ መልዕክት፦ <xliff:g id="MESSAGE">%s</xliff:g>። ሰዓት፦ <xliff:g id="TIME">%s</xliff:g>።"</string>
+    <string name="one_on_one_outgoing_draft_message_prefix">"ወደ <xliff:g id="CONTACT">%s</xliff:g> የሚሄድ ያልተላከ መልዕክት፦ <xliff:g id="MESSAGE">%s</xliff:g>። ሰዓት፦ <xliff:g id="TIME">%s</xliff:g>።"</string>
+    <string name="one_on_one_outgoing_sending_message_prefix">"መልዕክት ወደ <xliff:g id="CONTACT">%s</xliff:g> በመላክ ላይ፦ <xliff:g id="MESSAGE">%s</xliff:g>። ሰዓት፦ <xliff:g id="TIME">%s</xliff:g>።"</string>
+    <string name="one_on_one_outgoing_failed_message_prefix">"ያልተሳካ ወደ <xliff:g id="CONTACT">%s</xliff:g> የሚሄድ መልዕክት፦ <xliff:g id="MESSAGE">%s</xliff:g>። ሰዓት፦ <xliff:g id="TIME">%s</xliff:g>።"</string>
+    <string name="one_on_one_outgoing_successful_message_prefix">"ወደ <xliff:g id="CONTACT">%s</xliff:g> የሚሄድ መልዕክት፦ <xliff:g id="MESSAGE">%s</xliff:g>። ሰዓት፦ <xliff:g id="TIME">%s</xliff:g>።"</string>
+    <string name="group_incoming_failed_message_prefix">"ያልተሳካ መልዕክት ከ<xliff:g id="SENDER">%s</xliff:g>፦ <xliff:g id="MESSAGE">%s</xliff:g>። ሰዓት፦ <xliff:g id="TIME">%s</xliff:g>። <xliff:g id="GROUPINFO">%s</xliff:g>።"</string>
+    <string name="group_incoming_successful_message_prefix">"መልዕክት ከ<xliff:g id="SENDER">%s</xliff:g>፦ <xliff:g id="MESSAGE">%s</xliff:g>። ሰዓት፦ <xliff:g id="TIME">%s</xliff:g>። <xliff:g id="GROUPINFO">%s</xliff:g>።"</string>
+    <string name="group_outgoing_draft_message_prefix">"ወደ <xliff:g id="GROUP">%s</xliff:g> የሚሄድ ያልተላከ መልዕክት፦ <xliff:g id="MESSAGE">%s</xliff:g>። ሰዓት፦ <xliff:g id="TIME">%s</xliff:g>።"</string>
+    <string name="group_outgoing_sending_message_prefix">"መልዕክት ወደ <xliff:g id="GROUP">%s</xliff:g> በመላክ ላይ፦ <xliff:g id="MESSAGE">%s</xliff:g>። ሰዓት፦ <xliff:g id="TIME">%s</xliff:g>።"</string>
+    <string name="group_outgoing_failed_message_prefix">"ያልተሳካ ወደ <xliff:g id="GROUP">%s</xliff:g> የሚሄድ መልዕክት፦ <xliff:g id="MESSAGE">%s</xliff:g>። ሰዓት፦ <xliff:g id="TIME">%s</xliff:g>።"</string>
+    <string name="group_outgoing_successful_message_prefix">"ወደ <xliff:g id="GROUP">%s</xliff:g> የሚሄድ መልዕክት፦ <xliff:g id="MESSAGE">%s</xliff:g>። ሰዓት፦ <xliff:g id="TIME">%s</xliff:g>።"</string>
+    <string name="failed_message_content_description">"ያልተሳካ መልዕክት። ዳግም ለመሞከር ይንኩ።"</string>
+    <string name="group_conversation_description">"ከ<xliff:g id="PARTICIPANTS">%s</xliff:g> ጋር ውይይት"</string>
+    <string name="delete_subject_content_description">"ርዕሰ ጉዳይ ሰርዝ"</string>
+    <string name="camera_switch_to_video_mode">"ቪዲዮ ቅረጽ"</string>
+    <string name="camera_switch_to_still_mode">"የቆመ ምስል አንሳ"</string>
+    <string name="camera_take_picture">"ፎቶ አንሳ"</string>
+    <string name="camera_start_recording">"ቪዲዮ መቅረጽ ጀምር"</string>
+    <string name="camera_switch_full_screen">"ወደ የሙሉ ማያ ገጽ ካሜራ ቀይር"</string>
+    <string name="camera_switch_camera_facing">"በፊት እና ኋላ ካሜራ መካከል ቀያይር"</string>
+    <string name="camera_stop_recording">"መቅረጽ አቁም እና ቪዲዮ አያይዝ"</string>
+    <string name="camera_cancel_recording">"ቪዲዮ መቅዳትን አቁም"</string>
+    <string name="photo_view_activity_title">"ፎቶዎችን በመልዕክት መላክ"</string>
+    <string name="attachment_file_description">"የኤምኤምኤስ ዓባሪ ተቀምጧል"</string>
+    <string name="settings_activity_title">"ቅንብሮች"</string>
+    <string name="archived_activity_title">"በማህደር የተቀመጠ"</string>
+    <string name="action_close">ዝጋ</string>
+    <string name="mms_messaging_category_pref_title">"MMS"</string>
+    <string name="advanced_category_pref_title">"የላቀ"</string>
+    <string name="debug_category_pref_title">"አርም"</string>
+    <string name="notifications_enabled_pref_title">"ማሳወቂያዎች"</string>
+    <string name="notification_sound_pref_title">"ድምፅ"</string>
+    <string name="silent_ringtone">"ፀጥታ"</string>
+    <string name="notification_vibrate_pref_title">"ንዘር"</string>
+    <string name="blocked_pref_title">"የታገዱ"</string>
+    <string name="delivery_reports_pref_title">"የኤስኤምኤስ መላክ ሪፖርቶች"</string>
+    <string name="delivery_reports_pref_summary">"ለሚልኩት እያንዳንዱ ኤስኤምኤስ የመላኪያ ሪፖርት ጠይቅ"</string>
+    <string name="auto_retrieve_mms_pref_title">"በራስ- ሰርስረህ አውጣ"</string>
+    <string name="auto_retrieve_mms_pref_summary">"የኤምኤምኤስ መልዕክቶችን በራስ-ሰር ሰርስረህ አውጣ"</string>
+    <string name="auto_retrieve_mms_when_roaming_pref_title">"በእንቅስቃሴ ላይ በራስ- ሰርስረህ አውጣ"</string>
+    <string name="auto_retrieve_mms_when_roaming_pref_summary">"የስልክ አገልግሎት ሰጪ በሚቀየርበት ጊዜ ኤምኤምኤስን በራስ-ሰር ሰርስረህ አውጣ"</string>
+    <string name="group_mms_pref_title">"የቡድን መልዕክት መላላኪያ"</string>
+    <string name="group_mms_pref_summary">"ብዙ ተቀባዮች ሲኖሩ አንዲት መልዕክት ለመላክ ኤምኤምኤስ ይጠቀሙ"</string>
+    <string name="mms_phone_number_pref_title">"ስልክ ቁጥርዎ"</string>
+    <string name="unknown_phone_number_pref_display_value">የማይታወቅ</string>
+    <string name="send_sound_pref_title">"የወጪ መልዕክት ድምጾች"</string>
+    <string name="dump_sms_pref_title">"ኤስኤምኤስ አራግፍ"</string>
+    <string name="dump_sms_pref_summary">"የመጡ የኤስኤምኤስ ጥሬ ውሂብ ወደ ውጫዊ የማከማቻ ፋይል ላይ አራግፍ"</string>
+    <string name="dump_mms_pref_title">"ኤምኤምኤስ አራግፍ"</string>
+    <string name="dump_mms_pref_summary">"የመጡ የኤምኤምኤስ ጥሬ ውሂብ ወደ ውጫዊ የማከማቻ ፋይል ላይ አራግፍ"</string>
+    <string name="wireless_alerts_title">"ገመድ አልባ ማንቂያዎች"</string>
+    <string name="message_context_menu_title">"የመልዕክት አማራጮች"</string>
+    <string name="message_context_menu_copy_text">"ጽሁፍ ቅዳ"</string>
+    <string name="message_context_menu_view_details">"ዝርዝሮችን አሳይ"</string>
+    <string name="message_context_menu_delete_message">ሰርዝ</string>
+    <string name="message_context_menu_forward_message">"አስተላልፍ"</string>
+    <string name="message_details_title">"የመልዕክት ዝርዝሮች"</string>
+    <string name="message_type_label">"ዓይነት: "</string>
+    <string name="text_message">"የፅሁፍ መልዕክት"</string>
+    <string name="multimedia_message">"ማህደረ ብዙ መረጃመልዕክት"</string>
+    <string name="from_label">"ከ፡ "</string>
+    <string name="to_address_label">"ወደ: "</string>
+    <string name="sent_label">"ተላከ: "</string>
+    <string name="received_label">"ተቀብሏል፡ "</string>
+    <string name="subject_label">"ርዕሰ ጉዳይ፡ "</string>
+    <string name="message_size_label">"መጠን፦ "</string>
+    <string name="priority_label">"ቅድሚያ፡ "</string>
+    <string name="sim_label">"ሲም፦ "</string>
+    <string name="priority_high">"ከፍ ያለ"</string>
+    <string name="priority_normal">ኖርማል </string>
+    <string name="priority_low">"ዝቅ ያለ"</string>
+    <string name="sim_slot_identifier">"ሲም <xliff:g id="SIM_SLOT_NUMBER">%s</xliff:g>"</string>
+    <string name="hidden_sender_address">"የተደበቀ የላኪ አድራሻ"</string>
+    <string name="cant_send_message_while_loading_attachments">"አባሪዎችን በመጫን ላይ እያለ መልዕክት መላክ አይችልም።"</string>
+    <string name="fail_to_load_attachment">"ዓባሪን መጫን አልተቻለም። እንደገና ይሞክሩ።"</string>
+    <string name="cant_send_message_without_active_subscription">"አውታረ መረቡ ዝግጁ አይደለም። እንደገና ይሞክሩ።"</string>
+    <string name="chips_text_delete_button_content_description">"ጽሑፍ ሰርዝ"</string>
+    <string name="numeric_text_keyboard_toggle_button_content_description">"ጽሑፍ እና ቁጥሮችን በማስገባት መካከል ይቀያይሩ"</string>
+    <string name="add_more_participants_button_content_description">"ተጨማሪ ተሳታፊዎችን ያክሉ"</string>
+    <string name="confrim_participants_button_content_description">"ተሳታፊዎችን ያረጋግጡ"</string>
+    <string name="start_new_conversation">"አዲስ ውይይት ጀምር"</string>
+    <string name="gallery_checkbox_content_description">"ይህን ንጥል ምረጥ"</string>
+    <string name="video_thumbnail_view_play_button_content_description">"ቪዲዮ አጫውት"</string>
+    <string name="action_people_and_options">"ሰዎች እና አማራጮች"</string>
+    <string name="action_debug_options">"አርም"</string>
+    <string name="people_and_options_activity_title">"ሰዎች እና አማራጮች"</string>
+    <string name="general_settings_title">"አጠቃላይ"</string>
+    <string name="participant_list_title">"በዚህ ውይይት ውስጥ ያሉ ሰዎች"</string>
+    <string name="action_call">"ደውል"</string>
+    <string name="compose_message_view_hint_text">"መልዕክት ላክ"</string>
+    <string name="compose_message_view_hint_text_multi_sim">"መልዕክት ይላኩ<br/><small>from <xliff:g id="SIM_NAME">%s</xliff:g></small>"</string>
+    <string name="menu_send_feedback">"ግብረ-መልስ ላክ"</string>
+    <string name="menu_view_in_store">"በGoogle Play መደብር ውስጥ ይመልከቱ"</string>
+    <string name="menu_version_info">"ቅጽ መረጃ"</string>
+    <string name="subtitle_format_for_version_number">"ስሪት %1$s"</string>
+    <string name="menu_license">"የክፍት ምንጭ ፈቃዶች"</string>
+    <string name="notifications_enabled_conversation_pref_title">"ማሳወቂያዎች"</string>
+    <string name="mms_attachment_limit_reached">"የዓባሪ ገደብ ተደርሷል"</string>
+    <string name="mms_attachment_load_failed">"ዓባሪን መጫን አልተሳካም።"</string>
+    <string name="add_contact_confirmation_dialog_title">"ወደ እውቂያ ይታከል?"</string>
+    <string name="add_contact_confirmation">"እውቅያዎች አክል"</string>
+    <string name="compose_message_view_subject_hint_text">"ርዕሰ ጉዳይ"</string>
+    <string name="conversation_message_view_subject_text">"ርዕሰ ጉዳይ፡ "</string>
+    <string name="loading_vcard">"የእውቂያ ካርድ በመጫን ላይ"</string>
+    <string name="failed_loading_vcard">"የእውቂያ ካርድን መጫን አልተቻለም"</string>
+    <string name="vcard_tap_hint">"የእውቂያ ካርድ ይመልከቱ"</string>
+    <string name="vcard_detail_activity_title">"የአውቂያ ካርዶች"</string>
+    <string name="vcard_detail_birthday_label">"የልደት ቀን"</string>
+    <string name="vcard_detail_notes_label">"ማስታወሻዎች"</string>
+    <string name="forward_message_activity_title">"መልዕክት አስተላልፍ"</string>
+    <string name="reply_activity_title">"ተካ..."</string>
+    <string name="sms_disabled">"ኤስኤምኤስ ተሰናክሏል"</string>
+    <string name="requires_default_sms_app_to_send">"ለመላክ፣ የአላላክን እንደ ነባሪ የኤስኤምኤስ መተግበሪያ ያዘጋጁት"</string>
+    <string name="requires_default_sms_app">"አላላክን እንደ ነባሪ የኤስኤምኤስ መተግበሪያ ያዘጋጁት"</string>
+    <string name="requires_default_sms_change_button">"ቀይር"</string>
+    <string name="recommend_set_default_sms_app">"መልዕክቶችን ለመቀበል የአላላክን እንደ ነባሪ የኤስኤምኤስ መተግበሪያ አድርገው ያዘጋጁት"</string>
+    <string name="no_preferred_sim_selected">"ኤስ ኤም ኤስ መልዕክቶችን ለመላክ ምንም ተመራጭ ሲም አልተመረጠም"</string>
+    <string name="requires_sms_permissions_message">"ይህ መተግበሪያ በመሣሪያው ባለቤት አይፈቀድም።"</string>
+    <string name="requires_sms_permissions_close_button">እሺ</string>
+    <string name="too_many_participants">"በአንድ ውይይት ውስጥ በጣም ብዙ ተሳታፊዎች"</string>
+    <string name="camera_media_failure">"የካሜራ ምስልን መጫን አልተቻለም"</string>
+    <string name="conversation_list_item_view_sent_from_you_prefix">"እርስዎ፦ "</string>
+    <string name="conversation_list_item_view_sent_from_other_prefix">"<xliff:g id="FIRSTNAMEOFSENDER">%s</xliff:g>፦ "</string>
+    <string name="conversation_list_item_view_draft_message">"ረቂቅ"</string>
+    <string name="conversation_list_empty_text">"አንዴ አዲስ ውይይት ከጀመሩ በኋላ እዚህ ተዘርዝሮ ያዩታል"</string>
+    <string name="archived_conversation_list_empty_text">"በቤተመዛግብት እንዲቀመጡ የተደረጉ ውይይቶች እዚህ ላይ ብቅ ያላሉ"</string>
+    <string name="conversation_list_first_sync_text">"ውይይቶች በመስቀል ላይ..."</string>
+    <string name="conversation_list_snippet_picture">"ስዕል"</string>
+    <string name="conversation_list_snippet_audio_clip">"የተሰሚ ቅንጥብ"</string>
+    <string name="conversation_list_snippet_video">"ቪድዮ"</string>
+    <string name="conversation_list_snippet_vcard">"የእውቂያ ካርድ"</string>
+    <string name="mms_text">"MMS"</string>
+    <string name="snack_bar_undo">"ቀልብስ"</string>
+    <string name="snack_bar_retry">"እንደገና ሞክር"</string>
+    <string name="contact_list_empty_text">"አዲስ መልዕክት ለመጀመር የእውቂያ ስም ወይም ስልክ ቁጥር ያስገቡ"</string>
+    <string name="action_block">"አግድ"</string>
+    <string name="block_contact_title">"<xliff:g id="DESTINATION">%s</xliff:g>ን አግድ"</string>
+    <string name="unblock_contact_title">"የ<xliff:g id="DESTINATION">%s</xliff:g> እገዳን አንሳ"</string>
+    <string name="block_confirmation_title">"<xliff:g id="DESTINATION">%s</xliff:g> ይታገድ?"</string>
+    <string name="block_confirmation_message">"ከዚህ ቁጥር መልዕክቶችን መቀበልዎን ይቀጥላሉ ነገርግን ከእንግዲህ እንዲያውቁት አይደረጉም። ይህ ውይይት በቤተመዛግብት ይቀመጣል።"</string>
+    <string name="blocked_contacts_title">"የታገዱ እውቂያዎች"</string>
+    <string name="tap_to_unblock_message">"0 ያልተዘጋr"</string>
+    <string name="view_blocked_contacts_title">"የታገዱ እውቂያዎች"</string>
+    <string name="pick_image_from_document_library_content_description">"ከሰነዶች ቤተመዛግብት ምስል ይምረጡ"</string>
+    <string name="sending_message">"መልዕክት በመላክ ላይ"</string>
+    <string name="send_message_success">"መልዕክት ተልኳል"</string>
+    <string name="send_message_failure_no_data">"የተንቀሳቃሽ ስልክ ውሂብ ጠፍቷል። ቅንብሮችዎን ያረጋግጡ።"</string>
+    <string name="send_message_failure_airplane_mode">"በአይሮፕላን ሁኔታ ላይ እያለ መልዕክቶችን መላክ አይቻልም"</string>
+    <string name="send_message_failure">"መልዕክቱ ሊላክ አልቻለም"</string>
+    <string name="download_message_success">"መልዕክት ወርዷል"</string>
+    <string name="download_message_failure_no_data">"የተንቀሳቃሽ ስልክ ውሂብ ጠፍቷል። ቅንብሮችዎን ያረጋግጡ።"</string>
+    <string name="download_message_failure_airplane_mode">"መልዕክቶችን በአውሮፕላን ሁነታ ላይ ማውረድ አይቻልም"</string>
+    <string name="download_message_failure">"መልዕክት ሊወርድ አልቻለም"</string>
+    <string name="content_description_for_number_zero">"ዜሮ"</string>
+    <string name="content_description_for_number_one">"አንድ"</string>
+    <string name="content_description_for_number_two">"ሁለት"</string>
+    <string name="content_description_for_number_three">"ሶስት"</string>
+    <string name="content_description_for_number_four">"አራት"</string>
+    <string name="content_description_for_number_five">"አምስት"</string>
+    <string name="content_description_for_number_six">"ስድስት"</string>
+    <string name="content_description_for_number_seven">"ሰባት"</string>
+    <string name="content_description_for_number_eight">"ስምንት"</string>
+    <string name="content_description_for_number_nine">"ዘጠኝ"</string>
+    <string name="carrier_send_error">"መልዕክት በ<xliff:g id="CARRIERNAME">%1$s</xliff:g> መላክ አልተቻለም፣ ስህተት <xliff:g id="ERRORCODE">%2$d</xliff:g>"</string>
+    <string name="carrier_send_error_unknown_carrier">"መልዕክት ባልታወቀ አገልግሎት አቅራቢ መላክ አልተቻለም፣ ስህተት <xliff:g id="ERRORCODE">%1$d</xliff:g>"</string>
+    <string name="message_fwd">"የተላለፈ፦ <xliff:g id="SUBJECT">%s</xliff:g>"</string>
+    <string name="mms_failure_outgoing_service">"መልዕክት አልተላከም፦ አገልግሎቱ በአውታረ መረብ ላይ አልገበረም።"</string>
+    <string name="mms_failure_outgoing_address">"መልዕክት አልተላከም፦ ልክ ያልሆነ የመድረሻ አድራሻ"</string>
+    <string name="mms_failure_outgoing_corrupt">"መልዕክት አልተላከም፦ ልክ ያልሆነ መልዕክት"</string>
+    <string name="mms_failure_outgoing_content">"መልዕክት አልተላከም፦ የማይደገፍ ይዘት"</string>
+    <string name="mms_failure_outgoing_unsupported">"መልዕክት አልተላከም፦ የማይደገፍ መልዕክት"</string>
+    <string name="mms_failure_outgoing_too_large">"መልዕክት አልተላከም፦ በጣም ትልቅ ነው"</string>
+    <string name="in_conversation_notify_new_message_text">"አዲስ መልዕክት"</string>
+    <string name="in_conversation_notify_new_message_action">እይታ</string>
+    <string name="message_image_content_description">"ምስል"</string>
+    <string name="activity_not_found_message">"አግባብ የሆነውን መተግበሪያ ማግኘት አልተቻለም"</string>
+    <string name="chips_delete_content_description">"ተቀባይ አስወግድ"</string>
+    <string name="share_new_message">"አዲስ መልዕክት"</string>
+    <string name="share_cancel">ሰርዝ</string>
+    <string name="apn_edit">"የድረስ ነጥብ አርትዕ"</string>
+    <string name="apn_not_set">"አልተዘጋጀም"</string>
+    <string name="apn_name">ስም</string>
+    <string name="apn_mms_proxy">"የMMS እጅ አዙር"</string>
+    <string name="apn_mms_port">"የMMS ወደብ"</string>
+    <string name="apn_type">"የAPN አይነት"</string>
+    <string name="menu_delete_apn">"APN ሰርዝ"</string>
+    <string name="menu_new_apn">"አዲስ APN"</string>
+    <string name="menu_save_apn">አስቀምጥ</string>
+    <string name="menu_discard_apn_change">"ጣለው"</string>
+    <string name="error_apn_name_empty">"የስም መስክ ባዶ ሊሆን አይችልም"</string>
+    <string name="error_apn_empty">"ኤ.ፒ.ኤን. ባዶ መሆን አይችልም።"</string>
+    <string name="error_mcc_not3">"የMCC መስክ 3 አሀዝ መሆን አለበት።"</string>
+    <string name="error_mnc_not23">"የMNC መስክ 2 ወይም 3 አሀዝ መሆን አለበት።"</string>
+    <string name="restore_default_apn">"ነባሪ የAPN ቅንብሮችን እነበረበት ይመልሱ"</string>
+    <string name="menu_restore_default_apn">"ወደ ነባሪ ዳግም አስጀምር"</string>
+    <string name="restore_default_apn_completed">"የዳግም አስጀምር ነባሪ APN ቅንብሮች ተጠናቀዋል"</string>
+    <string name="untitled_apn">"ርዕስ አልባ"</string>
+    <string name="sms_apns_title">"የድረስ ነጥብ ስም"</string>
+    <string name="apn_settings">"APNs"</string>
+    <string name="menu_new">"አዲስ APN"</string>
+    <string name="apn_settings_not_available">"የመዳረሻ ነጥብ ስም ቅንብሮች ለዚህ ተጠቃሚ አይገኙም"</string>
+    <string name="copy_to_clipboard_dialog_title">"ወደ የቅንጥብ ሰሌዳ ይቀዳ?"</string>
+    <string name="copy_to_clipboard">"ቅዳ"</string>
+    <string name="incoming_sim_name_text">"ለ<xliff:g id="SIM_NAME">%s</xliff:g>"</string>
+    <string name="general_settings">"አጠቃላይ"</string>
+    <string name="advanced_settings">"የላቀ"</string>
+    <string name="general_settings_activity_title">"ጠቅላላ ቅንብሮች"</string>
+    <string name="advanced_settings_activity_title">"የላቁ ቅንብሮች"</string>
+    <string name="sim_specific_settings">"የ«<xliff:g id="SIM_NAME">%s</xliff:g>» ሲም"</string>
+    <string name="disable_group_mms">"የነጠላ ኤስኤምኤስ መልዕክቶችን ለሁሉም ተቀባዮች ይላኩ። እርስዎ ብቻ ነዎት ማንኛቸውም ምላሾችን የሚቀበሉት"</string>
+    <string name="enable_group_mms">"አንዲት ኤምኤምኤስ ለሁሉም ተቀባዮች ይላኩ"</string>
+    <string name="sim_settings_unknown_number">"ያልታወቀ ቁጥር"</string>
+    <string name="secondary_user_new_message_title">"አዲስ መልዕክት"</string>
+    <string name="secondary_user_new_message_ticker">"አዲስ መልዕክት"</string>
+    <string name="sim_selector_button_content_description">"ሲም መራጭ"</string>
+    <string name="sim_selector_button_content_description_with_selection">"<xliff:g id="SIM_0">%1$s</xliff:g> ተመርጧል፣ የሲም መራጭ"</string>
+    <string name="send_button_long_click_description_no_sim_selector">"ርዕሰ ጉዳይ ያርትዑ"</string>
+    <string name="send_button_long_click_description_with_sim_selector">"ሲም ይምረጡ ወይም ርዕሰ ጉዳይን ያርትዑ"</string>
+    <string name="audio_record_view_content_description">"ተሰሚን ለመቅረጽ ይንኩና ይያዙ"</string>
+    <string name="widget_new_conversation_content_description">"አዲስ ውይይት ጀምር"</string>
+    <string name="widget_conversation_list_name">"የአላላክ ዝርዝር"</string>
+    <string name="widget_new_message_content_description">"አዲስ መልዕክት"</string>
+    <string name="widget_conversation_list_content_description">"የውይይት ዝርዝር"</string>
+    <string name="loading_conversations">"ውይይቶችን በመጫን ላይ"</string>
+    <string name="loading_messages">"መልዕክቶች በመስቀል ላይ"</string>
+    <string name="view_more_conversations">"ተጨማሪ ውይይቶችን ዕይ"</string>
+    <string name="view_more_messages">"ተጨማሪ መልዕክቶችን አሳይ"</string>
+    <string name="conversation_deleted">"ውይይት ተሰርዟል"</string>
+    <string name="tap_to_configure">"ውይይት ተሰርዟል። የተለየ የአላላክ ውይይት ለማሳየት ይንኩ"</string>
+    <string name="update_destination_blocked">"የታገዱ"</string>
+    <string name="update_destination_unblocked">"አልታገደም"</string>
+    <string name="db_full">"የማከማቻ ቦታ ዝቅተኛ ነው። አንዳንድ ውሂብ ሊጠፋ ይችላል።"</string>
+    <string name="attachment_chooser_activity_title">"ዓባሪዎችን ይምረጡ"</string>
+    <string name="action_confirm_selection">"ምርጫ አረጋግጥ"</string>
+    <string name="attachment_chooser_selection">"<xliff:g id="COUNT">%d</xliff:g> ተመርጠዋል"</string>
+    <string name="attachment_limit_reached_dialog_message_when_composing">"እባክዎ አንድ ወይም ተጨማሪ ዓባሪዎችን ያስወግዱና እንደገና ይሞክሩ።"</string>
+    <string name="attachment_limit_reached_dialog_message_when_sending">"መልዕክትዎን ለመላክ መሞከር ይችላሉ፣ ነገር ግን አንድ ወይም ተጨማሪ ዓባሪዎችን እስኪያስወግዱ ድረስ ላይደርስ ይችላል።"</string>
+    <string name="video_attachment_limit_exceeded_when_sending">"በአንድ መልዕክት አንድ ቪዲዮ ብቻ ለመላክ ይችላሉ። እባክዎ ተጨማሪ ቪዲዮዎችን ያስወግዱ እና እንደገና ይሞክሩ።"</string>
+    <string name="attachment_load_failed_dialog_message">"አላላክ አባሪን መጫን አልቻለም።"</string>
+    <string name="attachment_limit_reached_send_anyway">"ለማንኛውም ላክ"</string>
+    <string name="conversation_creation_failure">"ውይይት መጀመር አልተቻለም"</string>
+    <string name="selected_sim_content_message">"<xliff:g id="SELECTED_SIM">%s</xliff:g> ተመርጧል"</string>
+    <string name="empty_msg">"ባዶ መልእክት"</string>
+    <string name="send_empty_msg">"ባዶ መልእክት ለመላእ እየሞከሩ ነው?"</string>
+    <string name="yes">"አዎ"</string>
+    <string name="no">"አይ"</string>
+    <plurals name="num_minutes_ago">
+        <item quantity="one">"<xliff:g id="count">%d</xliff:g> ደቂቃ"</item>
+        <item quantity="other">"<xliff:g id="COUNT">%d</xliff:g> ደቂቃዎች"</item>
+    </plurals>
+    <plurals name="num_hours_ago">
+        <item quantity="one">"<xliff:g id="count">%d</xliff:g> ሰአት"</item>
+        <item quantity="other">"<xliff:g id="COUNT">%d</xliff:g> ሰዓቶች"</item>
+    </plurals>
+    <plurals name="num_days_ago">
+        <item quantity="one">"<xliff:g id="count">%d</xliff:g> ቀን"</item>
+        <item quantity="other">"<xliff:g id="COUNT">%d</xliff:g> ቀን"</item>
+    </plurals>
+    <plurals name="week_count">
+        <item quantity="one">"ሳምንት"</item>
+        <item quantity="other">"<xliff:g id="count">%d</xliff:g> ሳምንታት"</item>
+    </plurals>
+    <plurals name="month_count">
+        <item quantity="one">"ወር"</item>
+        <item quantity="other">"<xliff:g id="count">%d</xliff:g> ወራት"</item>
+    </plurals>
+    <plurals name="year_count">
+        <item quantity="one">"አምት"</item>
+        <item quantity="other">"<xliff:g id="count">%d</xliff:g> አመታት"</item>
+    </plurals>
+    <string name="message_status_alarm">ማንቂያው የሚላክበት</string>
+    <plurals name="notification_send_failures">
+        <item quantity="one">"<xliff:g id="messages">%d</xliff:g> መልእክት በአንድ ንግግር"</item>
+        <item quantity="other">"<xliff:g id="messages">%d</xliff:g> messages in <xliff:g id="conversations">%d</xliff:g> ንግግሮች"</item>
+    </plurals>
+    <plurals name="notification_download_failures">
+        <item quantity="one">"<xliff:g id="messages">%d</xliff:g> መልእክት በአንድ ንግግር"</item>
+        <item quantity="other">"<xliff:g id="messages">%d</xliff:g> messages in <xliff:g id="conversations">%d</xliff:g> ንግግሮች"</item>
+    </plurals>
+    <plurals name="notification_new_messages">
+        <item quantity="one">"አዲስ መልዕክት"</item>
+        <item quantity="other">"<xliff:g id="messages">%d</xliff:g> አዳዲስ ንግግሮች"</item>
+    </plurals>
+    <plurals name="delete_conversations_confirmation_dialog_title">
+        <item quantity="one">"ይሄ ውይይት ይሰረዝ?"</item>
+        <item quantity="other">"እነዚህ ንግግሮች ይጥፉ?"</item>
+    </plurals>
+    <plurals name="wearable_participant_count">
+        <item quantity="one">"<xliff:g id="count">%d</xliff:g> ተሳታፊ"</item>
+        <item quantity="other">"<xliff:g id="count">%d</xliff:g> ተሳታፊዎች"</item>
+    </plurals>
+    <plurals name="attachment_preview_close_content_description">
+        <item quantity="one">"እባሪው ይቅር"</item>
+        <item quantity="other">"እባሪዎቹ ይቅሩ"</item>
+    </plurals>
+    <plurals name="photos_saved_to_album">
+        <item quantity="one">"<xliff:g id="quantity">%d</xliff:g> ፎቶ ወደ \"<xliff:g id="albumName">%s</xliff:g>\" አልበም ተቀምጧል"</item>
+        <item quantity="other">"<xliff:g id="quantity">%d</xliff:g> ፎቶዎች ወደ \"<xliff:g id="albumName">%s</xliff:g>\" አልበም ተቀምጠዋል"</item>
+    </plurals>
+    <plurals name="videos_saved_to_album">
+        <item quantity="one">"<xliff:g id="quantity">%d</xliff:g> ቪዲዮ ወደ \"<xliff:g id="albumName">%s</xliff:g>\" አልበም ተቀምጧል"</item>
+        <item quantity="other">"<xliff:g id="quantity">%d</xliff:g> ቪዲዮዎች ወደ \"<xliff:g id="albumName">%s</xliff:g>\" አልበም ተቀምጠዋል"</item>
+    </plurals>
+    <plurals name="attachments_saved_to_album">
+        <item quantity="one">"<xliff:g id="quantity">%d</xliff:g> እባሪው ወደ \"<xliff:g id="albumName">%s</xliff:g>\" አልበም ተቀምጧል"</item>
+        <item quantity="other">"<xliff:g id="quantity">%d</xliff:g> እባሪዎቹ ወደ \"<xliff:g id="albumName">%s</xliff:g>\" አልበም ተቀምጠዋል"</item>
+    </plurals>
+    <plurals name="attachments_saved_to_downloads">
+        <item quantity="one">"<xliff:g id="quantity">%d</xliff:g> እባሪው በ \"ወደሩት\" ተቀምጧል"</item>
+        <item quantity="other">"<xliff:g id="quantity">%d</xliff:g> እባሪዎቹ በ \"ወደሩት\" ተቀምጠዋል"</item>
+    </plurals>
+    <plurals name="attachments_saved">
+        <item quantity="one">"<xliff:g id="quantity">%d</xliff:g> እባሪው ተቀምጧል"</item>
+        <item quantity="other">"<xliff:g id="quantity">%d</xliff:g> እባሪዎቹ ተቀምጠዋል"</item>
+    </plurals>
+    <plurals name="attachment_save_error">
+        <item quantity="one">"<xliff:g id="quantity">%d</xliff:g> እባሪውን ማስቀመጥ አልተቻለም"</item>
+        <item quantity="other">"<xliff:g id="quantity">%d</xliff:g> እባሪዎቹን ማስቀመጥ አልተቻለም"</item>
+    </plurals>
+    <plurals name="compose_message_view_hint_text_photo">
+        <item quantity="one">"ፎቶ መላክ"</item>
+        <item quantity="other">"ፎቶዎች መላክ"</item>
+    </plurals>
+    <plurals name="compose_message_view_hint_text_audio">
+        <item quantity="one">"ድምፅ መላክ"</item>
+        <item quantity="other">"ድምፆች መላክ"</item>
+    </plurals>
+    <plurals name="compose_message_view_hint_text_video">
+        <item quantity="one">"ቪዲዮ መላክ"</item>
+        <item quantity="other">"ቪዲዮዎች መላክ"</item>
+    </plurals>
+    <plurals name="compose_message_view_hint_text_vcard">
+        <item quantity="one">"የማግኛ ካርድ መላክ"</item>
+        <item quantity="other">"የማግኛ ካርዶች መላክ"</item>
+    </plurals>
+    <plurals name="compose_message_view_hint_text_attachments">
+        <item quantity="one">"እባሪ መላክ"</item>
+        <item quantity="other">"እባሪዎቹን መላክ"</item>
+    </plurals>
+    <plurals name="attachment_changed_accessibility_announcement">
+        <item quantity="one">"አንድ እባሪ ለመላክ ዝግኙ ነው"</item>
+        <item quantity="other">"<xliff:g id="attachment_count">%d</xliff:g> እባሪዎች ለመላክ ዝግጁ ናቸው"</item>
+    </plurals>
+    <plurals name="vcard_multiple_display_name">
+        <item quantity="one">"<xliff:g id="count">%d</xliff:g> ማግኛ"</item>
+        <item quantity="other">"<xliff:g id="count">%d</xliff:g> መገናኛዎች"</item>
+    </plurals>
+    <plurals name="add_invalid_contact_error">
+        <item quantity="one">"ዋጋ የሌለው ማግኛ"</item>
+        <item quantity="other">"ዋጋ የሌላቸው ማግኛዎች"</item>
+    </plurals>
+    <string name="send_reports_pref_title">"SMS ሪፖርቶች ልኳል"</string>
+    <string name="send_reports_pref_summary">"ለላኩት እያንዳንዱ SMS ሪፖርት እንዲላክ መጠየቅ"</string>
+    <string name="alarm_message_date">አንድ ቀን ይምረጡ</string>
+    <string name="alarm_message_time">አንድ ሰዓት ይምረጡ</string>
+    <string name="alarm_message_setup">"አዋቅር"</string>
+    <string name="alarm_message_cancel">ሰርዝ</string>
+    <string name="assistant_card_not_allow_for_mms">መልዕክቶችን ለረዳት ካርድ መላክ አይቻልም</string>
+    <string name="donotset_time_before_now">ከአሁን በፊት የሆነ ሰዓት ማቀናበር አይቻልም</string>
+    <string name="please_reset_time">ሰዓቱ አልፏል፣ እባክዎ ማንቂያውን ዳግም ያዘጋጁት</string>
+    <string name="please_set_date">እባክዎ ቀኑን ያቀናብሩት</string>
+    <string name="please_set_time">እባክዎ ሰዓቱን ያቀናብሩት</string>
+
+<string name="audio_format_unknow">"ይህ የኦዲዮ ቅርጸት አይደገፍም"</string>
+</resources>

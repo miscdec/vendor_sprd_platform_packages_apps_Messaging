@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="signature_title">"ፊርማ"</string>
+    <string name="pref_title_sms_retry_times">SMS አስችል እንደገና ሞክር</string>
+    <string name="conversation_deleteAll_failed">"እባክዎን መልሰው ይሞክሩ፡፡"</string>
+    <string name="warning">ማስጠንቀቂያ</string>
+    <string name="attachment_exceeded">"የመረጡት እባሪ በልጧል!"</string>
+    <string name="permission_read_messages_attachment_label">"እባሪውን መልእክት አንብብ"</string>
+    <string name="permission_read_messages_attachment_desc">"መተግበሪያው የመልእክቱን እባሪ እንዲያነብሎት ይፍቀዱ"</string>
+    <string name="preference_name">የተለመደ ሃረግ</string>
+    <string name="select">"ተመርጧL"</string>
+    <string name="save_as_teltype">"ለስልክ"</string>
+    <string name="save_as_mmstype">"ቨለ Sms"</string>
+    <string name="type_to_pharser">"የተለመዱ ሀረጎችን ይፃፉ"</string>
+    <string name="add">"አክል"</string>
+    <string name="edit">" ኤዲት"</string>
+    <string name="delete">ሰርዝ</string>
+    <string name="finish">"ተጠናቅቋል"</string>
+    <string name="cancel">ሰርዝ</string>
+    <string name="add_pharser">"የተለመዱ ሀረጎችን ያስገቡ"</string>
+    <string name="edit_pharser">የተለመዱ ሃረጎችችን አርታእ</string>
+    <string name="exit_pharser_dialog_title">ፍንጭ መስጠት</string>
+    <string name="exit_pharser_dialog_content">"በተደጋጋሚ ለማስቀመጥ ሀረጎችን ይጠቀማሉ?"</string>
+    <string name="pharser_can_modify">"በልክ ያሉ ሀረጎች"</string>
+    <string name="pharser_cannot_modify">"የተስተካከለ ሀረግ"</string>
+    <string name="empty_pharser_not_save">"ባዶ ሀረግ ነው ሊቀመጥ አይችልም!"</string>
+    <string name="select_item">"መርጠዋል"</string>
+    <string name="select_commmon_phrase">የተለመደ ሀረግ ምረጥ</string>
+    <string name="common_phrase_empty">"የተለመዱሓረጎች የሉም"</string>
+    <string name="action_add_phrase">"የተለመዱ ሀረጎችን ያስገቡ"</string>
+    <string name="pref_other_settings_title">"ሌላ "</string>
+    <string name="action_wireless_alerts">"ገመድ አልባ ማንቂያዎች"</string>
+    <string name="positive">"ፖዘቲቭ"</string>
+    <string name="wap_push_message_dialog_title">"Wap መልዕክት መጫን"</string>
+    <string name="open_website">"ድረ ገፅን ክፈት"</string>
+    <string name="activity_not_found">የሚመች መተግበሪያ አልተገኘም</string>
+    <string-array name="fixed_mms_phrase">
+        <item>እባክዎ የቢሮ ስልኬ ላይ ይደውሉ፣ አመሰግናለሁ።</item>
+        <item>እባክዎ  ያግኙኝ፣ አመሰግናለሁ</item>
+        <item>እባክዎ ያሉበትን ይንገሩኝ ።</item>
+        <item>እባክዎ በሃላ በተንቀሳቃሽ ስልኬ ላይ ይደውሉ፤አመሰግናለሁ</item>
+        <item>ወጥቼ ነበር ፤ወደ ቤት ሂጄ እደውልለዎታለሁ።</item>
+        <item>"አሁን እየነዳሁ ነው በኋላ እመልሳለሁ፡፡"</item>
+        <item>"ወደ መንገድ ገብቻለሁ፣ በፍጥነት እደርሳለሁ፡፡"</item>
+        <item>የትራፊክ ትስስር፣በኋላ ወደ፣ ይቅርታ።</item>
+        <item>በሃላ መልሼ እደውልሎታለሁ።</item>
+        <item>ስብሰባ ላይ ነኝ፤በሃላ እመልሳለሁ</item>
+    </string-array>
+    <string-array name="fixed_both_phrase">
+        <item>"እባክዎን ወደ በኋላ ይደውሉልኝ ወይም sms ይላኩልኝ፡፡"</item>
+    </string-array>
+    <string name="share_video_exceeded">"የመረጡት ቪዲዮ በልጧል!"</string>
+    <string name="share_audio_exceeded">"የመረጡት ድምጥ በልጧል!"</string>
+    <string name="share_image_exceeded">"የመረጡት ስእል በልጧል!"</string>
+    <string name="share_muimgae_exceeded">"የበለጠውን ስእል አያጋሩ!"</string>
+    <string name="share_noimgae_exceeded">"ያለው ምስል ያልሆነ ፋይል አይጋራም!"</string>
+    <string name="exceed_text_length_limitation">"የፅሁፉን ርዝምት ቀደም አልፏል፡፡"</string>
+    <string name="drm_no_application_open">"ፋይል አየከፍትም"</string>
+    <string name="ok_drm_rights_consume">እሺ</string>
+    <string name="cancel_drm_rights_consume">ሰርዝ</string>
+    <string name="orgdrm_no_share">"ማጋራቱን አይደግፍም"</string>
+    <string name="drm_can_not_processed">"Drm ፋይሉን ማካሄድ አልተቻለም"</string>
+    <string name="protect_information">" የመከላከያ መረጃ"</string>
+    <string name="drm_consume_title">" Drm መብቶች መጠቀም"</string>
+    <string name="drm_consume_hint">" ስራዎትን Drm መብቶች ይጠቀማል"</string>
+    <string name="drm_file_path">"መንገድ፡- %1$s"</string>
+    <string name="drm_file_name">"ፋይል ስም፡- %1$s"</string>
+    <string name="drm_rights_validity">"ትክክለኛ መመዘኛ፡-ተገቢ"</string>
+    <string name="drm_rights_invalidity">"ትክክለኛ መመዘኛ፡-ተገቢ ያልሆነ"</string>
+    <string name="drm_rights_status_transfer">"ትክክለኛ ሁናቴ፡- መተላለፍ ይፈቀዳል"</string>
+    <string name="drm_rights_status_untransfer">"ትክክለኛ ሁናቴ፡- መተላለፍ አይፈቀድም"</string>
+    <string name="drm_start_time">"ሰአት መጀመር፡-%1$s"</string>
+    <string name="drm_end_time">"ሰአት ማቆም፡-%1$s"</string>
+    <string name="drm_expiration_time">"የመቃጠያ ሰአት፡-%1$s"</string>
+    <string name="drm_remain_times">"የቀረ ሰአት፡-%1$s"</string>
+    <string name="drm_no_info">"መረጃ የለም"</string>
+    <string name="drm_unlimited_rights">"ያልተገደበ"</string>
+    <string name="drm_rights_unknown">የማይታወቅ</string>
+    <string name="drm_inactive_rights">" ተግባርላይ ያልሆኑ መብቶች"</string>
+    <string name="drm_shared_not_drmdownload">"Drmማውረጃው ማውጫ ማንቀሳቀስና ማጋራት"</string>
+    <string name="share_nofile_exceeded">"ከ MMS ገደብ በላይ!"</string>
+    <string name="no_few_participants">"ተሳትፎ የለም"</string>
+    <string name="mms_validity_pref_title">"MMS መመዘኛ ማስተካከያ"</string>
+    <string name="sms_validity_pref_title">"SMS መመዘኛ ማስተካከያ"</string>
+    <string name="attach_vcalendar">"የቀን አቆጣጠር"</string>
+    <string name="confirm_import_vcalendar">"መመዘኛው ይምጣ?"</string>
+    <string name="confirm_save_otherfiles">"አባሪው ይቀመጥ"</string>
+    <string name="confirm_import">"አዎ"</string>
+    <string name="cancel_import">"አይ"</string>
+    <string name="attach_other_file">"የማይታወቅ ፋይል"</string>
+    <string name="copy_to_sdcard_success">"አባሪው ወደ "<xliff:g id="copy_to_sdcard_success_id">%s</xliff:g>"ተቀምጧል"</string>
+    <string name="copy_to_sdcard_fail">"ዓባሪውን ማስቀመጥ አልተቻለም::"</string>
+    <string name="attach_sound">"ኦዲዮ"</string>
+    <string name="select_vcard_button">"ማግኛውን ለማስገባት ቁልፉን ይጫኑ"</string>
+    <string name="select_video_button">"ቪዲዮውን ለማስገባት ቁልፉን ይጫኑ"</string>
+    <string name="select_audio_button">"ድምፁን ለማስገባት ቁልፉን ይጫኑ"</string>
+    <string name="select_vcalendar_button">"ካላንደሩን ለማስገባት ቁልፉን ይጫኑ"</string>
+    <string name="no_mms_plugin">"የታየ ዶሴ የለም"</string>
+    <string name="attachment_details">"እባሪ ዝርዝር"</string>
+    <string name="context_menu_copy_to_sim_memory">መልዕክቱን ወደ SIM ገልብጥ</string>
+    <string name="copy_message_text">"ጽሁፍ ቅዳ"</string>
+    <string name="min_zoom">"ዝቅተኛው ላይ ደርሷል"</string>
+    <string name="max_zoom">"ከፍተኛው ላይ ደርሷል"</string>
+    <string name="message_details_text">"የመልዕክት ዝርዝሮች"</string>
+    <string name="folder_reply">"ተካ..."</string>
+    <string name="new_message">"አዲስ መልዕክት"</string>
+    <string name="folder_forward">"አስተላልፍ"</string>
+    <string name="delete_message">ሰርዝ</string>
+    <string name="menu_resend">መልሰህ ላክ </string>
+    <string name="save_all_attachments">"ሁሉም እባሪዎች ይቀመጡ"</string>
+    <string name="host_app_name">"መልዕክት መላላክ"</string>
+    <string name="need_messaging_is_default_app">"\"%1$s\" ለ sms ዋና መተግበሪያ ማስተካከል አለቦት"</string>
+    <string name="message_outgoing_successful">"መልእክቱ በተሳካ ሁኔታ ተልኳል"</string>
+    <string name="message_outgoing_failure">"መልዕክት አልተላከም"</string>
+    <string name="share_unsupported_type">"የማይደገፍ የማግኛ አይነት፣ ሊጋራ አይችልም!"</string>
+    <string name="mms_delivery_reports_pref_title">"MMS የመድረሻ ሪፖርት"</string>
+    <string name="mms_delivery_reports_pref_summary">"ከላከው እያንዳንዱ MMS የደረሰበትን ሪፖርት ይጠይቁ"</string>
+    <string name="mms_read_reports_pref_title">"የተነበቡ MMS ሪፖርቶች"</string>
+    <string name="mms_read_reports_pref_summary">"ከተላከው እያንዳንዱ MMS የተነበበ ሪፖርት ይጠይቁ"</string>
+    <string name="enable_return_mms_delivery_reports_pref_title">"የ MMS መመለሱን የሚገልፅ ሪፖርት ይብራ"</string>
+    <string name="enable_return_mms_delivery_reports_pref_summary">"ለተላከው እያንዳንዱ የ MMS መመለሱን የሚገልፅ ሪፖርት ይብራ"</string>
+    <string name="enable_return_mms_read_reports_pref_title">"የ MMS መነበቡን የሚገልፅ ሪፖርት ይብራ"</string>
+    <string name="enable_return_mms_read_reports_pref_summary">"ለተላከው እያንዳንዱ የ MMS መነበቡን የሚገልፅ ሪፖርት ይብራ"</string>
+    <string name="delivery_toast_body">"መልዕክት በ %s ተቀብሏል"</string>
+    <string name="delivery_toast_body_expired">መልዕክት  %s ጊዜ ያለፈበት ነው።</string>
+    <string name="delivery_toast_body_fail_rejected">"መልዕክቱ በ %s ተቀባይነት አላገኘም "</string>
+    <string name="delivery_toast_body_fail">መልዕክቱ በ %s አልተቀበለም </string>
+    <string name="mimetype_null">"ትንሹ አይነት ባዶ ነው፣ እባሪውን ማስቀመጥ አልተቻለም"</string>
+    <string name="pref_title_manage_simx_smsc">"SIM<xliff:g id="COUNT">%1$s</xliff:g> SMS አገልግሎት ማዕከል"</string>
+    <string name="pref_title_manage_sim_smsc">የአገልግሎት ማዕከል</string>
+    <string name="smsc_set_fails">ኤስኤምኤስ ሲ ማዕከል አልተስተካከልም</string>
+    <string name="smsc_set_success">"ማዘጋጀት ተሳክቷል"</string>
+    <string name="smsc_update_success">"በትክክል አሻሻሏል"</string>
+    <string name="smsc_cannot_be_null">"Smsc ባዶ መሆን አይችልም"</string>
+    <string name="smsc_should_be_number">"Smsc ቁጥር መሆን አለበት"</string>
+    <string name="smsc_list">የኤስኤምኤስ ማዕከል ዝርዝር</string>
+    <string name="smsc_list_empty">የኤስኤምኤስ ማዕከል ቁጥሮች ምንም የለም</string>
+    <string name="smsc_list_loading">"በመጫን ላይ"</string>
+    <string name="smsc_list_empty_toast">"መልእክቱ አልተላከም፣ የ SMS ማእከል ቁጥር የለም"</string>
+    <string name="smsc_list_empty_notify_des">"እባክዎን አዲሱን SMS ቁጥር ያስገቡ"</string>
+    <string name="smsc_list_empty_notify_title">"SMS ቁጥር የለም"</string>
+    <string name="shared_image_number_exceed">"ከፍተኛው የተጋራው ምስል %d ነው፣ የበለጡት ጠፍተዋል፡፡"</string>
+    <string name="drm_unsupported_toast">"DRM ፋይል አልተገኘም፡፡ እባክዎን ሌላ ፋይል ይምረጡ፡፡"</string>
+    <string name="err_sent_no_sim">"መልእክቱ አልተላከም፣ SIM ካርድ የለም፡፡"</string>
+    <string name="dlg_save_attachment">"&#8230;ፋይል ይቀመጥ"</string>
+    <string name="is_redirect_to">"ወደ %1$s ይተላለፍ?"</string>
+    <string name="browser">"አሳሽ"</string>
+    <string name="email">ኢ ሜይል</string>
+    <string name="telephone">"ስልክ"</string>
+    <string name="map">"ካርታ"</string>
+    <string name="message_signature_setting">የፊርማ መቼት</string>
+    <string name="pref_signature_enable_title">አማራጭ ፊርማ</string>
+    <string name="pref_signature_enabl_summary">ለእያንዳንዱ ለሚላከዉ ኤምኤምኤስ መልዕክት ፊርማ ወዲያዉኑ አስተላለፍ</string>
+    <string name="pref_signature_input_title">ፊርማዉን አርም</string>
+    <string name="pref_signature_input_summary">ፊርማ ለማስቀመጥ እዚህ ጋ ይግቡ</string>
+    <plurals name="attachments_saved_dir">
+        <item quantity="one">"<xliff:g id="quantity">%d</xliff:g> እባሪው ፋይል ወደ \"<xliff:g id="dir">%s</xliff:g>\" ተቀምጧል"</item>
+        <item quantity="other">"<xliff:g id="quantity">%d</xliff:g> እባሪው ፋይል ወደ \"<xliff:g id="dir">%s</xliff:g>\" ተቀምጧል"</item>
+    </plurals>
+    <string name="no_call_permissions">"ምንም ፍቃዶች የሉም"</string>
+    <string name="folder_loading">"በመጫን ላይ"</string>
+    <string name="sms_merge_forward_empty">ምንም የኤስኤምኤስ መልዕክት ለማጥፋትና ለመላክ የለም፡፡</string>
+    <string name="sms_forward">"አስተላልፍ"</string>
+    <string name="sms_merge_dialog_title">ፍንጭ መስጠት</string>
+    <string name="sms_merge_dialog_content1">"በ %d SMS  መልእክቶች መሀል ብቻ ማቀናጀት ይቻላል"</string>
+    <string name="sms_merge_dialog_content2">"እንዲሁም %d SMS መልእክት፡፡ እባክዎን ይጫኑት፡፡"</string>
+    <string name="messagelist_sender_self">"እኔ"</string>
+    <string name="sms_merge_forward">"Sms አጣምሮ አስተላላፊ  "</string>
+    <string name="muti_select_all">ሁሉንም ምረጥ </string>
+    <string name="menu_select_none">ህሉንም ሰርዝ</string>
+    <string name="sms_merge_dialog_content_exceed">"ተቀናጅቶ የተላለፈው መልእት ይዘት ከ %d ገደብ በላይ ሆኗል፣ እባክዎን እንደገና ያረጋግጡ!"</string>
+    <string name="no_sms_permissions">"የ SMS ፈቃድ የለም፣ ድምፁን ማጫወት አይቻልም፡፡"</string>
+    <string name="attachment_size">"የእባሪው መጠን፡-"</string>
+    <string name="mms_size">"MMS መጠንለ፡-"</string>
+    <string name="smil_subject_hint">"mms ርእስ የለም,ማስተካከል ይችላሉ"</string>
+    <string name="smil_out_of_size">"ከማስቀመጫ ውጭ"</string>
+    <string-array name="smil_choice_items">
+        <item>"Smil ስካን"</item>
+        <item>"Smil ማጫወቻ"</item>
+    </string-array>
+    <string name="video_content_type">"ቪዲዮ፡-"</string>
+    <string name="iamge_content_type">"ስእል፡-"</string>
+    <string name="audio_content_type">"ድምፅ፡-"</string>
+    <string name="subject_edit">"ርእስ ማስተካከል"</string>
+    <string name="text_edit">"ፅሁፍ ማስተካከያ"</string>
+    <string name="repalce_slide">"ቅያሪ ማንሸራተቻ"</string>
+    <string name="remove_slide">"ስላይድ አስወግድ"</string>
+    <string name="insert_befor_slide">"ከማንሸራተቻው በፊት ይግባ"</string>
+    <string name="insert_after_slide">"ከማንሸራተቻው በኋላ ይግባ"</string>
+    <string name="add_attachment">"የ ኤ እባሪ ጨምር"</string>
+    <string name="remove_attachment">"እባሪው ይወገድ"</string>
+    <string name="repalce_attachment">"እባሪው ይቀየር"</string>
+    <string name="hint_for_input">"እባክዎን ይታረም"</string>
+    <string name="hint_for_empty">"አሁን የተያያዘው እባሪ ባዶ ነው፣ እባክዎን ያርሙት፡፡"</string>
+    <string name="goto_smil">"ወደ smil ሂድ"</string>
+    <string name="smil_subject">"ርእስ፡-"</string>
+    <string name="action_sim_sms">በሲም ውስጥ ያለ መልእክት</string>
+    <string name="sms_save_to_sim_pref_title">"SMS በቅድሚያ በሲም ላይ ተቀምጧል"</string>
+    <string name="sms_sim_full_title"> \'ኢሜይል ሞልቷል</string>
+    <string name="sms_sim_full_notification_ticker">"ዝቅተኛ የኤስኤምኤስ ማከማቻ። መልዕክቶችን መሰረዝ ሊኖርብዎ ይችላል።"</string>
+    <string name="sms_sim_full_text">"sim ሙሉ ነው፣ sms የተላኩ መልእክቶችን መረጃ ቋት ውስጥ ያስቀምጣል፡፡ "</string>
+    <plurals name="search_results_title">
+        <item quantity="one">"<xliff:g id="NUMBER">%1$s</xliff:g> ዝርዝር ከ “<xliff:g id="SEARCH">%2$s</xliff:g>” ያህል ፍከጋ ውጤቶች ጋር ተነሳስለዋል"</item>
+        <item quantity="other">"<xliff:g id="NUMBER">%1$s</xliff:g> ዝርዝሮች ከ “<xliff:g id="SEARCH">%2$s</xliff:g>” ያህል ፍከጋ ውጤቶች ጋር ተነሳስለዋል"</item>
+    </plurals>
+    <string name="menu_search_text">" ፈልግ"</string>
+    <string name="search_label">"መልዕክት መላላክ"</string>
+    <string name="search_hint">"መልዕክት ፍለጋ"</string>
+    <string name="search_max_length">" የተመረጠውን ዓረፍተ ነገር በጣም ረጅም ነው፣ወደ 512 ይገደባል"</string>
+    <string name="search_setting_description">"በመልዕክቶችዎ ውስጥ ፅሁፍ"</string>
+    <string name="search">"መልዕክት መላላክ"</string>
+    <string name="search_empty">"ምንም ተመሳሳይ የለም።"</string>
+    <string name="search_history">"<xliff:g id="COUNT">%1$s</xliff:g> ውጤቶች ለ \"<xliff:g id="SEARCH">%2$s</xliff:g>\""</string>
+    <string name="can_not_add_same_picture">"ተመሳሳይ ስእሎችን መድገም አይችሉም"</string>
+    <string name="smil_add_text">"የፅሁፍ እባሪ ይጨምሩ"</string>
+    <string name="smil_empty_content">"ባዶ ይዘት፣ መላክ አቁም!"</string>
+    <string name="exceed_participant_limit">"የተሳታፊዎች ቁጥር ከገደቡ አልፏል (<xliff:g>%1$s</xliff:g>),እባክዎን ያጥፉ <xliff:g>%2$s</xliff:g> ፡፡"</string>
+    <string name="folder_view_menu_item_title">ማስቀመጫ የሚታይበት</string>
+    <string name="capacity_sim_message_title">መጠንም ይመልከቱ</string>
+    <string name="capacity_sim_message_summary">"የተቆጠረው/ከፍተኛ ይዘት:- %s"</string>
+    <string name="audio_record_retry">"እባክዎን የመደቡን ቅጂ ይዝጉና እንደገና ይሞክሩ፡፡"</string>
+    <string name="contact_invalid">"ዋጋ የሌለው ማግኛ፣ እባክዎን ዋጋ ያው ማግኛ እንደገና ይምረጡ፡፡"</string>
+    <string name="message_size_counting">"መቁጠር"</string>
+    <string name="pref_encode_type_setting_title">"የማቀናበርያ ዓይነት ቀይር"</string>
+    <string name="pref_encode_type_title">መቀየርያ  ዓይነት</string>
+    <string name="fdn_check_failure">"ወደ ተወሰኑት መደወያ ቁጥሮች ብቻ መደወል ይችላሉ፡፡"</string>
+    <string name="data_call_fdn_check_failure">"FDN እየሰራ እያለ MMS መላክ አይቻልም፡፡ እባክዎን *99# ወደ FDN ዝርዝር ይጨምሩና እንደገና ይሞክሩ፡፡"</string>
+    <string name="smsc_fdn_check_failure">"FDN እየሰራ እያለ MMS መላክ አይቻልም እንዲሁም የመልእክት ማእከሎት ቁጥር በ FDN ዝርዝር ውስጥ የለም፡፡ "</string>
+    <string name="smil_wait_comparing_att_size">"መጫን ጀምሯል፣ እባክዎን ላፍታ ይጠብቁ !"</string>
+    <string name="smil_max_slide_count">"%s ማንሸራተቻዎችን ብቻ መጨመር ይቻላል"</string>
+    <string name="sms_wap_pref_title">"SMS WAP መልእክት ማብራት"</string>
+    <string name="sms_wap_pref_summary">"የ SMS WAP መልእክት ለመቀበል ማብራት"</string>
+    <string name="smil_Player_title">"SMILማጫወቻ"</string>
+    <string name="smil_caption_description">"SMIL"</string>
+    <string name="smil_caption_edit_hint">"(ለማስተካከል መጫን)"</string>
+    <string name="action_edit_contact">"አድራሻ አስተካክል"</string>
+    <string name="select_slideshow_button">"ተንሸራታች መመልከቻውን ለመመልት ቁልፉን ይጫኑ"</string>
+    <string name="slideshow_detail_activity_title">"ተንሸራታች ትዕይንት"</string>
+    <string name="mms_send_reports_pref_title">"Mms ሪፖርቶች ልኳል"</string>
+    <string name="mms_send_reports_pref_summary">"ለላኩት እያንዳንዱ MMS ሪፖርት እንዲላክ መጠየቅ"</string>
+    <string name="read_report_toast_body">"መልእክቱ በ %s ዝግጁ ይሆናል"</string>
+    <string name="read_report_toast_body_fail">"መልእክቱ በ  %s ዝግጁ አይሆንም"</string>
+    <string name="sms_save_to_sim_pref_summary">"ወደ አዲስ sms ሲኬድ፣ በ sim ይቀመጥ ወይም ይቅር"</string>
+    <string name="smil_update_text">"የተያያዘው ጽሁፍ ማሻሻል ተሳክቷል"</string>
+    <string name="show_save_attachment_info">"ይቀመጥ?"</string>
+    <string name="attachment_save_success">"ማስቀመጡ ተሳክቷል"</string>
+    <string name="unread_message_count">"የተዘጋጀ መረጃ የለም"</string>
+    <string name="mms_convert_to_smil_title">"ወደ ተንሸራታች መረየር"</string>
+    <string name="mms_convert_to_smil_message">"Mms ወደ ተምሸራታችመት ተቀይሯል፣ ይህም አንዳንድ የማይደገፉ ተያያዦችን ሊተው ይችላል፣ እርግጠኛ ኖት?"</string>
+    <string name="confirm_convert">እሺ</string>
+    <string name="cancel_convert">ሰርዝ</string>
+    <string name="smil_max_part_count">"%s ብቻ በተያያዦች ላይ በተንሸራታቹ ላይ ማድረግ ይቻላል"</string>
+    <string name="smil_add_error_same_content_type">"ሁለት ተመሳሳይ የሚዲያ አይነቶችን በአንድ ተንሸራታች ላይ ማድረግ አይቻልም፡፡"</string>
+    <string name="smil_add_error_video_conflict">"ድምጽ ወይም ምስል ያለው ቪዲዮ በተንሸራታች ላይ መሆን አይችልም፡፡"</string>
+    <string name="smil_replace_error_same_content_type">"ሁለት ተመሳሳይ ሚዲያ ተያያዦች በአንድ ተንሸራታች ላይ ሊሆን አይችልም፡፡"</string>
+    <string name="smil_replace_error_video_conflict">"በቪዲዮውን መቀየር አልተቻለም፣ እባክዎን ተያያዡን የስወግዱና እንደገና ይሞክሩ፡፡"</string>
+    <string name="smil_edit_hint">"ተንሸራታቾች፣ ለማስተካከል ይጫኑ፡፡"</string>
+    <string name="smil_unsupported_content_type">"የማይደገፍ የይዘት አይነት፡፡"</string>
+    <string name="pref_internal_memory_usage_title">"MMS/ያለ /ጠቅላላ"</string>
+    <string name="pref_internal_memory_usage_progress_summary">"የሜሞሪ ቦታ መቁጠር..."</string>
+    <string name="no_common_phrase">"ለጋራ አገልግሎት የሚሆኑ ሀረጎች የሉም"</string>
+    <string name="action_copy_to_sim">ወደ SIM ቅዳ</string>
+    <string name="select_sim">"Sim ይምረጡ"</string>
+    <string name="sim_space_not_enough">"ለ sms የሚሆነው ቦታ ለ SIM በቂ አይደለም"</string>
+    <string name="move_message_to_phone_memory">"ወደ ስልኩ ማስታወሻ የተቀዳው መልእክት ተሳክቷል"</string>
+    <string name="can_not_copy_the_message">የመልዕክቱን መቅዳት አልተቻለም</string>
+    <string name="item_cancel">ይቅር</string>
+    <string name="item_delete">ሰርዝ</string>
+    <string name="no_permissions">"ምንም ፈቃዶች የሉም"</string>
+    <string name="can_not_add_same_attachment">ተመሳሳዩን ዓባሪ ለማከል ሊደገም አይችልም</string>
+    <string name="discard_message_reason">"መልዕክቶ ይወገዳል ምክንያቱም ትክክለኛ ተቀባይ የለውም።"</string>
+    <string name="failed_to_add_media">"ይቅርታ፣ ይህን <xliff:g id="NAME">%1$s</xliff:g> ወደ መልዕክትህ ማከል አትችልም  ።"</string>
+    <string name="contentType_audio">"ኦዲዮ"</string>
+    <string name="contentType_video">"ቪዲዮ"</string>
+    <string name="contentType_image">"ምስል"</string>
+    <string name="contentType_other">የማይደገፍ የፋይል አይነት ማጋራት አልተቻለም</string>
+    <string name="no_record_audio_permission">ምንም የቀረጻ ኦዲዮ ፈቃድ የለም!</string>
+    <string name="close_float_video">ካሜራ ሲከፈት የቪዲዮ ተንሳፋፊ መስኮቶችን ዝጋ።</string>
+    <string name="unable_get_data">ውሂብን ማግኘት አልተቻለም</string>
+    <string name="unexpected_recording_error">እባክዎ የመቅረጫ መተግበሪያውን ይዝጉትና እንደገና ይሞክሩ</string>
+    <string name="add_contacts_dialog_title">እዉቅያዎችን ጨምር </string>
+    <string name="add_contact_as_text">"የጽሑፍ መልዕክት"</string>
+    <string name="file_not_found_exception">ፋይሉ አልተገኘም!</string>
+    <string name="pref_title_mms_size_limit">የኤምኤምኤስ መጠን ገደብ</string>
+    <string name="pref_summary_mms_size_limit">መልዕክት ለመጻፍ የኤምኤምኤስ መጠን ገደብ</string>
+    <string name="sub_card_download_mms_noti">የረዳት ካርድ ኤምኤምኤስ ሲቀበል አውታረ መረብ ቀይር</string>
+    <string name="compressing">"ስዕሉ በጣም ትልቅ ነው፣ በመጭመቅ ላይ\u2026"</string>
+    <string name="ctcc_smart_sms_pref_title">"CTCC Smart SMSን ክፈት"</string>
+    <string name="ctcc_smart_sms_pref_summary">"CTCC Smart SMS ይከፈት ወይም አይከፈት"</string>
+    <string name="no_market_store_app">"በMarket Store መተግበሪያው ላይ አልተጫነም።"</string>
+    <string name="fdn_add_dialog_title">"የSMS ማዕከል ቁጥሩ ወደ ቋሚ መደወያ እውቂያ ያክሉ？"</string>
+    <string name="upper_to_max_text_length">"ከላይኛው እስከ ከፍተኛው የጽሑፍ ርዝመት"</string>
+    <string name="upper_to_max_chips_parsed">"ከላይኛው እስከ ከፍተኛው ቺፖች ተተንትነዋል"</string>
+    <string name="text_copied">"ጽሑፍ ወደ ቅንጥብ ሰሌዳው ተቀድቷል"</string>
+    <string name="fail_start_record_videoaudio">"ሌላ መተግበሪያ ካሜራውን ወይም ማይክሮፎኑን እየተጠቀመበት ነው፣ እና አሁን መቅረጽ አይችልም"</string>
+    <string name="event_create">"አዲስ ክስተት"</string>
+    <string name="sprd_parse_date_fail">"ውሂብን መተንተን አልተሳካም!"</string>
+    <string name="error_external_storage_access">"የውጫዊ ማከማቻ መዳረሻ የለም"</string>
+    <string name="download_request_confirm">"እባክዎ ለፋይል ክወና የውጫዊውን SD ካርድ ውርድ ማውጫ ይምረጡ።"</string>
+    <string name="folder_display_option">"የማሳያ ምርጫ"</string>
+    <string name="folder_sortby">በ…ደርድር</string>
+    <string name="folder_delete_messages">"መልዕክቶችሰርዝ"</string>
+    <string name="sort_msg_list_empty_text">"በዛ የተዘረዘረውን መልእክት መመልከት ይችላሉ"</string>
+    <string name="folder_display_all">"ሁሉንም መልዕክቶች አሳይ"</string>
+    <string name="delete_messages_confirmation_dialog_title">"የተመረጠው መልእክት ይጥፋ?"</string>
+    <string name="delete_message_fail">"የተመረጠውን መእእክት ማጥፋቱ አልተሳካም!"</string>
+    <string name="have_select_message">"የተመረጠው %1$d"</string>
+    <string name="copy_sim_sms_to_phone">"መልእክቱን ወደ ስልክ መላክ"</string>
+    <string name="simsms_title">"ሲም መልእክትSimSms"</string>
+    <string name="copy_fail">"መቅዳት አልተሳካም!"</string>
+    <string name="add_contact_toast">"እባክዎ በመጀመሪያ እውቂያዎችን ያክሉ።"</string>
+    <string-array name="sort_type">
+        <item>"በሰአት የሚቀንስ "</item>
+        <item>"በሰአት የሚጨምር"</item>
+        <item>"በአድራሻ የሚቀንስ"</item>
+        <item>"በአድራሻ የሚጨምር"</item>
+    </string-array>
+    <string name="shared_attachment_number_exceed">"ከፍተኛው የተጋሩ ዓባሪዎች ብዛት %d ነው፣ ትርፎቹ ይወገዳሉ።"</string>
+</resources>

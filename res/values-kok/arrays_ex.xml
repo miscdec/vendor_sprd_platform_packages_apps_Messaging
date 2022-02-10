@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string-array name="mms_validity_pref_entries">
+<item>"सेट करुंक ना"</item>
+<item>"1 वर"</item>
+<item>"12 वरां"</item>
+<item>"24 वरां"</item>
+<item>"2 दीस"</item>
+<item>"कमाल"</item>
+</string-array>
+<string-array name="sms_validity_pref_entries">
+<item>"सेट करुंक ना"</item>
+<item>"1 वर"</item>
+<item>"12 वरां"</item>
+<item>"24 वरां"</item>
+<item>"2 दीस"</item>
+<item>"कमाल"</item>
+</string-array>
+<string-array name="sms_save_to_sim_pref_entries">
+<item>"एसएमएस sim चेर सेव्ह करपाची प्राथमीकताय आसा"</item>
+<item>"एसएमएस मेसेजींग डेटाबेसात सेव्ह करपाची प्राथमीकताय आसा"</item>
+</string-array>
+</resources>

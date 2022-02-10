@@ -1,0 +1,537 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+    Copyright (C) 2015 The Android Open Source Project
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+         http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
+ -->
+
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name" msgid="3062916848713424329">"​ការ​ផ្ញើ​សារ"</string>
+    <string name="share_intent_label" msgid="6920483598866144717">"ការ​​ផ្ញើ​សារ"</string>
+    <plurals name="num_minutes_ago" formatted="false" msgid="4085627474543076735">
+      <item quantity="other"><xliff:g id="COUNT_1">%d</xliff:g> នាទី</item>
+      <item quantity="one"><xliff:g id="COUNT_0">%d</xliff:g> នាទី</item>
+    </plurals>
+    <plurals name="num_hours_ago" formatted="false" msgid="8010868301590914325">
+      <item quantity="other"><xliff:g id="COUNT_1">%d</xliff:g> ម៉ោង</item>
+      <item quantity="one"><xliff:g id="COUNT_0">%d</xliff:g> ម៉ោង</item>
+    </plurals>
+    <plurals name="num_days_ago" formatted="false" msgid="8753803762044567843">
+      <item quantity="other"><xliff:g id="COUNT_1">%d</xliff:g> ថ្ងៃ</item>
+      <item quantity="one"><xliff:g id="COUNT_0">%d</xliff:g> ថ្ងៃ</item>
+    </plurals>
+    <plurals name="week_count" formatted="false" msgid="1301973226125551953">
+      <item quantity="other"><xliff:g id="COUNT">%d</xliff:g> សប្តាហ៍</item>
+      <item quantity="one">មួយសប្តាហ៍</item>
+    </plurals>
+    <plurals name="month_count" formatted="false" msgid="4858515363324110232">
+      <item quantity="other"><xliff:g id="COUNT">%d</xliff:g> ខែ</item>
+      <item quantity="one">មួយខែ</item>
+    </plurals>
+    <plurals name="year_count" formatted="false" msgid="4522546496183798317">
+      <item quantity="other"><xliff:g id="COUNT">%d</xliff:g> ឆ្នាំ</item>
+      <item quantity="one">មួយឆ្នាំ</item>
+    </plurals>
+    <plurals name="notification_send_failures" formatted="false" msgid="6938919932879650691">
+      <item quantity="other">សារ <xliff:g id="MESSAGES_1">%d</xliff:g> នៅក្នុងការសន្ទនា <xliff:g id="CONVERSATIONS">%d</xliff:g></item>
+      <item quantity="one">សារ <xliff:g id="MESSAGES_0">%d</xliff:g> នៅក្នុងការសន្ទនាមួយ</item>
+    </plurals>
+    <plurals name="notification_download_failures" formatted="false" msgid="5341490525457911398">
+      <item quantity="other">សារ <xliff:g id="MESSAGES_1">%d</xliff:g> នៅក្នុងការសន្ទនា <xliff:g id="CONVERSATIONS">%d</xliff:g></item>
+      <item quantity="one">សារ <xliff:g id="MESSAGES_0">%d</xliff:g> នៅក្នុងការសន្ទនាមួយ</item>
+    </plurals>
+    <plurals name="notification_new_messages" formatted="false" msgid="610594317958128842">
+      <item quantity="other">សារថ្មី <xliff:g id="MESSAGES">%d</xliff:g></item>
+      <item quantity="one">សារថ្មី</item>
+    </plurals>
+    <plurals name="delete_conversations_confirmation_dialog_title" formatted="false" msgid="2285567882353326800">
+      <item quantity="other">លុបការសន្ទនាទាំងនេះ?</item>
+      <item quantity="one">លុបការសន្ទនានេះ?</item>
+    </plurals>
+    <string name="attachment_more_items" msgid="2861573099241369958">"+<xliff:g id="COUNT">%d</xliff:g>"</string>
+    <plurals name="wearable_participant_count" formatted="false" msgid="3037889420270036143">
+      <item quantity="other">អ្នកចូលរួម <xliff:g id="COUNT_1">%d</xliff:g> នាក់</item>
+      <item quantity="one">អ្នកចូលរួម <xliff:g id="COUNT_0">%d</xliff:g> នាក់</item>
+    </plurals>
+    <plurals name="attachment_preview_close_content_description" formatted="false" msgid="5631719319690969981">
+      <item quantity="other">បោះបង់ឯកសារភ្ជាប់</item>
+      <item quantity="one">បោះបង់ឯកសារភ្ជាប់</item>
+    </plurals>
+    <plurals name="photos_saved_to_album" formatted="false" msgid="7529478299745446838">
+      <item quantity="other">បានរក្សាទុករូបថត <xliff:g id="QUANTITY_2">%d</xliff:g> ទៅក្នុងអាល់ប៊ុម \"<xliff:g id="ALBUMNAME_3">%s</xliff:g>\"</item>
+      <item quantity="one">បានរក្សាទុករូបថត <xliff:g id="QUANTITY_0">%d</xliff:g> ទៅក្នុងអាល់ប៊ុម \"<xliff:g id="ALBUMNAME_1">%s</xliff:g>\"</item>
+    </plurals>
+    <plurals name="videos_saved_to_album" formatted="false" msgid="6821121808257576788">
+      <item quantity="other">បានរក្សាទុកវីដេអូ <xliff:g id="QUANTITY_2">%d</xliff:g> ទៅក្នុងអាល់ប៊ុម \"<xliff:g id="ALBUMNAME_3">%s</xliff:g>\"</item>
+      <item quantity="one">បានរក្សាទុកវីដេអូ <xliff:g id="QUANTITY_0">%d</xliff:g> ទៅក្នុងអាល់ប៊ុម \"<xliff:g id="ALBUMNAME_1">%s</xliff:g>\"</item>
+    </plurals>
+    <plurals name="attachments_saved_to_album" formatted="false" msgid="8407480699515308929">
+      <item quantity="other">បានរក្សាទុកឯកសារភ្ជាប់ <xliff:g id="QUANTITY_2">%d</xliff:g> ទៅក្នុងអាល់ប៊ុម \"<xliff:g id="ALBUMNAME_3">%s</xliff:g>\"</item>
+      <item quantity="one">បានរក្សាទុកឯកសារភ្ជាប់ <xliff:g id="QUANTITY_0">%d</xliff:g> ទៅក្នុងអាល់ប៊ុម \"<xliff:g id="ALBUMNAME_1">%s</xliff:g>\"</item>
+    </plurals>
+    <plurals name="attachments_saved_to_downloads" formatted="false" msgid="1886864019411801995">
+      <item quantity="other">បានរក្សាទុកឯកសារភ្ជាប់ <xliff:g id="QUANTITY_1">%d</xliff:g> ទៅក្នុង \"ទាញយក\"</item>
+      <item quantity="one">បានរក្សាទុកឯកសារភ្ជាប់ <xliff:g id="QUANTITY_0">%d</xliff:g> ទៅក្នុង \"ទាញយក\"</item>
+    </plurals>
+    <plurals name="attachments_saved" formatted="false" msgid="6925000482183379648">
+      <item quantity="other">បានរក្សាទុកឯកសារភ្ជាប់ <xliff:g id="QUANTITY_1">%d</xliff:g></item>
+      <item quantity="one">បានរក្សាទុកឯកសារភ្ជាប់ <xliff:g id="QUANTITY_0">%d</xliff:g></item>
+    </plurals>
+    <plurals name="attachment_save_error" formatted="false" msgid="2068837227090109833">
+      <item quantity="other">មិនអាចរក្សាទុកឯកសារភ្ជាប់ <xliff:g id="QUANTITY_1">%d</xliff:g></item>
+      <item quantity="one">មិនអាចរក្សាទុកឯកសារភ្ជាប់ <xliff:g id="QUANTITY_0">%d</xliff:g></item>
+    </plurals>
+    <string name="sms_disabled_pref_title" msgid="6352764741524717132">"កម្មវិធី​ផ្ញើ​សារ SMS ​លំនាំ​ដើម"</string>
+    <string name="sms_enabled_pref_title" msgid="2961457081888153323">"កម្មវិធី​ផ្ញើ​សារ SMS ​លំនាំ​ដើម"</string>
+    <!-- no translation found for default_sms_app (3907546126124760465) -->
+    <skip />
+    <plurals name="compose_message_view_hint_text_photo" formatted="false" msgid="8937589900456604618">
+      <item quantity="other">ផ្ញើរូបថត</item>
+      <item quantity="one">ផ្ញើរូបថត</item>
+    </plurals>
+    <plurals name="compose_message_view_hint_text_audio" formatted="false" msgid="5934090345811195170">
+      <item quantity="other">ផ្ញើសំឡេង</item>
+      <item quantity="one">ផ្ញើសំឡេង</item>
+    </plurals>
+    <plurals name="compose_message_view_hint_text_video" formatted="false" msgid="9188048653766960507">
+      <item quantity="other">ផ្ញើវីដេអូ</item>
+      <item quantity="one">ផ្ញើវីដេអូ</item>
+    </plurals>
+    <plurals name="compose_message_view_hint_text_vcard" formatted="false" msgid="933064969858631242">
+      <item quantity="other">ផ្ញើកាតទំនាក់ទំនង</item>
+      <item quantity="one">ផ្ញើកាតទំនាក់ទំនង</item>
+    </plurals>
+    <plurals name="compose_message_view_hint_text_attachments" formatted="false" msgid="1778518334602418000">
+      <item quantity="other">ផ្ញើឯកសារភ្ជាប់</item>
+      <item quantity="one">ផ្ញើឯកសារភ្ជាប់</item>
+    </plurals>
+    <plurals name="attachment_changed_accessibility_announcement" formatted="false" msgid="5592871135747616108">
+      <item quantity="one">ឯកសារភ្ជាប់មួយត្រៀមសម្រាប់ផ្ញើ</item>
+      <item quantity="other">ឯកសារភ្ជាប់ <xliff:g id="ATTACHMENT_COUNT">%d</xliff:g> ត្រៀមសម្រាប់ផ្ញើ</item>      
+    </plurals>
+    <string name="notification_subject" msgid="5229975483160300625">"<xliff:g id="SUBJECT_LABEL">%s</xliff:g><xliff:g id="MESSAGETEXT">%s</xliff:g>"</string>
+    <plurals name="vcard_multiple_display_name" formatted="false" msgid="2884224435488996028">
+      <item quantity="other">ទំនាក់ទំនង <xliff:g id="COUNT_1">%d</xliff:g></item>
+      <item quantity="one">ទំនាក់ទំនង <xliff:g id="COUNT_0">%d</xliff:g></item>
+    </plurals>
+    <string name="plus_one" msgid="9010288417554932581">"+1"</string>
+    <string name="plus_n" msgid="8961547034116059566">"+%d"</string>
+    <plurals name="add_invalid_contact_error" formatted="false" msgid="782438833843363189">
+      <item quantity="other">ទំនាក់ទំនងមិនត្រឹមត្រូវ</item>
+      <item quantity="one">ទំនាក់ទំនងមិនត្រឹមត្រូវ</item>
+    </plurals>
+    <string name="apn_apn" msgid="1197541953189716999">"APN"</string>
+    <string name="apn_mmsc" msgid="2584154739440281747">"MMSC"</string>
+    <string name="apn_mcc" msgid="8102023058623950736">"MCC"</string>
+    <string name="apn_mnc" msgid="1372437523197012866">"MNC"</string>
+    <string name="widget_title_content_description" msgid="5802836840910466231">"ការផ្ញើសារ"</string>
+    <string name="widget_conversation_name" msgid="3900606239571892871">"ការផ្ញើសារ"</string>
+    <string name="link_display_format" msgid="8700344957248709584">"<xliff:g id="TEXT">%1$s</xliff:g> (<xliff:g id="URL">%2$s</xliff:g>)"</string>
+<string name="share_intent_activity_label">"ជ្រើសរើសការសន្ទនា"</string>
+<string name="action_settings">"ការកំណត់"</string>
+<string name="sendButtonContentDescription">"ផ្ញើសារ"</string>
+<string name="attachMediaButtonContentDescription">"បន្ថែមឯកសារភ្ជាប់"</string>
+<string name="help_and_feedback_activity_label">"ជំនួយ"</string>
+<string name="alarm_message_date">"ជ្រើសរើសកាលបរិច្ឆេទ"</string>
+<string name="alarm_message_time">"ជ្រើសរើសពេលវេលា"</string>
+<string name="alarm_message_setup">កំណត់</string>
+<string name="alarm_message_cancel">បោះបង់</string>
+<string name="welcome">"ស្វាគមន៍"</string>
+<string name="skip">"រំលង"</string>
+<string name="next_with_arrow">"បន្ទាប់ &gt;"</string>
+<string name="next">"បន្ទាប់"</string>
+<string name="exit">"ចាកចេញ"</string>
+<string name="settings_with_arrow">"ការកំណត់ &gt;"</string>
+<string name="settings">"ការកំណត់"</string>
+<string name="required_permissions_promo">"ការផ្ញើរសារត្រូវការសិទ្ធិអនុញ្ញាតចំពោះ SMS ទូរសព្ទ និងទំនាក់ទំនង។"</string>
+<string name="enable_permission_procedure">"អ្នកអាចប្តូរសិទ្ធិអនុញ្ញាតនៅក្នុងការកំណត់ &gt; កម្មវិធី &gt; កម្មវិធីផ្ញើសារ &gt; សិទ្ធិអនុញ្ញាត។"</string>
+<string name="enable_permission_procedure_description">"អ្នកអាចប្តូរសិទ្ធិអនុញ្ញាតនៅក្នុងការកំណត់ កម្មវិធី កម្មវិធីផ្ញើសារ សិទ្ធិអនុញ្ញាត។"</string>
+<string name="contact_picker_frequents_tab_title">"ញឹកញាប់"</string>
+<string name="contact_picker_all_contacts_tab_title">"ទំនាក់ទំនងទាំងអស់"</string>
+<string name="contact_list_send_to_text">"ផ្ញើទៅ <xliff:g id="destination">%s</xliff:g>"</string>
+<string name="mediapicker_cameraChooserDescription">"ចាប់យករូកភាពឬវីដេអូ"</string>
+<string name="mediapicker_galleryChooserDescription">"រើសយករូបពីឧបករណ៍"</string>
+<string name="mediapicker_audioChooserDescription">"ថតសំឡេង"</string>
+<string name="mediapicker_gallery_title">"រើសយករូបភាព"</string>
+<string name="mediapicker_gallery_item_selected_content_description">"ឯកសារមេឌាត្រូវបានជ្រើសរើស។"</string>
+<string name="mediapicker_gallery_item_unselected_content_description">"ឯកសារមេឌាមិនត្រូវបានជ្រើសរើស។"</string>
+<string name="mediapicker_gallery_title_selection">"<xliff:g id="count">%d</xliff:g> បានជ្រើសរើស"</string>
+<string name="mediapicker_gallery_image_item_description">"រូប <xliff:g id="date">%1$tB %1$te %1$tY %1$tl %1$tM %1$tp</xliff:g>"</string>
+<string name="mediapicker_gallery_image_item_description_no_date">"រូបភាព"</string>
+<string name="mediapicker_audio_title">"ថតសំឡេង"</string>
+<string name="action_share">"ចែករំលែក"</string>
+<string name="posted_just_now">"ទើបតែឥឡូវនេះ"</string>
+<string name="posted_now">"ឥឡូវនេះ"</string>
+<string name="class_0_message_activity">"ថ្នាក់រៀន សារ 0"</string>
+<string name="save">រក្សាទុក</string>
+<string name="sms_storage_low_auto_delete_enabled_dialog_text">"ឧបករណ៍មានទំហំផ្ទូកតិច។ កម្មវិធីផ្ញើសារនឹងលុបសារចាស់ៗដោយស្វ័យប្រវត្តិដើម្បីរំដោះទំហំផ្ទុក។"</string>
+<string name="sms_storage_low_title">"ទំហំផ្ទុកកំពុងអស់"</string>
+<string name="sms_storage_low_text">"កម្មវិធីផ្ញើសារមិនអាចផ្ញើឬទទួលសារបានទេ លុះត្រាតែមានទំហំផ្ទុកបន្ថែមលើ​ឧបករណ៍របស់អ្នក។"</string>
+<string name="sms_storage_low_notification_ticker">"ទំហំផ្ទុកសារ SMS ជិតអស់។ អ្នកអាចនឹងត្រូវលុបសារ។"</string>
+<string name="enter_phone_number_title">"បញ្ជាក់លេខទូរសព្ទរបស់អ្នក"</string>
+<string name="enter_phone_number_text">"ជំហានមួយលើកនេះនឹងធានាថា កម្មវិធីផ្ញើសារនឹងបញ្ជូនសារជា​ក្រុមរបស់អ្នក​បានត្រឹមត្រូវ។"</string>
+<string name="enter_phone_number_hint">"លេខទូរសព្ទ"</string>
+<string name="delete_all_media">"លុបសារទាំងអស់ដែលមានឯកសារមេឌា"</string>
+<string name="delete_oldest_messages">"លុបសារដែលយូរជាង <xliff:g id="duration">%s</xliff:g>"</string>
+<string name="auto_delete_oldest_messages">"លុបសារដែលយូរជាង <xliff:g id="duration">%s</xliff:g> ដោយស្វ័យប្រវត្តិ"</string>
+<string name="ignore">"មិនអើពើ"</string>
+<string name="delete_all_media_confirmation">"លុបសារទាំងអស់ដែលមានឯកសារមេឌា?"</string>
+<string name="delete_oldest_messages_confirmation">"លុបសារដែលចាស់ជាង <xliff:g id="duration">%s</xliff:g>?"</string>
+<string name="auto_delete_oldest_messages_confirmation">"លុបសារដែលយូរជាង  <xliff:g id="duration">%s</xliff:g> ហើយបើកមុខងារលុបដោយស្វ័យប្រវត្តិ?"</string>
+<string name="incoming_text_sender_content_description">"<xliff:g id="sender">%s</xliff:g> បាននិយាយ"</string>
+<string name="outgoing_text_sender_content_description">"អ្នកបាននិយាយ"</string>
+<string name="incoming_sender_content_description">"សារពី <xliff:g id="sender">%s</xliff:g>"</string>
+<string name="outgoing_sender_content_description">"អ្នកបានផ្ញើសារមួយ"</string>
+<string name="message_status_sending">"កំពុងផ្ញើ&#8230;"</string>
+<string name="message_status_alarm">"ម៉ោងរោទិ៍ដែលផ្ញើតាមរយៈ"</string>
+<string name="message_status_send_failed">"មិនបានផ្ញើ។ ប៉ះដើម្បីសាកល្បងម្ដងទៀត។"</string>
+<string name="user_not_exist">អ្នកប្រើប្រាស់មិននៅទេ។</string>
+<string name="message_status_send_retrying">"មិនបានផ្ញើ។ ព្យាយាមម្ដងទៀត&#8230;"</string>
+<string name="message_status_resend">"ផ្ញើឡើងវិញឬលុប"</string>
+<string name="message_status_send_failed_emergency_number">"សូមការហៅទូរស័ព្ទជាសំឡេងទៅសេវាសង្គ្រោះបន្ទាន់។ មិនអាចបញ្ជូនសារអត្ថបទរបស់អ្នកបានទេ នៅពេលនេះ។"</string>
+<string name="message_status_failed">"បានបរាជ័យ"</string>
+<string name="message_title_manual_download">"សារ MMS ថ្មីដើម្បីដោនឡូត"</string>
+<string name="message_title_downloading">"សារ MMS ថ្មី"</string>
+<string name="message_title_download_failed">"មិនអាចដោនឡូត"</string>
+<string name="message_status_download_failed">"ប៉ះដើម្បីសាកល្បងម្ដងទៀត"</string>
+<string name="message_status_download">"ប៉ះដើម្បីដោនឡូត"</string>
+<string name="message_status_download_action">"ដោនឡូតឬលុប"</string>
+<string name="message_status_downloading">"កំពុងដោនឡូត&#8230;"</string>
+<string name="message_status_download_error">"សារផុតកំណត់ឬមិនមាន"</string>
+<string name="mms_info">"ទំហំ៖ <xliff:g id="messageSize">%1$s</xliff:g>, ការផុតកំណត់៖ <xliff:g id="messageExpire">%2$s</xliff:g>"</string>
+<string name="invalid_destination">"មិនអាចផ្ញើ។ អ្នកទទួលមិនត្រឹមត្រូវ។"</string>
+<string name="service_not_activated">"សេវាមិនបានបើកដំណើរការលើបណ្ដាញ"</string>
+<string name="service_network_problem">"មិនអាចផ្ញើ ដោយសារបញ្ហាបណ្ដាញ"</string>
+<string name="service_message_not_found">"សារផុតកំណត់ឬមិនមាន"</string>
+<string name="no_subject">"(គ្មាន​ប្រធាន​បទ)"</string>
+<string name="unknown_sender">"មិនស្គាល់អ្នកទទួល"</string>
+<string name="delivered_status_content_description">"បានបញ្ជូន"</string>
+<string name="dl_failure_notification">"មិនអាចទាញយកសារ <xliff:g id="subject">%1$s</xliff:g>ពី<xliff:g id="from">%2$s</xliff:g> បានទេ។"</string>
+<string name="low_memory">"មិនអាចបញ្ចប់ដំណើរការ​មូលដ្ឋានទិន្នន័យ​បាន ដោយសារតែមេម៉ូរីទាប"</string>
+<string name="notification_send_failures_line1_singular">"សារមិនត្រូវបានផ្ញើទេ"</string>
+<string name="notification_send_failures_line1_plural">"សារមួយចំនួនមិនបានផ្ញើនៅក្នុង ការផ្ញើរសារ"</string>
+<string name="notification_download_failures_line1_singular">"សារមិនត្រូវបានទាញយកទេ"</string>
+<string name="notification_download_failures_line1_plural">"សារមួយចំនួនមិនបានដោនឡូតនៅក្នុង ការផ្ញើរសារ"</string>
+<string name="notification_emergency_send_failure_line1">"សារទៅ <xliff:g id="number">%1$s</xliff:g> មិនបានផ្ញើ"</string>
+<string name="notification_emergency_send_failure_line2">" សូមការហៅទូរស័ព្ទជាសំឡេងទៅសេវាសង្គ្រោះបន្ទាន់។ សារ​អត្ថបទរបស់អ្នកទៅ <xliff:g id="number">%1$s</xliff:g> មិនអាចបញ្ជូនបានទេ នៅពេលនេះ។ "</string>
+<string name="start_conversation">"ចាប់ផ្ដើម"</string>
+<string name="camera_error_opening">"មិនមានកាមេរ៉ា"</string>
+<string name="camera_error_unknown">"មិនមានកាមេរ៉ា"</string>
+<string name="camera_error_video_init_fail">"ការចាប់យកវីដេអូមិនមាន"</string>
+<string name="camera_error_storage_fail">"មិនអាចរក្សាឯកសារមេឌា"</string>
+<string name="camera_error_failure_taking_picture">"មិនអាចថតរូប"</string>
+<string name="back">"ត្រឡប់"</string>
+<string name="action_menu_show_archived">"បានទុកក្នុងបណ្ណសារ"</string>
+<string name="action_delete">លុបចោល</string>
+<string name="action_archive">"ទុកក្នុងបណ្ណសារ"</string>
+<string name="action_unarchive">"លុបពីបណ្ណសារ"</string>
+<string name="action_notification_off">"បិទការផ្ដល់ដំណឹង"</string>
+<string name="action_notification_on">បើកការជូរដំណឹង</string>
+<string name="action_add_contact">"បញ្ចូលទំនាក់ទំនង"</string>
+<string name="action_download">"ទាញ​យក"</string>
+<string name="action_send">"ផ្ញើ"</string>
+<string name="action_delete_message">លុបចោល</string>
+<string name="delete_message_confirmation_dialog_title">"លុបសារនេះ?"</string>
+<string name="delete_message_confirmation_dialog_text">"សកម្មភាពនេះមិនអាចលុបចោលបានឡើយ។"</string>
+<string name="delete_message_confirmation_button">លុបចោល</string>
+<string name="delete_conversation_confirmation_button">លុបចោល</string>
+<string name="delete_conversation_decline_button">បោះបង់</string>
+<string name="recipient_hint">"ជូន​ចំពោះ"</string>
+<string name="action_multiselect">"ជ្រើសរើសរូបច្រើន"</string>
+<string name="action_confirm_multiselect">"បញ្ជាក់ជម្រើស"</string>
+<string name="audio_recording_start_failed">"មិនអាចថតអូឌីយ៉ូ។ សូមពិនិត្យសិទ្ធិអនុញ្ញាត ហើយសាកល្បងម្ដងទៀត។"</string>
+<string name="audio_recording_replay_failed">"មិនអាចចាក់អូឌីយ៉ូបាន។ សាកល្បងម្ដងទៀត។"</string>
+<string name="audio_recording_error">"មិនអាចរក្សាទុកអូឌីយ៉ូ។ សាកល្បងម្ដងទៀត។"</string>
+<string name="audio_picker_hint_text">"ចុច​ &amp; ឲ្យ​ជាប់"</string>
+<string name="enumeration_comma">",\u0020"</string>
+<string name="notification_separator">\u0020\u0020</string>
+<string name="notification_ticker_separator">"៖\u0020"</string>
+<string name="notification_space_separator">\u0020\u0020</string>
+<string name="notification_picture">"រូបភាព"</string>
+<string name="notification_audio">"ឃ្លីបអូឌីយ៉ូ"</string>
+<string name="notification_video">"វីដេអូ​"</string>
+<string name="notification_vcard">"កាតទំនាក់ទំនង"</string>
+<string name="notification_download_mms">"ទាញ​យក"</string>
+<string name="notification_reply_via_sms">"ឆ្លើយតបតាម SMS"</string>
+<string name="notification_reply_via_mms">"ឆ្លើយតបតាម MMS"</string>
+<string name="notification_reply_prompt">ឆ្លើយតប</string>
+<string name="unknown_self_participant">"ខ្ញុំ"</string>
+<string name="blocked_toast_message">"ទំនាក់ទំនងត្រូវបានរារាំង &amp; ទុកក្នុងបណ្ណសារ"</string>
+<string name="unblocked_toast_message">"ទំនាក់ទំនងត្រូវបានដោះរារាំង &amp; លុបចេញពីបណ្ណសារ"</string>
+<string name="archived_toast_message">"<xliff:g id="count">%d</xliff:g> ទុកក្នុងបណ្ណសារ"</string>
+<string name="unarchived_toast_message">"<xliff:g id="count">%d</xliff:g> លុបចេញពីបណ្ណសារ"</string>
+<string name="notification_off_toast_message">"ការផ្ដល់ដំណឹងបានបិទ"</string>
+<string name="notification_on_toast_message">"ការផ្ដល់ដំណឹងបានបើក"</string>
+<string name="toast_after_setting_default_sms_app_for_message_send">"បានកំណត់ទាំងអស់។ ប៉ះដើម្បីផ្ញើម្ដងទៀត។"</string>
+<string name="toast_after_setting_default_sms_app">"កម្មវិធីផ្ញើសារត្រូវបានកំណត់ជាកម្មវិធី SMS លំនាំដើមដោយជោគជ័យ។"</string>
+<string name="audio_attachment_content_description">"ការភ្ជាប់នូវអូឌីយ៉ូ"</string>
+<string name="audio_play_content_description">"ចាក់អូឌីយ៉ូភ្ជាប់ជាមួយ"</string>
+<string name="audio_pause_content_description">"ផ្អាក"</string>
+<string name="incoming_message_announcement">"សារពី <xliff:g id="sender">%s</xliff:g>៖ <xliff:g id="message">%s</xliff:g>។"</string>
+<string name="one_on_one_incoming_failed_message_prefix">"សារបរាជ័យពី <xliff:g id="sender">%s</xliff:g>៖ <xliff:g id="message">%s</xliff:g>។ ម៉ោង៖ <xliff:g id="time">%s</xliff:g>។"</string>
+<string name="one_on_one_incoming_successful_message_prefix">"សារពី <xliff:g id="sender">%s</xliff:g>៖ <xliff:g id="message">%s</xliff:g>។ ម៉ោង៖ <xliff:g id="time">%s</xliff:g>។"</string>
+<string name="one_on_one_outgoing_draft_message_prefix">"សារមិនបានផ្ញើទៅ <xliff:g id="contact">%s</xliff:g>៖ <xliff:g id="message">%s</xliff:g>។ ម៉ោង៖ <xliff:g id="time">%s</xliff:g>។"</string>
+<string name="one_on_one_outgoing_sending_message_prefix">"កំពុងផ្ញើសារទៅ <xliff:g id="contact">%s</xliff:g>៖ <xliff:g id="message">%s</xliff:g>។ ម៉ោង៖ <xliff:g id="time">%s</xliff:g>។"</string>
+<string name="one_on_one_outgoing_failed_message_prefix">"បរាជ័យផ្ញើសារទៅ <xliff:g id="contact">%s</xliff:g>៖ <xliff:g id="message">%s</xliff:g>។ ម៉ោង៖ <xliff:g id="time">%s</xliff:g>។"</string>
+<string name="one_on_one_outgoing_successful_message_prefix">"សារទៅ <xliff:g id="contact">%s</xliff:g>៖ <xliff:g id="message">%s</xliff:g>។ ម៉ោង៖ <xliff:g id="time">%s</xliff:g>។"</string>
+<string name="group_incoming_failed_message_prefix">"សារបរាជ័យពី <xliff:g id="sender">%s</xliff:g>៖ <xliff:g id="message">%s</xliff:g>។ ម៉ោង៖ <xliff:g id="time">%s</xliff:g>។ <xliff:g id="groupInfo">%s</xliff:g>។"</string>
+<string name="group_incoming_successful_message_prefix">"សារពី <xliff:g id="sender">%s</xliff:g>៖ <xliff:g id="message">%s</xliff:g>។ ម៉ោង៖ <xliff:g id="time">%s</xliff:g>។ <xliff:g id="groupInfo">%s</xliff:g>។"</string>
+<string name="group_outgoing_draft_message_prefix">"សារមិនបានផ្ញើទៅ <xliff:g id="group">%s</xliff:g>៖ <xliff:g id="message">%s</xliff:g>។ ម៉ោង៖ <xliff:g id="time">%s</xliff:g>។"</string>
+<string name="group_outgoing_sending_message_prefix">"កំពុងផ្ញើសារទៅ <xliff:g id="group">%s</xliff:g>៖ <xliff:g id="message">%s</xliff:g>។ ម៉ោង៖ <xliff:g id="time">%s</xliff:g>។"</string>
+<string name="group_outgoing_failed_message_prefix">"បរាជ័យផ្ញើសារទៅ <xliff:g id="group">%s</xliff:g>៖ <xliff:g id="message">%s</xliff:g>។ ម៉ោង៖ <xliff:g id="time">%s</xliff:g>។"</string>
+<string name="group_outgoing_successful_message_prefix">"សារទៅ <xliff:g id="group">%s</xliff:g>៖ <xliff:g id="message">%s</xliff:g>។ ម៉ោង៖ <xliff:g id="time">%s</xliff:g>។"</string>
+<string name="failed_message_content_description">"សារបរាជ័យ។ ប៉ះដើម្បីសាកល្បងឡើងវិញ។"</string>
+<string name="group_conversation_description">"ការសន្ទនាជាមួយ <xliff:g id="participants">%s</xliff:g>"</string>
+<string name="delete_subject_content_description">"លុបកម្មវត្ថុ"</string>
+<string name="camera_switch_to_video_mode">"ថតវីដេអូ"</string>
+<string name="camera_switch_to_still_mode">"ចាប់យករូបភាពនៅនឹង"</string>
+<string name="camera_take_picture">"ថតរូប"</string>
+<string name="camera_start_recording">"ចាប់ផ្ដើមថតវិដេអូ"</string>
+<string name="camera_switch_full_screen">"ប្ដូរទៅកាមេរ៉ាពេញអេក្រង់"</string>
+<string name="camera_switch_camera_facing">"ប្ដូររវាងកាមេរ៉ាមុខនិងក្រោយ"</string>
+<string name="camera_stop_recording">"បញ្ចប់ការថត ហើយភ្ជាប់វិដេអូ"</string>
+<string name="camera_cancel_recording">"បញ្ចប់ការថតវីដេអូ"</string>
+<string name="photo_view_activity_title">"កំពុងផ្ញើសាររូបភាព"</string>
+<string name="attachment_file_description">"ការភ្ជាប់ MMS ដែលបានរក្សាទុក"</string>
+<string name="settings_activity_title">"ការកំណត់"</string>
+<string name="archived_activity_title">"បានទុកក្នុងបណ្ណសារ"</string>
+<string name="action_close">បិទ</string>
+<string name="mms_messaging_category_pref_title">"MMS"</string>
+<string name="advanced_category_pref_title">"បានដំណើរការ"</string>
+<string name="debug_category_pref_title">"កែកំហុស"</string>
+<string name="notifications_enabled_pref_title">"ការ​ជូន​ដំណឹង"</string>
+<string name="notification_sound_pref_title">"សំឡេង"</string>
+<string name="silent_ringtone">"ស្ងាត់"</string>
+<string name="notification_vibrate_pref_title">"ញ័រ"</string>
+<string name="blocked_pref_title">"បានរារាំង"</string>
+<string name="send_reports_pref_title">"SMS ផ្ញើរបាយការណ៍ចេញ"</string>
+<string name="send_reports_pref_summary">"ស្នើសុំរបាយការណ៍ផ្ញើសម្រាប់រាល់SMSដែកលោកអ្នកផ្ញើ"</string>
+<string name="delivery_reports_pref_title">"របាយការណ៍បញ្ជូន SMS"</string>
+<string name="delivery_reports_pref_summary">"ស្នើសុំរបាយការណ៍បញ្ជូន សម្រាប់សារដែលអ្នកផ្ញើ"</string>
+<string name="auto_retrieve_mms_pref_title">"ទាញយកដោយស្វ័យប្រវត្តិ"</string>
+<string name="auto_retrieve_mms_pref_summary">"យកមកវិញដោយស្វ័យប្រវត្តិនូវសារ MMS"</string>
+<string name="auto_retrieve_mms_when_roaming_pref_title">"ការទាញយកសារស្វ័យប្រវត្តិពេលរ៉ូមីង"</string>
+<string name="auto_retrieve_mms_when_roaming_pref_summary">"យកមកវិញដោយស្វ័យប្រវត្តិនូវ MMS ពេលប្រើសេវារ៉ូមីង"</string>
+<string name="group_mms_pref_title">"ការផ្ញើសារជាក្រុម"</string>
+<string name="group_mms_pref_summary">"ប្រើសារ MMS ដើម្បីផ្ញើសារតែមួយពេលមានអ្នកទទួលច្រើននាក់"</string>
+<string name="mms_phone_number_pref_title">"​​លេខទូរសព្ទរបស់អ្នក"</string>
+<string name="unknown_phone_number_pref_display_value">មិនស្គាល់</string>
+<string name="send_sound_pref_title">"សំលេងផ្ញើសារចេញ"</string>
+<string name="dump_sms_pref_title">"ចោល SMS"</string>
+<string name="dump_sms_pref_summary">"ចោលទីន្នន័យ SMS ដើមដែលបានទទួលទៅក្នុងឯកសារអង្គផ្ទុកខាងក្រៅ"</string>
+<string name="dump_mms_pref_title">"ចោល MMS"</string>
+<string name="dump_mms_pref_summary">"ចោលទីន្នន័យ MMS ដើមដែលបានទទួលទៅក្នុងឯកសារអង្គផ្ទុកខាងក្រៅ"</string>
+<string name="wireless_alerts_title">"ការព្រមានគ្មានខ្សែ"</string>
+<string name="message_context_menu_title">"ជម្រើសសារ"</string>
+<string name="message_context_menu_copy_text">"ចម្លងអត្ថបទ"</string>
+<string name="message_context_menu_view_details">"មើល​ព័ត៌មាន​លម្អិត"</string>
+<string name="message_context_menu_delete_message">លុបចោល</string>
+<string name="message_context_menu_forward_message">ទៅមុខ</string>
+<string name="message_details_title">"ព័ត៌មានលម្អិតអំពីសារ"</string>
+<string name="message_type_label">"ប្រភេទ៖\u0020"</string>
+<string name="text_message">"សារជាអក្សរ"</string>
+<string name="multimedia_message">"សារពហុមេឌៀ"</string>
+<string name="from_label">"ពី៖\u0020"</string>
+<string name="to_address_label">"ជូនចំពោះ៖\u0020"</string>
+<string name="sent_label">"បានផ្ញើ៖\u0020"</string>
+<string name="received_label">"បានទទួល៖\u0020"</string>
+<string name="subject_label">"ប្រធានបទ៖\u0020"</string>
+<string name="message_size_label">"ទំហំ៖\u0020"</string>
+<string name="priority_label">"អាទិភាព៖\u0020"</string>
+<string name="sim_label">"ស៊ីម៖\u0020"</string>
+<string name="priority_high">ខ្ពស់</string>
+<string name="priority_normal">ប្រក្រតី</string>
+<string name="priority_low">ទាប</string>
+<string name="sim_slot_identifier">"ស៊ីម <xliff:g id="sim_slot_number">%s</xliff:g>"</string>
+<string name="hidden_sender_address">"អាសយដ្ឋានអ្នកផ្ញើដែលលាក់"</string>
+<string name="cant_send_message_while_loading_attachments">"មិនអាចផ្ញើសារ ខណៈពេលកំពុងបើកឯកសារភ្ជាប់បានឡើយ"</string>
+<string name="fail_to_load_attachment">"មិនអាចបើកឯកសារភ្ជាប់។ សាកល្បងម្ដងទៀត។"</string>
+<string name="cant_send_message_without_active_subscription">"បណ្ដាញមិនទាន់រួចរាល់។ សាកល្បងម្ដងទៀត។"</string>
+<string name="chips_text_delete_button_content_description">"លុបអត្ថបទ"</string>
+<string name="numeric_text_keyboard_toggle_button_content_description">"ប្ដូររវាងបញ្ចូលអត្ថបទនិងលេខ"</string>
+<string name="add_more_participants_button_content_description">"បញ្ចូលអ្នកចូលរួមថែម"</string>
+<string name="confrim_participants_button_content_description">"បញ្ជាក់អ្នកចូលរួម"</string>
+<string name="start_new_conversation">"ចាប់ផ្ដើមការសន្ទនាថ្មី"</string>
+<string name="gallery_checkbox_content_description">"ជ្រើសរើសជម្រើសនេះ"</string>
+<string name="video_thumbnail_view_play_button_content_description">"ចាក់វីដេអូ"</string>
+<string name="action_people_and_options">"ជម្រើស &amp; មនុស្ស"</string>
+<string name="action_debug_options">"កែកំហុស"</string>
+<string name="people_and_options_activity_title">"ជម្រើស &amp; មនុស្ស"</string>
+<string name="general_settings_title">"ទូទៅ"</string>
+<string name="participant_list_title">"មនុស្សនៅក្នុងការសន្ទនានេះ"</string>
+<string name="action_call">"ធ្វើការហៅទូរស័ព្ទ"</string>
+<string name="compose_message_view_hint_text">"ផ្ញើសារ"</string>
+<string name="compose_message_view_hint_text_multi_sim">"ផ្ញើសារ<br/><small>មកពី <xliff:g id="sim_name">%s</xliff:g></small>"</string>
+<string name="menu_send_feedback">"ផ្ញើយោបល់"</string>
+<string name="menu_view_in_store">"មើលក្នុង Google Play Store"</string>
+<string name="menu_version_info">"ពត៍មានពីកំណែ"</string>
+<string name="subtitle_format_for_version_number">"កំណែ %1$s"</string>
+<string name="menu_license">"បើកអាជ្ញាបណ្ណប្រភព"</string>
+<string name="notifications_enabled_conversation_pref_title">"ការ​ជូន​ដំណឹង"</string>
+<string name="mms_attachment_limit_reached">"ដល់ព្រំដែនកម្រិតភ្ជាប់ឯកសារ"</string>
+<string name="mms_attachment_load_failed">"បាន​បរាជ័យ​ក្នុង​ការបើកឯកសារភ្ជាប់។"</string>
+<string name="add_contact_confirmation_dialog_title">បន្ថែមចូលក្នុងអ្នកទំនាក់ទំនង</string>
+<string name="add_contact_confirmation">"បញ្ចូលទំនាក់ទំនង"</string>
+<string name="compose_message_view_subject_hint_text">"ប្រធានបទ"</string>
+<string name="conversation_message_view_subject_text">"ប្រធានបទ៖\u0020"</string>
+<string name="loading_vcard">"កំពុងបើកកាតទំនាក់ទំនង"</string>
+<string name="failed_loading_vcard">"មិនអាចបើកកាតទំនាក់ទំនង"</string>
+<string name="vcard_tap_hint">"មើលកាតទំនាក់ទំនង "</string>
+<string name="vcard_detail_activity_title">"កាតទំនាក់ទំនង"</string>
+<string name="vcard_detail_birthday_label">"ថ្ងៃកំណើត"</string>
+<string name="vcard_detail_notes_label">"ចំណាំ"</string>
+<string name="forward_message_activity_title">"បញ្ជូនបន្តសារ"</string>
+<string name="reply_activity_title">ឆ្លើយតប</string>
+<string name="sms_disabled">"SMSត្រូវបានបិទប្រើ"</string>
+<string name="requires_default_sms_app_to_send">"ដើម្បីផ្ញើសារ ចូរកំណត់កម្មវិធីផ្ញើសារជាកម្មវិធី SMS លំនាំដើម"</string>
+<string name="requires_default_sms_app">"កំណត់កម្មវិធីផ្ញើសារជាកម្មវិធី SMS លំនាំដើម"</string>
+<string name="requires_default_sms_change_button">"ប្ដូរ"</string>
+<string name="recommend_set_default_sms_app">"ដើម្បីទទួលសារ ចូរកំណត់កម្មវិធីផ្ញើសារជាកម្មវិធី SMS លំនាំដើម"</string>
+<string name="no_preferred_sim_selected">"មិនមានស៊ីមអាទិភាពត្រូវបានជ្រើសរើសសម្រាប់ផ្ញើសារ SMS ឡើយ"</string>
+<string name="requires_sms_permissions_message">"កម្មវិធីនេះមិនត្រូវបានអនុញ្ញាតដោយម្ចាស់ឧបករណ៍ឡើយ។"</string>
+<string name="requires_sms_permissions_close_button">យល់ព្រម</string>
+<string name="too_many_participants">"អ្នកចូលរួមច្រើនពេកនៅក្នុងការសន្ទនាមួយ"</string>
+<string name="camera_media_failure">"មិនអាចបើករូបភាពកាមេរ៉ា"</string>
+<string name="conversation_list_item_view_sent_from_you_prefix">"អ្នក៖\u0020"</string>
+<string name="conversation_list_item_view_sent_from_other_prefix">"<xliff:g id="firstNameOfSender">%s</xliff:g>៖\u0020"</string>
+<string name="conversation_list_item_view_draft_message">"សេចក្ដី​ព្រាង"</string>
+<string name="conversation_list_empty_text">"នៅពេលអ្នកចាប់ផ្តើមការសន្ទនាថ្មី អ្នកនឹងឃើញវានៅទីនេះ"</string>
+<string name="archived_conversation_list_empty_text">"ការសន្ទនាដែលបានទុកក្នុងបណ្ណសារមាននៅទីនេះ"</string>
+<string name="conversation_list_first_sync_text">"កំពុងបើកការសន្ទនា&#8230;"</string>
+<string name="conversation_list_snippet_picture">"រូបភាព"</string>
+<string name="conversation_list_snippet_audio_clip">"ឃ្លីបអូឌីយ៉ូ"</string>
+<string name="conversation_list_snippet_video">"វីដេអូ​"</string>
+<string name="conversation_list_snippet_vcard">"កាតទំនាក់ទំនង"</string>
+<string name="mms_text">"MMS"</string>
+<string name="snack_bar_undo">ត្រឡប់ទៅភាពដើម </string>
+<string name="snack_bar_retry">"ព្យាយាមម្ដងទៀត"</string>
+<string name="contact_list_empty_text">"បញ្ចូលឈ្មោះទំនាក់ទំនងឬលេខទូរស័ព្ទ ដើម្បីចាប់ផ្ដើមសារថ្មី"</string>
+<string name="action_block">"ទប់ស្កាត់"</string>
+<string name="block_contact_title">"រារាំង <xliff:g id="destination">%s</xliff:g>"</string>
+<string name="unblock_contact_title">"ដោះរារាំង <xliff:g id="destination">%s</xliff:g>"</string>
+<string name="block_confirmation_title">"ទប់ស្កាត់ <xliff:g id="destination">%s</xliff:g>?"</string>
+<string name="block_confirmation_message">"អ្នកនឹងបន្តទទួលសារពីលេខនេះ ប៉ុន្តែនឹងមិនត្រូវបានជូនដំណឹងទៀតទេ។ ការសន្ទនានេះនឹងត្រូវបានទុកក្នុងបណ្ណសារ។"</string>
+<string name="blocked_contacts_title">"ទំនាក់ទំនងបានរារាំង"</string>
+<string name="tap_to_unblock_message">លុបចោលការប្លុក</string>
+<string name="view_blocked_contacts_title">"ទំនាក់ទំនងបានរារាំង"</string>
+<string name="pick_image_from_document_library_content_description">"ជ្រើសរើសរូបពីបណ្ណាល័យឯកសារ"</string>
+<string name="sending_message">"កំពុងផ្ញើសារ"</string>
+<string name="send_message_success">"សារបានផ្ញើ"</string>
+<string name="send_message_failure_no_data">"ទិន្នន័យចល័តត្រូវបានបិទ។ ពិនិត្យការកំណត់របស់អ្នក។"</string>
+<string name="send_message_failure_airplane_mode">"មិនអាចផ្ញើសារពេលបើកមុខងារហោះហើរ"</string>
+<string name="assistant_card_not_allow_for_mms">"មិនអាចផ្ញើសារសម្រាប់ប័ណ្ណជំនួយបានទេ"</string>
+<string name="send_message_failure">"មិនអាចផ្ញើសារបាន"</string>
+<string name="download_message_success">"សារបានដោនឡូត"</string>
+<string name="download_message_failure_no_data">"ទិន្នន័យចល័តត្រូវបានបិទ។ ពិនិត្យការកំណត់របស់អ្នក។"</string>
+<string name="download_message_failure_airplane_mode">"មិនអាចដោនឡូតសារពេលបើកមុខងារហោះហើរ"</string>
+<string name="download_message_failure">"មិនអាចដោនឡូតសារបាន"</string>
+<string name="content_description_for_number_zero">"សូន្យ"</string>
+<string name="content_description_for_number_one">"មួយ"</string>
+<string name="content_description_for_number_two">"ពីរ"</string>
+<string name="content_description_for_number_three">"បី"</string>
+<string name="content_description_for_number_four">"បួន"</string>
+<string name="content_description_for_number_five">"ប្រាំ"</string>
+<string name="content_description_for_number_six">"ប្រាំមួយ"</string>
+<string name="content_description_for_number_seven">"ប្រាំពីរ"</string>
+<string name="content_description_for_number_eight">"ប្រាំបី"</string>
+<string name="content_description_for_number_nine">"ប្រាំបួន"</string>
+<string name="carrier_send_error">"មិនអាចផ្ញើសារដែលមាន <xliff:g id="carrierName">%1$s</xliff:g>, កំហុស <xliff:g id="errorCode">%2$d</xliff:g>"</string>
+<string name="carrier_send_error_unknown_carrier">"មិនអាចផ្ញើសារដែលមិនស្គាល់សេវាបញ្ជុន កំហុស <xliff:g id="errorCode">%1$d</xliff:g>"</string>
+<string name="message_fwd">"បញ្ជូនបន្ត៖ <xliff:g id="subject">%s</xliff:g>"</string>
+<string name="mms_failure_outgoing_service">"សារមិនបានផ្ញើ៖ សេវាមិនបានបើកដំណើរការលើបណ្ដាញ"</string>
+<string name="mms_failure_outgoing_address">"សារមិនបានផ្ញើ៖ អាសយដ្ឋានគោលដៅមិនត្រឹមត្រូវ"</string>
+<string name="mms_failure_outgoing_corrupt">"សារមិនបានផ្ញើ៖ សារមិនត្រឹមត្រូវ"</string>
+<string name="mms_failure_outgoing_content">"សារមិនបានផ្ញើ៖ មាតិកាមិនគាំទ្រ"</string>
+<string name="mms_failure_outgoing_unsupported">"សារមិនបានផ្ញើ៖ សារមិនគាំទ្រ"</string>
+<string name="mms_failure_outgoing_too_large">"សារមិនបានផ្ញើ៖ ធំពេក"</string>
+<string name="in_conversation_notify_new_message_text">"សារថ្មី"</string>
+<string name="in_conversation_notify_new_message_action">មើល</string>
+<string name="message_image_content_description">"រូបភាព"</string>
+<string name="activity_not_found_message">"មិនអាចស្វែងរកកម្មវិធីសមស្រប"</string>
+<string name="chips_delete_content_description">"លុបអ្នកទទួល"</string>
+<string name="share_new_message">"សារថ្មី"</string>
+<string name="share_cancel">បោះបង់</string>
+<string name="apn_edit">"កែតម្រូវចំណុចចូលដំណើរការ"</string>
+<string name="apn_not_set">"មិនកំណត់"</string>
+<string name="apn_name">"ឈ្មោះ"</string>
+<string name="apn_mms_proxy">"ប្រុកស៊ី MMS"</string>
+<string name="apn_mms_port">"ផត MMS"</string>
+<string name="apn_type">"ប្រភេទ APN"</string>
+<string name="menu_delete_apn">"លុប APN"</string>
+<string name="menu_new_apn">"APN ថ្មី"</string>
+<string name="menu_save_apn">រក្សាទុក</string>
+<string name="menu_discard_apn_change">"បោះបង់"</string>
+<string name="error_apn_name_empty">"ផ្នែកឈ្មោះមិនអាចឱ្យចំហរទទេបានឡើយ។"</string>
+<string name="error_apn_empty">"APN មិនអាចឱ្យចំហរទទេបានឡើយ។"</string>
+<string name="error_mcc_not3">"ផ្នែក MCC ត្រូវតែមាន ៣ តួ។"</string>
+<string name="error_mnc_not23">"ផ្នែក MCC ត្រូវតែមាន ២ ឬ ៣ តួ។"</string>
+<string name="restore_default_apn">"ស្ដារការកំណត់ APN លំនាំដើម។"</string>
+<string name="menu_restore_default_apn">"កំណត់ទៅលំនាំដើមវិញ"</string>
+<string name="restore_default_apn_completed">"កំណត់ការកំណត់ APN លំនាំដើមបានបញ្ចប់។"</string>
+<string name="untitled_apn">"មិនមានចំណងជើង"</string>
+<string name="sms_apns_title">ឈ្មោះនៃចំណុចតភ្ជាប់</string>
+<string name="apn_settings">"APN"</string>
+<string name="menu_new">"APN ថ្មី"</string>
+<string name="apn_settings_not_available">"​ការ​កំណត់ឈ្មោះចំណុចចូលដំណើរការ​មិនមានទេ​សម្រាប់​អ្នក​ប្រើប្រាស់​នេះ"</string>
+<string name="copy_to_clipboard_dialog_title">"ចម្លងដាក់លើឃ្លឹបបដ?"</string>
+<string name="copy_to_clipboard">ចម្លង</string>
+<string name="incoming_sim_name_text">"ទៅ <xliff:g id="sim_name">%s</xliff:g>"</string>
+<string name="general_settings">"ទូទៅ"</string>
+<string name="advanced_settings">"បានដំណើរការ"</string>
+<string name="general_settings_activity_title">ការកំណត់ជាទួទៅ</string>
+<string name="advanced_settings_activity_title">"បានដំណើរការការកំណត់"</string>
+<string name="sim_specific_settings">"\"<xliff:g id="sim_name">%s</xliff:g>\" ស៊ីម"</string>
+<string name="disable_group_mms">"ផ្ញើសារ SMS ដោយឡែកទៅអ្នកទទួលទាំងអស់។ មានតែអ្នកប៉ុណ្ណោះដែលនឹងទទួលបានការឆ្លើយតប"</string>
+<string name="enable_group_mms">"ផ្ញើសារ MMS តែមួយទៅអ្នកទទួលទាំងអស់"</string>
+<string name="sim_settings_unknown_number">"លេខមិនស្គាល់"</string>
+<string name="secondary_user_new_message_title">"សារថ្មី"</string>
+<string name="secondary_user_new_message_ticker">"សារថ្មី។"</string>
+<string name="sim_selector_button_content_description">"កម្មវិធីរើសស៊ីម"</string>
+<string name="sim_selector_button_content_description_with_selection">"<xliff:g id="sim">%1$s</xliff:g> មិនបានរើស, កម្មវិធីរើសស៊ីម"</string>
+<string name="send_button_long_click_description_no_sim_selector">"កែតម្រូវកម្មវត្ថុ"</string>
+<string name="send_button_long_click_description_with_sim_selector">"រើសស៊ីម ឬកែតម្រូវកម្មវត្ថុ"</string>
+<string name="audio_record_view_content_description">"ប៉ះឱ្យជាប់ដើម្បីថតអូឌីយ៉ូ"</string>
+<string name="widget_new_conversation_content_description">"ចាប់ផ្ដើមការសន្ទនាថ្មី"</string>
+<string name="widget_conversation_list_name">"បញ្ជីផ្ញើសារ"</string>
+<string name="widget_new_message_content_description">"សារថ្មី"</string>
+<string name="widget_conversation_list_content_description">"បញ្ជីការសន្ទនា"</string>
+<string name="loading_conversations">"កំពុងបើកការសន្ទនា"</string>
+<string name="loading_messages">"កំពុងបើកសារ"</string>
+<string name="view_more_conversations"> ឆែករកមើលការសន្ទនាច្រើនទៀត</string>
+<string name="view_more_messages">"បើកមើលសារថែម"</string>
+<string name="conversation_deleted">"ការសន្ទនាត្រូវបានលុប"</string>
+<string name="tap_to_configure">"ការសន្ទនាត្រូវបានលុប។ ប៉ះដើម្បីបង្ហាញការសន្ទនាតាមសារផ្សេង"</string>
+<string name="update_destination_blocked">"បានរារាំង"</string>
+<string name="update_destination_unblocked">"បានដោះរារាំង "</string>
+<string name="db_full">"ទំហំផ្ទុកទាប។ អាចនឹងបាត់ទិន្នន័យមួយចំនួន។"</string>
+<string name="attachment_chooser_activity_title">"ជ្រើសរើសឯកសារភ្ជាប់"</string>
+<string name="action_confirm_selection">"បញ្ជាក់ជម្រើស"</string>
+<string name="attachment_chooser_selection">"<xliff:g id="count">%d</xliff:g> បានជ្រើសរើស"</string>
+<string name="attachment_limit_reached_dialog_message_when_composing">"សូមលុបឯកសារភ្ជាប់មួយឬច្រើន ហើយព្យាយាមម្តងទៀត។"</string>
+<string name="attachment_limit_reached_dialog_message_when_sending">"អ្នកអាចសាកល្បងផ្ញើរសាររបស់អ្នក ប៉ុន្តែវាប្រហែលជាមិនត្រូវបានបញ្ជូនទេ លុះត្រាតែអ្នកលុបឯកសារភ្ជាប់មួយឬច្រើនចេញ។"</string>
+<string name="video_attachment_limit_exceeded_when_sending">"អ្នកអាចផ្ញើវីដេអូបានត្រឹមតែមួយប៉ុណ្ណោះក្នុងមួយសារ។ សូមលុបវីដេអូបន្ថែម ហើយសាកល្បងម្ដងទៀត។"</string>
+<string name="attachment_load_failed_dialog_message">"កម្មវិធីផ្ញើសារបាន​បរាជ័យ​ក្នុង​ការបើកឯកសារភ្ជាប់។"</string>
+<string name="attachment_limit_reached_send_anyway">"ផ្ញើតែម្ដង"</string>
+<string name="conversation_creation_failure">"មិនអាចចាប់ផ្ដើមការសន្ទនា"</string>
+<string name="selected_sim_content_message">"<xliff:g id="selected_sim">%s</xliff:g> បានជ្រើសរើស"</string>
+<string name="empty_msg">សារទទេ</string>
+<string name="send_empty_msg">លោកអ្នកចង់ផ្ញើសារទទេឬ?</string>
+<string name="yes">"បាទ/ចាស"</string>
+<string name="no">បោះបង់</string>
+<string name="donotset_time_before_now">"មិនអាចកំណត់ពេលវេលាមុនពេលឥឡូវទេ"</string>
+<string name="please_reset_time">"អស់ពេលហើយ សូមកំណត់ម៉ោងរោទិ៍ឡើងវិញ"</string>
+<string name="please_set_date">"សូមបញ្ចូលកាលបរិច្ឆេទ"</string>
+<string name="please_set_time">"សូមកំណត់ពេលវេលា"</string>
+<string name="audio_format_unknow">"មិនស្គាល់ទម្រង់សំឡេងនេះទេ"</string>
+</resources>

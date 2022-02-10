@@ -1,0 +1,493 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="share_intent_activity_label">"ཁ་བརྡ་འདམ།"</string>
+<string name="action_settings">སྒྲིག་འགོད།</string>
+<string name="sendButtonContentDescription">"ཆ་འཕྲིན་སྐུར།"</string>
+<string name="attachMediaButtonContentDescription">"ཟུར་བཏགས་འདམ།"</string>
+<string name="help_and_feedback_activity_label">རོགས་རམ།</string>
+<string name="welcome">"བེད་སྤྱོད་བྱེད་པར་དགའ་བསུ་ཞུ།"</string>
+<string name="skip">"བསྡུས། "</string>
+<string name="next_with_arrow">"གོམ་པ་རྗེས་མ། &amp;gt;"</string>
+<string name="next">"ཤོག་ལྷེ་རྗེས་མ།"</string>
+<string name="exit">"ཕྱིར་ཐོན།"</string>
+<string name="settings_with_arrow">"སྒྲིག་འགོད། &amp;gt;"</string>
+<string name="settings">སྒྲིག་འགོད།</string>
+<string name="required_permissions_promo">"འཕྲིན་ཐུང་ཉེར་སྤྱོད་ལ་འཕྲིན་ཐུང་དང་ཁ་པར་དང་འབྲེལ་གཏུག་འདྲི་གཏུག་དབང་ཚད་དགོས།"</string>
+<string name="enable_permission_procedure">"སྒྲིག་འགོད།&amp;gt;ཉེར་སྤྱོད། &amp;gt;འཕྲིན་ཐུང་།&amp;gt;དབང་ཚད། ཁྱེད་ཀྱིས་དབང་ཚད་སྒྱུར་དགོས།"</string>
+<string name="enable_permission_procedure_description">"ཁྱེད་ཀྱིས་སྒྲིག་འགོད། ཉེར་སྤྱོད། འཕྲིན་ཐུང་། དབང་ཚད་ནང་དུ་དབང་ཚད་སྒྱུར་དགོས།"</string>
+<string name="contact_picker_frequents_tab_title">"རྒྱུན་བཀོལ་འབྲེལ་གཏུག"</string>
+<string name="contact_picker_all_contacts_tab_title">འབྲེལ་གཏུག་པ་ཡོད་ཚད།</string>
+<string name="contact_list_send_to_text">"<xliff:g id="destination">%s</xliff:g> ལ་སྐུར།"</string>
+<string name="mediapicker_cameraChooserDescription">"པར་ལེན་དང་བརྙན་འཛིན།"</string>
+<string name="mediapicker_galleryChooserDescription">"སྒྲིག་ཆས་འདིའི་སྟེང་གི་པར་རིས་འདམ།"</string>
+<string name="mediapicker_audioChooserDescription">"སྒྲ་ཕབ།"</string>
+<string name="mediapicker_gallery_title">འདྲ་པར་འདམ།</string>
+<string name="mediapicker_gallery_item_selected_content_description">"སྨྱན་པོ་འདི་བདམས་ཟིན།"</string>
+<string name="mediapicker_gallery_item_unselected_content_description">"སྤྱན་པོ་འདི་བདམས་པ་དོར་ཟིན།"</string>
+<string name="mediapicker_gallery_title_selection">"<xliff:g id="count">%d</xliff:g> བདམས་ཟིན།"</string>
+<string name="mediapicker_gallery_image_item_description">"འདྲ་པར <xliff:g id="date">%1$tB %1$te %1$tY %1$tl %1$tM %1$tp</xliff:g> "</string>
+<string name="mediapicker_gallery_image_item_description_no_date">པར་རིས།</string>
+<string name="mediapicker_audio_title">"སྒྲ་ཕབ།"</string>
+<string name="action_share">མཉམ་སྤྱོད།</string>
+<string name="posted_just_now">"ད་ཅི་།"</string>
+<string name="posted_now">"ད་ཅི་།"</string>
+<plurals name="num_minutes_ago">
+<item quantity="one">"སྐར་མ <xliff:g id="count">%d</xliff:g> "</item>
+<item quantity="other">"སྐར་མ <xliff:g id="count">%d</xliff:g> "</item>
+</plurals>
+<plurals name="num_hours_ago">
+<item quantity="one">"དུས་ཚོད <xliff:g id="count">%d</xliff:g> "</item>
+<item quantity="other">"དུས་ཚོད་  <xliff:g id="count">%d</xliff:g> "</item>
+</plurals>
+<plurals name="num_days_ago">
+<item quantity="one">"ཉིན <xliff:g id="count">%d</xliff:g> "</item>
+<item quantity="other">"ཉིན <xliff:g id="count">%d</xliff:g> "</item>
+</plurals>
+<plurals name="week_count">
+<item quantity="one">"གཟའ་འཁོར1"</item>
+<item quantity="other">"གཟའ་འཁོར <xliff:g id="count">%d</xliff:g> "</item>
+</plurals>
+<plurals name="month_count">
+<item quantity="one">"ཟླ་བ1"</item>
+<item quantity="other">"ཟླ་བ <xliff:g id="count">%d</xliff:g> "</item>
+</plurals>
+<plurals name="year_count">
+<item quantity="one">"ལོ1"</item>
+<item quantity="other">"ལོ <xliff:g id="count">%d</xliff:g> "</item>
+</plurals>
+<string name="class_0_message_activity">"རིམ་པ 0 འཕྲིན་ཐུང་།"</string>
+<string name="save">ཉར་ཚགས།</string>
+<string name="sms_storage_low_auto_delete_enabled_dialog_text">"སྒྲིག་ཆས་སྟོང་ཆ་མི་འདང་། འཕྲིན་ཐུང་གིས་རང་འགུལ་གྱིས་ཆ་འཕྲིན་རྙིང་བ་བསུབས་ནས་གསོག་ཆས་སྟོང་ཆ་སྐྱེད།"</string>
+<string name="sms_storage_low_title">གསོག་ཉར་བྱེད་པའི་སྟོང་ཆ་མི་འདང་། </string>
+<string name="sms_storage_low_text">"ཁྱེད་ཀྱི་སྒྲིག་ཆས་སྟེང་དུ་དེ་ལས་མང་བའི་སྤྱོད་འཐུས་སྟོང་ཆ་སྐྱེད་ཐུབ་པ་མ་གཏོགས། དེ་ལས་ཟློག་ན་འཕྲིན་ཐུང་གིས་ཆ་འཕྲིན་སྡུད་གཏོང་བྱེད་མི་ཐུབ།"</string>
+<string name="sms_storage_low_notification_ticker">"འཕྲིན་ཐུང་གསོག་ཆས་སྟོང་ཆ་མི་འདང་། འཕྲིན་ཐུང་འགའ་ཤས་གསུབ་དགོས་འདུག"</string>
+<string name="enter_phone_number_title">"ཁྱེད་ཀྱི་ཁ་པར་ཨང་གྲངས་འཁེལ་ལེན་བྱེད་རོགས།"</string>
+<string name="enter_phone_number_text">"གོམ་སྟབས་གཅིག་པུ་ལག་བསྟར་བྱས་པར་བསྟེན་ནས་འཕྲིན་ཐུང་གིས་ཁྱེད་ཀྱི་ཁྱུ་སྐུར་ཆ་འཕྲིན་སྐུར་བ་ཁག་ཐེག་བྱེད།"</string>
+<string name="enter_phone_number_hint">ཁ་པར་ཨང་གྲངས།</string>
+<string name="delete_all_media">"སྤྱན་པོ་འདུས་པའི་ཆ་འཕྲིན་མཐའ་དག་སུབ།"</string>
+<string name="delete_oldest_messages">" <xliff:g id="duration">%s</xliff:g> དེང་སྔོན་གྱི་ཆ་འཕྲིན་སུབ།"</string>
+<string name="auto_delete_oldest_messages">"<xliff:g id="duration">%s</xliff:g> ལས་བརྒལ་བའི་ཆ་འཕྲིན་དག་རང་འགུལ་གྱིས་སུབ།"</string>
+<string name="ignore">སྣང་མེད།</string>
+<string name="delete_all_media_confirmation">"སྨྱན་པོ་འདུས་པའི་ཆ་འཕྲིན་མཐའ་དག་སུབ་རྒྱུ་ཡིན་ནམ།"</string>
+<string name="delete_oldest_messages_confirmation">"<xliff:g id="duration">%s</xliff:g> ལས་བརྒལ་བའི་ཆ་འཕྲིན་དག་སུབ་རྒྱུ་ཡིན་ནམ།"</string>
+<string name="auto_delete_oldest_messages_confirmation">"<xliff:g id="duration">%s</xliff:g> ལས་བརྒལ་བའི་ཆ་འཕྲིན་དག་གསུབ་དགོས་ཤིང་རང་འགུལ་གྱིས་སུབ་པའི་རྩོལ་ནུས་ཀྱི་སྒུལ་སློང་རྒྱུ་ཡིན་ནམ།"</string>
+<string name="incoming_text_sender_content_description">"<xliff:g id="sender">%s</xliff:g> ཡིས་བཤད།"</string>
+<string name="outgoing_text_sender_content_description">"ཁྱེད་ཀྱི་བཤད།"</string>
+<string name="incoming_sender_content_description">"<xliff:g id="sender">%s</xliff:g> ཡི་ཆ་འཕྲིན།"</string>
+<string name="outgoing_sender_content_description">"ཁྱེད་ཀྱིས་ཆ་འཕྲིན་སྐུར།"</string>
+<string name="message_status_sending">"སྐུར་བཞིན་འདུག&amp;#8230;"</string>
+<string name="message_status_send_failed">"སྐུར་མ་ཐུབ། རྡེབ་པས་ན་སླར་སྐུར་ཐུབ།"</string>
+<string name="user_not_exist">བཀོལ་བདག་འདི་མི་འདུག</string>
+<string name="message_status_send_retrying">"སྐུར་མ་ཐུབ། སླར་བསྐྱར་ཟློས་བྱེད་བཞིན་འདུག"</string>
+<string name="message_status_resend">"སླར་སྐུར་བའམ་སུབ།"</string>
+<string name="message_status_send_failed_emergency_number">"སྐད་སྒྲའི་ཁ་པར་བཏང་ནས་ཞབས་ཞུ་བྲེལ་མོ་འཚོལ། ད་སྐབས་ཀྱི་ཁྱེད་ཀྱི་ཆ་འཕྲིན་སྐུར་ཐབས་མི་འདུག"</string>
+<string name="message_status_failed">"འཚོལ་བཤེར་ཕམ་པ།"</string>
+<string name="message_title_manual_download">"འབེབ་བྱའི་ཚོན་འཕྲིན་གསར་བ།"</string>
+<string name="message_title_downloading">"ཚོན་འཕྲིན་གསར་བ།"</string>
+<string name="message_title_download_failed">འབེབ་ལེན་བྱེད་ཐབས་མི་འདུག</string>
+<string name="message_status_download_failed">"རྡེབ་ནས་སླར་ཚོད་ལྟ་བྱེད་ཐུབ།"</string>
+<string name="message_status_download">"རྡེབ་ནས་འབེབ་ལེན་བྱེད།"</string>
+<string name="message_status_download_action">"འབེབ་ལེན་ནམ་སུབ་པ།"</string>
+<string name="message_status_downloading">"འབེབ་ལེན་བྱེད་བཞིན་འདུག&amp;#8230;"</string>
+<string name="message_status_download_error">"ཆ་འཕྲིན་དུས་ལས་འདས་པས་ལྟ་རྟོག་བྱེད་མི་ཐུབ།"</string>
+<string name="mms_info">"ཁྲུ་ཚད་ <xliff:g id="messageSize">%1$s</xliff:g>  དུས་ཡོལ་དུས་ཚོད་  <xliff:g id="messageExpire">%2$s</xliff:g> "</string>
+<string name="invalid_destination">"སྐུར་མ་ཐུབ། འབྱོར་ཡུལ་ནུས་མེད་རེད།"</string>
+<string name="service_not_activated">"ཁྱེད་ཀྱིས་དྲ་རྒྱའི་སྟེང་དུ་ཞབས་ཞུ་དེའི་སྒུལ་བསླངས་མེད།"</string>
+<string name="service_network_problem">"དྲ་རྒྱའི་གནད་དོན་ཐུག སྐུར་མ་ཐུབ།"</string>
+<string name="service_message_not_found">"ཆ་འཕྲིན་དུས་ལས་འདས་པས་ལྟ་རྟོག་བྱེད་མི་ཐུབ།"</string>
+<string name="no_subject">"\'(ཁ་བྱང་མེད་པ།)"</string>
+<string name="unknown_sender">"སྐུར་མཁན་མི་ཤེས།"</string>
+<string name="delivered_status_content_description">"བསྐུར་ཟིན།"</string>
+<string name="dl_failure_notification">"ཕབ་ལེན་བྱེད་ཐབས་མེད། <xliff:g id="subject">%1$s</xliff:g> ཡོང་ཁུངས <xliff:g id="from">%2$s</xliff:g>"</string>
+<string name="low_memory">"ནང་གསོག་མི་འདང་། དན་གྲངས་མཛོད་ཀྱི་སྒྲིག་འགོད་གནང་མི་ཐུབ།"</string>
+<string name="notification_send_failures_line1_singular">"ཆ་འཕྲིན་བསྐུར་མེད།"</string>
+<string name="notification_send_failures_line1_plural">"འཕྲིན་ཐུང་གིས་ཆ་འཕྲིན་འགའ་སྐུར་མེད།"</string>
+<plurals name="notification_send_failures">
+<item quantity="one">"ཁ་བརྡ་གཅིག་ནང་གི་འཕྲིན་ཐུང་ <xliff:g id="messages">%d</xliff:g> "</item>
+<item quantity="other">"ཁ་བརྡ་ <xliff:g id="CONVERSATIONS">%d</xliff:g> ནང་གི་ཆ་འཕྲིན་ <xliff:g id="MESSAGES_1">%d</xliff:g> "</item>
+</plurals>
+<string name="notification_download_failures_line1_singular">"ཆ་འཕྲིན་ཕབ་ལེན་བྱས་མེད།"</string>
+<string name="notification_download_failures_line1_plural">"འཕྲིན་ཐུང་གིས་ཆ་འཕྲིན་འགའ་ཤས་འབེབ་ལེན་བྱས་མེད།"</string>
+<plurals name="notification_download_failures">
+<item quantity="one">"ཁ་བརྡ་གཅིག་ནང་གི་འཕྲིན་ཐུང་ <xliff:g id="messages">%d</xliff:g> "</item>
+<item quantity="other">"ཁ་བརྡ་ <xliff:g id="CONVERSATIONS">%d</xliff:g> ནང་གི་ཆ་འཕྲིན་ <xliff:g id="MESSAGES_1">%d</xliff:g> "</item>
+</plurals>
+<string name="notification_emergency_send_failure_line1">"ཆ་འཕྲིན་ <xliff:g id="number">%1$s</xliff:g> ལ་སྐུར་ཐུབ་མེད།"</string>
+<string name="notification_emergency_send_failure_line2">"སྐད་སྒྲའི་ཁ་པར་བཏང་ནས་ཞབས་ཞུ་བྲེལ་མོ་འཚོལ་རོགས། ད་སྐབས་ཀྱི་ཆ་འཕྲིན་དེ་  <xliff:g id="number">%1$s</xliff:g> ལ་སྐུར་མི་ཐུབ།"</string>
+<plurals name="notification_new_messages">
+<item quantity="one">"ཆ་འཕྲིན་གསར་བ།"</item>
+<item quantity="other">"ཆ་འཕྲིན་གསར་བ་ <xliff:g id="messages">%d</xliff:g> "</item>
+</plurals>
+<string name="start_conversation">འགོ་འཛུགས།</string>
+<string name="camera_error_opening">"པར་རྒྱག་ཆས་སྤྱོད་མི་ཐུབ།"</string>
+<string name="camera_error_unknown">"པར་རྒྱག་ཆས་སྤྱོད་མི་ཐུབ།"</string>
+<string name="camera_error_video_init_fail">"བརྙན་ཟློས་འཛིན་པའི་རྩོལ་ནུས་སྤྱོད་མི་ཐུབ།"</string>
+<string name="camera_error_storage_fail">"སྨྱན་པོ་ཉར་མི་ཐུབ།"</string>
+<string name="camera_error_failure_taking_picture">"བརྙན་འཛིན་གནང་མི་ཐུབ།"</string>
+<string name="back">ཕྱིར་ལོག</string>
+<string name="action_menu_show_archived">"ཡིག་ཚགས་སུ་ཉར།"</string>
+<string name="action_delete">སུབ།</string>
+<string name="action_archive">"ཡིག་ཚགས་སུ་ཉར།"</string>
+<string name="action_unarchive">"ཡིག་ཚགས་ཉར་བ་འདོར།"</string>
+<string name="action_notification_off">"བརྡ་སྦྱོར་གྱི་སྒོ་སྟེམ།"</string>
+<string name="action_notification_on">"དྲན་བརྡའི་སྟེང་དུ་འཇོག"</string>
+<string name="action_add_contact">འབྲེལ་གཏུག་པ་ཁ་སྣོན།</string>
+<string name="action_download">ཕབ་ལེན།</string>
+<string name="action_send">"བསྐུར་སྐྱེལ།"</string>
+<string name="action_delete_message">སུབ།</string>
+<string name="delete_message_confirmation_dialog_title">"ཆ་འཕྲིན་འདི་སུབ་རྒྱུ་ཡིན་ནམ།"</string>
+<string name="delete_message_confirmation_dialog_text">"སྒྲིག་བཀོལ་འདི་འདོར་རྒྱུ་ཡིན་ནམ།"</string>
+<string name="delete_message_confirmation_button">སུབ།</string>
+<plurals name="delete_conversations_confirmation_dialog_title">
+<item quantity="one">"ཁ་བརྡ་འདི་གསུབ་རྒྱུ་ཡིན་ནམ།"</item>
+<item quantity="other">"ཁ་བརྡ་འདི་དག་འདོར་རྒྱུ་ཡིན་ནམ།"</item>
+</plurals>
+<string name="delete_conversation_confirmation_button">སུབ།</string>
+<string name="delete_conversation_decline_button">འདོར།</string>
+<string name="recipient_hint">"ཐོན་པ།"</string>
+<string name="action_multiselect">"འདྲ་པར་མང་པོ་འདམ།"</string>
+<string name="action_confirm_multiselect">"འདམ་པ་འཁེལ་ལེན་བྱེད།"</string>
+<string name="audio_recording_start_failed">"སྐད་སྒྲ་འབེབ་མི་ཐུབ། འབྲེལ་ཡོད་ཀྱི་དབང་ཚད་ལ་ལྟ་རྟོག་བྱས་ནས་སླར་ཚོད་ལྟ་བྱེད་རོགས།"</string>
+<string name="audio_recording_replay_failed">"སྒྲ་འབེབ་བྱེད་མི་ཐུབ། སླར་ཚོད་ལྟ་བྱེད།"</string>
+<string name="audio_recording_error">"སྐད་སྒྲ་ཉར་མི་ཐུབ། སླར་ཚོད་ལྟ་བྱེད།"</string>
+<string name="audio_picker_hint_text">"རྡེབ་ཅིང་གནོན།"</string>
+<string name="enumeration_comma">",\u0020"</string>
+<string name="notification_separator">\u0020\u0020</string>
+<string name="notification_ticker_separator">":\u0020"</string>
+<string name="notification_space_separator">\u0020\u0020</string>
+<string name="notification_picture">"འདྲ་པར།"</string>
+<string name="notification_audio">"སྐད་སྒྲ།"</string>
+<string name="notification_video">བརྙན་ཟློས།</string>
+<string name="notification_vcard">"འབྲེལ་གཏུག་མིང་བྱང་།"</string>
+<string name="notification_download_mms">ཕབ་ལེན།</string>
+<string name="notification_reply_via_sms">"འཕྲིན་ཐུང་བརྒྱུད་ནས་ཨ་ལན་སྤྲོད།"</string>
+<string name="notification_reply_via_mms">"ཚོན་འཕྲིན་བརྒྱུད་ནས་ཨ་ལན་སྤྲོད།"</string>
+<string name="notification_reply_prompt">ཡ་ལན་སློག</string>
+<plurals name="wearable_participant_count">
+<item quantity="one">"ཞུགས་མཁན་ <xliff:g id="count">%d</xliff:g> "</item>
+<item quantity="other">"ཞུགས་མཁན་ <xliff:g id="count">%d</xliff:g> "</item>
+</plurals>
+<string name="unknown_self_participant">ང་།</string>
+<string name="blocked_toast_message">"འབྲེལ་གཏུག་མིང་བྱང་ནག་པོར་སྣོན་པ་དང་ཡིག་ཚགས་སུ་བསྣན་ཟིན།"</string>
+<string name="unblocked_toast_message">"འབྲེལ་གཏུག་མིང་བྱང་ནག་པོ་ནས་འདོན་ཞིང་ཡིག་ཚགས་ནས་བཏོན་ཟིན།"</string>
+<string name="archived_toast_message">"<xliff:g id="count">%d</xliff:g> ཡིག་ཚགས་སུ་བསྣན་ཟིན།"</string>
+<string name="unarchived_toast_message">"<xliff:g id="count">%d</xliff:g> ཡིག་ཚགས་ནས་བཏོན་ཟིན།"</string>
+<string name="notification_off_toast_message">"བརྡ་སྦྱོར་གྱི་སྒོ་སྟེམ་ཟིན།"</string>
+<string name="notification_on_toast_message">"བརྡ་སྦྱོར་གྱི་ཁ་ཕྱེས།"</string>
+<string name="toast_after_setting_default_sms_app_for_message_send">"སྒྲིག་འགོད་བྱས་ཚར། རྡེབ་ནས་སླར་སྐུར།"</string>
+<string name="toast_after_setting_default_sms_app">"འཕྲིན་ཐུང་དེ་རང་ལེན་འཕྲིན་ཐུང་ཉེར་སྤྱོད་དུ་སྒྲིག་འགོད་བྱས།"</string>
+<plurals name="attachment_preview_close_content_description">
+<item quantity="one">"ཟུར་བཏགས་འདོར།"</item>
+<item quantity="other">"ཟུར་བཏགས་འདོར།"</item>
+</plurals>
+<string name="audio_attachment_content_description">"སྐད་སྒྲའི་ཟུར་བཏགས།"</string>
+<string name="audio_play_content_description">"སྐད་སྒྲའི་ཟུར་བཏགས་འདོར།"</string>
+<string name="audio_pause_content_description">"མཚམས་འཇོག"</string>
+<string name="incoming_message_announcement">"<xliff:g id="sender">%s</xliff:g> ནས་ཆ་འཕྲིན་<xliff:g id="sender">%s</xliff:g> སྐུར།"</string>
+<string name="one_on_one_incoming_failed_message_prefix">"<xliff:g id="sender">%s</xliff:g> ནས་ཆ་འཕྲིན་<xliff:g id="message">%s</xliff:g> སྐུར་མ་ཐུབ། དུས་ཚོད་<xliff:g id="time">%s</xliff:g> "</string>
+<string name="one_on_one_incoming_successful_message_prefix">"<xliff:g id="sender">%s</xliff:g> ནས་འབྱོར་བའི་ཆ་འཕྲིན་<xliff:g id="message">%s</xliff:g>  དུས་ཚོད་<xliff:g id="time">%s</xliff:g> "</string>
+<string name="one_on_one_outgoing_draft_message_prefix">"<xliff:g id="contact">%s</xliff:g> ལ་ཆ་འཕྲིན་ <xliff:g id="message">%s</xliff:g> སྐུར་མེད། དུས་ཚོད་<xliff:g id="time">%s</xliff:g> "</string>
+<string name="one_on_one_outgoing_sending_message_prefix">" <xliff:g id="contact">%s</xliff:g> ལ་ཆ་འཕྲིན་ <xliff:g id="contact">%s</xliff:g> སྐུར་བཞིན་འདུག དུས་ཚོད་<xliff:g id="time">%s</xliff:g> "</string>
+<string name="one_on_one_outgoing_failed_message_prefix">"<xliff:g id="contact">%s</xliff:g> ནས་བསྐུར་བའི་<xliff:g id="message">%s</xliff:g> མ་འབྱོར། དུས་ཚོད་<xliff:g id="time">%s</xliff:g> "</string>
+<string name="one_on_one_outgoing_successful_message_prefix">"<xliff:g id="contact">%s</xliff:g> ལ་བསྐུར་བའི་ཆ་འཕྲིན་<xliff:g id="message">%s</xliff:g>  དུས་ཚོད་<xliff:g id="time">%s</xliff:g> "</string>
+<string name="group_incoming_failed_message_prefix">"<xliff:g id="sender">%s</xliff:g> ལ་སྐུར་བའི་ཆ་འཕྲིན་<xliff:g id="message">%s</xliff:g>  དུས་ཚོད་ <xliff:g id="time">%s</xliff:g> . <xliff:g id="groupInfo">%s</xliff:g> "</string>
+<string name="group_incoming_successful_message_prefix">"<xliff:g id="sender">%s</xliff:g> ནས་འབྱོར་བའི་ཆ་འཕྲིན་<xliff:g id="message">%s</xliff:g>  དུས་ཚོད་<xliff:g id="time">%s</xliff:g> . <xliff:g id="groupInfo">%s</xliff:g> "</string>
+<string name="group_outgoing_draft_message_prefix">"<xliff:g id="group">%s</xliff:g> ལ་མ་སྐུར་བའི་ཆ་འཕྲིན་ <xliff:g id="message">%s</xliff:g>  དུས་ཚོད་<xliff:g id="time">%s</xliff:g> "</string>
+<string name="group_outgoing_sending_message_prefix">"<xliff:g id="group">%s</xliff:g> ལ་བསྐུར་བའི་ཆ་འཕྲིན་<xliff:g id="message">%s</xliff:g>  དུས་ཚོད་<xliff:g id="time">%s</xliff:g> "</string>
+<string name="group_outgoing_failed_message_prefix">"<xliff:g id="group">%s</xliff:g> ལ་སྐུར་མ་ཐུབ་པའི་ཆ་འཕྲིན་<xliff:g id="message">%s</xliff:g>  དུས་ཚོད་<xliff:g id="time">%s</xliff:g> "</string>
+<string name="group_outgoing_successful_message_prefix">"<xliff:g id="group">%s</xliff:g> ལ་སྐུར་བའི་ཆ་འཕྲིན་ <xliff:g id="message">%s</xliff:g>  དུས་ཚོད་<xliff:g id="time">%s</xliff:g> "</string>
+<string name="failed_message_content_description">"ཆ་འཕྲིན་སྐུར་མ་ཐུབ། རྡེབ་པས་ན་སླར་ཚོད་ལྟ་བྱེད་ཐུབ།"</string>
+<string name="group_conversation_description">"<xliff:g id="participants">%s</xliff:g> ཡི་ཁ་བརྡ།"</string>
+<string name="delete_subject_content_description">"གཙོ་བྱང་སུབ།"</string>
+<string name="camera_switch_to_video_mode">བརྙན་ལེན།</string>
+<string name="camera_switch_to_still_mode">"འདྲ་པར་འཇགས་པོ་ལེན།"</string>
+<string name="camera_take_picture">"པར་ལེན།"</string>
+<string name="camera_start_recording">"བརྙན་ཟློས་འབེབ་བཟོའི་མགོ་རྩོམ།"</string>
+<string name="camera_switch_full_screen">"ལྗོངས་ཧྲིལ་པར་ལེན་ཆས་ཀྱི་རྣམ་པར་བརྗེ་སྒྱུར་བྱེད།"</string>
+<string name="camera_switch_camera_facing">"མདུན་སྤྲད་དང་ལྟག་སྤྲད་པར་ལེན་ཆས་བར་གྱི་བརྗེ་སྤོར།"</string>
+<string name="camera_stop_recording">"བརྙན་འཛིན་གྱི་མཚམས་འཇོག་ཅིང་བརྙན་ཟློས་ཟུར་བཏགས་སྣོན།"</string>
+<string name="camera_cancel_recording">"བརྙན་ཟློས་བཟོ་སྒྲིག་བྱེད་མཚམས་འཇོག"</string>
+<string name="photo_view_activity_title">"འཕྲིན་ཐུང་ནང་གི་འདྲ་པར།"</string>
+<plurals name="photos_saved_to_album">
+<item quantity="one">"འདྲ་པར་ <xliff:g id="quantity">%d</xliff:g> ནི་པར་དེབ་\"<xliff:g id="albumName">%s</xliff:g>\"རུ་ཉར་ཟིན།"</item>
+<item quantity="other">"འདྲ་པར་ <xliff:g id="quantity">%d</xliff:g> ནི་པར་དེབ་ \"<xliff:g id="albumName">%s</xliff:g>\"རུ་ཉར་ཟིན།"</item>
+</plurals>
+<plurals name="videos_saved_to_album">
+<item quantity="one">"བརྙན་ཟློས་ <xliff:g id="quantity">%d</xliff:g> ནི་པར་དེབ་\"<xliff:g id="albumName">%s</xliff:g>\"རུ་ཉར་ཟིན།"</item>
+<item quantity="other">"བརྙན་ཟློས་ <xliff:g id="quantity">%d</xliff:g> ནི་པར་དེབ་\"<xliff:g id="albumName">%s</xliff:g>\"རུ་ཉར་ཟིན།"</item>
+</plurals>
+<plurals name="attachments_saved_to_album">
+<item quantity="one">"ཟུར་བཏགས་ <xliff:g id="quantity">%d</xliff:g> ནི་པར་དེབ་ \"<xliff:g id="albumName">%s</xliff:g>\"རུ་ཉར་ཟིན།"</item>
+<item quantity="other">"ཟུར་བཏགས་ <xliff:g id="quantity">%d</xliff:g> ནི་པར་དེབ་ \"<xliff:g id="albumName">%s</xliff:g>\"རུ་ཉར་ཟིན།"</item>
+</plurals>
+<plurals name="attachments_saved_to_downloads">
+<item quantity="one">"ཟུར་བཏགས་ <xliff:g id="quantity">%d</xliff:g> ནི་\"ཕབ་ཁུག\"ཉར།"</item>
+<item quantity="other">"ཟུར་བཏགས་ <xliff:g id="quantity">%d</xliff:g> ནི་\"ཕབ་ཁུག\"ཉར།"</item>
+</plurals>
+<plurals name="attachments_saved">
+<item quantity="one">"ཟུར་བཏགས་ <xliff:g id="quantity">%d</xliff:g> ཉར་ཟིན།"</item>
+<item quantity="other">"ཟུར་བཏགས་ <xliff:g id="quantity">%d</xliff:g> ཉར་ཟིན།"</item>
+</plurals>
+<plurals name="attachment_save_error">
+<item quantity="one">"ཟུར་བཏགས་ <xliff:g id="quantity">%d</xliff:g> ཉར་མི་ཐུབ།"</item>
+<item quantity="other">"ཟུར་བཏགས་  <xliff:g id="quantity">%d</xliff:g> ཉར་མི་ཐུབ།"</item>
+</plurals>
+<string name="attachment_file_description">"ཉར་བའི་ཚོན་འཕྲིན་ཟུར་བཏགས།"</string>
+<string name="settings_activity_title">སྒྲིག་འགོད།</string>
+<string name="archived_activity_title">"ཡིག་ཚགས་སུ་ཉར།"</string>
+<string name="action_close">"ཁ་རྒྱག་པ།"</string>
+<string name="mms_messaging_category_pref_title">"ཚོན་འཕྲིན།"</string>
+<string name="advanced_category_pref_title">"མཐོ་རིམ།"</string>
+<string name="debug_category_pref_title">"ཚོད་སྒྲིག"</string>
+<string name="notifications_enabled_pref_title">བརྡ་ཐོ།</string>
+<string name="notification_sound_pref_title">"དྲིལ་སྒྲ་འདེམ་པ།"</string>
+<string name="silent_ringtone">སྒྲ་མེད།</string>
+<string name="notification_vibrate_pref_title">འདར་འགུལ།</string>
+<string name="blocked_pref_title">"བཀག་ཟིན།"</string>
+<string name="send_reports_pref_title">"འཕྲིན་ཐུང་སྐུར་བའི་སྙན་ཞུ།"</string>
+<string name="send_reports_pref_summary">"འཕྲིན་ཐུང་སྐུར་རྗེས་སྐུར་བའི་སྙན་ཞུ་སྐུར་དུ་འཇུག"</string>
+<string name="delivery_reports_pref_title">"འཕྲིན་ཐུང་འབྱོར་བའི་གནས་ཚུལ་སྙན་ཞུ།"</string>
+<string name="delivery_reports_pref_summary">"ཁྱེད་ཀྱིས་སྐུར་བའི་འཕྲིན་ཐུང་རེ་རེ་འབྱོར་བའི་གནས་ཚུལ་སྙན་ཞུ།"</string>
+<string name="auto_retrieve_mms_pref_title">"རང་འགུལ་ཞིབ་བཤེར།"</string>
+<string name="auto_retrieve_mms_pref_summary">"རང་འགུལ་གྱིས་ཚོན་འཕྲིན་འཚོལ་བཤེར་བྱེད།"</string>
+<string name="auto_retrieve_mms_when_roaming_pref_title">"མྱུལ་དུས་རང་འགུལ་ཞིབ་བཤེར།"</string>
+<string name="auto_retrieve_mms_when_roaming_pref_summary">"འཁྱམ་མྱུལ་གྱི་སྐབས་སུ་རང་འགུལ་གྱིས་ཚོན་འཕྲིན་འཚོལ།"</string>
+<string name="group_mms_pref_title">"ཁྱུ་སྐུར་འཕྲིན་ཐུང་།"</string>
+<string name="group_mms_pref_summary">"ཚོན་འཕྲིན་བཀོལ་ནས་འཕྲིན་ཐུང་གཅིག་འབྱོར་ས་མང་པོར་སྐུར།"</string>
+<string name="mms_phone_number_pref_title">"ཁྱེད་ཀྱི་ཁ་པར་ཨང་གྲངས།"</string>
+<string name="unknown_phone_number_pref_display_value">མ་ཤེས།</string>
+<string name="send_sound_pref_title">"ཆ་འཕྲིན་སྐུར་བའི་དྲན་སྐུལ།"</string>
+<string name="dump_sms_pref_title">"གཞན་ཉར་འཕྲིན་ཐུང་།"</string>
+<string name="dump_sms_pref_summary">"འབྱོར་བའི་འཕྲིན་ཐུང་གི་གདོད་མའི་དན་གྲངས་དེ་ཕྱི་རོལ་གྱི་གསོག་ཆས་ཡིག་ཆར་ཉར།"</string>
+<string name="dump_mms_pref_title">"ཚོན་འཕྲིན་གཞན་ཉར།"</string>
+<string name="dump_mms_pref_summary">"འབྱོར་བའི་ཚོན་འཕྲིན་གྱི་གདོད་མའི་དན་གྲངས་དེ་ཕྱིར་རོལ་གྱི་གསོག་ཆས་ཡིག་ཆར་ཉར།"</string>
+<string name="wireless_alerts_title">"སྐུད་མེད་ཉེན་བརྡ།"</string>
+<string name="message_context_menu_title">"ཆ་འཕྲིན་འདེམ་པ།"</string>
+<string name="message_context_menu_copy_text">"ཡི་གེ་བསྐྱར་བཤུས།"</string>
+<string name="message_context_menu_view_details">"ཞིབ་ཕྲའི་གནས་ཚུལ་ལ་བལྟ་བ།"</string>
+<string name="message_context_menu_delete_message">སུབ།</string>
+<string name="message_context_menu_forward_message">མདུན་སྐྱོད།</string>
+<string name="message_details_title">"ཡིག་ཟམ་ཞིབ་ཕྲའི་གནས་ཚུལ།"</string>
+<string name="message_type_label">"རིགས། \u0020"</string>
+<string name="text_message">འཕྲིན་གཏོང།</string>
+<string name="multimedia_message">"ཚོན་འཕྲིན། \u0020"</string>
+<string name="from_label">"སྐུར་མཁན། \u0020"</string>
+<string name="to_address_label">"ལེན་མཁན། \u0020"</string>
+<string name="sent_label">"སྐུར་དུས། \u0020"</string>
+<string name="received_label">"ལེན་དུས། \u0020"</string>
+<string name="subject_label">"ཁ་བྱང་། \u0020"</string>
+<string name="message_size_label">"ཁྲུ་ཚད\u0020"</string>
+<string name="priority_label">"ཁྱད་འཕགས་ཅན། \u0020"</string>
+<string name="sim_label">"SIM:\u0020"</string>
+<string name="priority_high">མཐོ།</string>
+<string name="priority_normal">"རྒྱུན་ལྡན།"</string>
+<string name="priority_low">དམའ་།</string>
+<string name="sim_slot_identifier">"SIM <xliff:g id="sim_slot_number">%s</xliff:g>"</string>
+<string name="hidden_sender_address">"སྐུར་མཁན་གྱི་ས་གནས་སྦས་པ།"</string>
+<string name="cant_send_message_while_loading_attachments">"ཟུར་བཏགས་འབེབ་ལེན་བྱས་མ་ཚར་གོང་དུ་སྐུར་ཐབས་མེད།"</string>
+<string name="fail_to_load_attachment">"ཚུར་བཏགས་འབེབ་ལེན་བྱེད་མི་ཐུབ། སླར་ཚོད་ལྟ་བྱེད་རོགས།"</string>
+<string name="cant_send_message_without_active_subscription">"དྲ་རྒྱས་དྲ་སྒྲིག་བྱས་མེད། སླར་ཚོད་ལྟ་བྱེད་རོགས།"</string>
+<string name="chips_text_delete_button_content_description">"ཡི་གེ་སུབ།"</string>
+<string name="numeric_text_keyboard_toggle_button_content_description">"ཡི་གེ་དང་གྲངས་ཀ་ནང་འཇུག་བྱེད་སྟངས་བར་དུ་བརྗེ་སྤོར་བྱེད།"</string>
+<string name="add_more_participants_button_content_description">"ཞུགས་མཁན་དེ་ལས་མང་བ་སྣོན།"</string>
+<string name="confrim_participants_button_content_description">"ཞུགས་པ་འཁེལ་ལེན་བྱེད།"</string>
+<string name="start_new_conversation">"ཁ་བརྡ་གསར་བའི་མགོ་རྩོམ།"</string>
+<string name="gallery_checkbox_content_description">"ཚན་པ་འདི་འདམ།"</string>
+<string name="video_thumbnail_view_play_button_content_description">"བརྙན་ཟློས་སྒྲོག་གཏོང་བྱེད།"</string>
+<string name="action_people_and_options">"ཞུགས་མཁན་མིང་ཐོ་དང་འདམ་ཚན།"</string>
+<string name="action_debug_options">"ཚོད་སྒྲིག"</string>
+<string name="people_and_options_activity_title">"ཞུགས་མཁན་མིང་ཐོ་དང་འདམ་ཚན།"</string>
+<string name="general_settings_title">རྒྱུན་སྲོལ།</string>
+<string name="participant_list_title">"ཁ་བརྡར་ཞུགས་མཁན།"</string>
+<string name="action_call">"ཁ་པར་གཏོང་།"</string>
+<string name="compose_message_view_hint_text">"ཆ་འཕྲིན་སྐུར།"</string>
+<string name="compose_message_view_hint_text_multi_sim">"&lt;xliff:g id="sim_name"&gt;%s&lt;/xliff:g&gt; &lt;/small&gt;ནས་ཆ་འཕྲིན་&lt;br/&gt;&lt;small&gt;བསྐུར་ཟིན།"</string>
+<plurals name="compose_message_view_hint_text_photo">
+<item quantity="one">"འདྲ་པར་སྐུར།"</item>
+<item quantity="other">"འདྲ་པར་སྐུར།"</item>
+</plurals>
+<plurals name="compose_message_view_hint_text_audio">
+<item quantity="one">"སྐད་སྒྲ་སྐུར།"</item>
+<item quantity="other">"སྐད་སྒྲ་སྐུར།"</item>
+</plurals>
+<plurals name="compose_message_view_hint_text_video">
+<item quantity="one">"བརྙན་ཟློས་སྐུར།"</item>
+<item quantity="other">"བརྙན་ཟློས་སྐུར།"</item>
+</plurals>
+<plurals name="compose_message_view_hint_text_vcard">
+<item quantity="one">"འབྲེལ་གཏུག་མིང་བྱང་སྐུར།"</item>
+<item quantity="other">"འབྲེལ་གཏུག་མིང་བྱང་སྐུར།"</item>
+</plurals>
+<plurals name="compose_message_view_hint_text_attachments">
+<item quantity="one">"འབྲེལ་གཏུག་ཟུར་བཏགས་སྐུར།"</item>
+<item quantity="other">"ཟུར་བཏགས་སྐུར།"</item>
+</plurals>
+<plurals name="attachment_changed_accessibility_announcement">
+<item quantity="zero">"No attachments selected"</item>
+<item quantity="one">"ཟུར་བཏགས་1སྐུར་བར་གྲ་སྒྲིག་བྱས་འདུག"</item>
+<item quantity="other">"ཟུར་བཏགས་ <xliff:g id="attachment_count">%d</xliff:g> སྐུར་བར་གྲ་སྒྲིག་བྱས།"</item>
+</plurals>
+<string name="menu_send_feedback">"ལན་སྐུར།"</string>
+<string name="menu_view_in_store">" Googleཚོང་ཁང་དུ་ལྟ།"</string>
+<string name="menu_version_info">"པར་གཞིའི་ཆ་འཕྲིན།"</string>
+<string name="subtitle_format_for_version_number">" པར་གཞི %1$s"</string>
+<string name="menu_license">"ཁུངས་ཀྱི་ཨང་ཚབ་གློད་པའི་ཆོག་མཆན།"</string>
+<string name="notifications_enabled_conversation_pref_title">བརྡ་ཐོ།</string>
+<string name="mms_attachment_limit_reached">"ཟུར་བཏགས་ཀྱི་གོང་མཐར་ཐུག"</string>
+<string name="mms_attachment_load_failed">"ཟུར་བཏགས་སུ་འབེབ་ལེན་བྱེད་མ་ཐུབ།"</string>
+<string name="add_contact_confirmation_dialog_title">"འབྲེལ་གཏུག་ཏུ་སྣོན་རྒྱུ་ཡིན་ནམ།"</string>
+<string name="add_contact_confirmation">འབྲེལ་གཏུག་པ་ཁ་སྣོན།</string>
+<string name="compose_message_view_subject_hint_text">"བརྗོད་བྱ།"</string>
+<string name="conversation_message_view_subject_text">"ཁ་བྱང་། \u0020"</string>
+<string name="loading_vcard">"འབྲེལ་གཏུག་མིང་བྱང་འབེབ་ལེན་བྱེད་བཞིན་འདུག"</string>
+<string name="failed_loading_vcard">"འབྲེལ་གཏུག་མིང་བྱང་འབེབ་ལེན་བྱེད་མ་ཐུབ།"</string>
+<string name="vcard_tap_hint">"མིང་བྱང་ལ་ལྟ་རྟོག་བྱེད།"</string>
+<plurals name="vcard_multiple_display_name">
+<item quantity="one">"འབྲེལ་གཏུག <xliff:g id="count">%d</xliff:g> "</item>
+<item quantity="other">འབྲེལ་གཏུག <xliff:g id="count">%d</xliff:g></item>
+</plurals>
+<string name="vcard_detail_activity_title">"འབྲེལ་གཏུག་མིང་བྱང་།"</string>
+<string name="vcard_detail_birthday_label">"སྐྱེས་སྐར། "</string>
+<string name="vcard_detail_notes_label">ཟུར་མཆན། </string>
+<string name="forward_message_activity_title">"ཆ་འཕྲིན་གཞན་སྐུར།"</string>
+<string name="reply_activity_title">ཡ་ལན་སློག</string>
+<string name="sms_disabled">"འཕྲིན་ཐུང་རྩོལ་ནུས་ཀྱི་སྒོ་སྟེམ་ཟིན།"</string>
+<string name="requires_default_sms_app_to_send">"ཆ་འཕྲིན་སྐུར་དགོས་ན། འཕྲིན་ཐུང་དེ་རང་ལེན་འཕྲིན་ཐུང་ཉེར་སྤྱོད་དུ་སྒྲིག་འགོད་བྱེད་རོགས།"</string>
+<string name="requires_default_sms_app">"འཕྲིན་ཐུང་དེ་རང་ལེན་འཕྲིན་ཐུང་ཉེར་སྤྱོད་དུ་སྒྲིག་འགོད་བྱེད།"</string>
+<string name="requires_default_sms_change_button">གསར་སྒྱུར།</string>
+<string name="recommend_set_default_sms_app">"ཆ་འཕྲིན་སྡུད་དགོས་ན། འཕྲིན་ཐུང་དེ་རང་ལེན་འཕྲིན་ཐུང་ཉེར་སྤྱོད་དུ་སྒྲིག་འགོད་བྱེད།"</string>
+<string name="no_preferred_sim_selected">"འཕྲིན་ཐུང་སྐུར་བའི་སྔོན་འདེམ་SIMབདམས་མེད།"</string>
+<string name="requires_sms_permissions_message">"ཉེར་སྤྱོད་འདིར་སྒྲིག་ཆས་བདག་པོའི་དབང་ཐོབ།"</string>
+<string name="requires_sms_permissions_close_button">ལགས་སོ།</string>
+<string name="too_many_participants">"ཁ་བརྡ་བྱེད་མཁན་མང་དྲགས།"</string>
+<plurals name="add_invalid_contact_error">
+<item quantity="one">"འབྲེལ་གཏུག་ནུས་མེད་རེད།"</item>
+<item quantity="other">"འབྲེལ་གཏུག་ནུས་མེད་རེད།"</item>
+</plurals>
+<string name="camera_media_failure">"པར་རྒྱག་ཆས་ཀྱི་པར་རིས་འབེབ་ལེན་བྱེད་མི་ཐུབ།"</string>
+<string name="conversation_list_item_view_sent_from_you_prefix">"ཁྱེད\u0020"</string>
+<string name="conversation_list_item_view_sent_from_other_prefix">"<xliff:g id="firstNameOfSender">%s</xliff:g>:\u0020"</string>
+<string name="conversation_list_item_view_draft_message">"མ་ཡིག"</string>
+<string name="conversation_list_empty_text">"ཁྱེད་ཀྱི་འཕྲིན་ཐུང་ཁ་བརྡ་གནས་འདིར་སྟར་ངེས་ཡིན།"</string>
+<string name="archived_conversation_list_empty_text">"ཡིག་ཚགས་སུ་ཉར་བའི་ཁ་བརྡ་གནས་འདིར་འཆར།"</string>
+<string name="conversation_list_first_sync_text">"ཁ་བརྡ་འབེབ་ལེན་བྱེད་བཞིན་འདུག"</string>
+<string name="conversation_list_snippet_picture">"འདྲ་པར།"</string>
+<string name="conversation_list_snippet_audio_clip">"སྐད་སྒྲ།"</string>
+<string name="conversation_list_snippet_video">བརྙན་ཟློས།</string>
+<string name="conversation_list_snippet_vcard">"འབྲེལ་གཏུག་མིང་བྱང་།"</string>
+<string name="mms_text">"ཚོན་འཕྲིན།"</string>
+<string name="snack_bar_undo">མེད་པར་བཟོ་བ།</string>
+<string name="snack_bar_retry">ཡང་བསྐྱར་ཚོད་ལྟ།</string>
+<string name="contact_list_empty_text">"ཆ་འཕྲིན་གསར་བ་སྐུར་དགོས་ན། འབྲེལ་གཏུག་རུས་མིང་དང་ཁ་པར་ཨང་གྲངས་ནང་འཇུག་བྱེད་རོགས།"</string>
+<string name="action_block">"འགོག "</string>
+<string name="block_contact_title">"<xliff:g id="destination">%s</xliff:g> ཟློག"</string>
+<string name="unblock_contact_title">"<xliff:g id="destination">%s</xliff:g> ཟློག་པ་འདོར།"</string>
+<string name="block_confirmation_title">"<xliff:g id="destination">%s</xliff:g> ཟློག་པ་འདོར།"</string>
+<string name="block_confirmation_message">"ཨང་གྲངས་འདི་ནས་སྐུར་བའི་ཆ་འཕྲིན་དག་ཁྱེད་ལ་འབྱོར་ངེས་ཡིན། འོན་ཀྱང་འབྲེལ་ཡོད་ཀྱི་བརྡ་སྦྱོར་འབྱོར་མི་སྲིད། གླེང་བ་འདི་ཡིག་ཚགས་སུ་ཉར་ངེས་ཡིན།"</string>
+<string name="blocked_contacts_title">"ཟློག་པ་སྤྲད་པའི་འབྲེལ་གཏུག"</string>
+<string name="tap_to_unblock_message">བཀག་རྒྱ་སེལ།</string>
+<string name="view_blocked_contacts_title">"ཟློག་པ་སྤྲད་པའི་འབྲེལ་གཏུག"</string>
+<string name="pick_image_from_document_library_content_description">"ཡིག་ཚགས་ནས་པར་རིས་འདམ།"</string>
+<string name="sending_message">"ཆ་འཕྲིན་སྐུར་བཞིན་འདུག"</string>
+<string name="send_message_success">"ཆ་འཕྲིན་སྐུར་ཟིན།"</string>
+<string name="send_message_failure_no_data">"གནས་སྤོ་དྲ་རྒྱའི་སྒོ་སྟེམ་ཟིན། ཁྱེད་ཀྱི་གནས་སར་ལྟ་རྟོག་བྱེད་རོགས།"</string>
+<string name="send_message_failure_airplane_mode">"འཕུར་སྐྱོད་རྣམ་པའི་འོག་ཏུ་འཕྲིན་ཐུང་སྐུར་མི་ཐུབ།"</string>
+<string name="send_message_failure">"ཆ་འཕྲིན་སྐུར་མི་ཐུབ།"</string>
+<string name="download_message_success">"ཚོན་འཕྲིན་སྐུར་ཟིན།"</string>
+<string name="download_message_failure_no_data">"གནས་སྤོ་དྲ་རྒྱའི་སྒོ་སྟེམ་ཟིན། ཁྱེད་ཀྱི་གནས་སར་ལྟ་རྟོག་བྱེད་རོགས།"</string>
+<string name="download_message_failure_airplane_mode">"འཕུར་སྐྱོད་རྣམ་པའི་འོག་ཏུ་ཆ་འཕྲིན་འབེབ་ལེན་བྱེད་མི་ཐུབ།"</string>
+<string name="download_message_failure">"ཆ་འཕྲིན་འབེབ་མི་ཐུབ།"</string>
+<string name="content_description_for_number_zero">ཐིག་ལེ། </string>
+<string name="content_description_for_number_one">གཅིག</string>
+<string name="content_description_for_number_two">གཉིས། </string>
+<string name="content_description_for_number_three">གསུམ། </string>
+<string name="content_description_for_number_four">བཞི། </string>
+<string name="content_description_for_number_five">ལྔ། </string>
+<string name="content_description_for_number_six">དྲུག</string>
+<string name="content_description_for_number_seven">བདུན། </string>
+<string name="content_description_for_number_eight">བརྒྱད། </string>
+<string name="content_description_for_number_nine">དགུ</string>
+<string name="carrier_send_error">"<xliff:g id="carrierName">%1$s</xliff:g> བརྒྱུད་ནས་ཆ་འཕྲིན་སྐུར་མི་ཐུབ། ནོར་འཛོལ་<xliff:g id="errorCode">%2$d</xliff:g> "</string>
+<string name="carrier_send_error_unknown_carrier">"མ་ཤེས་པའི་ཐེག་པོར་ཆ་འཕྲིན་སྐུར་མི་ཐུབ། ནོར་འཛོལ་ <xliff:g id="errorCode">%1$d</xliff:g> "</string>
+<string name="message_fwd">"<xliff:g id="subject">%s</xliff:g> གཞན་སྐུར་བྱེད།"</string>
+<string name="mms_failure_outgoing_service">"ཆ་འཕྲིན་སྐུར་མ་ཐུབ་སྟེ། དྲ་རྒྱའི་སྟེང་དུ་ཞབས་ཞུའི་སྒུལ་བསླངས་མེད།"</string>
+<string name="mms_failure_outgoing_address">"ཆ་འཕྲིན་སྐུར་མ་ཐུབ། འབྱོར་ཡུལ་གནས་ས་ནུས་མེད་རེད།"</string>
+<string name="mms_failure_outgoing_corrupt">"ཆ་འཕྲིན་སྐུར་མ་ཐུབ། ཆ་འཕྲིན་ནུས་མེད་རེད།"</string>
+<string name="mms_failure_outgoing_content">"ཆ་འཕྲིན་སྐུར་མ་ཐུབ། ནང་དོན་རྒྱབ་སྐྱོར་མི་བྱེད།"</string>
+<string name="mms_failure_outgoing_unsupported">"ཆ་འཕྲིན་སྐུར་མ་ཐུབ། ཆ་འཕྲིན་ལ་རྒྱབ་སྐྱོར་མི་བྱེད།"</string>
+<string name="mms_failure_outgoing_too_large">"ཆ་འཕྲིན་སྐུར་མ་ཐུབ། ཆ་འཕྲིན་རིང་དྲགས།"</string>
+<string name="in_conversation_notify_new_message_text">"ཆ་འཕྲིན་གསར་བ།"</string>
+<string name="in_conversation_notify_new_message_action">ལྟ་བཤེར།</string>
+<string name="message_image_content_description">པར་རིས།</string>
+<string name="activity_not_found_message">"འོས་མཚམས་ཀྱི་ཉེར་སྤྱོད་མ་རྙེད།"</string>
+<string name="chips_delete_content_description">"འབྲེལ་གཏུག་སྤོ།"</string>
+<string name="share_new_message">"ཆ་འཕྲིན་གསར་བ།"</string>
+<string name="share_cancel">འདོར།</string>
+<string name="apn_edit">"མཐུད་རྩོམ་སྒྲིག་བྱེད།"</string>
+<string name="apn_not_set">"སྒྲིག་འགོད་བྱས་མེད།"</string>
+<string name="apn_name">"རུས་མིང་།"</string>
+<string name="apn_mms_proxy">"ཚོན་འཕྲིན་ཚབ་གཉེར།"</string>
+<string name="apn_mms_port">"ཚོན་འཕྲིན་མཐུད་སྣེ།"</string>
+<string name="apn_type">"APNརིགས།"</string>
+<string name="menu_delete_apn">"APNའདོར།"</string>
+<string name="menu_new_apn">"APNགསར་བ།"</string>
+<string name="menu_save_apn">ཉར་ཚགས།</string>
+<string name="menu_discard_apn_change">དོར་བ།</string>
+<string name="error_apn_name_empty">"མིང་གི་ཡིག་དུམ་སྟོང་བར་འཇོག་མི་རུང་།"</string>
+<string name="error_apn_empty">"APNསྟོང་བར་འཇོག་མི་རུང་།"</string>
+<string name="error_mcc_not3">"MCCཡིག་དུམ་ངེས་པར་གནས་3གྲངས་ཡིན་དགོས།"</string>
+<string name="error_mnc_not23">"MNCཡིག་དུམ་ངེས་པར་གནས་2སམ་གནས་3གྲངས་ཡིན་དགོས།"</string>
+<string name="restore_default_apn">"རང་ལེན་APNསྒྲིག་འགོད་སོར་ཆུད་བྱེད་བཞིན་འདུག"</string>
+<string name="menu_restore_default_apn">"རང་ལེན་དུ་བསྐྱར་སྒྲིག་བྱེད།"</string>
+<string name="restore_default_apn_completed">"སླར་རང་ལེན་APNསྒྲིག་འགོད་བྱས་པ་ལེགས་འགྲུབ་བྱུང་།"</string>
+<string name="untitled_apn">མིང་བཏགས་མེད་པ།</string>
+<string name="sms_apns_title">མཐུད་སྣེའི་མིང་།</string>
+<string name="apn_settings">"APN"</string>
+<string name="menu_new">"APNགསར་བ།"</string>
+<string name="apn_settings_not_available">བཀོལ་བདག་འདིར་སྦྲེལ་ཚེག་གི་མིང་སྒྱུར་བའི་དབང་ཚད་མི་འདུག</string>
+<string name="copy_to_clipboard_dialog_title">"དྲས་སྦྱོར་སྡེར་འདྲ་འབེབ་བྱེད་རྒྱུ་ཡིན་ནམ།"</string>
+<string name="copy_to_clipboard">བསྐྱར་བཤུས་བྱེད།</string>
+<string name="incoming_sim_name_text">"<xliff:g id="sim_name">%s</xliff:g> དུ་སྐུར།"</string>
+<string name="general_settings">རྒྱུན་སྲོལ།</string>
+<string name="advanced_settings">"མཐོ་རིམ།"</string>
+<string name="general_settings_activity_title">རྒྱུན་སྲོལ་སྒྲིག་འགོད།</string>
+<string name="advanced_settings_activity_title">"མཐོ་རིམ་གྱི་སྒྲིག་འགོད།"</string>
+<string name="sim_specific_settings">"\"<xliff:g id="sim_name">%s</xliff:g>\" SIM"</string>
+<string name="disable_group_mms">"འཕྲིན་ཐུང་གཅིག་པུ་འབྱོར་ཡུལ་ཀུན་ལ་སྐུར། ཁྱེད་ཉིད་ཁོ་ན་ནས་ལྟོས་ཟླའི་ཨ་ལན་འབྱོར།"</string>
+<string name="enable_group_mms">"འཕྲིན་ཐུང་གཅིག་པུ་འབྱོར་ཡུལ་ཀུན་ལ་སྐུར། "</string>
+<string name="sim_settings_unknown_number">"མ་ཤེས།"</string>
+<string name="secondary_user_new_message_title">"ཆ་འཕྲིན་གསར་བ།"</string>
+<string name="secondary_user_new_message_ticker">"ཆ་འཕྲིན་གསར་བ།"</string>
+<string name="sim_selector_button_content_description">"SIMབྱང་བུ་འདམ་ཆས།"</string>
+<string name="sim_selector_button_content_description_with_selection">"<xliff:g id="sim">%1$s</xliff:g> བདམས་ཟིན། SIMབྱང་བུ་འདམ་ཆས།"</string>
+<string name="send_button_long_click_description_no_sim_selector">"གཙོ་བྱང་འདམ།"</string>
+<string name="send_button_long_click_description_with_sim_selector">"SIMབྱང་བུའམ་གཙོ་བྱང་རྩོམ་སྒྲིག་བྱེད།"</string>
+<string name="audio_record_view_content_description">"རྡེབ་ཅིང་མནན་པས་ན་སྒྲ་འབེབ་བྱེད་ཐུབ།"</string>
+<string name="widget_new_conversation_content_description">"ཁ་བརྡ་གསར་བའི་མགོ་རྩོམ།"</string>
+<string name="widget_conversation_list_name">"འཕྲིན་ཐུང་སྟར་བྱང་།"</string>
+<string name="widget_new_message_content_description">"ཆ་འཕྲིན་གསར་བ།"</string>
+<string name="widget_conversation_list_content_description">"ཁ་བརྡའི་ཟིན་ཐོ།"</string>
+<string name="loading_conversations">"ཁ་བརྡ་འབེབ་ལེན་བྱེད་བཞིན་འདུག"</string>
+<string name="loading_messages">"ཆ་འཕྲིན་འབེབ་ལེན་བྱེད་བཞིན་འདུག"</string>
+<string name="view_more_conversations">གྲོས་མོལ་དེ་ལས་མང་བ་གཏང་བ།</string>
+<string name="view_more_messages">"ཆ་འཕྲིན་དེ་ལས་མང་བར་ལྟ།"</string>
+<string name="conversation_deleted">"ཁ་བརྡ་སུབ་ཟིན།"</string>
+<string name="tap_to_configure">"ཁ་བརྡ་སུབ་ཟིན། རྡེབ་པས་ན་འཕྲིན་ཐུང་གཞན་པའི་ཁ་བརྡ་འཆར།"</string>
+<string name="update_destination_blocked">"བཀག་ཟིན།"</string>
+<string name="update_destination_unblocked">"སྒྲོག་སེལ།"</string>
+<string name="db_full">"གསོག་ཆས་སྟོང་ཆ་མི་འདང་། དན་གྲངས་འགའ་ཤས་འཆོར་ངེས་ཡིན།"</string>
+<string name="attachment_chooser_activity_title">"ཟུར་བཏགས་འདམ།"</string>
+<string name="action_confirm_selection">"འདམ་པ་འཁེལ་ལེན་བྱེད།"</string>
+<string name="attachment_chooser_selection">"<xliff:g id="count">%d</xliff:g> བདམས་ཟིན།"</string>
+<string name="attachment_limit_reached_dialog_message_when_composing">"ཟུར་བཏགས་གཅིག་གམ་དེ་ལས་མང་བ་གཙང་སེལ་བྱེད། དེ་ནས་སླར་ཚོད་ལྟ་བྱེད།"</string>
+<string name="attachment_limit_reached_dialog_message_when_sending">"ཁྱེད་ཀྱིས་འཕྲིན་ཐུང་སྐུར་བའི་ཚོད་ལྟ་བྱས་ཆོག འོན་ཀྱང་ཁྱེད་ཀྱི་ཟུར་བཏགས་གཅིག་གམ་དེ་ལས་མང་བ་གཙང་ཕྱགས་བྱས་པས་ན་ད་གཟོད་སྐུར་ཐུབ་ངེས་ཡིན།"</string>
+<string name="video_attachment_limit_exceeded_when_sending">"ཁྱེད་ཀྱིས་ཆ་འཕྲིན་རེའི་ནང་དུ་བརྙན་ཟློས་གཅིག་ཁོ་ན་སྐུར་ཐུབ། བརྙན་ཟློས་ལྷག་པོ་གཙང་སེལ་བྱས་ནས་སླར་ཚོད་ལྟ་བྱེད་རོགས།"</string>
+<string name="attachment_load_failed_dialog_message">"འཕྲིན་ཐུང་གིས་ཟུར་བཏགས་འབེབ་མི་ཐུབ།"</string>
+<string name="attachment_limit_reached_send_anyway">གང་ལྟར་ཡང་སྐུར།</string>
+<string name="conversation_creation_failure">"ཁ་བརྡའི་མགོ་རྩོམ་མི་ཐུབ།"</string>
+<string name="selected_sim_content_message">"<xliff:g id="selected_sim">%s</xliff:g> བདམས་ཟིན།"</string>
+<string name="empty_msg">"འཕྲིན་ཐུང་སྟོང་བ།"</string>
+<string name="send_empty_msg">"འཕྲིན་ཐུང་སྟོང་བ་སྐུར་རྒྱུ་ཡིན་ནམ།"</string>
+<string name="yes">ཡིན།</string>
+<string name="no">"མིན།"</string>
+</resources>

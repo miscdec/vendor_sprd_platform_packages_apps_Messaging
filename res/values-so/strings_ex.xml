@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="signature_title">"Saxiix"</string>
+<string name="pref_title_sms_retry_times">"Fur dib iskugu dayida fariinta"</string>
+<string name="conversation_deleteAll_failed">"Fadlan hadhoow markale iskuday."</string>
+<string name="warning">"Digniin"</string>
+<string name="attachment_exceeded">"Lifaaqa aad dooratay waa dheeraad!"</string>
+<string name="attachment_size">"Xajmiga lifaaqa waa :"</string>
+<string name="mms_size">"Xajmiga MMS waa :"</string>
+<string name="permission_read_messages_attachment_label">"Aqri lifaaqyada fariimaha"</string>
+<string name="permission_read_messages_attachment_desc">"Waxay ufasaxaysaa appka inuu aqriyo lifaaqyada fariimahaaga"</string>
+<string name="preference_name">"Jumlad Caadiga ah"</string>
+<string name="select">"Ladoortay"</string>
+<string name="item_cancel">"Jooji"</string>
+<string name="item_delete">"tirtir"</string>
+<string name="save_as_teltype">"Ee teleefanka"</string>
+<string name="save_as_mmstype">"Ee fariimaha"</string>
+<string name="type_to_pharser">"Qor jumlo guud"</string>
+<string name="add">"Kudar"</string>
+<string name="edit">"Waxkabadal"</string>
+<string name="delete">"tirtir"</string>
+<string name="finish">"Dhamee"</string>
+<string name="cancel">"Jooji"</string>
+<string name="add_pharser">"Kudar jumlad caadiga ah"</string>
+<string name="edit_pharser">"Wax kabadal jumlada caadiga ah"</string>
+<string name="exit_pharser_dialog_title">"Degdeg ah"</string>
+<string name="exit_pharser_dialog_content">"Haddii la keydiyo jumlooyinka si joogtadaa loo adeegsado iyo in kale?"</string>
+<string name="pharser_can_modify">"Jumlad lahabeeyay"</string>
+<string name="pharser_cannot_modify">"Jumlad lakoobay"</string>
+<string name="empty_pharser_not_save">"Jumlad maran lama seefgaraynkaro!"</string>
+<string name="select_item">"Waxaad dooratay"</string>
+<string name="select_commmon_phrase">"Dooro jublad guud"</string>
+<string name="common_phrase_empty">"Majiraan jumlado guud"</string>
+<string name="action_add_phrase">"Gali jumlo guud"</string>
+<string name="pref_other_settings_title">"Midkale"</string>
+<string name="action_wireless_alerts">"Wargalinada wirelesska"</string>
+<string name="positive">"OK"</string>
+<string name="wap_push_message_dialog_title">"Fariinta riixida wap ka"</string>
+<string name="open_website">"Fur webseet"</string>
+<string name="activity_not_found">"Majiro application kuhaboon"</string>
+<string-array name="fixed_mms_phrase">
+<item>"Fadlan wac teleefankayga xafiiska, mahadsanid."</item>
+<item>"Fadlan ilasoo xarirr, mahadsanid."</item>
+<item>"Fadlan iisheeg deegaankaaga."</item>
+<item>"Fadlan wac teleefankayga hadhoow, mahadsanid."</item>
+<item>"Waa maqnaa, gurigaan tagayaa waana kusoowacayaa."</item>
+<item>"Gaari ayaan wadaa hadhoow ayaan kaa qabanayaa."</item>
+<item>"Wadadaan kusoojiraa, waan kusooo gaarayaa si degdega ah."</item>
+<item>"Taraafiko, jaamyo, daahay, waan kaxumahay."</item>
+<item>"Hadhoowbaan kugu soocelinayaa."</item>
+<item>"Waxaan kujiraa kulan, hadhoow aan soo jawaabayaa."</item>
+</string-array>
+<string-array name="fixed_both_phrase">
+<item>"Fadlan isoo wax ama fariin iisoo dir hadhoow."</item>
+</string-array>
+<string name="share_video_exceeded">"Muuqaalka ladoortay wuxuu kabatay xadka xajmiga ugu sareeya!"</string>
+<string name="share_audio_exceeded">"Maqalka ladoortay wuxuu kabatay xadka xajmiga ugu sareeya!"</string>
+<string name="share_image_exceeded">"Masawirka qalka ladoortay wuxuu kabatay xadka xajmiga ugu sareeya!"</string>
+<string name="share_muimgae_exceeded">"Hakudarin sawirka dheeraadka ah!"</string>
+<string name="share_noimgae_exceeded">"Waxaa kujirofaylal aan sawir ahayn lama wadaagi karo!"</string>
+<string name="exceed_text_length_limitation">"Waxay kabadantahay xadka loogu talagalay inuu qoraalku uusan dhaafin."</string>
+<string name="drm_no_application_open">"Mafurikaro fayl"</string>
+<string name="ok_drm_rights_consume">"OK"</string>
+<string name="cancel_drm_rights_consume">"Jooji"</string>
+<string name="orgdrm_no_share">" kuma shaqaynaayo lawadaagida fariin dirista"</string>
+<string name="drm_can_not_processed">" Faylka drmka lagama shaqaynkaro"</string>
+<string name="protect_information">"Macluumaadka ilaali"</string>
+<string name="drm_consume_title">"Kushaqee xuquuqdaDrm ka"</string>
+<string name="drm_consume_hint">"Hawshaada waxay kutumanaysaa xuquuqaha Drm ka"</string>
+<string name="drm_file_path">"Wadada:%1$s"</string>
+<string name="drm_file_name">"Magaca faylka:%1$s"</string>
+<string name="drm_rights_validity">"Saxnimada xuquuqda: sax ah"</string>
+<string name="drm_rights_invalidity">"Saxnimada xuquuqda; qalad ah"</string>
+<string name="drm_rights_status_transfer">"Xaalada Xuquuqaha: ee la ogolaaday in la diro"</string>
+<string name="drm_rights_status_untransfer">"Xaalada Xuquuqaha: een la ogolayn in ladiro"</string>
+<string name="drm_start_time">"Waqtiga Bilaabashada:%1$s"</string>
+<string name="drm_end_time">"Wqtiga Dhmaadka:%1$s"</string>
+<string name="drm_expiration_time">"Waqtiga dhicitaanka:%1$s"</string>
+<string name="drm_remain_times">"Waqtiyada Harida:%1$s"</string>
+<string name="drm_no_info">"Macluumaad maleh"</string>
+<string name="drm_unlimited_rights">"Aan xadidnayn"</string>
+<string name="drm_rights_unknown">"Aan la aqoon"</string>
+<string name="drm_inactive_rights">"Xuquuqda mashaqaynayaan"</string>
+<string name="drm_shared_not_drmdownload">"Urar tusiyaha soodajinta ee Drm ka oo kadibna lawadaad fadlan"</string>
+<string name="share_nofile_exceeded">"Kabadan xad loogu talagalay MMS ka!"</string>
+<string name="no_few_participants">"Majiraan kaqaygalayaal"</string>
+<string name="mms_validity_pref_title">"Dajinta saxnimada MMS ka"</string>
+<string name="sms_validity_pref_title">"Dajinta saxnimada SMS ka"</string>
+<string name="attach_vcalendar">"Ka-tirsiga"</string>
+<string name="confirm_import_vcalendar">"Soo shubo VCalendarkaan?"</string>
+<string name="confirm_save_otherfiles">"Seefgaree lifaaqaan?"</string>
+<string name="confirm_import">"Haa"</string>
+<string name="cancel_import">"Maya"</string>
+<string name="attach_other_file">"Fayl aan la aqoon"</string>
+<string name="copy_to_sdcard_success">""Lifaaqa wala keydiyay"<xliff:g id="copy_to_sdcard_success_id">%s</xliff:g>"</string>
+<string name="copy_to_sdcard_fail">"Lama kedyin karo lifaaqa."</string>
+<string name="attach_sound">"Cod"</string>
+<string name="select_vcard_button">"Kudhufo batoonka si aad ugaliso xiriirka"</string>
+<string name="select_video_button">"Kudhufo batoonka si aad ugasho fiidyowga"</string>
+<string name="select_audio_button">"Kudhufo batoonka si aad ugasho maqalka"</string>
+<string name="select_vcalendar_button">"Kudhufo batoonka si aad ugasho kal-tirsiga"</string>
+<string name="select_slideshow_button">"Kudhufo batoonka si aad ugasho Slideshow"</string>
+<string name="slideshow_detail_activity_title">"Bandhiga duubista"</string>
+<string name="no_mms_plugin">"Malaha booqasho sanduuq"</string>
+<string name="attachment_details">"Faahfaahinta lifaaqa"</string>
+<string name="context_menu_copy_to_sim_memory">"Ukoobi garee fariimaha SIMka"</string>
+<string name="copy_message_text">"Koobi garee qoraalka"</string>
+<string name="min_zoom">"Waxay gaartay xadka ugu hooseeya"</string>
+<string name="max_zoom">"Waxay gaartay xadka ugu sareeya"</string>
+<string name="message_details_text">"Faahfaahinta fariinta"</string>
+<string name="folder_reply">"Ujawaab"</string>
+<string name="new_message">"Fariin cusub"</string>
+<string name="folder_forward">"Xawilid"</string>
+<string name="delete_message">"tirtir"</string>
+<string name="menu_resend">"Hadana dir"</string>
+<string name="save_all_attachments">"Keydi lifaaqyada"</string>
+<string name="host_app_name">"fariin"</string>
+<string name="need_messaging_is_default_app">"Waa inaad dajisaa \"%1$s\" ee appka rasmiga ah ee fariimaha"</string>
+<string name="message_outgoing_successful">" dirista waa lagu guulaystay"</string>
+<string name="message_outgoing_failure">"Fariinta lama dirin"</string>
+<string name="share_unsupported_type">"Nooc aan shaqaynayn, lama wadaagi karo!"</string>
+<string name="mms_send_reports_pref_title">"Macluumaadka Mms dirida"</string>
+<string name="mms_send_reports_pref_summary">"Dalbo waxbixinta dirida ee MMS kasta ood dirto"</string>
+<string name="mms_delivery_reports_pref_title">"Warbixinada gudbinta MMS"</string>
+<string name="mms_delivery_reports_pref_summary">"Dalbo warbixinta dirida ee MMS kasta ood dirto"</string>
+<string name="mms_read_reports_pref_title">"Macluumaadka MMS aqrinta"</string>
+<string name="mms_read_reports_pref_summary">"Dalbo waxbixinta dirida ee MMS kasta ood dirto"</string>
+<string name="enable_return_mms_delivery_reports_pref_title">"Ogoloow Kanoqoshada warbixinada keenida MMSka"</string>
+<string name="enable_return_mms_delivery_reports_pref_summary">"Ogoloow waxbixinta Codsiga Celinta Codsi keenida ee MMS kasta ood dirto"</string>
+<string name="enable_return_mms_read_reports_pref_title">"Ogoloow Kanoqoshada warbixinada aqrinta MMSka"</string>
+<string name="enable_return_mms_read_reports_pref_summary">"Ogoloow waxbixinta Codsiga Celinta Codsi keenida ee MMS kasta ood dirto"</string>
+<string name="delivery_toast_body">"Fariin lahelay %s"</string>
+<string name="delivery_toast_body_expired">"Fariinta way dhacday . %s"</string>
+<string name="delivery_toast_body_fail_rejected">"Fariin la diiday . %s"</string>
+<string name="delivery_toast_body_fail">"Fariin aan lahelin %s"</string>
+<string name="read_report_toast_body">"Fariin la aqriyay . %s"</string>
+<string name="read_report_toast_body_fail">"Fariin aan la aqrin . %s"</string>
+<string name="mimetype_null">"nooca sagaalaad waa faaruq, makaydin karo lifaaqa"</string>
+<string name="pref_title_manage_simx_smsc">"SIM<xliff:g id="COUNT">%1$s</xliff:g> Xarunta Adeega SMSka"</string>
+<string name="pref_title_manage_sim_smsc">"Xarunta Adeega Fariimaha(SMS)"</string>
+<string name="smsc_set_fails">"Maraynta Smsc maguulaysan"</string>
+<string name="smsc_set_success">"Dajinta waa lagu guulaystay."</string>
+<string name="smsc_update_success">"Cusboonaysiinta waa lagu guulaystay"</string>
+<string name="smsc_cannot_be_null">"Smsc ma banaanaan karo"</string>
+<string name="smsc_should_be_number">"Smsc waa inuu nambaryahay"</string>
+<string name="smsc_list">"Liiska xarunta fariimaha"</string>
+<string name="smsc_list_empty">"Majiraan nambaro xarunta fariimaha ah"</string>
+<string name="smsc_list_loading">"Raadinaya"</string>
+<string name="smsc_list_empty_toast">"Fariinta lama dirin,majiro nambar xarun fariimeed"</string>
+<string name="smsc_list_empty_notify_des">"Fadlan kudar nambarka xarun fariimeed cusub"</string>
+<string name="smsc_list_empty_notify_title">"Majiraan nambar xarunta fariimaha ah"</string>
+<string name="shared_image_number_exceed">"Inta ugu badan ee nambarka sawirada la wadaago waa %d, dheeraadka waa lagasaaraa."</string>
+<string name="drm_unsupported_toast">"Faylka DRM lama helikaro. Fadlan dooro fayl kale."</string>
+<string name="err_sent_no_sim">"Fariinta lama dirin, SIMkaar kumajiro"</string>
+<string name="is_redirect_to">"Waxaa loowareejiyay %1$s ?"</string>
+<string name="browser">"Browser-ka"</string>
+<string name="email">"Iimayl"</string>
+<string name="telephone">"Telephone"</string>
+<string name="map">"Qariirada"</string>
+<string name="message_signature_setting">"Saxiixa Habaynta"</string>
+<string name="pref_signature_enable_title">"Saxiix aan qasab ahayn"</string>
+<string name="pref_signature_enabl_summary">"Kudar saxiix si iskiisa ufurmaya fariin kasta ood dirto"</string>
+<string name="pref_signature_input_title">"Waxkabadal Saxiixa"</string>
+<string name="pref_signature_input_summary">"Halkaan gal si aad ubadasho saxiixaaga"</string>
+<plurals name="attachments_saved_dir">
+<item quantity="one">"<xliff:g id="quantity">%d</xliff:g> faylka lifaaqda waxaa lagu keydiyay \"<xliff:g id="dir">%s</xliff:g>\""</item>
+<item quantity="other">"<xliff:g id="quantity">%d</xliff:g> Faylalka lifaaqda waxaa lagu keydiyay \"<xliff:g id="dir">%s</xliff:g>\""</item>
+</plurals>
+<string name="no_permissions">"Majiraan Ogolaanshoyaal"</string>
+<string name="no_call_permissions">"Majiraan fasaxyo WICITAANKA ah"</string>
+<string name="folder_loading">"Raadinaya.."</string>
+<string name="sms_merge_forward_empty">"MajiroFariin qoraaleed la isku daro oo lagudbiyo."</string>
+<string name="sms_forward">"Xawilid"</string>
+<string name="sms_merge_dialog_title">"Degdeg ah"</string>
+<string name="sms_merge_dialog_content1">"Waxaad kaliya isku dari kartaa inta udhaxaysa %d ee Fariimo qoraaleed yada "</string>
+<string name="sms_merge_dialog_content2">"iyo %d Fariimo qoraaleedka. Fadlan hubi."</string>
+<string name="messagelist_sender_self">"Aniga"</string>
+<string name="sms_merge_forward">"Iskudar kudbina"</string>
+<string name="muti_select_all">"Dooro dhamaan"</string>
+<string name="menu_select_none">"Jooji dhammaan"</string>
+<string name="sms_merge_dialog_content_exceed">"Waxaad iskudartaa waxyaabaha fariinta lagudbiyay %d e kasareya xadaynta, fadlan hubi markale!"</string>
+<string name="no_sms_permissions">"Majiro fariimo la ogolyahay, madhagaysankaro cod."</string>
+<string name="smil_subject_hint">"Majiro mawduuc MMS ah, wax waad kabadali kartaa"</string>
+<string name="smil_out_of_size">"Memory la\'aan"</string>
+<string-array name="smil_choice_items">
+<item>"Iskaanka snil"</item>
+<item>"Shid jiidjiidka"</item>
+</string-array>
+<string name="video_content_type">"Fiidyoow:"</string>
+<string name="iamge_content_type">"Sawir:"</string>
+<string name="audio_content_type">"Cod:"</string>
+<string name="subject_edit">"Waxkabadalida mawduuca"</string>
+<string name="text_edit">"Waxkabadalida qoraalka"</string>
+<string name="repalce_slide">"Badalida jiitinta"</string>
+<string name="remove_slide">"Kasaar jiitinta"</string>
+<string name="insert_befor_slide">"Gali intaadan jiidin"</string>
+<string name="insert_after_slide">"Gali kadib markaad jiido"</string>
+<string name="add_attachment">"Kudar Lifaaq"</string>
+<string name="remove_attachment">"Kasaar lifaaqa"</string>
+<string name="repalce_attachment">"Badal Lifaaqa"</string>
+<string name="hint_for_input">"Fadlan si aad wax uga badasho"</string>
+<string name="hint_for_empty">"Fadlan si aad wax uga badasho, booska lifaaqa hada waa lifaaq maran."</string>
+<string name="goto_smil">"Bandhiga duubista"</string>
+<string name="smil_subject">"Mawduuca :"</string>
+<string name="action_sim_sms">"Fariimaha kujira SIM kaarka"</string>
+<string name="sms_save_to_sim_pref_title">"Ku keydi fariinta SIMka"</string>
+<string name="sms_save_to_sim_pref_summary">"Markaaad diraysid SMS cusub, kukaydi SIM ka ama kadaa"</string>
+<string name="sms_sim_full_title">"Sim-ka waa buuxa"</string>
+<string name="sms_sim_full_notification_ticker">"Kaydiye fariimeed yar. Waxaad ubaahankartaa inaad fariimo tirtirto."</string>
+<string name="sms_sim_full_text">"simka wuu buuxaa, fariinta waxaa lagu kaydinayaa maclumad kaydiyaha fariinta. Fadlan kana tirtir fariinta simkaarka hadaad rabto in aad markale kuseefgarayso simka。"</string>
+<plurals name="search_results_title">
+<item quantity="one">"<xliff:g id="NUMBER">%1$s</xliff:g> Walaxda waxay kudhigantaa“<xliff:g id="SEARCH">%2$s</xliff:g>”natiijada baarisyada"</item>
+<item quantity="other">"<xliff:g id="NUMBER">%1$s</xliff:g> Waxyaalaha waxay kudhigmaan“<xliff:g id="SEARCH">%2$s</xliff:g>”natiijada baarisyada"</item>
+</plurals>
+<string name="menu_search_text">"Baar"</string>
+<string name="search_label">"Fariin qorid"</string>
+<string name="search_hint">"Raadi fariin dirida"</string>
+<string name="search_max_length">"Jumlada baarista aad bay udheertahay, waa inay ku ekaato 512."</string>
+<string name="search_setting_description">"Qoraalka fariimahaaga"</string>
+<string name="search">"Fariin qorid"</string>
+<string name="search_empty">"Wax u eg maleh."</string>
+<string name="search_history">"<xliff:g id="count">%1$s</xliff:g> natiijooyinka \"<xliff:g id="search">%2$s</xliff:g>\""</string>
+<string name="can_not_add_same_attachment">"Laguma celinkaro si isla lifaaqa loogu daro"</string>
+<string name="can_not_add_same_picture">"Laguma celinkaro si isla sawirka loogu daro"</string>
+<string name="smil_add_text">"Kudar Lifaaq qoraaleed"</string>
+<string name="smil_update_text">"Waa lagu guulaystay cusboonaysiinta lifaaq qoraaleedka"</string>
+<string name="smil_empty_content">"Wax maran, hadirin!"</string>
+<string name="exceed_participant_limit">"Tirada kaqayb galayaashu waxay kabateen xadkii larabay(<xliff:g>%1$s</xliff:g>), fadlan tir <xliff:g>%2$s</xliff:g> kuwo."</string>
+<string name="folder_view_menu_item_title">"Booqashada sanduuqa"</string>
+<string name="capacity_sim_message_title">"Awoodda SIM-ka"</string>
+<string name="capacity_sim_message_summary">"Xajmiga Hada/Ugu badan:%s"</string>
+<string name="audio_record_retry">"Fadlan xir duubista hoose markalana kuceli."</string>
+<string name="contact_invalid">"Contact khalad ah, fadlan dooro contact sax ah markale."</string>
+<string name="message_size_counting">"Tirin"</string>
+<string name="pref_encode_type_setting_title">"Badalida nooca habaynta"</string>
+<string name="pref_encode_type_title">"Nooca nambar-sireedka"</string>
+<string name="fdn_check_failure">"Waxaad fariin udirikartaa kaliya nambaradaada go\'an ee aad wacdo."</string>
+<string name="data_call_fdn_check_failure">"MMS lama diri karo maadaama FDN laogolaaday. Fadlan kudar *99# liiska FDN ka kadibna iskuday."</string>
+<string name="smsc_fdn_check_failure">"Fariin lama diri karo maadaama FDN laogolaaday, nambarka xaruntaada fariimahana uusan ujirin liiska FDN."</string>
+<string name="smil_wait_comparing_att_size">"Wareegsanaya, fadlan sug daqiiqad !"</string>
+<string name="smil_max_slide_count">"Waxaad kudari kartaa kaliya %s jiitimo"</string>
+<string name="sms_wap_pref_title">"Ogolow fariinta wap ka"</string>
+<string name="sms_wap_pref_summary">"Ogolow si aad uhesho fariinta wap ka"</string>
+<string name="smil_Player_title">"SMILPlayer"</string>
+<string name="smil_caption_description">"SMIL"</string>
+<string name="smil_caption_edit_hint">"(Kudhufo si aad wax uga badasho)"</string>
+<string name="show_save_attachment_info">"Seefgaree?"</string>
+<string name="attachment_save_success">"Kaydinta waa lagu guulaystay"</string>
+<string name="unread_message_count">"Macluumaadka aan la aqrin"</string>
+<string name="mms_convert_to_smil_title">"Ubadal jiitimo"</string>
+<string name="mms_convert_to_smil_message">"Mms waxaa loo badalayaa jiitimo, taaso keeni karta liifaaqyo qaar aan kushaqaynayn habka jiitinka, mahubtaa?"</string>
+<string name="confirm_convert">"OK"</string>
+<string name="cancel_convert">"Jooji"</string>
+<string name="smil_max_part_count">"Waxaad kaliya kudari kartaa %s lifaaqyo jiitinka"</string>
+<string name="smil_add_error_same_content_type">"Kuma dari kartid labo nooc oo lifaaqyo media ah hal jiitin gudaheed."</string>
+<string name="smil_add_error_video_conflict">"Fiidyoow lama galin karo jiitin taaso leh cod ama sawir."</string>
+<string name="smil_replace_error_same_content_type">"Lama badali karo waayo labo nooc media lifaaqyo ah lama galin karo hal jiitin."</string>
+<string name="smil_replace_error_video_conflict">"Fiidtoow laguma badali karo, fadlan bixi lifaaqyada iskuna day markale."</string>
+<string name="smil_edit_hint">"Jiitimaha, kudhufo si aad wax uga badasho."</string>
+<string name="smil_unsupported_content_type">"Nooca waxyaabaha kujira ma shaqaynayo."</string>
+<string name="pref_internal_memory_usage_title">"MMS/Lahelikaro/Wadarta guud"</string>
+<string name="pref_internal_memory_usage_progress_summary">"Xisaabinta inta kabanaan Maskaxda (Memory)..."</string>
+<string name="discard_message_reason">"Fariintaada waa latuuray waayo malaha loodire sax ah."</string>
+<string name="no_common_phrase">"Majiraan erayo aad badanaa adeegsato"</string>
+<string name="action_copy_to_sim">"Nuqul ku sameey SIM-ka"</string>
+<string name="select_sim">"Doorot SIM-ka"</string>
+<string name="sim_space_not_enough">"Booska ubanaan sms ka kuma filna SIM ka dhexdiisa"</string>
+<string name="move_message_to_phone_memory">"Fariinta loo koobigareeyay maskaxda teleefanka waa lagu guulaystay"</string>
+<string name="can_not_copy_the_message">"Makoobi garaynkartid farinta"</string>
+<string name="failed_to_add_media">"Tan kuma dari kartid <xliff:g id="name">%1$s</xliff:g> fariintaada."</string>
+<string name="contentType_audio">"Cod"</string>
+<string name="contentType_video">"Fiidyoow"</string>
+<string name="contentType_image">"Sawir"</string>
+<string name="contentType_other">"Ma suuragalayso in lawadaago nooc fayl aan shaqaynayn"</string>
+<string name="no_record_audio_permission">"Lama ogola in cod laduubo!"</string>
+<string name="close_float_video">"Xir qaybta fidyoowga markaad furayso kaamirada."</string>
+<string name="unable_get_data">"Lama heli karo data_da"</string>
+<string name="unexpected_recording_error">"Fadlan xir appka duubista markalana kuceli."</string>
+<string name="add_contacts_dialog_title">"Kudar Xiriirada"</string>
+<string name="add_contact_as_text">"Fariin qoraal"</string>
+<string name="file_not_found_exception">"Faylka kuma jiro!"</string>
+<string name="pref_title_mms_size_limit">"Xadka udagsan xajmiga MMS"</string>
+<string name="pref_summary_mms_size_limit">"Xadka udagsan xajmiga MMS marka ladiraayo fariin"</string>
+<string name="sub_card_download_mms_noti">"Daar khadka marka kaarka caawimaadu helo MMS"</string>
+<string name="compressing">"Sawirka aad buu ubalaaranayahay, yaryarayn\u2026"</string>
+<string name="add_contact_toast">"Fadlan kudar contact marka hore"</string>
+<string name="folder_display_option">"Dookhyada soobandhigida"</string>
+<string name="folder_sortby">"Ku kala sooc"</string>
+<string name="folder_delete_messages">"Tirtir fariimaha"</string>
+<string name="sort_msg_list_empty_text">"Waad arki doontaa fariimaha halkaan lagu taxay"</string>
+<string name="folder_display_all">"Soobixi dhamaan fariimaha"</string>
+<string name="delete_messages_confirmation_dialog_title">"Tirtir fariimaha ladoortay?"</string>
+<string name="delete_message_fail">"Tirtirida fariimaha ladoortay laguma guulaysan!"</string>
+<string name="have_select_message">"Ladoortay %1$d"</string>
+<string name="copy_sim_sms_to_phone">"Ukoobi garee fariimaha teleefanka"</string>
+<string name="simsms_title">"Fariimaha kujira SIM kaarka"</string>
+<string name="copy_fail">"Koobi garaynta aa lagu fashilmay!"</string>
+<string-array name="sort_type">
+<item>"Hoos usocoshada waqtiga"</item>
+<item>"Kor usocoshada waqtiga"</item>
+<item>"Hoos usocoshadaciwaanka"</item>
+<item>"Kor usocoshadaciwaanka"</item>
+</string-array>
+</resources>

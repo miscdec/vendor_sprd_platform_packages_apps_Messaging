@@ -1,0 +1,504 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="share_intent_activity_label">"تحديد محادثة"</string>
+    <string name="action_settings">"الإعدادات"</string>
+    <string name="sendButtonContentDescription">"إرسال رسالة"</string>
+    <string name="attachMediaButtonContentDescription">"إضافة مرفق"</string>
+    <string name="help_and_feedback_activity_label">"مساعدة"</string>
+    <string name="welcome">"مرحبًا"</string>
+    <string name="skip">"تخطٍ"</string>
+    <string name="next_with_arrow">"‏التالي &gt;"</string>
+    <string name="next">التالي</string>
+    <string name="exit">"خروج"</string>
+    <string name="settings_with_arrow">"‏الإعدادات &gt;"</string>
+    <string name="settings">"الإعدادات"</string>
+    <string name="required_permissions_promo">"‏يحتاج تطبيق المراسلة إلى إذن للوصول إلى الرسائل القصيرة SMS والهاتف وجهات الاتصال."</string>
+    <string name="enable_permission_procedure">"‏يمكنك تغيير الأذونات من خلال الإعدادات &gt; التطبيقات &gt; المراسلة &gt; الأذونات."</string>
+    <string name="enable_permission_procedure_description">"يمكنك تغيير الأذونات من خلال الانتقال إلى الإعدادات، التطبيقات، المراسلة، الأذونات."</string>
+    <string name="contact_picker_frequents_tab_title">"من يتم الاتصال بهم بشكل متكرر"</string>
+    <string name="contact_picker_all_contacts_tab_title">"كل جهات الاتصال"</string>
+    <string name="contact_list_send_to_text">"إرسال إلى <xliff:g id="DESTINATION">%s</xliff:g>"</string>
+    <string name="mediapicker_cameraChooserDescription">"التقاط الصور أو الفيديو"</string>
+    <string name="mediapicker_galleryChooserDescription">"اختيار صور من هذا الجهاز"</string>
+    <string name="mediapicker_audioChooserDescription">"تسجيل الصوت"</string>
+    <string name="mediapicker_gallery_title">"اختيار صورة"</string>
+    <string name="mediapicker_gallery_item_selected_content_description">"تم تحديد الوسائط."</string>
+    <string name="mediapicker_gallery_item_unselected_content_description">"تم إلغاء تحديد الوسائط."</string>
+    <string name="mediapicker_gallery_title_selection">"تم تحديد <xliff:g id="COUNT">%d</xliff:g>"</string>
+    <string name="mediapicker_gallery_image_item_description">"صورة <xliff:g id="DATE">%1$tB %1$te %1$tY %1$tl %1$tM %1$tp</xliff:g>"</string>
+    <string name="mediapicker_gallery_image_item_description_no_date">"الصور"</string>
+    <string name="mediapicker_audio_title">"تسجيل الصوت"</string>
+    <string name="action_share">"مشاركة"</string>
+    <string name="posted_just_now">"للتو"</string>
+    <string name="posted_now">"الآن"</string>
+    <string name="class_0_message_activity">"رسالة من الفئة 0"</string>
+    <string name="save">"حفظ"</string>
+    <string name="sms_storage_low_auto_delete_enabled_dialog_text">"مساحة الجهاز منخفضة. سيحذف تطبيق المراسلة الرسائل القديمة تلقائيًا لتحرير مساحة."</string>
+    <string name="sms_storage_low_title">"مساحة التخزين منخفضة"</string>
+    <string name="sms_storage_low_text">"ربما لا يرسل تطبيق المراسلة رسائل أو يتلقاها ما لم تتوفر المزيد من المساحة على جهازك."</string>
+    <string name="sms_storage_low_notification_ticker">"‏سعة تخزين الرسائل القصيرة SMS منخفضة. ربما تحتاج إلى حذف بعض الرسائل."</string>
+    <string name="enter_phone_number_title">"تأكيد رقم الهاتف"</string>
+    <string name="enter_phone_number_text">"ستضمن هذه الخطوة - التي يتم تنفيذها مرة واحدة فقط - تسليم تطبيق المراسلة لرسائلك الجماعية بشكل صحيح."</string>
+    <string name="enter_phone_number_hint">"رقم الهاتف"</string>
+    <string name="delete_all_media">"حذف جميع الرسائل التي تتضمن وسائط"</string>
+    <string name="delete_oldest_messages">"حذف الرسائل الأقدم من <xliff:g id="DURATION">%s</xliff:g>"</string>
+    <string name="auto_delete_oldest_messages">"حذف الرسائل الأقدم من <xliff:g id="DURATION">%s</xliff:g> تلقائيًا"</string>
+    <string name="ignore">تجاهل</string>
+    <string name="delete_all_media_confirmation">"هل تريد حذف كل الرسائل التي تتضمن ملفات وسائط؟"</string>
+    <string name="delete_oldest_messages_confirmation">"هل تريد حذف الرسائل الأقدم من <xliff:g id="DURATION">%s</xliff:g>؟"</string>
+    <string name="auto_delete_oldest_messages_confirmation">"هل تريد حذف الرسائل الأقدم من <xliff:g id="DURATION">%s</xliff:g> وتشغيل الحذف التلقائي؟"</string>
+    <string name="incoming_text_sender_content_description">"قال <xliff:g id="SENDER">%s</xliff:g>"</string>
+    <string name="outgoing_text_sender_content_description">"أنت قلت"</string>
+    <string name="incoming_sender_content_description">"رسالة من <xliff:g id="SENDER">%s</xliff:g>:"</string>
+    <string name="outgoing_sender_content_description">"لقد أرسلت رسالة"</string>
+    <string name="message_status_sending">"جارٍ الإرسال..."</string>
+    <string name="message_status_send_failed">"لم يتم إرسال الرسالة. المس لإعادة المحاولة."</string>
+    <string name="user_not_exist">"لا يوجد هذا المستخدم."</string>
+    <string name="message_status_send_retrying">"لم يتم إرسال الرسالة. جارٍ إعادة المحاولة…"</string>
+    <string name="message_status_resend">"إعادة إرسال أو حذف"</string>
+    <string name="message_status_send_failed_emergency_number">"الرجاء إجراء مكالمة صوتية لخدمات الطوارئ. يتعذر توصيل رسالتك النصية في الوقت الحالي."</string>
+    <string name="message_status_failed">فشل</string>
+    <string name="message_title_manual_download">"هناك رسالة وسائط متعددة جديدة للتنزيل"</string>
+    <string name="message_title_downloading">"رسالة وسائط متعددة جديدة"</string>
+    <string name="message_title_download_failed">"تعذر التنزيل"</string>
+    <string name="message_status_download_failed">"المس لإعادة المحاولة"</string>
+    <string name="message_status_download">"المس للتنزيل"</string>
+    <string name="message_status_download_action">"تنزيل أو حذف"</string>
+    <string name="message_status_downloading">"جارٍ التنزيل…"</string>
+    <string name="message_status_download_error">"انتهت صلاحية الرسالة أو ليست متاحة"</string>
+    <string name="mms_info">"الحجم: <xliff:g id="MESSAGESIZE">%1$s</xliff:g>، تاريخ انتهاء الصلاحية: <xliff:g id="MESSAGEEXPIRE">%2$s</xliff:g>"</string>
+    <string name="invalid_destination">"يتعذر الإرسال. المستلم غير صالح."</string>
+    <string name="service_not_activated">"لم يتم تنشيط الخدمة على الشبكة"</string>
+    <string name="service_network_problem">"تعذر الإرسال بسبب حدوث مشكلة في الشبكة"</string>
+    <string name="service_message_not_found">"انتهت صلاحية الرسالة أو ليست متاحة"</string>
+    <string name="no_subject">"(بدون موضوع)"</string>
+    <string name="unknown_sender">"مرسل غير معروف"</string>
+    <string name="delivered_status_content_description">"تم التسليم"</string>
+    <string name="dl_failure_notification">"تعذر تنزيل الرسالة <xliff:g id="SUBJECT">%1$s</xliff:g> من <xliff:g id="FROM">%2$s</xliff:g>."</string>
+    <string name="low_memory">"تعذر إتمام تشغيل قاعدة البيانات نظرًا لانخفاض الذاكرة"</string>
+    <string name="notification_send_failures_line1_singular">"لم يتم إرسال الرسالة"</string>
+    <string name="notification_send_failures_line1_plural">"لم يتم إرسال بعض الرسائل في تطبيق المراسلة"</string>
+    <string name="notification_download_failures_line1_singular">"لم يتم تنزيل الرسالة"</string>
+    <string name="notification_download_failures_line1_plural">"لم يتم تنزيل بعض الرسائل في تطبيق المراسلة"</string>
+    <string name="notification_emergency_send_failure_line1">"لم يتم إرسال رسالة إلى <xliff:g id="NUMBER">%1$s</xliff:g>"</string>
+    <string name="notification_emergency_send_failure_line2">"الرجاء إجراء مكالمة صوتية لخدمات الطوارئ. يتعذر إرسال رسالتك النصية إلى <xliff:g id="NUMBER">%1$s</xliff:g> في الوقت الحالي."</string>
+    <string name="start_conversation">البدء</string>
+    <string name="camera_error_opening">"لا تتوفر كاميرا"</string>
+    <string name="camera_error_unknown">"لا تتوفر كاميرا"</string>
+    <string name="camera_error_video_init_fail">"ميزة التقاط الفيديو غير متاحة"</string>
+    <string name="camera_error_storage_fail">"يتعذر حفظ ملف الوسائط"</string>
+    <string name="camera_error_failure_taking_picture">"لا يمكن التقاط الصورة"</string>
+    <string name="back">"رجوع"</string>
+    <string name="action_menu_show_archived">"تمت الأرشفة"</string>
+    <string name="action_delete">"حذف"</string>
+    <string name="action_archive">"وضع في الأرشيف"</string>
+    <string name="action_unarchive">"إزالة من الأرشيف"</string>
+    <string name="action_notification_off">"إيقاف الإشعارات"</string>
+    <string name="action_notification_on">"تشغيل الإشعارات"</string>
+    <string name="action_add_contact">"إضافة جهة اتصال"</string>
+    <string name="action_download">تحميل</string>
+    <string name="action_send">"إرسال"</string>
+    <string name="action_delete_message">"حذف"</string>
+    <string name="delete_message_confirmation_dialog_title">"هل تريد حذف هذه الرسالة؟"</string>
+    <string name="delete_message_confirmation_dialog_text">"لا يمكن التراجع عن هذا الإجراء."</string>
+    <string name="delete_message_confirmation_button">"حذف"</string>
+    <string name="delete_conversation_confirmation_button">"حذف"</string>
+    <string name="delete_conversation_decline_button">"إلغاء"</string>
+    <string name="recipient_hint">"إلى"</string>
+    <string name="action_multiselect">"تحديد صور متعددة"</string>
+    <string name="action_confirm_multiselect">"تأكيد التحديد"</string>
+    <string name="audio_recording_start_failed">"يتعذر تسجيل الصوت. أعد المحاولة."</string>
+    <string name="audio_recording_replay_failed">"يتعذر تشغيل الصوت. أعد المحاولة."</string>
+    <string name="audio_recording_error">"تعذر حفظ الصوت. أعد المحاولة."</string>
+    <string name="audio_picker_hint_text">"اللمس مع الاستمرار"</string>
+    <string name="enumeration_comma">"، "</string>
+    <string name="notification_separator">"  "</string>
+    <string name="notification_ticker_separator">": "</string>
+    <string name="notification_space_separator">"  "</string>
+    <string name="notification_picture">"صورة"</string>
+    <string name="notification_audio">"مقطع صوتي"</string>
+    <string name="notification_video">"فيديو"</string>
+    <string name="notification_vcard">"بطاقة جهة الاتصال"</string>
+    <string name="notification_download_mms">تحميل</string>
+    <string name="notification_reply_via_sms">"‏الرد عبر رسالة قصيرة SMS"</string>
+    <string name="notification_reply_via_mms">"الرد عبر رسالة وسائط متعددة"</string>
+    <string name="notification_reply_prompt">رد</string>
+    <string name="unknown_self_participant">"أنا"</string>
+    <string name="blocked_toast_message">"تم حظر جهة الاتصال وأرشفتها"</string>
+    <string name="unblocked_toast_message">"تم إلغاء حظر جهة الاتصال وإلغاء أرشفتها"</string>
+    <string name="archived_toast_message">"تم وضع <xliff:g id="COUNT">%d</xliff:g> في الأرشيف"</string>
+    <string name="unarchived_toast_message">"تمت إزالة <xliff:g id="COUNT">%d</xliff:g> من الأرشيف"</string>
+    <string name="notification_off_toast_message">"تم تعطيل الإشعارات"</string>
+    <string name="notification_on_toast_message">"تم تشغيل الإشعارات"</string>
+    <string name="toast_after_setting_default_sms_app_for_message_send">"اكتمل الإعداد. المس \"إرسال\" مرة أخرى."</string>
+    <string name="toast_after_setting_default_sms_app">"‏تم تعيين تطبيق المراسلة كتطبيق الرسائل القصيرة SMS الافتراضي بنجاح."</string>
+    <string name="audio_attachment_content_description">"مرفق صوتي"</string>
+    <string name="audio_play_content_description">"تشغيل المرفق الصوتي"</string>
+    <string name="audio_pause_content_description">"توقف مؤقت"</string>
+    <string name="incoming_message_announcement">"رسالة من <xliff:g id="SENDER">%s</xliff:g>: <xliff:g id="MESSAGE">%s</xliff:g>."</string>
+    <string name="one_on_one_incoming_failed_message_prefix">"رسالة تعذر إرسالها من <xliff:g id="SENDER">%s</xliff:g>: <xliff:g id="MESSAGE">%s</xliff:g>. الوقت: <xliff:g id="TIME">%s</xliff:g>."</string>
+    <string name="one_on_one_incoming_successful_message_prefix">"رسالة من <xliff:g id="SENDER">%s</xliff:g>: <xliff:g id="MESSAGE">%s</xliff:g>. الوقت: <xliff:g id="TIME">%s</xliff:g>."</string>
+    <string name="one_on_one_outgoing_draft_message_prefix">"رسالة لم يتم إرسالها إلى <xliff:g id="CONTACT">%s</xliff:g>: <xliff:g id="MESSAGE">%s</xliff:g>. الوقت: <xliff:g id="TIME">%s</xliff:g>."</string>
+    <string name="one_on_one_outgoing_sending_message_prefix">"جارٍ إرسال رسالة إلى <xliff:g id="CONTACT">%s</xliff:g>: <xliff:g id="MESSAGE">%s</xliff:g>. الوقت: <xliff:g id="TIME">%s</xliff:g>."</string>
+    <string name="one_on_one_outgoing_failed_message_prefix">"رسالة تعذر إرسالها إلى <xliff:g id="CONTACT">%s</xliff:g>: <xliff:g id="MESSAGE">%s</xliff:g>. الوقت: <xliff:g id="TIME">%s</xliff:g>."</string>
+    <string name="one_on_one_outgoing_successful_message_prefix">"رسالة إلى <xliff:g id="CONTACT">%s</xliff:g>: <xliff:g id="MESSAGE">%s</xliff:g>. الوقت: <xliff:g id="TIME">%s</xliff:g>."</string>
+    <string name="group_incoming_failed_message_prefix">"رسالة تعذر إرسالها من <xliff:g id="SENDER">%s</xliff:g>: <xliff:g id="MESSAGE">%s</xliff:g>. الوقت: <xliff:g id="TIME">%s</xliff:g>. <xliff:g id="GROUPINFO">%s</xliff:g>."</string>
+    <string name="group_incoming_successful_message_prefix">"رسالة من <xliff:g id="SENDER">%s</xliff:g>: <xliff:g id="MESSAGE">%s</xliff:g>. الوقت: <xliff:g id="TIME">%s</xliff:g>. <xliff:g id="GROUPINFO">%s</xliff:g>."</string>
+    <string name="group_outgoing_draft_message_prefix">"رسالة لم يتم إرسالها إلى <xliff:g id="GROUP">%s</xliff:g>: <xliff:g id="MESSAGE">%s</xliff:g>. الوقت: <xliff:g id="TIME">%s</xliff:g>."</string>
+    <string name="group_outgoing_sending_message_prefix">"جارٍ إرسال رسالة إلى <xliff:g id="GROUP">%s</xliff:g>: <xliff:g id="MESSAGE">%s</xliff:g>. الوقت: <xliff:g id="TIME">%s</xliff:g>."</string>
+    <string name="group_outgoing_failed_message_prefix">"رسالة تعذر إرسالها إلى <xliff:g id="GROUP">%s</xliff:g>: <xliff:g id="MESSAGE">%s</xliff:g>. الوقت: <xliff:g id="TIME">%s</xliff:g>."</string>
+    <string name="group_outgoing_successful_message_prefix">"رسالة إلى <xliff:g id="GROUP">%s</xliff:g>: <xliff:g id="MESSAGE">%s</xliff:g>. الوقت: <xliff:g id="TIME">%s</xliff:g>."</string>
+    <string name="failed_message_content_description">"رسالة تعذر إرسالها. المس لإعادة المحاولة."</string>
+    <string name="group_conversation_description">"محادثة مع <xliff:g id="PARTICIPANTS">%s</xliff:g>"</string>
+    <string name="delete_subject_content_description">"حذف الموضوع"</string>
+    <string name="camera_switch_to_video_mode">"التقاط فيديو"</string>
+    <string name="camera_switch_to_still_mode">"التقاط صورة ثابتة"</string>
+    <string name="camera_take_picture">"التقاط صورة"</string>
+    <string name="camera_start_recording">"بدء تسجيل الفيديو"</string>
+    <string name="camera_switch_full_screen">"التبديل إلى الكاميرا بملء الشاشة"</string>
+    <string name="camera_switch_camera_facing">"التبديل بين الكاميرا الأمامية والخلفية"</string>
+    <string name="camera_stop_recording">"وقف التسجيل وإرفاق مقطع الفيديو"</string>
+    <string name="camera_cancel_recording">"إيقاف تسجيل الفيديو"</string>
+    <string name="photo_view_activity_title">"صور المراسلة"</string>
+    <string name="attachment_file_description">"تم حفظ مرفق رسالة الوسائط المتعددة"</string>
+    <string name="settings_activity_title">"الإعدادات"</string>
+    <string name="archived_activity_title">"تمت الأرشفة"</string>
+    <string name="action_close">"إغلاق"</string>
+    <string name="mms_messaging_category_pref_title">" رسائل الوسائط المتعددة"</string>
+    <string name="advanced_category_pref_title">"الإعدادات المتقدمة"</string>
+    <string name="debug_category_pref_title">"تصحيح الأخطاء"</string>
+    <string name="notifications_enabled_pref_title">"التنبيهات"</string>
+    <string name="notification_sound_pref_title">"الصوت"</string>
+    <string name="silent_ringtone">صامت</string>
+    <string name="notification_vibrate_pref_title">"الاهتزاز"</string>
+    <string name="blocked_pref_title">"محظور"</string>
+    <string name="delivery_reports_pref_title">"‏تقارير تسليم الرسائل القصيرة SMS"</string>
+    <string name="delivery_reports_pref_summary">"‏طلب تقرير تسليم لكل رسالة قصيرة SMS ترسلها"</string>
+    <string name="auto_retrieve_mms_pref_title">"استرداد تلقائي"</string>
+    <string name="auto_retrieve_mms_pref_summary">"استرداد رسائل الوسائط المتعددة تلقائيًا"</string>
+    <string name="auto_retrieve_mms_when_roaming_pref_title">"استرداد تلقائي للتجوال"</string>
+    <string name="auto_retrieve_mms_when_roaming_pref_summary">"استرداد رسائل الوسائط المتعددة عند التجوال تلقائيًا"</string>
+    <string name="group_mms_pref_title">"المراسلة الجماعية"</string>
+    <string name="group_mms_pref_summary">"يمكنك استخدام رسائل الوسائط المتعددة لإرسال رسالة واحدة عندما يكون هناك عدة مستلمين"</string>
+    <string name="mms_phone_number_pref_title">"رقم هاتفك"</string>
+    <string name="unknown_phone_number_pref_display_value">"غير معروف"</string>
+    <string name="send_sound_pref_title">"أصوات الرسائل الصادرة"</string>
+    <string name="dump_sms_pref_title">"‏تفريغ الرسائل القصيرة SMS"</string>
+    <string name="dump_sms_pref_summary">"‏تفريغ البيانات الأولية للرسائل القصيرة SMS في ملف تخزين خارجي"</string>
+    <string name="dump_mms_pref_title">"تفريغ رسائل الوسائط المتعددة"</string>
+    <string name="dump_mms_pref_summary">"تفريغ البيانات الأولية لرسائل الوسائط المتعددة في ملف تخزين خارجي"</string>
+    <string name="wireless_alerts_title">"تنبيهات لاسلكية"</string>
+    <string name="message_context_menu_title">"خيارات الرسالة"</string>
+    <string name="message_context_menu_copy_text">"نسخ النص"</string>
+    <string name="message_context_menu_view_details">"عرض التفاصيل"</string>
+    <string name="message_context_menu_delete_message">"حذف"</string>
+    <string name="message_context_menu_forward_message">"إلى الأمام"</string>
+    <string name="message_details_title">"تفاصيل الرسالة"</string>
+    <string name="message_type_label">"النوع: "</string>
+    <string name="text_message">"رسالة نصية"</string>
+    <string name="multimedia_message">"رسالة وسائط متعددة"</string>
+    <string name="from_label">"من: "</string>
+    <string name="to_address_label">"إلى: "</string>
+    <string name="sent_label">"تم الإرسال: "</string>
+    <string name="received_label">"تم التلقي: "</string>
+    <string name="subject_label">"الموضوع: "</string>
+    <string name="message_size_label">"الحجم: "</string>
+    <string name="priority_label">"الأولوية: "</string>
+    <string name="sim_label">"SIM: "</string>
+    <string name="priority_high">"مرتفع"</string>
+    <string name="priority_normal">طبيعي</string>
+    <string name="priority_low">"منخفض"</string>
+    <string name="sim_slot_identifier">"SIM <xliff:g id="SIM_SLOT_NUMBER">%s</xliff:g>"</string>
+    <string name="hidden_sender_address">"عنوان المرسل المخفي"</string>
+    <string name="cant_send_message_while_loading_attachments">"يتعذر إرسال رسالة أثناء تحميل المرفقات."</string>
+    <string name="fail_to_load_attachment">"يتعذر تحميل المرفق. أعد المحاولة."</string>
+    <string name="cant_send_message_without_active_subscription">"الشبكة ليست جاهزة بعد. يمكنك إعادة المحاولة."</string>
+    <string name="chips_text_delete_button_content_description">"حذف النص"</string>
+    <string name="numeric_text_keyboard_toggle_button_content_description">"التبديل بين إدخال النص والأرقام"</string>
+    <string name="add_more_participants_button_content_description">"إضافة مزيد من المشاركين"</string>
+    <string name="confrim_participants_button_content_description">"تأكيد المشاركين"</string>
+    <string name="start_new_conversation">"بدء محادثة جديدة"</string>
+    <string name="gallery_checkbox_content_description">"تحديد هذا العنصر"</string>
+    <string name="video_thumbnail_view_play_button_content_description">"تشغيل الفيديو"</string>
+    <string name="action_people_and_options">"الأشخاص والخيارات"</string>
+    <string name="action_debug_options">"تصحيح الأخطاء"</string>
+    <string name="people_and_options_activity_title">"الأشخاص والخيارات"</string>
+    <string name="general_settings_title">عامة</string>
+    <string name="participant_list_title">"الأشخاص في هذه المحادثة"</string>
+    <string name="action_call">"إجراء مكالمة"</string>
+    <string name="compose_message_view_hint_text">"إرسال رسالة"</string>
+    <string name="compose_message_view_hint_text_multi_sim">"‏إرسال رسالة<br/><small>من <xliff:g id="SIM_NAME">%s</xliff:g></small>"</string>
+    <string name="menu_send_feedback">"إرسال تعليقات"</string>
+    <string name="menu_view_in_store">"‏عرض في متجر Google Play"</string>
+    <string name="menu_version_info">"معلومات عن الإصدار"</string>
+    <string name="subtitle_format_for_version_number">"‏الإصدار %1$s"</string>
+    <string name="menu_license">"تراخيص برامج مفتوحة المصدر"</string>
+    <string name="notifications_enabled_conversation_pref_title">"التنبيهات"</string>
+    <string name="mms_attachment_limit_reached">"تم بلوغ حد المرفقات"</string>
+    <string name="mms_attachment_load_failed">"أخفق تحميل المرفق."</string>
+    <string name="add_contact_confirmation_dialog_title">"إضافة إلى جهات الاتصال؟"</string>
+    <string name="add_contact_confirmation">"إضافة جهة اتصال"</string>
+    <string name="compose_message_view_subject_hint_text">"الموضوع"</string>
+    <string name="conversation_message_view_subject_text">"الموضوع: "</string>
+    <string name="loading_vcard">"جارٍ تحميل بطاقة جهة الاتصال"</string>
+    <string name="failed_loading_vcard">"تعذر تحميل بطاقة جهة الاتصال"</string>
+    <string name="vcard_tap_hint">"عرض بطاقة جهة الاتصال"</string>
+    <string name="vcard_detail_activity_title">"بطاقات جهات الاتصال"</string>
+    <string name="vcard_detail_birthday_label">"تاريخ الميلاد"</string>
+    <string name="vcard_detail_notes_label">"ملاحظات"</string>
+    <string name="forward_message_activity_title">"إعادة توجيه الرسالة"</string>
+    <string name="reply_activity_title">رد</string>
+    <string name="sms_disabled">"‏تم تعطيل الرسائل القصيرة SMS"</string>
+    <string name="requires_default_sms_app_to_send">"‏للإرسال، عيّن تطبيق المراسلة كتطبيق الرسائل القصيرة SMS الافتراضي"</string>
+    <string name="requires_default_sms_app">"‏يجب تعيين تطبيق المراسلة كتطبيق الرسائل القصيرة SMS الافتراضي"</string>
+    <string name="requires_default_sms_change_button">"تغيير"</string>
+    <string name="recommend_set_default_sms_app">"‏لاستلام رسائل، عيّن تطبيق المراسلة كتطبيق الرسائل القصيرة SMS الافتراضي"</string>
+    <string name="no_preferred_sim_selected">"‏لم يتم تحديد شريحة SIM المفضلة لإرسال رسائل قصيرة SMS"</string>
+    <string name="requires_sms_permissions_message">"لم يتم السماح لهذا التطبيق بواسطة مالك الجهاز."</string>
+    <string name="requires_sms_permissions_close_button">"موافق"</string>
+    <string name="too_many_participants">"هناك عدد كبير جدًا من المشاركين في محادثة"</string>
+    <string name="camera_media_failure">"يتعذر تحميل صورة الكاميرا"</string>
+    <string name="conversation_list_item_view_sent_from_you_prefix">"أنت: "</string>
+    <string name="conversation_list_item_view_sent_from_other_prefix">"<xliff:g id="FIRSTNAMEOFSENDER">%s</xliff:g>: "</string>
+    <string name="conversation_list_item_view_draft_message">"مسودة"</string>
+    <string name="conversation_list_empty_text">"بعد بدء دردشة جديدة، ستظهر مدرجة هنا"</string>
+    <string name="archived_conversation_list_empty_text">"الإشعارات المؤرشفة تظهر هنا"</string>
+    <string name="conversation_list_first_sync_text">"جارٍ تحميل المحادثات..."</string>
+    <string name="conversation_list_snippet_picture">"صورة"</string>
+    <string name="conversation_list_snippet_audio_clip">"مقطع صوتي"</string>
+    <string name="conversation_list_snippet_video">"فيديو"</string>
+    <string name="conversation_list_snippet_vcard">"بطاقة جهة الاتصال"</string>
+    <string name="mms_text">" رسائل الوسائط المتعددة"</string>
+    <string name="snack_bar_undo">"تراجع"</string>
+    <string name="snack_bar_retry">"إعادة المحاولة "</string>
+    <string name="contact_list_empty_text">"أدخل اسم جهة اتصال أو رقم هاتف لبدء رسالة جديدة"</string>
+    <string name="action_block">"حجب"</string>
+    <string name="block_contact_title">"حظر <xliff:g id="DESTINATION">%s</xliff:g>"</string>
+    <string name="unblock_contact_title">"إلغاء حظر <xliff:g id="DESTINATION">%s</xliff:g>"</string>
+    <string name="block_confirmation_title">"هل تريد حظر <xliff:g id="DESTINATION">%s</xliff:g>؟"</string>
+    <string name="block_confirmation_message">"ستستمر في استلام الرسائل من هذا الرقم ولكن لن يتم إرسال إشعارات إليك مرة أخرى. ستتم أرشفة هذه المحادثة."</string>
+    <string name="blocked_contacts_title">"جهات الاتصال المحظورة"</string>
+    <string name="tap_to_unblock_message">"حجب"</string>
+    <string name="view_blocked_contacts_title">"جهات الاتصال المحظورة"</string>
+    <string name="pick_image_from_document_library_content_description">"اختيار صورة من مكتبة المستندات"</string>
+    <string name="sending_message">"جارٍ إرسال الرسالة"</string>
+    <string name="send_message_success">"تم إرسال الرسالة"</string>
+    <string name="send_message_failure_no_data">"تم إيقاف اتصال بيانات الجوّال. تحقق من إعداداتك."</string>
+    <string name="send_message_failure_airplane_mode">"يتعذر إرسال رسائل في وضع الطائرة"</string>
+    <string name="send_message_failure">"تعذر إرسال الرسالة"</string>
+    <string name="download_message_success">"تم تنزيل الرسالة"</string>
+    <string name="download_message_failure_no_data">"تم إيقاف اتصال بيانات الجوّال. تحقق من إعداداتك."</string>
+    <string name="download_message_failure_airplane_mode">"يتعذر تنزيل الرسائل في وضع الطائرة"</string>
+    <string name="download_message_failure">"تعذر تنزيل الرسالة"</string>
+    <string name="content_description_for_number_zero">"صفر"</string>
+    <string name="content_description_for_number_one">"واحد"</string>
+    <string name="content_description_for_number_two">"اثنان"</string>
+    <string name="content_description_for_number_three">"ثلاثة"</string>
+    <string name="content_description_for_number_four">"أربعة"</string>
+    <string name="content_description_for_number_five">"خمسة"</string>
+    <string name="content_description_for_number_six">"ستة"</string>
+    <string name="content_description_for_number_seven">"سبعة"</string>
+    <string name="content_description_for_number_eight">"ثمانية"</string>
+    <string name="content_description_for_number_nine">"تسعة"</string>
+    <string name="carrier_send_error">"يتعذر إرسال الرسالة مع <xliff:g id="CARRIERNAME">%1$s</xliff:g>، الخطأ <xliff:g id="ERRORCODE">%2$d</xliff:g>"</string>
+    <string name="carrier_send_error_unknown_carrier">"يتعذر إرسال الرسالة مع مشغِّل شبكة جوّال غير معروف، الخطأ <xliff:g id="ERRORCODE">%1$d</xliff:g>"</string>
+    <string name="message_fwd">"إعادة التوجيه: <xliff:g id="SUBJECT">%s</xliff:g>"</string>
+    <string name="mms_failure_outgoing_service">"لم يتم إرسال الرسالة: لم يتم تنشيط الخدمة على الشبكة"</string>
+    <string name="mms_failure_outgoing_address">"لم يتم إرسال الرسالة: عنوان الوجهة غير صالح"</string>
+    <string name="mms_failure_outgoing_corrupt">"لم يتم إرسال الرسالة: رسالة غير صالحة"</string>
+    <string name="mms_failure_outgoing_content">"لم يتم إرسال الرسالة: محتوى غير متوافق"</string>
+    <string name="mms_failure_outgoing_unsupported">"لم يتم إرسال الرسالة: رسالة غير متوافقة"</string>
+    <string name="mms_failure_outgoing_too_large">"لم يتم إرسال الرسالة: الحجم كبير جدًا"</string>
+    <string name="in_conversation_notify_new_message_text">"رسالة جديدة"</string>
+    <string name="in_conversation_notify_new_message_action">"إستعراض"</string>
+    <string name="message_image_content_description">"الصور"</string>
+    <string name="activity_not_found_message">"تعذر العثور على تطبيق مناسب"</string>
+    <string name="chips_delete_content_description">"إزالة المستلم"</string>
+    <string name="share_new_message">"رسالة جديدة"</string>
+    <string name="share_cancel">"إلغاء"</string>
+    <string name="apn_edit">"تعديل نقطة الدخول"</string>
+    <string name="apn_not_set">"1 ساعة"</string>
+    <string name="apn_name">"اسم"</string>
+    <string name="apn_mms_proxy">"الخادم الوكيل لرسائل الوسائط المتعددة"</string>
+    <string name="apn_mms_port">"منفذ رسائل الوسائط المتعددة"</string>
+    <string name="apn_type">"‏نوع APN"</string>
+    <string name="menu_delete_apn">"‏حذف APN"</string>
+    <string name="menu_new_apn">"‏APN جديد"</string>
+    <string name="menu_save_apn">"حفظ"</string>
+    <string name="menu_discard_apn_change">"إلغاء"</string>
+    <string name="error_apn_name_empty">"لا يمكن أن يكون حقل الاسم فارغًا."</string>
+    <string name="error_apn_empty">"‏لا يمكن أن يكون APN فارغًا."</string>
+    <string name="error_mcc_not3">"‏يجب أن يكون حقل MCC من ثلاثة أرقام."</string>
+    <string name="error_mnc_not23">"‏يجب أن يتكون حقل MNC من رقمين أو ثلاثة أرقام."</string>
+    <string name="restore_default_apn">"‏جارٍ استعادة إعدادات APN الافتراضية."</string>
+    <string name="menu_restore_default_apn">"إعادة تعيين إلى الإعداد الافتراضي"</string>
+    <string name="restore_default_apn_completed">"‏اكتملت إعادة تعيين إعدادات APN الافتراضية."</string>
+    <string name="untitled_apn">"بلا عنوان"</string>
+    <string name="sms_apns_title">"الدخول إلى أسماء النقاط"</string>
+    <string name="apn_settings">"‏أسماء نقاط الوصول (APN)"</string>
+    <string name="menu_new">"‏APN جديد"</string>
+    <string name="apn_settings_not_available">"إعدادات اسم نقطة الوصول ليست متوفرة لهذا المستخدم"</string>
+    <string name="copy_to_clipboard_dialog_title">"هل تريد النسخ في الحافظة؟"</string>
+    <string name="copy_to_clipboard">نسخ</string>
+    <string name="incoming_sim_name_text">"إلى <xliff:g id="SIM_NAME">%s</xliff:g>"</string>
+    <string name="general_settings">عامة</string>
+    <string name="advanced_settings">"الإعدادات المتقدمة"</string>
+    <string name="general_settings_activity_title">"إعدادات عامة"</string>
+    <string name="advanced_settings_activity_title">"الإعدادات المتقدمة"</string>
+    <string name="sim_specific_settings">"‏شريحة SIM من \"<xliff:g id="SIM_NAME">%s</xliff:g>\""</string>
+    <string name="disable_group_mms">"إرسال رسالة قصيرة واحدة إلى جميع المستلمين. ولن تصل الردود إلا إليك"</string>
+    <string name="enable_group_mms">"إرسال رسالة وسائط متعددة إلى جميع المستلمين"</string>
+    <string name="sim_settings_unknown_number">"رقم غير معروف"</string>
+    <string name="secondary_user_new_message_title">"رسالة جديدة"</string>
+    <string name="secondary_user_new_message_ticker">"رسالة جديدة."</string>
+    <string name="sim_selector_button_content_description">"‏محدد SIM"</string>
+    <string name="sim_selector_button_content_description_with_selection">"‏تم اختيار <xliff:g id="SIM_0">%1$s</xliff:g>، أداة اختيار شريحة SIM"</string>
+    <string name="send_button_long_click_description_no_sim_selector">"تعديل الموضوع"</string>
+    <string name="send_button_long_click_description_with_sim_selector">"‏تحديد SIM أو تعديل الموضوع"</string>
+    <string name="audio_record_view_content_description">"المس مع الاستمرار لتسجيل الصوت"</string>
+    <string name="widget_new_conversation_content_description">"بدء محادثة جديدة"</string>
+    <string name="widget_conversation_list_name">"قائمة المراسلة"</string>
+    <string name="widget_new_message_content_description">"رسالة جديدة"</string>
+    <string name="widget_conversation_list_content_description">"قائمة المحادثات"</string>
+    <string name="loading_conversations">"جارٍ تحميل المحادثات."</string>
+    <string name="loading_messages">"جارٍ تحميل الرسائل"</string>
+    <string name="view_more_conversations">"عرض المزيد من المحادثات"</string>
+    <string name="view_more_messages">"عرض المزيد من الرسائل"</string>
+    <string name="conversation_deleted">"تم حذف المحادثة"</string>
+    <string name="tap_to_configure">"تم حذف المحادثة. المس لعرض محادثة مختلفة في تطبيق المراسلة"</string>
+    <string name="update_destination_blocked">"محظور"</string>
+    <string name="update_destination_unblocked">"تم إلغاء الحظر"</string>
+    <string name="db_full">"مساحة التخزين منخفضة. ربما يتم فقد بعض البيانات."</string>
+    <string name="attachment_chooser_activity_title">"تحديد المرفقات"</string>
+    <string name="action_confirm_selection">"تأكيد التحديد"</string>
+    <string name="attachment_chooser_selection">"تم تحديد <xliff:g id="COUNT">%d</xliff:g>"</string>
+    <string name="attachment_limit_reached_dialog_message_when_composing">"يُرجى إزالة مرفق أو أكثر وإعادة المحاولة."</string>
+    <string name="attachment_limit_reached_dialog_message_when_sending">"يمكنك محاولة إرسال الرسالة، ولكن ربما لا يتم تسليمها ما لم تتم إزالة مرفق أو أكثر من هذه الرسالة."</string>
+    <string name="video_attachment_limit_exceeded_when_sending">"لا يمكنك إرسال أكثر من مقطع فيديو واحد لكل رسالة. يُرجى إزالة مقاطع الفيديو الإضافية وإعادة المحاولة."</string>
+    <string name="attachment_load_failed_dialog_message">"أخفق تطبيق المراسلة في تحميل المرفق."</string>
+    <string name="attachment_limit_reached_send_anyway">"إرسال على أية حال"</string>
+    <string name="conversation_creation_failure">"لا يمكن بدء المحادثة"</string>
+    <string name="selected_sim_content_message">"تم اختيار <xliff:g id="SELECTED_SIM">%s</xliff:g>"</string>
+    <string name="empty_msg">"رسالة فارغة"</string>
+    <string name="send_empty_msg">"هل تحاول إرسال رسالة فارغة؟"</string>
+    <string name="yes">"نعم"</string>
+    <string name="no">"لا"</string>
+    <plurals name="num_minutes_ago">
+        <item quantity="one">"<xliff:g id="count">%d</xliff:g> دقيقة"</item>
+        <item quantity="other">"<xliff:g id="COUNT">%d</xliff:g> دقيقة"</item>
+    </plurals>
+    <plurals name="num_hours_ago">
+        <item quantity="one">"<xliff:g id="count">%d</xliff:g> ساعة"</item>
+        <item quantity="other">"<xliff:g id="COUNT">%d</xliff:g> ساعة"</item>
+    </plurals>
+    <plurals name="num_days_ago">
+        <item quantity="one">"<xliff:g id="count">%d</xliff:g> يوم"</item>
+        <item quantity="other">"<xliff:g id="COUNT">%d</xliff:g> يوم"</item>
+    </plurals>
+    <plurals name="week_count">
+        <item quantity="one">"أسبوع"</item>
+        <item quantity="other">"<xliff:g id="count">%d</xliff:g> أسابيع"</item>
+    </plurals>
+    <plurals name="month_count">
+        <item quantity="one">"شهر"</item>
+        <item quantity="other">"<xliff:g id="count">%d</xliff:g> أشهر"</item>
+    </plurals>
+    <plurals name="year_count">
+        <item quantity="one">"سنة"</item>
+        <item quantity="other">"<xliff:g id="count">%d</xliff:g> سنوات"</item>
+    </plurals>
+    <plurals name="notification_send_failures">
+        <item quantity="one">"<xliff:g id="messages">%d</xliff:g> رسالة في محادثة واحدة"</item>
+        <item quantity="other">"<xliff:g id="messages">%d</xliff:g> رسالة في <xliff:g id="conversations">%d</xliff:g> محادثة"</item>
+    </plurals>
+    <plurals name="notification_download_failures">
+        <item quantity="one">"<xliff:g id="messages">%d</xliff:g> رسالة في محادثة واحدة"</item>
+        <item quantity="other">"<xliff:g id="messages">%d</xliff:g> رسالة في <xliff:g id="conversations">%d</xliff:g> محادثة"</item>
+    </plurals>
+    <plurals name="notification_new_messages">
+        <item quantity="one">"رسالة جديدة"</item>
+        <item quantity="other">"<xliff:g id="messages">%d</xliff:g> رسالة جديدة"</item>
+    </plurals>
+    <plurals name="delete_conversations_confirmation_dialog_title">
+        <item quantity="one">"هل تريد حذف هذه المحادثة؟"</item>
+        <item quantity="other">"حذف هذه المحادثات؟"</item>
+    </plurals>
+    <plurals name="wearable_participant_count">
+        <item quantity="one">"<xliff:g id="count">%d</xliff:g> مشارك"</item>
+        <item quantity="other">"<xliff:g id="count">%d</xliff:g> مشارك"</item>
+    </plurals>
+    <plurals name="attachment_preview_close_content_description">
+        <item quantity="one">"تجاهل المرفق"</item>
+        <item quantity="other">"تجاهل المرفقات"</item>
+    </plurals>
+    <plurals name="photos_saved_to_album">
+        <item quantity="one">"تم حفظ <xliff:g id="quantity">%d</xliff:g> صورة إلى ألبوم \"<xliff:g id="albumName">%s</xliff:g>\""</item>
+        <item quantity="other">"تم حفظ <xliff:g id="quantity">%d</xliff:g> صورة إلى ألبوم \"<xliff:g id="albumName">%s</xliff:g>\""</item>
+    </plurals>
+    <plurals name="videos_saved_to_album">
+        <item quantity="one">"تم حفظ <xliff:g id="quantity">%d</xliff:g> فيديو إلى ألبوم \"<xliff:g id="albumName">%s</xliff:g>\""</item>
+        <item quantity="other">"تم حفظ <xliff:g id="quantity">%d</xliff:g> فيديو إلى ألبوم \"<xliff:g id="albumName">%s</xliff:g>\""</item>
+    </plurals>
+    <plurals name="attachments_saved_to_album">
+        <item quantity="one">"تم حفظ <xliff:g id="quantity">%d</xliff:g> مرفق إلى ألبوم \"<xliff:g id="albumName">%s</xliff:g>\""</item>
+        <item quantity="other">"تم حفظ <xliff:g id="quantity">%d</xliff:g> مرفقات إلى ألبوم \"<xliff:g id="albumName">%s</xliff:g>\""</item>
+    </plurals>
+    <plurals name="attachments_saved_to_downloads">
+        <item quantity="one">"تم حفظ <xliff:g id="quantity">%d</xliff:g> مرفق إلى \"التنزيلات\""</item>
+        <item quantity="other">"تم حفظ <xliff:g id="quantity">%d</xliff:g> مرفقات إلى \"التنزيلات\""</item>
+    </plurals>
+    <plurals name="attachments_saved">
+        <item quantity="one">"تم حفظ <xliff:g id="quantity">%d</xliff:g> مرفق"</item>
+        <item quantity="other">"تم حفظ <xliff:g id="quantity">%d</xliff:g> مرفقات"</item>
+    </plurals>
+    <plurals name="attachment_save_error">
+        <item quantity="one">"لا يمكن حفظ <xliff:g id="quantity">%d</xliff:g> مرفق"</item>
+        <item quantity="other">"لا يمكن حفظ <xliff:g id="quantity">%d</xliff:g> مرفقات"</item>
+    </plurals>
+    <plurals name="compose_message_view_hint_text_photo">
+        <item quantity="one">"إرسال صورة"</item>
+        <item quantity="other">"إرسال صور"</item>
+    </plurals>
+    <plurals name="compose_message_view_hint_text_audio">
+        <item quantity="one">"إرسال صوت"</item>
+        <item quantity="other">"إرسال صوتيات"</item>
+    </plurals>
+    <plurals name="compose_message_view_hint_text_video">
+        <item quantity="one">"إرسال فيديو"</item>
+        <item quantity="other">"إرسال فيديوهات"</item>
+    </plurals>
+    <plurals name="compose_message_view_hint_text_vcard">
+        <item quantity="one">"إرسال بطاقة جهة اتصال"</item>
+        <item quantity="other">"إرسال بطاقات جهات اتصال"</item>
+    </plurals>
+    <plurals name="compose_message_view_hint_text_attachments">
+        <item quantity="one">"إرسال مرفق"</item>
+        <item quantity="other">"إرسال مرفقات"</item>
+    </plurals>
+    <plurals name="attachment_changed_accessibility_announcement">
+        <item quantity="one">"مرفق واحد جاهز للارسال"</item>
+        <item quantity="other">"<xliff:g id="attachment_count">%d</xliff:g> مرفقات جاهزين للارسال"</item>
+    </plurals>
+    <plurals name="vcard_multiple_display_name">
+        <item quantity="one">"<xliff:g id="count">%d</xliff:g> جهة اتصال"</item>
+        <item quantity="other">"<xliff:g id="count">%d</xliff:g> جهات الاتصال"</item>
+    </plurals>
+    <plurals name="add_invalid_contact_error">
+        <item quantity="one">"جهة اتصال غير صالحة"</item>
+        <item quantity="other">"جهات اتصال غير صالحة"</item>
+    </plurals>
+    <string name="send_reports_pref_title">"تقارير إرسال SMS"</string>
+    <string name="send_reports_pref_summary">"طلب تقرير إرسال لكل SMS ترسلها"</string>
+    <string name="alarm_message_date">"تحديد تاريخ"</string>
+    <string name="alarm_message_time">"تحديد وقت"</string>
+    <string name="alarm_message_setup">"إعداد"</string>
+    <string name="alarm_message_cancel">"إلغاء"</string>
+    <string name="message_status_alarm">"تنبيه بموعد الإرسال"</string>
+    <string name="assistant_card_not_allow_for_mms">"لا يمكن إرسال رسائل لبطاقة المساعد"</string>
+    <string name="donotset_time_before_now">"لا يمكن ضبط الوقت قبل الآن"</string>
+    <string name="please_reset_time">"انقضى الوقت، يُرجى إعادة ضبط التنبيه"</string>
+    <string name="please_set_date">"يُرجى ضبط التاريخ"</string>
+    <string name="please_set_time">"يُرجى ضبط الوقت"</string>
+<string name="audio_format_unknow">"تنسيق الصوت هذا غير مدعوم"</string>
+
+</resources>

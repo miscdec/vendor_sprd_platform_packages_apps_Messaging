@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string-array name="empty_subject_strings">
+<item>"Gullumoo hin qabu"</item>
+<item>"Dhimma hin jire"</item>
+</string-array>
+<string-array name="notification_reply_choices">
+<item>"Eeyyee"</item>
+<item>"Lakki"</item>
+<item>"TOLE"</item>
+<item>"Heehee"</item>
+<item>"Galatoomi"</item>
+<item>"Ani itti walii gala"</item>
+<item>"Tolaa"</item>
+<item>"Karaa koo irra"</item>
+<item>"TOLE,mee siin arga booda"</item>
+<item>":)"</item>
+<item>":("</item>
+</string-array>
+</resources>

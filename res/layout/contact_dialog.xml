@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Spreadst -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+        <TextView
+            android:id="@+id/m_asVcard"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="?android:attr/selectableItemBackground"
+            android:textSize="16sp"
+            android:textColor="#000000"
+	    android:text="@string/add_contact_as_vcard"
+            android:paddingLeft="25dip"
+            android:paddingTop="20dip"
+            android:paddingBottom="10dip"/>
+
+        <TextView
+            android:id="@+id/m_asText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+
+            android:background="?android:attr/selectableItemBackground"
+            android:textSize="16sp"
+            android:textColor="#000000"
+            android:text="@string/add_contact_as_text"
+            android:paddingLeft="25dip"
+            android:paddingTop="10dip"
+            android:paddingBottom="20dip"/>
+</LinearLayout>
+

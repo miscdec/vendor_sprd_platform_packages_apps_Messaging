@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.sprd.messaging.simmessage.ui.SortMsgListItemView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:focusable="false">
+
+    <LinearLayout
+        android:id="@+id/swipeableContent"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="?android:attr/selectableItemBackground"
+        android:clipToPadding="false"
+        android:duplicateParentState="true"
+        android:orientation="horizontal"
+        android:padding="@dimen/conversation_list_item_view_padding">
+
+        <!-- Contact avatar on the left side of the view -->
+        <FrameLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <ImageView
+                android:id="@+id/conversation_checkmark"
+                android:layout_width="@dimen/conversation_list_contact_icon_size"
+                android:layout_height="@dimen/conversation_list_contact_icon_size"
+                android:background="@android:color/transparent"
+                android:importantForAccessibility="no"
+                android:src="@drawable/ic_checkmark_circle_blue"
+                android:visibility="gone" />
+
+            <ImageView
+                android:id="@+id/conversation_icon"
+                android:layout_width="@dimen/conversation_list_contact_icon_size"
+                android:layout_height="@dimen/conversation_list_contact_icon_size"
+                android:contentDescription="@null"
+                android:importantForAccessibility="no" />
+        </FrameLayout>
+
+        <LinearLayout
+            style="@style/ConversationListItemViewPaddingStyle"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="top"
+            android:layout_weight="1"
+            android:background="@android:color/transparent"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/conversation_name"
+                style="@style/ConversationListItemViewConversationNameStyle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:singleLine="true" />
+
+            <TextView
+                android:id="@+id/conversation_snippet"
+                style="@style/ConversationListItemViewTextStyle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:ellipsize="end"/>
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:id="@+id/conversation_timestamp"
+                    style="@style/ConversationListItemViewTextStyle"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content" />
+
+                <TextView
+                    android:id="@+id/sim_name"
+                    style="@style/MessageSimIndicator"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content" />
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+</com.sprd.messaging.simmessage.ui.SortMsgListItemView>

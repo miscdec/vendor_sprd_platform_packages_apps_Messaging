@@ -1,0 +1,537 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+    Copyright (C) 2015 The Android Open Source Project
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+         http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
+ -->
+
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name" msgid="3062916848713424329">"Mezuak"</string>
+    <string name="share_intent_label" msgid="6920483598866144717">"Mezuak"</string>
+    <plurals name="num_minutes_ago" formatted="false" msgid="4085627474543076735">
+        <item quantity="other"><xliff:g id="COUNT_1">%d</xliff:g> min</item>
+        <item quantity="one"><xliff:g id="COUNT_0">%d</xliff:g> min</item>
+    </plurals>
+    <plurals name="num_hours_ago" formatted="false" msgid="8010868301590914325">
+        <item quantity="other"><xliff:g id="COUNT_1">%d</xliff:g> ordu</item>
+        <item quantity="one"><xliff:g id="COUNT_0">%d</xliff:g> ordu</item>
+    </plurals>
+    <plurals name="num_days_ago" formatted="false" msgid="8753803762044567843">
+        <item quantity="other"><xliff:g id="COUNT_1">%d</xliff:g> egun</item>
+        <item quantity="one"><xliff:g id="COUNT_0">%d</xliff:g> egun</item>
+    </plurals>
+    <plurals name="week_count" formatted="false" msgid="1301973226125551953">
+        <item quantity="other"><xliff:g id="COUNT">%d</xliff:g> aste</item>
+        <item quantity="one">Astebete</item>
+    </plurals>
+    <plurals name="month_count" formatted="false" msgid="4858515363324110232">
+        <item quantity="other"><xliff:g id="COUNT">%d</xliff:g> hilabete</item>
+        <item quantity="one">Hilabete</item>
+    </plurals>
+    <plurals name="year_count" formatted="false" msgid="4522546496183798317">
+        <item quantity="other"><xliff:g id="COUNT">%d</xliff:g> urte</item>
+        <item quantity="one">Urtebete</item>
+    </plurals>
+    <plurals name="notification_send_failures" formatted="false" msgid="6938919932879650691">
+        <item quantity="other"><xliff:g id="MESSAGES_1">%d</xliff:g> mezu daude <xliff:g id="CONVERSATIONS">%d</xliff:g> elkarrizketatan</item>
+        <item quantity="one"><xliff:g id="MESSAGES_0">%d</xliff:g> mezu daude elkarrizketa batean</item>
+    </plurals>
+    <plurals name="notification_download_failures" formatted="false" msgid="5341490525457911398">
+        <item quantity="other"><xliff:g id="MESSAGES_1">%d</xliff:g> mezu daude <xliff:g id="CONVERSATIONS">%d</xliff:g> elkarrizketatan</item>
+        <item quantity="one"><xliff:g id="MESSAGES_0">%d</xliff:g> mezu daude elkarrizketa batean</item>
+    </plurals>
+    <plurals name="notification_new_messages" formatted="false" msgid="610594317958128842">
+        <item quantity="other"><xliff:g id="MESSAGES">%d</xliff:g> mezu berri</item>
+        <item quantity="one">Mezu berria</item>
+    </plurals>
+    <plurals name="delete_conversations_confirmation_dialog_title" formatted="false" msgid="2285567882353326800">
+        <item quantity="other">Elkarrizketa hauek ezabatu nahi dituzu?</item>
+        <item quantity="one">Elkarrizketa ezabatu nahi duzu?</item>
+    </plurals>
+    <string name="attachment_more_items" msgid="2861573099241369958">"+<xliff:g id="COUNT">%d</xliff:g>"</string>
+    <plurals name="wearable_participant_count" formatted="false" msgid="3037889420270036143">
+        <item quantity="other"><xliff:g id="COUNT_1">%d</xliff:g> parte-hartzaile</item>
+        <item quantity="one"><xliff:g id="COUNT_0">%d</xliff:g> parte-hartzaile</item>
+    </plurals>
+    <plurals name="attachment_preview_close_content_description" formatted="false" msgid="5631719319690969981">
+        <item quantity="other">Baztertu eranskinak</item>
+        <item quantity="one">Baztertu eranskina</item>
+    </plurals>
+    <plurals name="photos_saved_to_album" formatted="false" msgid="7529478299745446838">
+        <item quantity="other"><xliff:g id="QUANTITY_2">%d</xliff:g> argazki gorde dira \"<xliff:g id="ALBUMNAME_3">%s</xliff:g>\" albumean</item>
+        <item quantity="one"><xliff:g id="QUANTITY_0">%d</xliff:g> argazki gorde da \"<xliff:g id="ALBUMNAME_1">%s</xliff:g>\" albumean</item>
+    </plurals>
+    <plurals name="videos_saved_to_album" formatted="false" msgid="6821121808257576788">
+        <item quantity="other"><xliff:g id="QUANTITY_2">%d</xliff:g> bideo gorde dira \"<xliff:g id="ALBUMNAME_3">%s</xliff:g>\" albumean</item>
+        <item quantity="one"><xliff:g id="QUANTITY_0">%d</xliff:g> bideo gorde da \"<xliff:g id="ALBUMNAME_1">%s</xliff:g>\" albumean</item>
+    </plurals>
+    <plurals name="attachments_saved_to_album" formatted="false" msgid="8407480699515308929">
+        <item quantity="other"><xliff:g id="QUANTITY_2">%d</xliff:g> eranskin gorde dira \"<xliff:g id="ALBUMNAME_3">%s</xliff:g>\" albumean</item>
+        <item quantity="one"><xliff:g id="QUANTITY_0">%d</xliff:g> eranskin gorde da \"<xliff:g id="ALBUMNAME_1">%s</xliff:g>\" albumean</item>
+    </plurals>
+    <plurals name="attachments_saved_to_downloads" formatted="false" msgid="1886864019411801995">
+        <item quantity="other"><xliff:g id="QUANTITY_1">%d</xliff:g> eranskin gorde dira \"Deskargak\" atalean</item>
+        <item quantity="one"><xliff:g id="QUANTITY_0">%d</xliff:g> eranskin gorde da \"Deskargak\" atalean</item>
+    </plurals>
+    <plurals name="attachments_saved" formatted="false" msgid="6925000482183379648">
+        <item quantity="other">Gorde dira <xliff:g id="QUANTITY_1">%d</xliff:g> eranskin</item>
+        <item quantity="one">Gorde da <xliff:g id="QUANTITY_0">%d</xliff:g> eranskin</item>
+    </plurals>
+    <plurals name="attachment_save_error" formatted="false" msgid="2068837227090109833">
+        <item quantity="other">Ezin izan dira gorde <xliff:g id="QUANTITY_1">%d</xliff:g> eranskin</item>
+        <item quantity="one">Ezin izan da gorde <xliff:g id="QUANTITY_0">%d</xliff:g> eranskin</item>
+    </plurals>
+    <string name="sms_disabled_pref_title" msgid="6352764741524717132">"SMS mezuetarako aplikazio lehenetsia"</string>
+    <string name="sms_enabled_pref_title" msgid="2961457081888153323">"SMS mezuetarako aplikazio lehenetsia"</string>
+    <!-- no translation found for default_sms_app (3907546126124760465) -->
+    <skip />
+    <plurals name="compose_message_view_hint_text_photo" formatted="false" msgid="8937589900456604618">
+        <item quantity="other">Bidali argazkiak</item>
+        <item quantity="one">Bidali argazkia</item>
+    </plurals>
+    <plurals name="compose_message_view_hint_text_audio" formatted="false" msgid="5934090345811195170">
+        <item quantity="other">Bidali audioak</item>
+        <item quantity="one">Bidali audioa</item>
+    </plurals>
+    <plurals name="compose_message_view_hint_text_video" formatted="false" msgid="9188048653766960507">
+        <item quantity="other">Bidali bideoak</item>
+        <item quantity="one">Bidali bideoa</item>
+    </plurals>
+    <plurals name="compose_message_view_hint_text_vcard" formatted="false" msgid="933064969858631242">
+        <item quantity="other">Bidali kontaktu-txartelak</item>
+        <item quantity="one">Bidali kontaktu-txartela</item>
+    </plurals>
+    <plurals name="compose_message_view_hint_text_attachments" formatted="false" msgid="1778518334602418000">
+        <item quantity="other">Bidali eranskinak</item>
+        <item quantity="one">Bidali eranskina</item>
+    </plurals>
+    <plurals name="attachment_changed_accessibility_announcement" formatted="false" msgid="5592871135747616108">
+        <item quantity="other"><xliff:g id="ATTACHMENT_COUNT">%d</xliff:g> eranskin bidaltzeko prest daude</item>
+        <item quantity="one">Eranskin bat bidaltzeko prest dago</item>
+    </plurals>
+    <string name="notification_subject" msgid="5229975483160300625">"<xliff:g id="SUBJECT_LABEL">%s</xliff:g><xliff:g id="MESSAGETEXT">%s</xliff:g>"</string>
+    <plurals name="vcard_multiple_display_name" formatted="false" msgid="2884224435488996028">
+        <item quantity="other"><xliff:g id="COUNT_1">%d</xliff:g> kontaktu</item>
+        <item quantity="one"><xliff:g id="COUNT_0">%d</xliff:g> kontaktu</item>
+    </plurals>
+    <string name="plus_one" msgid="9010288417554932581">"+1"</string>
+    <string name="plus_n" msgid="8961547034116059566">"+%d"</string>
+    <plurals name="add_invalid_contact_error" formatted="false" msgid="782438833843363189">
+        <item quantity="other">Kontaktuek ez dute balio</item>
+        <item quantity="one">Kontaktuak ez du balio</item>
+    </plurals>
+    <string name="apn_apn" msgid="1197541953189716999">"APN"</string>
+    <string name="apn_mmsc" msgid="2584154739440281747">"MMSC"</string>
+    <string name="apn_mcc" msgid="8102023058623950736">"MCC"</string>
+    <string name="apn_mnc" msgid="1372437523197012866">"MNC"</string>
+    <string name="widget_title_content_description" msgid="5802836840910466231">"Mezuak"</string>
+    <string name="widget_conversation_name" msgid="3900606239571892871">"Mezuak"</string>
+    <string name="link_display_format" msgid="8700344957248709584">"<xliff:g id="TEXT">%1$s</xliff:g> (<xliff:g id="URL">%2$s</xliff:g>)"</string>
+<string name="share_intent_activity_label">"Hautatu elkarrizketa"</string>
+<string name="action_settings">Ezarpenak</string>
+<string name="sendButtonContentDescription">Bidali mezua</string>
+<string name="attachMediaButtonContentDescription">"Gehitu eranskin bat"</string>
+<string name="help_and_feedback_activity_label">Laguntza</string>
+<string name="alarm_message_date">hautatu data</string>
+<string name="alarm_message_time">hautatu ordua</string>
+<string name="alarm_message_setup">Konfigurazioa</string>
+<string name="alarm_message_cancel">"Utzi"</string>
+<string name="welcome">Ongi etorri</string>
+<string name="skip">Saltatu</string>
+<string name="next_with_arrow">"Hurrengoa &gt;"</string>
+<string name="next">"Hurrengoa"</string>
+<string name="exit">Irten</string>
+<string name="settings_with_arrow">"Ezarpenak &gt;"</string>
+<string name="settings">Ezarpenak</string>
+<string name="required_permissions_promo">"Mezularitza aplikazioak SMS, telefono eta kontaktuak atzitzeko baimena behar du."</string>
+<string name="enable_permission_procedure">"Hemen alda ditzakezu baimenak: Ezarpenak &gt; Aplikazioak &gt; Mezularitza &gt; Baimenak."</string>
+<string name="enable_permission_procedure_description">"Hemen alda ditzakezu baimenak: Ezarpenak, Aplikazioak, Mezularitza, Baimenak."</string>
+<string name="contact_picker_frequents_tab_title">"Maiz erabilitakoak"</string>
+<string name="contact_picker_all_contacts_tab_title">Kontaktu guztiak</string>
+<string name="contact_list_send_to_text">"Bidali honi: <xliff:g id="destination">%s</xliff:g>"</string>
+<string name="mediapicker_cameraChooserDescription">"Egin bideoak edo argazkiak"</string>
+<string name="mediapicker_galleryChooserDescription">"Aukeratu gailu honetako irudiak"</string>
+<string name="mediapicker_audioChooserDescription">grabatu audioa</string>
+<string name="mediapicker_gallery_title">Aukeratu argazkia</string>
+<string name="mediapicker_gallery_item_selected_content_description">"Multimedia-elementua hautatu da."</string>
+<string name="mediapicker_gallery_item_unselected_content_description">"Multimedia-elementua desautatu da."</string>
+<string name="mediapicker_gallery_title_selection">"<xliff:g id="count">%d</xliff:g> hautatu da/dira"</string>
+<string name="mediapicker_gallery_image_item_description">"irudia (<xliff:g id="date">%1$tB %1$te %1$tY %1$tl %1$tM %1$tp</xliff:g>)"</string>
+<string name="mediapicker_gallery_image_item_description_no_date">Irudia</string>
+<string name="mediapicker_audio_title">grabatu audioa</string>
+<string name="action_share">Partekatu</string>
+<string name="posted_just_now">"Oraintxe bertan"</string>
+<string name="posted_now">"Orain"</string>
+<string name="class_0_message_activity">0 motako mezuak</string>
+<string name="save">Gorde</string>
+<string name="sms_storage_low_auto_delete_enabled_dialog_text">"Leku gutxi geratzen da gailuan. Mezularitza aplikazioak automatikoki ezabatuko ditu mezu zaharrak tokia egiteko."</string>
+<string name="sms_storage_low_title">Biltegiratzeko lekua bukatzen</string>
+<string name="sms_storage_low_text">"Baliteke mezularitza-zerbitzuak mezu gehiagorik bidali edo jaso ezin izatea gailuak toki gehiago izan arte."</string>
+<string name="sms_storage_low_notification_ticker">"Leku gutxi geratzen SMS biltegian. Mezu batzuk ezabatzea gomendatzen dizugu."</string>
+<string name="enter_phone_number_title">"Egiaztatu telefono-zenbakia"</string>
+<string name="enter_phone_number_text">"Behin bakarrik egin behar den urrats honek talde-mezuak behar bezala bidaliko direla egiaztatzen du."</string>
+<string name="enter_phone_number_hint">Telefono zenbakia</string>
+<string name="delete_all_media">"Ezabatu multimedia-elementuak dituzten mezu guztiak"</string>
+<string name="delete_oldest_messages">"Ezabatu hau baino gehiago duten mezuak: <xliff:g id="duration">%s</xliff:g>"</string>
+<string name="auto_delete_oldest_messages">"Ezabatu automatikoki hau baino gehiago duten mezuak: <xliff:g id="duration">%s</xliff:g>"</string>
+<string name="ignore">Ezikusi</string>
+<string name="delete_all_media_confirmation">"Multimedia-elementuak dituzten mezu guztiak ezabatu nahi dituzu?"</string>
+<string name="delete_oldest_messages_confirmation">"Hau baino gehiago duten mezuak ezabatu nahi dituzu: <xliff:g id="duration">%s</xliff:g>?"</string>
+<string name="auto_delete_oldest_messages_confirmation">"Hau baino gehiago duten mezuak ezabatu nahi dituzu: <xliff:g id="duration">%s</xliff:g>, eta automatikoki ezabatzeko eginbidea gaitu?"</string>
+<string name="incoming_text_sender_content_description">"<xliff:g id="sender">%s</xliff:g> erabiltzaileak hauxe esan du"</string>
+<string name="outgoing_text_sender_content_description">"Hauxe esan duzu"</string>
+<string name="incoming_sender_content_description">"<xliff:g id="sender">%s</xliff:g> erabiltzailearen mezua"</string>
+<string name="outgoing_sender_content_description">"Mezu bat bidali duzu"</string>
+<string name="message_status_sending">"Bidaltzen&#8230;"</string>
+<string name="message_status_alarm">Alarma bidaltzeko ordua</string>
+<string name="message_status_send_failed">"Ez da bidali. Ukitu berriro saiatzeko."</string>
+<string name="user_not_exist">Erabiltzailea ez dago.</string>
+<string name="message_status_send_retrying">"Ez da bidali. Berriro saiatzen&#8230;"</string>
+<string name="message_status_resend">"Bidali berriro edo ezabatu"</string>
+<string name="message_status_send_failed_emergency_number">"Egin ahots-deia larrialdietarako zerbitzuei. Testu-mezua ezin izan da entregatu oraingoan."</string>
+<string name="message_status_failed">Huts egin du</string>
+<string name="message_title_manual_download">"Badago MMS mezu berri bat deskargatzeko"</string>
+<string name="message_title_downloading">"MMS berria"</string>
+<string name="message_title_download_failed">Ezin izan da deskargatu</string>
+<string name="message_status_download_failed">"Ukitu berriro saiatzeko"</string>
+<string name="message_status_download">"Ukitu deskargatzeko"</string>
+<string name="message_status_download_action">"Deskargatu edo ezabatu"</string>
+<string name="message_status_downloading">"Deskargatzen&#8230;"</string>
+<string name="message_status_download_error">"Mezua iraungi egin da, edo ez dago erabilgarri"</string>
+<string name="mms_info">"tamaina: <xliff:g id="messageSize">%1$s</xliff:g>; iraungitze-data: <xliff:g id="messageExpire">%2$s</xliff:g>"</string>
+<string name="invalid_destination">"Ezin da bidali. Hartzaileak ez du balio."</string>
+<string name="service_not_activated">"Zerbitzua ez da aktibatu sarean"</string>
+<string name="service_network_problem">"Ezin izan da bidali, sareko arazo bat dagoelako"</string>
+<string name="service_message_not_found">"Mezua iraungi egin da, edo ez dago erabilgarri"</string>
+<string name="no_subject">(Gairik ez)</string>
+<string name="unknown_sender">"Hartzaile ezezaguna"</string>
+<string name="delivered_status_content_description">"Bidali da"</string>
+<string name="dl_failure_notification">Ezin izan da  <xliff:g id="from">%2$s</xliff:g>-k bidalitako <xliff:g id="subject">%1$s</xliff:g> mezua deskargatu.</string>
+<string name="low_memory">"Ezin izan da osatu datu-basearekin loturiko eragiketa, memoria gutxi dagoelako"</string>
+<string name="notification_send_failures_line1_singular">Mezua ez da bidali</string>
+<string name="notification_send_failures_line1_plural">"Mezularitza aplikazioan bidali ez diren mezu batzuk dago"</string>
+<string name="notification_download_failures_line1_singular">Mezua ez da deskargatu</string>
+<string name="notification_download_failures_line1_plural">"Mezularitza aplikazioan deskargatu ez diren mezu batzuk dago"</string>
+<string name="notification_emergency_send_failure_line1">"<xliff:g id="number">%1$s</xliff:g> erabiltzailearentzako mezua ez da bidali"</string>
+<string name="notification_emergency_send_failure_line2">"Egin ahots-deia larrialdietarako zerbitzuei. <xliff:g id="number">%1$s</xliff:g> erabiltzailearentzako testu-mezua ezin izan da entregatu oraingoan. "</string>
+<string name="start_conversation">Hasi</string>
+<string name="camera_error_opening">"Kamera ez dago erabilgarri"</string>
+<string name="camera_error_unknown">"Kamera ez dago erabilgarri"</string>
+<string name="camera_error_video_init_fail">"Bideo-kaptura ez dago erabilgarri"</string>
+<string name="camera_error_storage_fail">"Ezin da gorde multimedia-elementua"</string>
+<string name="camera_error_failure_taking_picture">"Ezin da atera argazkia"</string>
+<string name="back">Atzera</string>
+<string name="action_menu_show_archived">Artxibatua</string>
+<string name="action_delete">"Ezabatu"</string>
+<string name="action_archive">Artxiboa</string>
+<string name="action_unarchive">"Kendu artxibotik"</string>
+<string name="action_notification_off">"Desaktibatu jakinarazpenak"</string>
+<string name="action_notification_on">Notifikazioak gaitu</string>
+<string name="action_add_contact">Gehitu kontaktua</string>
+<string name="action_download">Deskargatu</string>
+<string name="action_send">Bidali</string>
+<string name="action_delete_message">"Ezabatu"</string>
+<string name="delete_message_confirmation_dialog_title">"Mezua ezabatu nahi duzu?"</string>
+<string name="delete_message_confirmation_dialog_text">"Ezin da desegin ekintza."</string>
+<string name="delete_message_confirmation_button">"Ezabatu"</string>
+<string name="delete_conversation_confirmation_button">"Ezabatu"</string>
+<string name="delete_conversation_decline_button">"Utzi"</string>
+<string name="recipient_hint">Nori</string>
+<string name="action_multiselect">"Hautatu hainbat irudi"</string>
+<string name="action_confirm_multiselect">"Berretsi hautapena"</string>
+<string name="audio_recording_start_failed">"Ezin da grabatu audioa. Egiaztatu baimenak eta saiatu berriro."</string>
+<string name="audio_recording_replay_failed">"Ezin da erreproduzitu audioa. Saiatu berriro."</string>
+<string name="audio_recording_error">"Ezin izan da grabatu audioa. Saiatu berriro."</string>
+<string name="audio_picker_hint_text">"Ukitu eta eduki sakatuta"</string>
+<string name="enumeration_comma">,\u0020</string>
+<string name="notification_separator">\u0020\u0020</string>
+<string name="notification_ticker_separator">":\u0020"</string>
+<string name="notification_space_separator">\u0020\u0020</string>
+<string name="notification_picture">Irudia</string>
+<string name="notification_audio">"Audio-klipa"</string>
+<string name="notification_video">Bideoa</string>
+<string name="notification_vcard">"Kontaktu-txartela"</string>
+<string name="notification_download_mms">Deskargatu</string>
+<string name="notification_reply_via_sms">"Erantzun SMS bidez"</string>
+<string name="notification_reply_via_mms">"Erantzun MMS bidez"</string>
+<string name="notification_reply_prompt">Erantzun</string>
+<string name="unknown_self_participant">Ni</string>
+<string name="blocked_toast_message">"Blokeatu eta artxibatu da kontaktua"</string>
+<string name="unblocked_toast_message">"Desblokeatu da kontaktua eta artxibotik kendu da"</string>
+<string name="archived_toast_message">"<xliff:g id="count">%d</xliff:g> artxibatu da/dira"</string>
+<string name="unarchived_toast_message">"<xliff:g id="count">%d</xliff:g> kendu da/dira artxibotik"</string>
+<string name="notification_off_toast_message">"Desaktibatu dira jakinarazpenak"</string>
+<string name="notification_on_toast_message">"Aktibatu dira jakinarazpenak"</string>
+<string name="toast_after_setting_default_sms_app_for_message_send">"Ondo ezarri da. Ukitu berriro Bidali."</string>
+<string name="toast_after_setting_default_sms_app">"Ondo ezarri da Mezularitza SMS mezuak bidaltzeko aplikazio lehenetsi gisa."</string>
+<string name="audio_attachment_content_description">"Audio-eranskina"</string>
+<string name="audio_play_content_description">"Erreproduzitu audio-eranskina"</string>
+<string name="audio_pause_content_description">Pausatuta</string>
+<string name="incoming_message_announcement">"<xliff:g id="sender">%s</xliff:g> erabiltzailearen mezua: <xliff:g id="message">%s</xliff:g>."</string>
+<string name="one_on_one_incoming_failed_message_prefix">"<xliff:g id="sender">%s</xliff:g> erabiltzailearen mezua ezin izan da bidali: <xliff:g id="message">%s</xliff:g>. Ordua: <xliff:g id="time">%s</xliff:g>."</string>
+<string name="one_on_one_incoming_successful_message_prefix">"<xliff:g id="sender">%s</xliff:g> erabiltzailearen mezua: <xliff:g id="message">%s</xliff:g>. Ordua: <xliff:g id="time">%s</xliff:g>."</string>
+<string name="one_on_one_outgoing_draft_message_prefix">"<xliff:g id="contact">%s</xliff:g> erabiltzailearen mezua ez da bidali: <xliff:g id="message">%s</xliff:g>. Ordua: <xliff:g id="time">%s</xliff:g>."</string>
+<string name="one_on_one_outgoing_sending_message_prefix">"<xliff:g id="contact">%s</xliff:g> erabiltzailearen mezua bidaltzen: <xliff:g id="message">%s</xliff:g>. Ordua: <xliff:g id="time">%s</xliff:g>."</string>
+<string name="one_on_one_outgoing_failed_message_prefix">"Huts egin du <xliff:g id="contact">%s</xliff:g> erabiltzailearentzako mezua: <xliff:g id="message">%s</xliff:g>. Ordua: <xliff:g id="time">%s</xliff:g>."</string>
+<string name="one_on_one_outgoing_successful_message_prefix">"<xliff:g id="contact">%s</xliff:g> erabiltzailearentzako mezua: <xliff:g id="message">%s</xliff:g>. Ordua: <xliff:g id="time">%s</xliff:g>."</string>
+<string name="group_incoming_failed_message_prefix">"<xliff:g id="sender">%s</xliff:g> erabiltzailearen mezua ezin izan da bidali: <xliff:g id="message">%s</xliff:g>. Ordua: <xliff:g id="time">%s</xliff:g>. <xliff:g id="groupInfo">%s</xliff:g>."</string>
+<string name="group_incoming_successful_message_prefix">"<xliff:g id="sender">%s</xliff:g> erabiltzailearen mezua: <xliff:g id="message">%s</xliff:g>. Ordua: <xliff:g id="time">%s</xliff:g>. <xliff:g id="groupInfo">%s</xliff:g>."</string>
+<string name="group_outgoing_draft_message_prefix">"<xliff:g id="group">%s</xliff:g> erabiltzailearen mezua ez da bidali: <xliff:g id="message">%s</xliff:g>. Ordua: <xliff:g id="time">%s</xliff:g>."</string>
+<string name="group_outgoing_sending_message_prefix">"<xliff:g id="group">%s</xliff:g> erabiltzailearen mezua bidaltzen: <xliff:g id="message">%s</xliff:g>. Ordua: <xliff:g id="time">%s</xliff:g>."</string>
+<string name="group_outgoing_failed_message_prefix">"Huts egin du <xliff:g id="group">%s</xliff:g> erabiltzailearentzako mezua: <xliff:g id="message">%s</xliff:g>. Ordua: <xliff:g id="time">%s</xliff:g>."</string>
+<string name="group_outgoing_successful_message_prefix">"<xliff:g id="group">%s</xliff:g> erabiltzailearentzako mezua: <xliff:g id="message">%s</xliff:g>. Ordua: <xliff:g id="time">%s</xliff:g>."</string>
+<string name="failed_message_content_description">"Mezuak huts egin du. Ukitu berriro saiatzeko."</string>
+<string name="group_conversation_description">"<xliff:g id="participants">%s</xliff:g> erabiltzailearekiko elkarrizketa"</string>
+<string name="delete_subject_content_description">"Ezabatu gaia"</string>
+<string name="camera_switch_to_video_mode">Kapturatu bideoa</string>
+<string name="camera_switch_to_still_mode">"Atera irudi finkoa"</string>
+<string name="camera_take_picture">"Atera irudia"</string>
+<string name="camera_start_recording">"Hasi bideoa grabatzen"</string>
+<string name="camera_switch_full_screen">"Aktibatu pantaila osoko kamera"</string>
+<string name="camera_switch_camera_facing">"Erabili aurreko edo atzeko kamera"</string>
+<string name="camera_stop_recording">"Utzi grabatzeari eta erantsi bideoa"</string>
+<string name="camera_cancel_recording">"Utzi bideoa grabatzeari"</string>
+<string name="photo_view_activity_title">"Argazkiak mezuen bidez bidaltzea"</string>
+<string name="attachment_file_description">"Gorde da MMS eranskina"</string>
+<string name="settings_activity_title">Ezarpenak</string>
+<string name="archived_activity_title">Artxibatua</string>
+<string name="action_close">Itxi</string>
+<string name="mms_messaging_category_pref_title">MMS</string>
+<string name="advanced_category_pref_title">Aurreratua</string>
+<string name="debug_category_pref_title">Araztu</string>
+<string name="notifications_enabled_pref_title">Jakinarazpenak</string>
+<string name="notification_sound_pref_title">Soinua</string>
+<string name="silent_ringtone">Isilik</string>
+<string name="notification_vibrate_pref_title">Bibratu</string>
+<string name="blocked_pref_title">Blokeatuta</string>
+<string name="send_reports_pref_title">"SMS bidalien txostenak"</string>
+<string name="send_reports_pref_summary">"Eskatu bidalitako txostena bidalitako SMS bakoitzeko"</string>
+<string name="delivery_reports_pref_title">"SMS mezuen entrega-txostenak"</string>
+<string name="delivery_reports_pref_summary">"Jaso entrega-txostena SMS bat bidaltzen duzun bakoitzean"</string>
+<string name="auto_retrieve_mms_pref_title">Autoberreskuratu</string>
+<string name="auto_retrieve_mms_pref_summary">"Berreskuratu MMS mezuak automatikoki"</string>
+<string name="auto_retrieve_mms_when_roaming_pref_title">Ibiltaritzaren autoberreskurapena</string>
+<string name="auto_retrieve_mms_when_roaming_pref_summary">"Berreskuratu MMS mezuak automatikoki ibiltaritzan"</string>
+<string name="group_mms_pref_title">Taldeari bidalitako mezuak</string>
+<string name="group_mms_pref_summary">Erabili MMS bidaltzeko mezu bakarra hartzaile anitz daudenean</string>
+<string name="mms_phone_number_pref_title">"Zure telefono-zenbakia"</string>
+<string name="unknown_phone_number_pref_display_value">Ezezaguna</string>
+<string name="send_sound_pref_title">"Irteerako mezu-soinuak"</string>
+<string name="dump_sms_pref_title">"Irauli SMSak"</string>
+<string name="dump_sms_pref_summary">"Irauli jasotako SMS mezuen prozesatu gabeko datuak barruko memoriaren fitxategi batean"</string>
+<string name="dump_mms_pref_title">"Irauli MMSak"</string>
+<string name="dump_mms_pref_summary">"Irauli jasotako MMS mezuen prozesatu gabeko datuak barruko memoriaren fitxategi batean"</string>
+<string name="wireless_alerts_title">"Hari gabeko alertak"</string>
+<string name="message_context_menu_title">Mezu aukerak</string>
+<string name="message_context_menu_copy_text">Kopiatu testua</string>
+<string name="message_context_menu_view_details">Ikusi xehetasunak</string>
+<string name="message_context_menu_delete_message">"Ezabatu"</string>
+<string name="message_context_menu_forward_message">Bidali</string>
+<string name="message_details_title">Mezuaren xehetasunak</string>
+<string name="message_type_label">Mota:\u0020</string>
+<string name="text_message">Testu mezuak</string>
+<string name="multimedia_message">Multimedia mezua</string>
+<string name="from_label">Nork bidalia: \u0020</string>
+<string name="to_address_label">Nori:\u0022</string>
+<string name="sent_label">Bidalita:\u0020</string>
+<string name="received_label">Jasoak:\u0020</string>
+<string name="subject_label">Gaia:\u0020</string>
+<string name="message_size_label">"Tamaina:\u0020"</string>
+<string name="priority_label">Lehentasuna:\u0020</string>
+<string name="sim_label">"SIM txartela:\u0020"</string>
+<string name="priority_high">Altua</string>
+<string name="priority_normal">Normal</string>
+<string name="priority_low">Txikia</string>
+<string name="sim_slot_identifier">"<xliff:g id="sim_slot_number">%s</xliff:g>. SIM txartela"</string>
+<string name="hidden_sender_address">Igorlearen helbidea ezkutatuta dago</string>
+<string name="cant_send_message_while_loading_attachments">"Ezin da bidali mezurik eranskinak kargatzen diren bitartean."</string>
+<string name="fail_to_load_attachment">"Ezin da kargatu eranskina. Saiatu berriro."</string>
+<string name="cant_send_message_without_active_subscription">"Sarea ez dago prest. Saiatu berriro."</string>
+<string name="chips_text_delete_button_content_description">"Ezabatu testua"</string>
+<string name="numeric_text_keyboard_toggle_button_content_description">"Idatzi testua edo zenbakiak"</string>
+<string name="add_more_participants_button_content_description">"Gehitu parte-hartzaile gehiago"</string>
+<string name="confrim_participants_button_content_description">"Berretsi parte-hartzaileak"</string>
+<string name="start_new_conversation">"Hasi elkarrizketa berria"</string>
+<string name="gallery_checkbox_content_description">"Hautatu elementu hau"</string>
+<string name="video_thumbnail_view_play_button_content_description">Erreproduzitu Bideoa</string>
+<string name="action_people_and_options">"Jendea eta aukerak"</string>
+<string name="action_debug_options">Araztu</string>
+<string name="people_and_options_activity_title">"Jendea eta aukerak"</string>
+<string name="general_settings_title">Orokorra</string>
+<string name="participant_list_title">"Elkarrizketa honetako jendea"</string>
+<string name="action_call">Dei bat egin</string>
+<string name="compose_message_view_hint_text">Bidali mezua</string>
+<string name="compose_message_view_hint_text_multi_sim">"Bidali mezua<br/><small> <xliff:g id="sim_name">%s</xliff:g></small>" erabilita</string>
+<string name="menu_send_feedback">Bidali atzeraelikadura</string>
+<string name="menu_view_in_store">"Ikusi Google Play Store dendan"</string>
+<string name="menu_version_info">"Bertsioaren informazioa"</string>
+<string name="subtitle_format_for_version_number">"%1$s bertsioa"</string>
+<string name="menu_license">Ireki iturburu lizentziak</string>
+<string name="notifications_enabled_conversation_pref_title">Jakinarazpenak</string>
+<string name="mms_attachment_limit_reached">"Eranskinen mugara iritsi zara"</string>
+<string name="mms_attachment_load_failed">"Ezin izan da kargatu eranskina."</string>
+<string name="add_contact_confirmation_dialog_title">Gehitu kontaktuetara</string>
+<string name="add_contact_confirmation">Gehitu kontaktua</string>
+<string name="compose_message_view_subject_hint_text">Gaia</string>
+<string name="conversation_message_view_subject_text">Gaia:\u0020</string>
+<string name="loading_vcard">"Kontaktu-txartela kargatzen"</string>
+<string name="failed_loading_vcard">"Ezin izan da kargatu kontaktu-txartela"</string>
+<string name="vcard_tap_hint">"Ikusi kontaktu-txartela"</string>
+<string name="vcard_detail_activity_title">"Kontaktu-txartelak"</string>
+<string name="vcard_detail_birthday_label">Urtebetetzea</string>
+<string name="vcard_detail_notes_label">Oharrak</string>
+<string name="forward_message_activity_title">"Birbidali mezua"</string>
+<string name="reply_activity_title">Erantzun</string>
+<string name="sms_disabled">SMS desgaituta</string>
+<string name="requires_default_sms_app_to_send">"Bidaltzeko, ezarri Mezularitza SMS mezuak bidaltzeko aplikazio lehenetsi gisa"</string>
+<string name="requires_default_sms_app">"Ezarri Mezularitza SMS mezuak bidaltzeko aplikazio lehenetsi gisa"</string>
+<string name="requires_default_sms_change_button">Aldatu</string>
+<string name="recommend_set_default_sms_app">"Mezuak jasotzeko, ezarri Mezularitza SMS mezuak bidaltzeko aplikazio lehenetsi gisa"</string>
+<string name="no_preferred_sim_selected">"Ez da hautatu SMSak bidaltzeko SIM txartel hobetsia"</string>
+<string name="requires_sms_permissions_message">"Gailuaren jabeak ez du aplikazio hau baimendu."</string>
+<string name="requires_sms_permissions_close_button">"ados"</string>
+<string name="too_many_participants">"Parte-hartzaile gehiegi dago elkarrizketan"</string>
+<string name="camera_media_failure">"Ezin izan da kargatu kamerako irudia"</string>
+<string name="conversation_list_item_view_sent_from_you_prefix">"Zu:\u0020"</string>
+<string name="conversation_list_item_view_sent_from_other_prefix">"<xliff:g id="firstNameOfSender">%s</xliff:g>:\u0020"</string>
+<string name="conversation_list_item_view_draft_message">Zirriborroa</string>
+<string name="conversation_list_empty_text">"Elkarrizketa bat hasi ondoren, hemen ikusiko duzu"</string>
+<string name="archived_conversation_list_empty_text">"Artxibatutako elkarrizketak hemen agertzen dira"</string>
+<string name="conversation_list_first_sync_text">"Elkarrizketak kargatzen&#8230;"</string>
+<string name="conversation_list_snippet_picture">Irudia</string>
+<string name="conversation_list_snippet_audio_clip">"Audio-klipa"</string>
+<string name="conversation_list_snippet_video">Bideoa</string>
+<string name="conversation_list_snippet_vcard">"Kontaktu-txartela"</string>
+<string name="mms_text">MMS</string>
+<string name="snack_bar_undo">DESEGIN</string>
+<string name="snack_bar_retry">Saiatu berriro</string>
+<string name="contact_list_empty_text">"Idatzi kontaktuaren izena edo telefono-zenbakia mezu berri bat hasteko"</string>
+<string name="action_block">Blokeatu</string>
+<string name="block_contact_title">"Blokeatu <xliff:g id="destination">%s</xliff:g>"</string>
+<string name="unblock_contact_title">"Desblokeatu <xliff:g id="destination">%s</xliff:g>"</string>
+<string name="block_confirmation_title">"<xliff:g id="destination">%s</xliff:g> blokeatu nahi duzu?"</string>
+<string name="block_confirmation_message">"Erabiltzaileak bidalitako mezuak jasotzen jarraituko duzu, baina ez duzu jasoko horren jakinarazpenik. Elkarrizketa artxibatu egingo da."</string>
+<string name="blocked_contacts_title">"Blokeatutako kontaktuak"</string>
+<string name="tap_to_unblock_message">Desblokeatu</string>
+<string name="view_blocked_contacts_title">"Blokeatutako kontaktuak"</string>
+<string name="pick_image_from_document_library_content_description">"Aukeratu irudia dokumentuen liburutegitik"</string>
+<string name="sending_message">"Mezua bidaltzen"</string>
+<string name="send_message_success">"Bidali da mezua"</string>
+<string name="send_message_failure_no_data">"Datu-konexioa desaktibatuta dago. Egiaztatu ezarpenak."</string>
+<string name="send_message_failure_airplane_mode">"Ezin da bidali mezurik hegaldi moduan"</string>
+<string name="assistant_card_not_allow_for_mms">Ezin da bidali mezurik txartel laguntzailera</string>
+<string name="send_message_failure">"Ezin izan da bidali mezua"</string>
+<string name="download_message_success">"Deskargatu da mezua"</string>
+<string name="download_message_failure_no_data">"Datu-konexioa desaktibatuta dago. Egiaztatu ezarpenak."</string>
+<string name="download_message_failure_airplane_mode">"Ezin da deskargatu mezurik hegaldi moduan"</string>
+<string name="download_message_failure">"Ezin izan da deskargatu mezua"</string>
+<string name="content_description_for_number_zero">zero</string>
+<string name="content_description_for_number_one">bat</string>
+<string name="content_description_for_number_two">Bi</string>
+<string name="content_description_for_number_three">hiru</string>
+<string name="content_description_for_number_four">lau</string>
+<string name="content_description_for_number_five">bost</string>
+<string name="content_description_for_number_six">sei</string>
+<string name="content_description_for_number_seven">zazpi</string>
+<string name="content_description_for_number_eight">zortzi</string>
+<string name="content_description_for_number_nine">bederatzi</string>
+<string name="carrier_send_error">"Ezin da bidali mezurik <xliff:g id="carrierName">%1$s</xliff:g> operadorearen bidez. Errore-kodea: <xliff:g id="errorCode">%2$d</xliff:g>."</string>
+<string name="carrier_send_error_unknown_carrier">"Ezin da bidali mezurik operadore ezezagunaren bidez. Errore-kodea: <xliff:g id="errorCode">%1$d</xliff:g>."</string>
+<string name="message_fwd">"Fwd: <xliff:g id="subject">%s</xliff:g>"</string>
+<string name="mms_failure_outgoing_service">"Ez da bidali mezua: zerbitzua ez da aktibatu sarean"</string>
+<string name="mms_failure_outgoing_address">"Ez da bidali mezua: helmugako helbideak ez du balio"</string>
+<string name="mms_failure_outgoing_corrupt">"Ez da bidali mezua: mezuak ez du balio"</string>
+<string name="mms_failure_outgoing_content">"Ez da bidali mezua: edukia ez da onartzen"</string>
+<string name="mms_failure_outgoing_unsupported">"Ez da bidali mezua: mezua ez da onartzen"</string>
+<string name="mms_failure_outgoing_too_large">"Ez da bidali mezua: luzeegia da"</string>
+<string name="in_conversation_notify_new_message_text">Mezu berria</string>
+<string name="in_conversation_notify_new_message_action">Ikusi</string>
+<string name="message_image_content_description">Irudia</string>
+<string name="activity_not_found_message">"Ezin izan da aurkitu aplikazio egokia"</string>
+<string name="chips_delete_content_description">"Kendu hartzailea"</string>
+<string name="share_new_message">Mezu berria</string>
+<string name="share_cancel">"Utzi"</string>
+<string name="apn_edit">Sargunea editatu</string>
+<string name="apn_not_set">Ez dago ezarrita</string>
+<string name="apn_name">Izena</string>
+<string name="apn_mms_proxy">MMS proxy-a</string>
+<string name="apn_mms_port">MMS portua</string>
+<string name="apn_type">APN mota</string>
+<string name="menu_delete_apn">Ezabatu APN</string>
+<string name="menu_new_apn">APN berria</string>
+<string name="menu_save_apn">Gorde</string>
+<string name="menu_discard_apn_change">Baztertu</string>
+<string name="error_apn_name_empty">Izen eremua ezin da hutsik egon.</string>
+<string name="error_apn_empty">APNa ezin da hutsik egon.</string>
+<string name="error_mcc_not3">MCC eremuak 3 zifra izan behar ditu.</string>
+<string name="error_mnc_not23">MNC eremua 2 edo 3 zifra izan behar ditu.</string>
+<string name="restore_default_apn">Lehenetsitako APN ezarpenak leheneratzen.</string>
+<string name="menu_restore_default_apn">Berezarri lehenespenera</string>
+<string name="restore_default_apn_completed">Lehenetsitako APN ezarpenak berrezartzea ondo burutu da.</string>
+<string name="untitled_apn">Izengabea</string>
+<string name="sms_apns_title">Sarguneen Izenak</string>
+<string name="apn_settings">APNs</string>
+<string name="menu_new">APN berria</string>
+<string name="apn_settings_not_available">Erabiltzaile honentzat sarguneen Izenaren ezarpenak ez daude erabilgarri</string>
+<string name="copy_to_clipboard_dialog_title">"Arbelean kopiatu nahi duzu?"</string>
+<string name="copy_to_clipboard">Kopiatu</string>
+<string name="incoming_sim_name_text">"SIM txartela: <xliff:g id="sim_name">%s</xliff:g>"</string>
+<string name="general_settings">Orokorra</string>
+<string name="advanced_settings">Aurreratua</string>
+<string name="general_settings_activity_title">Ezarpen orokorrak</string>
+<string name="advanced_settings_activity_title">Ezarpen aurreratuak</string>
+<string name="sim_specific_settings">"\"<xliff:g id="sim_name">%s</xliff:g>\". SIM txartela"</string>
+<string name="disable_group_mms">"Bidali SMS mezu bat hartzaile-guztiei. Zuk bakarrik jasoko dituzu erantzunak"</string>
+<string name="enable_group_mms">"Bidali MMS bat hartzaile guztiei"</string>
+<string name="sim_settings_unknown_number">"Zenbaki ezezaguna"</string>
+<string name="secondary_user_new_message_title">Mezu berria</string>
+<string name="secondary_user_new_message_ticker">"Mezu berria."</string>
+<string name="sim_selector_button_content_description">"SIM txartelaren hautatzailea"</string>
+<string name="sim_selector_button_content_description_with_selection">"<xliff:g id="sim">%1$s</xliff:g> hautatu da (SIM txartelaren hautatzailea)"</string>
+<string name="send_button_long_click_description_no_sim_selector">"Editatu gaia"</string>
+<string name="send_button_long_click_description_with_sim_selector">"Hautatu SIM txartela edo editatu gaia"</string>
+<string name="audio_record_view_content_description">"Ukitu eda eduki sakatuta audioa grabatzeko"</string>
+<string name="widget_new_conversation_content_description">"Hasi elkarrizketa berria"</string>
+<string name="widget_conversation_list_name">"Mezularitza aplikazioaren zerrenda"</string>
+<string name="widget_new_message_content_description">Mezu berria</string>
+<string name="widget_conversation_list_content_description">Elkarrizketa zerrenda</string>
+<string name="loading_conversations">"Elkarrizketak kargatzen"</string>
+<string name="loading_messages">"Mezuak kargatzen"</string>
+<string name="view_more_conversations">Ikusi gehiago solasaldietan</string>
+<string name="view_more_messages">"Ikusi mezu gehiago"</string>
+<string name="conversation_deleted">"Ezabatu da elkarrizketa"</string>
+<string name="tap_to_configure">"Ezabatu da elkarrizketa. Ukitu Mezularitza aplikazioaren beste elkarrizketa bat ikusteko"</string>
+<string name="update_destination_blocked">Blokeatuta</string>
+<string name="update_destination_unblocked">"Desblokeatuta"</string>
+<string name="db_full">"Memoria gutxi geratzen da. Baliteke datu batzuk galtzea."</string>
+<string name="attachment_chooser_activity_title">"Hautatu eranskinak"</string>
+<string name="action_confirm_selection">"Berretsi hautapena"</string>
+<string name="attachment_chooser_selection">"<xliff:g id="count">%d</xliff:g> hautatu da/dira"</string>
+<string name="attachment_limit_reached_dialog_message_when_composing">"Kendu eranskin bat edo gehiago eta saiatu berriro."</string>
+<string name="attachment_limit_reached_dialog_message_when_sending">"Saiatu mezu bidaltzen, baina, eranskin bat edo gehiago kentzen ez badituzu, baliteke mezua ez bidaltzea."</string>
+<string name="video_attachment_limit_exceeded_when_sending">"Bideo bat bakarrik bidal dezakezu mezu bakoitzean. Kendu soberan dauden bideoak eta saiatu berriro."</string>
+<string name="attachment_load_failed_dialog_message">"Mezularitzak aplikazioak ezin izan du kargatu eranskina."</string>
+<string name="attachment_limit_reached_send_anyway">Bidali halere</string>
+<string name="conversation_creation_failure">"Ezin izan da hasi elkarrizketa"</string>
+<string name="selected_sim_content_message">"<xliff:g id="selected_sim">%s</xliff:g> SIM txartela hautatu da"</string>
+<string name="empty_msg">"Mezu hutsa"</string>
+<string name="send_empty_msg">"Hutsik dagoen mezu bat bidaltzen saiatzen ari zara?"</string>
+<string name="yes">Bai</string>
+<string name="no">"Ez"</string>
+<string name="donotset_time_before_now">Ezin da ezarri oraingo ordua baino lehenagoko bat</string>
+<string name="please_reset_time">Ordua igaro da, berrezarri alarma</string>
+<string name="please_set_date">Ezarri data</string>
+<string name="please_set_time">Ezarri ordua</string>
+<string name="audio_format_unknow">"Audio formatu hau ez da onartzen"</string>
+</resources>

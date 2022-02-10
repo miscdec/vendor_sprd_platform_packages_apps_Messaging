@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string-array name="mms_validity_pref_entries">
+<item>"সেট তৌদে"</item>
+<item>"পুং 1"</item>
+<item>"পুং 12"</item>
+<item>"পুং 24"</item>
+<item>"নুমিৎ 2"</item>
+<item>"খ্বাইদগী য়াম্বা"</item>
+</string-array>
+<string-array name="sms_validity_pref_entries">
+<item>"সেট তৌদে"</item>
+<item>"পুং 1"</item>
+<item>"পুং 12"</item>
+<item>"পুং 24"</item>
+<item>"নুমিৎ 2"</item>
+<item>"খ্বাইদগী য়াম্বা"</item>
+</string-array>
+<string-array name="sms_save_to_sim_pref_entries">
+<item>"sim দা সেব তৌনবা SMS কি প্রাইওরিতি লৈ"</item>
+<item>"মেসেজ তৌবগী দাতাবেজ দা সেব তৌনবা SMS কি প্রাইওরিতি লৈ"</item>
+</string-array>
+</resources>

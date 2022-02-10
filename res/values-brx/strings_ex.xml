@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="folder_display_option">"दिसप्ले अपसन"</string>
+    <string name="folder_sortby">"जों साजायनाय"</string>
+    <string name="folder_delete_messages">"मेसेसफोरखौ डिलेट खालाम"</string>
+    <string name="sort_msg_list_empty_text">"नोंथाङा नुगोनदि मेसेजआ बेयाव फारियै नुजादों"</string>
+    <string name="folder_display_all">"गासै मेसेसफोरखौ दिन्थि"</string>
+    <string name="delete_messages_confirmation_dialog_title">"सायख\'जानाय मेसेजफोरखौ दाननोना?"</string>
+    <string name="delete_message_fail">"सायख\'जानाय मेसेजफोरखौ दाननाया फेलें जाबाय!"</string>
+    <string name="have_select_message">"%1$d सायख\'जानाय"</string>
+    <string name="copy_sim_sms_to_phone">"मेसेजखौ फनआव कपि खालाम"</string>
+    <string name="simsms_title">"SIM नि मेसेसफोर"</string>
+    <string name="copy_fail">"नखल-खालामनाया फेलें-जाबाय!"</string>
+    <string-array name="sort_type">
+        <item>"सम खमायलांनायै"</item>
+        <item>"सम बारायलांनायै"</item>
+        <item>"थं खमायलांनायै"</item>
+        <item>"थं बारायलांनायै"</item>
+    </string-array>
+</resources>

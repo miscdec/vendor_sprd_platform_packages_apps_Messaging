@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string-array name="empty_subject_strings">
+<item>"সবজেক্ট লৈতে"</item>
+<item>"বিষয়হীন"</item>
+</string-array>
+<string-array name="notification_reply_choices">
+<item>"হোই"</item>
+<item>"নত্তে"</item>
+<item>"ওকে"</item>
+<item>"হে হে"</item>
+<item>"থাগৎচরি"</item>
+<item>"ঐহাক য়াই"</item>
+<item>"ফজৈ"</item>
+<item>"ঐ লম্বীদা লৈ"</item>
+<item>"ওকে, ঐহাক কোন্না নহাক্কা পাও ফাওনরক্কে"</item>
+<item>":)"</item>
+<item>":("</item>
+</string-array>
+</resources>

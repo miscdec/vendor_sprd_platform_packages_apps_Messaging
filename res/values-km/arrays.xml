@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+    Copyright (C) 2015 The Android Open Source Project
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+         http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
+ -->
+
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string-array name="empty_subject_strings">
+<item>"គ្មានប្រធាន"</item>
+<item>"គ្មានកម្មវត្ថុ"</item>
+</string-array>
+<string-array name="notification_reply_choices">
+<item>"បាទ/ចាស"</item>
+<item>បោះបង់</item>
+<item>យល់ព្រម</item>
+<item>"ហេហេ"</item>
+<item>"អរគុណ"</item>
+<item>"ខ្ញុំយល់ស្រប"</item>
+<item>"ល្អ"</item>
+<item>"កំពុងនៅតាមផ្លូវ"</item>
+<item>"អូខេ ចាំខ្ញុំទាក់ទងទៅអ្នកវិញពេលក្រោយ"</item>
+<item>":)"</item>
+<item>":("</item>
+</string-array>
+</resources>

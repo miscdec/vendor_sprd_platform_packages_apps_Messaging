@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string-array name="empty_subject_strings">
+<item>" بنا عنوان جي"</item>
+<item>" بدون موضوع"</item>
+</string-array>
+<string-array name="notification_reply_choices">
+<item>" هاءُ"</item>
+<item>"نه"</item>
+<item>"ٺيڪ آهي"</item>
+<item>"هي هي"</item>
+<item>"مهرباني"</item>
+<item>"آئون سهمت آهيان"</item>
+<item>"عمدو"</item>
+<item>"منهنجي رستي تي"</item>
+<item>"ٺيڪ آهي، مون کي بعد ۾ ڳالهائڻ جي اجازت ڏيندا"</item>
+<item>":)"</item>
+<item>":("</item>
+</string-array>
+</resources>

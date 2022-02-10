@@ -1,0 +1,493 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="share_intent_activity_label">"سۆزلىشىشنى تاللاش"</string>
+<string name="action_settings">تەڭشەك</string>
+<string name="sendButtonContentDescription">"قىسقا ئۇچۇر يوللاش"</string>
+<string name="attachMediaButtonContentDescription">"قۇشۇمچە ھۆججەت قوشۇش"</string>
+<string name="help_and_feedback_activity_label">ياردەم</string>
+<string name="welcome">"مەرھەمەت"</string>
+<string name="skip">"ئۆتۈپ كېتىش"</string>
+<string name="next_with_arrow">"&lt;كېيىنكىسى"</string>
+<string name="next">"كېيىنكى"</string>
+<string name="exit">"چىكىنىش"</string>
+<string name="settings_with_arrow">"&lt;تەڭشەك"</string>
+<string name="settings">تەڭشەك</string>
+<string name="required_permissions_promo">".ئۇچۇر يوللاش ئەپى قىسقا ئۇچۇر، يانڧۇن ۋە ئالاقىلاشقۇچىلارنى زىيارەت قىلىش ھوقۇقىغا مۇھتاج"</string>
+<string name="enable_permission_procedure">".سىز ھوقۇقنى تەڭشەك&amp;gt;ئەپلەر&amp;gt;ئۇچۇر يوللاش&amp;gt;ھوقۇقلار نىڭ ئىچىدە تەڭشىيەلەيسىز"</string>
+<string name="enable_permission_procedure_description">".سىز ھوقۇقنى تەڭشەك،ئەپلەر،ئۇچۇر يوللاش،ھوقۇقلار نىڭ ئىچىدە تەڭشىيەلەيسىز"</string>
+<string name="contact_picker_frequents_tab_title">"دائىملىق ئالاقىلاشقۇچىلار"</string>
+<string name="contact_picker_all_contacts_tab_title">ھەممە ئالاقلاشقۇچىلار</string>
+<string name="contact_list_send_to_text">"غا يوللاش<xliff:g id="destination">%s</xliff:g>"</string>
+<string name="mediapicker_cameraChooserDescription">"رەسىمگە ياكى سىنغا تارتىش"</string>
+<string name="mediapicker_galleryChooserDescription">"بۇ ئەسلىھەدىكى رەسىمنى تاللاش"</string>
+<string name="mediapicker_audioChooserDescription">"سىنغا ئېلىش"</string>
+<string name="mediapicker_gallery_title">"رەسىم تاللاش"</string>
+<string name="mediapicker_gallery_item_selected_content_description">".بۇ مىدىيا تاللاندى"</string>
+<string name="mediapicker_gallery_item_unselected_content_description">".بۇ مىدىيا تاللانمىدى"</string>
+<string name="mediapicker_gallery_title_selection">"تاللاندى<xliff:g id="count">%d</xliff:g>"</string>
+<string name="mediapicker_gallery_image_item_description">"<xliff:g id="date">%1$tB %1$te %1$tY %1$tl %1$tM %1$tp</xliff:g>رەسىم"</string>
+<string name="mediapicker_gallery_image_item_description_no_date">رەسىم</string>
+<string name="mediapicker_audio_title">"سىنغا ئېلىش"</string>
+<string name="action_share">بەھرىمان بولۇش</string>
+<string name="posted_just_now">"ھازىرلا"</string>
+<string name="posted_now">"ھازىر"</string>
+<plurals name="num_minutes_ago">
+<item quantity="one">"مىنۇت<xliff:g id="count">%d</xliff:g>"</item>
+<item quantity="other">"مىنۇتلار<xliff:g id="count">%d</xliff:g>"</item>
+</plurals>
+<plurals name="num_hours_ago">
+<item quantity="one">"سائەت<xliff:g id="count">%d</xliff:g>"</item>
+<item quantity="other">"سائەتلەر<xliff:g id="count">%d</xliff:g>"</item>
+</plurals>
+<plurals name="num_days_ago">
+<item quantity="one">"كۈن<xliff:g id="count">%d</xliff:g>"</item>
+<item quantity="other">"كۈنلەر<xliff:g id="count">%d</xliff:g>"</item>
+</plurals>
+<plurals name="week_count">
+<item quantity="one">"بىر ھەپتە"</item>
+<item quantity="other">"ھەپتە<xliff:g id="count">%d</xliff:g>"</item>
+</plurals>
+<plurals name="month_count">
+<item quantity="one">"بىر ئاي"</item>
+<item quantity="other">"ئاي<xliff:g id="count">%d</xliff:g>"</item>
+</plurals>
+<plurals name="year_count">
+<item quantity="one">"بىر يىل"</item>
+<item quantity="other">"يىل<xliff:g id="count">%d</xliff:g>"</item>
+</plurals>
+<string name="class_0_message_activity">"سىنىپ0ئۇچۇر"</string>
+<string name="save">ساقلاش</string>
+<string name="sms_storage_low_auto_delete_enabled_dialog_text">".ئەسلىھەدىكى بوشلۇق كەمچىل. ئۇچۇر يوللاش ئەپى ئاپتوماتىك ھالدا كونىراق ئۇچۇرلارنى يۇيۇپ بوشلۇق بىكار قىلىدۇ"</string>
+<string name="sms_storage_low_title">"ساقلاش بوشلۇقى يەتمىدى"</string>
+<string name="sms_storage_low_text">".ئەسلىھەسىڭىزدە ئىشلەتكىلى بولىدىغان كۆپرەك بوشلۇق بولغانغا قەدەر، ئۇچۇر يوللاش ئەپى ئۇچۇر ئەۋەتىيەلمەسلىكى ۋە قۇبۇللىيالماسلىقى مۇمكىن"</string>
+<string name="sms_storage_low_notification_ticker">".قىسقا ئۇچۇر ساقلاش بوشلۇقى كەمچىل. سىز بەلكىم ئۇچۇرلارنى يۇيۇشىڭىز كېرەك"</string>
+<string name="enter_phone_number_title">"يانڧۇن نۇمۇرىڭىزنى مۇقىملاڭ"</string>
+<string name="enter_phone_number_text">".بۇ بىر قېتىملىق قەدەمنى ئىجرا قىلغاندا،ئۇچۇر يوللاش ئەپىنىڭ گۇرۇپپىلاپ ئەۋەتىدىغان ئۇچۇرلارنىڭ توغرا يوللىنىشىغا كاپالەتلىك قىلغىلى بولىدۇ"</string>
+<string name="enter_phone_number_hint">تېلفۇن نۇمۇرى</string>
+<string name="delete_all_media">"مىدىيانى ئۆز ئىچىگە ئالغان بارلىق ئۇچۇرلارنى يۇيۇش"</string>
+<string name="delete_oldest_messages">"دىن بۇرۇنقى ئۇچۇرلارنى يۇيۇش<xliff:g id="duration">%s</xliff:g>"</string>
+<string name="auto_delete_oldest_messages">"دىن بۇرۇنقى ئۇچۇرلارنى يۇيۇش<xliff:g id="duration">%s</xliff:g>ئاپتوماتىك ھالدا"</string>
+<string name="ignore">ئۆتكۈزۈۋېتىش</string>
+<string name="delete_all_media_confirmation">"مىدىيانى ئۆز ئىچىگە ئالغان بارلىق ئۇچۇرلارنى يۇيامسىز؟"</string>
+<string name="delete_oldest_messages_confirmation">"دىن بۇرۇنقى ئۇچۇرلارنى يۇيامسىز؟<xliff:g id="duration">%s</xliff:g>"</string>
+<string name="auto_delete_oldest_messages_confirmation">"دىن بۇرۇنقى ئۇچۇرلارنى يۇيامسىز ۋە ئاپتوماتىك يۇيۇشنى ئاچامسىز؟<xliff:g id="duration">%s</xliff:g>"</string>
+<string name="incoming_text_sender_content_description">"دېدى<xliff:g id="sender">%s</xliff:g>"</string>
+<string name="outgoing_text_sender_content_description">"سىز دېدىڭىز"</string>
+<string name="incoming_sender_content_description">"دىن كەلگەن ئۇچۇر<xliff:g id="sender">%s</xliff:g>"</string>
+<string name="outgoing_sender_content_description">"سىز بىر پارچە ئۇچۇر يوللىدىڭىز"</string>
+<string name="message_status_sending">"...يوللاۋاتىدۇ"</string>
+<string name="message_status_send_failed">".يوللانمىدى. چېكىش ئارقىلىق قايتا سىناڭ"</string>
+<string name="user_not_exist">بۇ ئىشلەتكۈچى مەۋجۇت ئەمەس.</string>
+<string name="message_status_send_retrying">"...يوللانمىدى. قايتا سىناۋاتىدۇ"</string>
+<string name="message_status_resend">"قايتا يوللاش ۋە يۇيۇش"</string>
+<string name="message_status_send_failed_emergency_number">".جىددىي مۇلازىمەتكە ئاۋازلىق تېلىڧۇن قىلىڭ. تېكستلىك ئۇچۇر ئوڭۇشلۇق يوللىنالماسلىقى مۇمكىن"</string>
+<string name="message_status_failed">مەغلۇپ بولدى</string>
+<string name="message_title_manual_download">"چۈشۈرۈشنى ساقلاۋاتقان يېڭى رەڭلىك ئۇچۇر"</string>
+<string name="message_title_downloading">"يېڭى رەڭلىك ئۇچۇر"</string>
+<string name="message_title_download_failed">"چۈشۈرگىلى بولمىدى"</string>
+<string name="message_status_download_failed">"چېكىش ئارقىلىق قايتا سىناڭ"</string>
+<string name="message_status_download">"چېكىش ئارقىلىق چۈشۈرۈڭ"</string>
+<string name="message_status_download_action">"چۈشۈرۈش ياكى يۇيۇش"</string>
+<string name="message_status_downloading">"...چۈشۈرۈۋاتىدۇ"</string>
+<string name="message_status_download_error">"ئۇچۇرنىڭ ۋاقتى ئۆتۈپ كەتكەن ياكى ئىشلەتكىلى بولمايدۇ"</string>
+<string name="mms_info">"<xliff:g id="messageExpire">%2$s</xliff:g>:مۇددىتى توشۇش ۋاقتى<xliff:g id="messageSize">%1$s</xliff:g>:ئۇچۇر چوڭلۇقى"</string>
+<string name="invalid_destination">".يوللىيالمىدى. تاپشۇرۇۋالغۇچى ئىناۋەتسىز"</string>
+<string name="service_not_activated">"بۇ مۇلازىمەت توردا ئاكتىپلاشمىغان"</string>
+<string name="service_network_problem">"توردا مەسىلە بولغاچقا يوللىيالمىدى"</string>
+<string name="service_message_not_found">"ئۇچۇرنىڭ ۋاقتى ئۆتۈپ كەتكەن ياكى ئىشلەتكىلى بولمايدۇ"</string>
+<string name="no_subject">"(تەسىرى يوق)"</string>
+<string name="unknown_sender">"نامەلۇم ئەۋەتكۈچى"</string>
+<string name="delivered_status_content_description">"يوللىنىپ بولدى"</string>
+<string name="dl_failure_notification">"<xliff:g id="from">%2$s</xliff:g> دىن كەلگەن رەڭلىك ئۇچۇرنى چۈشۈرگىلى بولمايدۇ <xliff:g id="SUBJECT">%1$s</xliff:g>."</string>
+<string name="low_memory">"ئىچكى سىغىم يەتمىگەچكە سانلىق مەلۇمات ئامبىرى مەشغۇلاتىنى تاماملىيالمىدى"</string>
+<string name="notification_send_failures_line1_singular">"ئۇچۇر ئىۋەتىلمىدى"</string>
+<string name="notification_send_failures_line1_plural">"ئۇچۇر يوللاش ئەپى بەزى ئۇچۇرلارنى يوللىيالمىدى"</string>
+<plurals name="notification_send_failures">
+<item quantity="one">"پارچە ئۇچۇر<xliff:g id="messages">%d</xliff:g>بىر سۆزلىشىشتە بار بولغان"</item>
+<item quantity="other">"پارچە ئۇچۇر<xliff:g id="messages">%d</xliff:g>سۆزلىشىشتە بار بولغان<xliff:g id="conversations">%d</xliff:g>"</item>
+</plurals>
+<string name="notification_download_failures_line1_singular">"ئۇچۇر چۇشۇرۇلمىدى"</string>
+<string name="notification_download_failures_line1_plural">"بەزى ئۇچۇرلار ئۇچۇر يوللاش ئەپىدە چۈشۈرۈلمىدى"</string>
+<plurals name="notification_download_failures">
+<item quantity="one">"پارچە ئۇچۇر<xliff:g id="messages">%d</xliff:g>بىر سۆزلىشىشتە بار بولغان"</item>
+<item quantity="other">"پارچە ئۇچۇر<xliff:g id="messages">%d</xliff:g>سۆزلىشىشتە بار بولغان<xliff:g id="conversations">%d</xliff:g>"</item>
+</plurals>
+<string name="notification_emergency_send_failure_line1">"غا يوللىنىدىغان ئۇچۇر يوللانمىدى<xliff:g id="number">%1$s</xliff:g>"</string>
+<string name="notification_emergency_send_failure_line2">".غا يوللىغان تېكستلىك ئۇچۇرىڭىزبۇ ۋاقىتتا يوللىنالماسلىقى مۇمكىن<xliff:g id="number">%1$s</xliff:g>جىددىي مۇلازىمەتكە ئاۋازلىق تېلىڧۇن بېرىڭ.سىزنىڭ"</string>
+<plurals name="notification_new_messages">
+<item quantity="one">"يېڭى ئۇچۇر"</item>
+<item quantity="other">"پارچە يېڭى ئۇچۇر<xliff:g id="messages">%d</xliff:g>"</item>
+</plurals>
+<string name="start_conversation">باشلاش</string>
+<string name="camera_error_opening">"كامېرانى ئىشلەتكىلى بولمايدۇ"</string>
+<string name="camera_error_unknown">"كامېرانى ئىشلەتكىلى بولمايدۇ"</string>
+<string name="camera_error_video_init_fail">"سىنغا ئېلىش ئىقتىدارىنى ئىشلەتكىلى بولمايدۇ"</string>
+<string name="camera_error_storage_fail">"مىدىيانى ساقلىيالمىدى"</string>
+<string name="camera_error_failure_taking_picture">"رەسىمگە تارتىيالمىدى"</string>
+<string name="back">قايتىش</string>
+<string name="action_menu_show_archived">"ئارخىپلاشتۇرۇلدى"</string>
+<string name="action_delete">ئۆچۈرۈش</string>
+<string name="action_archive">"ئارخىپلاش"</string>
+<string name="action_unarchive">"ئارخىپلاشنى بىكارلاش"</string>
+<string name="action_notification_off">"ئۇقتۇرۇشنى ئۆچۈرۈش"</string>
+<string name="action_notification_on">"ئۇقتۇرۇشنى ئېچىپ ئىشلىتىش"</string>
+<string name="action_add_contact">ئالاقلاشقۇچى كۆپەيتىش</string>
+<string name="action_download">چۈشۈرۈش</string>
+<string name="action_send">"يوللاش"</string>
+<string name="action_delete_message">ئۆچۈرۈش</string>
+<string name="delete_message_confirmation_dialog_title">"بۇ ئۇچۇرنى يۇيامسىز؟"</string>
+<string name="delete_message_confirmation_dialog_text">".بۇ مەشغۇلاتنى بىكارلىغىلى بولمايدۇ"</string>
+<string name="delete_message_confirmation_button">ئۆچۈرۈش</string>
+<plurals name="delete_conversations_confirmation_dialog_title">
+<item quantity="one">"بۇ سۆزلىشىشنى يۇيۇمسىز؟"</item>
+<item quantity="other">"بۇ سۆزلىشىشلەرنى يۇيامسىز؟"</item>
+</plurals>
+<string name="delete_conversation_confirmation_button">ئۆچۈرۈش</string>
+<string name="delete_conversation_decline_button">ئەمەلدىن قالدۇرۇش</string>
+<string name="recipient_hint">"كېلىش"</string>
+<string name="action_multiselect">"كۆپ پارچە رەسىم تاللاش"</string>
+<string name="action_confirm_multiselect">"تاللاشنى مۇقىملاش"</string>
+<string name="audio_recording_start_failed">".ئاۋازنى ئۈنگە ئالالمايدۇ.ھوقۇقنى تەكشۈرۈڭ ۋە قايتا سىناڭ"</string>
+<string name="audio_recording_replay_failed">".ئاۋازنى قويالمىدى.قايتا سىناڭ"</string>
+<string name="audio_recording_error">".ئاۋازنى ساقلىيالمىدى. قايتا سىناڭ"</string>
+<string name="audio_picker_hint_text">"چېكىش ۋە بېسىپ تۇرۇش"</string>
+<string name="enumeration_comma">",\u0020"</string>
+<string name="notification_separator">\u0020\u0020</string>
+<string name="notification_ticker_separator">":"</string>
+<string name="notification_space_separator">\u0020\u0020</string>
+<string name="notification_picture">رەسىم</string>
+<string name="notification_audio">"ئاۋاز"</string>
+<string name="notification_video">ۋېدىئو</string>
+<string name="notification_vcard">"ئىسىم كارتا"</string>
+<string name="notification_download_mms">چۈشۈرۈش</string>
+<string name="notification_reply_via_sms">"قىسقا ئۇچۇر بىلەن قايتۇرۇش"</string>
+<string name="notification_reply_via_mms">"رەڭلىك ئۇچۇر بىلەن قايتۇرۇش"</string>
+<string name="notification_reply_prompt">قايتۇرۇش</string>
+<plurals name="wearable_participant_count">
+<item quantity="one">"نەپەر قاتناشقۇچى<xliff:g id="count">%d</xliff:g>"</item>
+<item quantity="other">"نەپەر قاتناشقۇچىلار<xliff:g id="count">%d</xliff:g>"</item>
+</plurals>
+<string name="unknown_self_participant">مەن</string>
+<string name="blocked_toast_message">"ئالاقىلاشقۇچى توسۇلدى ۋە ئارخىپلاندى"</string>
+<string name="unblocked_toast_message">"ئالاقىلاشقۇچى توسۇلىشى ۋە ئارخىپلىنىشى بىكارلاندى"</string>
+<string name="archived_toast_message">"دانە ئارخىپلاندى<xliff:g id="count">%d</xliff:g>"</string>
+<string name="unarchived_toast_message">"دانە ئارخىپلىنىشى بىكارلاندى<xliff:g id="count">%d</xliff:g>"</string>
+<string name="notification_off_toast_message">"ئۇقتۇرۇش ئېتىلدى"</string>
+<string name="notification_on_toast_message">"ئۇقتۇرۇش ئېچىلدى"</string>
+<string name="toast_after_setting_default_sms_app_for_message_send">".ھەممىسى تەڭشەلدى. يوللاشنى چېكىپ قايتا سىناڭ"</string>
+<string name="toast_after_setting_default_sms_app">".ئۇچۇر يوللاش ئەپى ئوڭۇشلۇق ھالدا سۈكۈتلۈك قىسقا ئۇچۇر ئەپى بولۇپ تەڭشەلدى"</string>
+<plurals name="attachment_preview_close_content_description">
+<item quantity="one">"قۇشۇمچە ھۆججەتتىن ۋاز كېچىش"</item>
+<item quantity="other">"قۇشۇمچە ھۆججەتلەردىن ۋاز كېچىش"</item>
+</plurals>
+<string name="audio_attachment_content_description">"ئاۋاز قۇشۇمچە ھۆججىتى"</string>
+<string name="audio_play_content_description">"ئاۋاز قۇشۇمچە ھۆججىتىنى قويۇش"</string>
+<string name="audio_pause_content_description">"ۋاقتىنچە توختاش"</string>
+<string name="incoming_message_announcement">"<xliff:g id="message">%s</xliff:g>:دىن ئۇچۇركەلدى<xliff:g id="sender">%s</xliff:g>ئەۋەتكۈچى"</string>
+<string name="one_on_one_incoming_failed_message_prefix">"يوللانمىغان ئۇچۇرلار<xliff:g id="sender">%s</xliff:g>مەزمۇنى: <xliff:g id="message">%s</xliff:g>. ۋاقتى: <xliff:g id="time">%s</xliff:g>."</string>
+<string name="one_on_one_incoming_successful_message_prefix">"<xliff:g id="sender">%s</xliff:g>دىن كەلگەن ئۇچۇر، مەزمۇنى بولسا: <xliff:g id="message">%s</xliff:g>. ۋاقتى: <xliff:g id="time">%s</xliff:g>."</string>
+<string name="one_on_one_outgoing_draft_message_prefix">"<xliff:g id="contact">%s</xliff:g>غا يوللىماقچى بولغان ئۇچۇر، مەزمۇنى بولسا: <xliff:g id="message">%s</xliff:g>. ۋاقتى: <xliff:g id="time">%s</xliff:g>."</string>
+<string name="one_on_one_outgoing_sending_message_prefix">"<xliff:g id="contact">%s</xliff:g>غا ئۇچۇر يوللاۋاتىدۇ، مەزمۇنى بولسا: <xliff:g id="message">%s</xliff:g>. ۋاقتى: <xliff:g id="time">%s</xliff:g>."</string>
+<string name="one_on_one_outgoing_failed_message_prefix">"<xliff:g id="contact">%s</xliff:g>غا يوللانمىغان ئۇچۇرلار، مەزمۇنى بولسا: <xliff:g id="message">%s</xliff:g>. ۋاقتى: <xliff:g id="time">%s</xliff:g>."</string>
+<string name="one_on_one_outgoing_successful_message_prefix">"<xliff:g id="contact">%s</xliff:g>غا يوللانغان ئۇچۇر، مەزمۇنى بولسا: <xliff:g id="message">%s</xliff:g>. ۋاقتى: <xliff:g id="time">%s</xliff:g>."</string>
+<string name="group_incoming_failed_message_prefix">"<xliff:g id="sender">%s</xliff:g>ئەۋەتىلمىگەن ئۇچۇرلار،مەزمۇنى بولسا: <xliff:g id="message">%s</xliff:g>. ۋاقتى: <xliff:g id="time">%s</xliff:g>. <xliff:g id="groupInfo">%s</xliff:g>."</string>
+<string name="group_incoming_successful_message_prefix">"<xliff:g id="sender">%s</xliff:g>دىن كەلگەن ئۇچۇر، مەزمۇنى بولسا: <xliff:g id="message">%s</xliff:g>. ۋاقتى: <xliff:g id="time">%s</xliff:g>. <xliff:g id="groupInfo">%s</xliff:g>."</string>
+<string name="group_outgoing_draft_message_prefix">"<xliff:g id="group">%s</xliff:g>غا يوللىنىدىغان ئۇچۇر، مەزمۇنى بولسا: <xliff:g id="message">%s</xliff:g>. ۋاقتى: <xliff:g id="time">%s</xliff:g>."</string>
+<string name="group_outgoing_sending_message_prefix">"<xliff:g id="group">%s</xliff:g>غا ئۇچۇر يوللاۋاتىدۇ، مەزمۇنى بولسا: <xliff:g id="message">%s</xliff:g>. ۋاقتى: <xliff:g id="time">%s</xliff:g>."</string>
+<string name="group_outgoing_failed_message_prefix">"<xliff:g id="group">%s</xliff:g>غا يوللىنالمىغان ئۇچۇرلار، مەزمۇنى بولسا: <xliff:g id="message">%s</xliff:g>. ۋاقتى: <xliff:g id="time">%s</xliff:g>."</string>
+<string name="group_outgoing_successful_message_prefix">"<xliff:g id="group">%s</xliff:g>غا يوللانغان ئۇچۇر، مەزمۇنى بولسا: <xliff:g id="message">%s</xliff:g>. ۋاقتى: <xliff:g id="time">%s</xliff:g>."</string>
+<string name="failed_message_content_description">".ئۇچۇر يوللاش مەغلۇپ بولدى. چېكىش ئارقىلىق قايتا سىناڭ"</string>
+<string name="group_conversation_description">"بىلەن بولغان سۆزلىشىش<xliff:g id="participants">%s</xliff:g>"</string>
+<string name="delete_subject_content_description">"ئاساسى تېمىنى يۇيۇش"</string>
+<string name="camera_switch_to_video_mode">سىن تۇتۇش</string>
+<string name="camera_switch_to_still_mode">"تىنىچ ھالەتتىكى رەسىمگە تارتىش"</string>
+<string name="camera_take_picture">"رەسىمگە تارتىش"</string>
+<string name="camera_start_recording">"سىنغا ئېلىشنى باشلاش"</string>
+<string name="camera_switch_full_screen">"پۈتۈن ئېكرانلىق كامېرا ھالىتىگە ئۆزگەرتىش"</string>
+<string name="camera_switch_camera_facing">"ئالدى كەينى كامېرا ئارىسىدا ئۆزگەرتىش"</string>
+<string name="camera_stop_recording">"كامېراغا ئېلىشنى توختىتىش ۋە سىن قۇشۇمچە ھۆججىتىنى قوشۇش"</string>
+<string name="camera_cancel_recording">"سىنغا ئېلىشنى توختىتىش"</string>
+<string name="photo_view_activity_title">"ئۇچۇر يوللاش ئەپىدىكى رەسىملەر"</string>
+<plurals name="photos_saved_to_album">
+<item quantity="one">"ئالبۇمغا ساقلاندى"<xliff:g id="albumName">%s</xliff:g>"پارچە سۈرەت<xliff:g id="quantity">%d</xliff:g>"</item>
+<item quantity="other">"ئالبۇمغا ساقلاندى"<xliff:g id="albumName">%s</xliff:g>"پارچە سۈرەت<xliff:g id="quantity">%d</xliff:g>"</item>
+</plurals>
+<plurals name="videos_saved_to_album">
+<item quantity="one">"ئالبۇمغا ساقلاندى"<xliff:g id="albumName">%s</xliff:g>"پارچە سىن<xliff:g id="quantity">%d</xliff:g>"</item>
+<item quantity="other">"ئالبۇمغا ساقلاندى"<xliff:g id="albumName">%s</xliff:g>"پارچە سىن<xliff:g id="quantity">%d</xliff:g>"</item>
+</plurals>
+<plurals name="attachments_saved_to_album">
+<item quantity="one">"ئالبۇمغا ساقلاندى"<xliff:g id="albumName">%s</xliff:g>"پارچە قۇشۇمچە ھۆججەت<xliff:g id="quantity">%d</xliff:g>"</item>
+<item quantity="other">"ئالبۇمغا ساقلاندى"<xliff:g id="albumName">%s</xliff:g>"پارچە قۇشۇمچە ھۆججەت<xliff:g id="quantity">%d</xliff:g>"</item>
+</plurals>
+<plurals name="attachments_saved_to_downloads">
+<item quantity="one">"پارچە قۇشۇمچە ھۆججەت "چۈشۈرۈلگەن مەزمۇن"غا ساقلاندى<xliff:g id="quantity">%d</xliff:g>"</item>
+<item quantity="other">"پارچە قۇشۇمچە ھۆججەت "چۈشۈرۈلگەن مەزمۇن"غا ساقلاندى<xliff:g id="quantity">%d</xliff:g>"</item>
+</plurals>
+<plurals name="attachments_saved">
+<item quantity="one">"پارچە قۇشۇمچە ھۆججەت ساقلاندى<xliff:g id="quantity">%d</xliff:g>"</item>
+<item quantity="other">"پارچە قۇشۇمچە ھۆججەت ساقلاندى<xliff:g id="quantity">%d</xliff:g>"</item>
+</plurals>
+<plurals name="attachment_save_error">
+<item quantity="one">"پارچە قۇشۇمچە ھۆججەت ساقلانمىدى<xliff:g id="quantity">%d</xliff:g>"</item>
+<item quantity="other">"پارچە قۇشۇمچە ھۆججەت ساقلانمىدى<xliff:g id="quantity">%d</xliff:g>"</item>
+</plurals>
+<string name="attachment_file_description">"ساقلانغان رەڭلىك ئۇچۇر قۇشۇمچە ھۆججىتى"</string>
+<string name="settings_activity_title">تەڭشەك</string>
+<string name="archived_activity_title">"ئارخىپلاشتۇرۇلدى"</string>
+<string name="action_close">ئىتىۋېتىش</string>
+<string name="mms_messaging_category_pref_title">"سۆرەتلىك ئۇچۇر"</string>
+<string name="advanced_category_pref_title">"يۇقىرى دەرىجىلىك"</string>
+<string name="debug_category_pref_title">"تەڭشەپ سىناش"</string>
+<string name="notifications_enabled_pref_title">ئۇختۇرۇش</string>
+<string name="notification_sound_pref_title">"قوڭغۇراق تاللاش"</string>
+<string name="silent_ringtone">تىنچ</string>
+<string name="notification_vibrate_pref_title">تىترەش</string>
+<string name="blocked_pref_title">"توختىتىلدى"</string>
+<string name="send_reports_pref_title">"قىسقا ئۇچۇر يوللىنىش دوكلاتى"</string>
+<string name="send_reports_pref_summary">"سىز يوللىغان ھەربىر قىسقا ئۇچۇر ئۈچۈن يوللىنىش دوكلاتى تەلەپ قىلىش"</string>
+<string name="delivery_reports_pref_title">"قىسقا ئۇچۇر يوللىنىش ئەھۋالىنىڭ دوكلاتى"</string>
+<string name="delivery_reports_pref_summary">"سىز يوللىغان ھەربىر قىسقا ئۇچۇرنىڭ يوللىنىش ئەھۋالىنىڭ دوكلاتىنى تەلەپ قىلىدۇ"</string>
+<string name="auto_retrieve_mms_pref_title">"ئاپتوماتىك قايتا ئىرشىش"</string>
+<string name="auto_retrieve_mms_pref_summary">"ئاپتوماتىك ھالدا رەڭلىك ئۇچۇرنى ئىزدەپ تېپىش"</string>
+<string name="auto_retrieve_mms_when_roaming_pref_title">"سەييارە سۆزلىشىش ئاپتۇماتىك قايتۇرمىسى"</string>
+<string name="auto_retrieve_mms_when_roaming_pref_summary">"كەزمە مۇلازىمەت ۋاقتىدا ئاپتوماتىك ھالدا رەڭلىك ئۇچۇرنى ئىزدەپ تېپىش"</string>
+<string name="group_mms_pref_title">"گوروپپىلاپ ئۇچۇر يوللاش"</string>
+<string name="group_mms_pref_summary">"رەڭلىك ئۇچۇر ئارقىلىق بىر تال ئۇچۇرنى كۆپ تاپشۇرۇۋالغۇچىلارغا ئەۋەتىش"</string>
+<string name="mms_phone_number_pref_title">"سىزنىڭ يانڧۇن نۇمۇرىڭىز"</string>
+<string name="unknown_phone_number_pref_display_value">نامەلۇم</string>
+<string name="send_sound_pref_title">"ئۇچۇر يوللانغاندىكى ئەسكەرتمە ئاۋاز"</string>
+<string name="dump_sms_pref_title">"قىسقا ئۇچۇرنى ئالماشتۇرۇپ ساقلاش"</string>
+<string name="dump_sms_pref_summary">"تاپشۇرۇۋالغان قىسقا ئۇچۇر ئەسلى سانلىق مەلۇماتىنى سىرتقى ساقلىغۇچ ھۆججىتىگە ئالماشتۇرۇپ ساقلاش"</string>
+<string name="dump_mms_pref_title">"رەڭلىك ئۇچۇرنى ئالماشتۇرۇپ ساقلاش"</string>
+<string name="dump_mms_pref_summary">"تاپشۇرۇۋالغان رەڭلىك ئۇچۇر ئەسلى سانلىق مەلۇماتىنى سىرتقى ساقلىغۇچ ھۆججىتىگە ئالماشتۇرۇپ ساقلاش"</string>
+<string name="wireless_alerts_title">"سىمسىز ئاگاھلاندۇرۇش سىگنالى"</string>
+<string name="message_context_menu_title">"ئۇچۇر تاللىشى"</string>
+<string name="message_context_menu_copy_text">"ھەرپ نۇسخىلاش"</string>
+<string name="message_context_menu_view_details">"تەپسىلاتىنى كۆرۈش"</string>
+<string name="message_context_menu_delete_message">ئۆچۈرۈش</string>
+<string name="message_context_menu_forward_message">باشقىغا يۆتكىمەك</string>
+<string name="message_details_title">"ئۇچۇر تەپسلى ئەھۋالى"</string>
+<string name="message_type_label">"تىپى:\u0020"</string>
+<string name="text_message">"خەتلىك ئۇچۇر"</string>
+<string name="multimedia_message">"رەڭلىك ئۇچۇر"</string>
+<string name="from_label">"دىن:\u0020"</string>
+<string name="to_address_label">"قوبۇللىغۇچى:\u0020"</string>
+<string name="sent_label">"يوللاندى:\u0020"</string>
+<string name="received_label">"قوبۇل قىلىندى:\u0020"</string>
+<string name="subject_label">"تېما:\u0020"</string>
+<string name="message_size_label">":چوڭلۇقى"</string>
+<string name="priority_label">"ئالدىنلىقى:"</string>
+<string name="sim_label">"SIM:\u0020"</string>
+<string name="priority_high">ئېگىز</string>
+<string name="priority_normal">"نورمال"</string>
+<string name="priority_low">ئاددى</string>
+<string name="sim_slot_identifier">"<xliff:g id="sim_slot_number">%s</xliff:g>كارتاSIM"</string>
+<string name="hidden_sender_address">"يوللىغۇچى ئادىرىسىنى تىقىپ قويۇش"</string>
+<string name="cant_send_message_while_loading_attachments">".قۇشۇمچە ھۆججەت يۈكلىنىۋاتقاندا، ئۇچۇر يوللىيالمايدۇ"</string>
+<string name="fail_to_load_attachment">".قۇشۇمچە ھۆججەتنى يۈكلىيەلمىدى. قايتا سىناڭ"</string>
+<string name="cant_send_message_without_active_subscription">".تور تېخى تەييار بولمىدى. قايتا سىناڭ"</string>
+<string name="chips_text_delete_button_content_description">"تېكستنى يۇيۇش"</string>
+<string name="numeric_text_keyboard_toggle_button_content_description">"تېكست كىرگۈزۈش ۋە سان كىرگۈزۈش ھالىتىدە ئۆزگەرتىش"</string>
+<string name="add_more_participants_button_content_description">"تېخىمۇ كۆپ قاتناشقۇچىلارنى قوشۇش"</string>
+<string name="confrim_participants_button_content_description">"قاتناشقۇچىلارنى مۇقىملاش"</string>
+<string name="start_new_conversation">"يېڭى سۆزلىشىشنى باشلاش"</string>
+<string name="gallery_checkbox_content_description">"بۇ تۈرنى تاللاش"</string>
+<string name="video_thumbnail_view_play_button_content_description">"سىننى قويۇش"</string>
+<string name="action_people_and_options">"كىشىلەر ۋە تاللاش"</string>
+<string name="action_debug_options">"تەڭشەپ سىناش"</string>
+<string name="people_and_options_activity_title">"كىشىلەر ۋە تاللاش"</string>
+<string name="general_settings_title">ئادەتتىكى</string>
+<string name="participant_list_title">"بۇ سۆزلىشىشتىكى كىشىلەر"</string>
+<string name="action_call">"تېلىڧۇن ئۇرۇش"</string>
+<string name="compose_message_view_hint_text">"قىسقا ئۇچۇر يوللاش"</string>
+<string name="compose_message_view_hint_text_multi_sim">"ئۇچۇر يوللاش<br/><small>ئارقىلىق<xliff:g id="sim_name">%s</xliff:g></small>"</string>
+<plurals name="compose_message_view_hint_text_photo">
+<item quantity="one">"رەسىم يوللاش"</item>
+<item quantity="other">"رەسىملەرنى يوللاش"</item>
+</plurals>
+<plurals name="compose_message_view_hint_text_audio">
+<item quantity="one">"ئاۋاز يوللاش"</item>
+<item quantity="other">"ئاۋاز يوللاش"</item>
+</plurals>
+<plurals name="compose_message_view_hint_text_video">
+<item quantity="one">"سىن يوللاش"</item>
+<item quantity="other">"سىنلارنى يوللاش"</item>
+</plurals>
+<plurals name="compose_message_view_hint_text_vcard">
+<item quantity="one">"ئىسىم كارتىسىنى يوللاش"</item>
+<item quantity="other">"ئىسىم كارتىسىنى يوللاش"</item>
+</plurals>
+<plurals name="compose_message_view_hint_text_attachments">
+<item quantity="one">"قۇشۇمچە ھۆججەت يوللاش"</item>
+<item quantity="other">"قۇشۇمچە ھۆججەت يوللاش"</item>
+</plurals>
+<plurals name="attachment_changed_accessibility_announcement">
+<item quantity="zero">"No attachments selected"</item>
+<item quantity="one">"بىر پارچە قۇشۇمچە ھۆججەت يوللىنىشقا تەييار"</item>
+<item quantity="other">"قۇشۇمچە ھۆججەت يوللىنىشقا تەييار<xliff:g id="attachment_count">%d</xliff:g>"</item>
+</plurals>
+<string name="menu_send_feedback">"قايتما ئىنكاس يوللاش"</string>
+<string name="menu_view_in_store">"دۇكىنىدا كۆرۈشGoogle Play"</string>
+<string name="menu_version_info">"نۇسخا ئۇچۇرى"</string>
+<string name="subtitle_format_for_version_number">"%1$sنۇسخا"</string>
+<string name="menu_license">"مەنبە گۇۋاھنامىسىنى ئېچىش"</string>
+<string name="notifications_enabled_conversation_pref_title">ئۇختۇرۇش</string>
+<string name="mms_attachment_limit_reached">"قۇشۇمچە ھۆججەت چېكىگە يەتتى"</string>
+<string name="mms_attachment_load_failed">".قۇشۇمچە ھۆججەت يۈكلەش مەغلۇپ بولدى"</string>
+<string name="add_contact_confirmation_dialog_title">"ئالاقىلاشقۇچىلارغا قۇشۇمسىز؟"</string>
+<string name="add_contact_confirmation">ئالاقلاشقۇچى كۆپەيتىش</string>
+<string name="compose_message_view_subject_hint_text">"تېما"</string>
+<string name="conversation_message_view_subject_text">"تېما:\u0020"</string>
+<string name="loading_vcard">"ئىسىم كارتىسىنى يۈكلەۋاتىدۇ"</string>
+<string name="failed_loading_vcard">"ئىسىم كارتىسىنى يۈكلىيەلمىدى"</string>
+<string name="vcard_tap_hint">"ئىسىم كارتىسىنى كۆرۈش"</string>
+<plurals name="vcard_multiple_display_name">
+<item quantity="one">"نەپەر ئالاقىلاشقۇچى<xliff:g id="count">%d</xliff:g>"</item>
+<item quantity="other">"نەپەر ئالاقىلاشقۇچىلار<xliff:g id="count">%d</xliff:g>"</item>
+</plurals>
+<string name="vcard_detail_activity_title">"ئىسىم كارتىلىرى"</string>
+<string name="vcard_detail_birthday_label">"تۇغۇلغان كۈن"</string>
+<string name="vcard_detail_notes_label">"ئىزاھەتلەر"</string>
+<string name="forward_message_activity_title">"ئۇچۇرنى يۆتكەپ ئەۋەتىش"</string>
+<string name="reply_activity_title">قايتۇرۇش</string>
+<string name="sms_disabled">"قىسقا ئۇچۇر ئىقتىدارى ئېتىلدى"</string>
+<string name="requires_default_sms_app_to_send">"يوللاش ئۈچۈن، ئۇچۇر يوللاش ئەپىنى سۈكۈتلۈك قىسقا ئۇچۇر يوللاش ئەپى قىلىپ تەڭشەڭ"</string>
+<string name="requires_default_sms_app">"ئۇچۇر يوللاش ئەپىنى سۈكۈتلۈك قىسقا ئۇچۇر يوللاش ئەپى قىلىپ تەڭشەڭ"</string>
+<string name="requires_default_sms_change_button">"ئۆزگەرتىش"</string>
+<string name="recommend_set_default_sms_app">"ئۇچۇر تاپشۇرۇۋېلىش ئۈچۈن، ئۇچۇر يوللاش ئەپىنى سۈكۈتلۈك قىسقا ئۇچۇر يوللاش ئەپى قىلىپ تەڭشەڭ"</string>
+<string name="no_preferred_sim_selected">"كارتا تاللانمىدىSIMقىسقا ئۇچۇر يوللاشتا ئالدىن ئىشلىتىلىدىغان"</string>
+<string name="requires_sms_permissions_message">".ئەسلىھە ئىگىسى بۇ ئەپنى ئىشلىتىشكە رۇخسەت قىلمىدى"</string>
+<string name="requires_sms_permissions_close_button">مۇقىملاش</string>
+<string name="too_many_participants">"بۇ سۆزلىشىشتە قاتناشقۇچىلار بەك كۆپ"</string>
+<plurals name="add_invalid_contact_error">
+<item quantity="one">"ئىناۋەتسىز ئالاقىلاشقۇچى"</item>
+<item quantity="other">"ئىناۋەتسىز ئالاقىلاشقۇچىلار"</item>
+</plurals>
+<string name="camera_media_failure">"كامېرا رەسىمىنى يۈكلىيەلمىدى"</string>
+<string name="conversation_list_item_view_sent_from_you_prefix">":سىز"</string>
+<string name="conversation_list_item_view_sent_from_other_prefix">"<xliff:g id="firstNameOfSender">%s</xliff:g>:\u0020"</string>
+<string name="conversation_list_item_view_draft_message">"كوپيە"</string>
+<string name="conversation_list_empty_text">"بىر سۆزلىشىشنى باشلىغاندىن كېيىن سىز ئۇنىڭ بۇ يەردە تىزىلغانلىقىنى كۆرىسىز"</string>
+<string name="archived_conversation_list_empty_text">"ئارخىپلانغان سۆزلىشىشلەر بۇ يەردە پەيدا بولىدۇ"</string>
+<string name="conversation_list_first_sync_text">"...سۆزلىشىشنى يۈكلەۋاتىدۇ"</string>
+<string name="conversation_list_snippet_picture">رەسىم</string>
+<string name="conversation_list_snippet_audio_clip">"ئاۋاز"</string>
+<string name="conversation_list_snippet_video">ۋېدىئو</string>
+<string name="conversation_list_snippet_vcard">"ئىسىم كارتا"</string>
+<string name="mms_text">"سۆرەتلىك ئۇچۇر"</string>
+<string name="snack_bar_undo">يېنىۋالماق</string>
+<string name="snack_bar_retry">" قايتا سىناش"</string>
+<string name="contact_list_empty_text">"يېڭى ئۇچۇر يوللاش ئۈچۈن، بىر نەپەر ئالاقىلاشقۇچى ئىسمى ياكى يانڧۇن نۇمۇرىنى كىرگۈزۈڭ"</string>
+<string name="action_block">"توسۇش"</string>
+<string name="block_contact_title">"نى توسۇش<xliff:g id="destination">%s</xliff:g>"</string>
+<string name="unblock_contact_title">"نى توسۇشنى بىكارلاش<xliff:g id="destination">%s</xliff:g>"</string>
+<string name="block_confirmation_title">"نى توسۇمسىز؟<xliff:g id="destination">%s</xliff:g>"</string>
+<string name="block_confirmation_message">".سىز بۇ نۇمۇردىن داۋاملىق ئۇچۇر قۇبۇللىيالايسىز، بىراق ئەمدى ئالاقىدار ئۇقتۇرۇش تاپشۇرۇۋالمايسىز.بۇ سۆزلىشىش ئارخىپلاشتۇرۇلىدۇ"</string>
+<string name="blocked_contacts_title">"توسۇلغان ئالاقىلاشقۇچىلار"</string>
+<string name="tap_to_unblock_message">"توسۇشنى بىكارقىلىش"</string>
+<string name="view_blocked_contacts_title">"توسۇلغان ئالاقىلاشقۇچىلار"</string>
+<string name="pick_image_from_document_library_content_description">"ھۆججەت ئامبىرىدىن رەسىم تاللاش"</string>
+<string name="sending_message">"ئۇچۇر يوللاۋاتىدۇ"</string>
+<string name="send_message_success">"ئۇچۇر يوللاندى"</string>
+<string name="send_message_failure_no_data">".كۆچمە سانلىق مەلۇمات تورى ئېتىۋېتىلدى. تەڭشىكىڭىزنى تەكشۈرۈڭ"</string>
+<string name="send_message_failure_airplane_mode">"ئايروپىلان ھالىتىدە ئۇچۇر يوللىيالمايدۇ"</string>
+<string name="send_message_failure">"ئۇچۇر يوللىنالمىدى"</string>
+<string name="download_message_success">"ئۇچۇر چۈشۈرۈلدى"</string>
+<string name="download_message_failure_no_data">".كۆچمە سانلىق مەلۇمات تورى ئېتىۋېتىلدى. تەڭشىكىڭىزنى تەكشۈرۈڭ"</string>
+<string name="download_message_failure_airplane_mode">"ئايروپىلان ھالىتىدە ئۇچۇر چۈشۈرەلمەيدۇ"</string>
+<string name="download_message_failure">"ئۇچۇرنى چۈشۈرەلمىدى"</string>
+<string name="content_description_for_number_zero">"نۆل"</string>
+<string name="content_description_for_number_one">"بىر"</string>
+<string name="content_description_for_number_two">"ئىككى"</string>
+<string name="content_description_for_number_three">"ئۈچ"</string>
+<string name="content_description_for_number_four">"تۆت"</string>
+<string name="content_description_for_number_five">"بەش"</string>
+<string name="content_description_for_number_six">"ئالتە"</string>
+<string name="content_description_for_number_seven">"يەتتە"</string>
+<string name="content_description_for_number_eight">"سەككىز"</string>
+<string name="content_description_for_number_nine">"توققۇز"</string>
+<string name="carrier_send_error">"<xliff:g id="errorCode">%2$d</xliff:g>:خاتالىق نۇمۇرى<xliff:g id="carrierName">%1$s</xliff:g>:ئۇچۇر يوللانمىدى. يۈرۈشتۈرگۈچى"</string>
+<string name="carrier_send_error_unknown_carrier">"<xliff:g id="errorCode">%1$d</xliff:g>:يۈرۈشتۈرگۈچىسى نامەلۇم بولغان ئۇچۇرنى يوللىيالمايدۇ. خاتالىق نۇمۇرى"</string>
+<string name="message_fwd">"<xliff:g id="subject">%s</xliff:g>:ئۆزگەرتىپ يوللاش"</string>
+<string name="mms_failure_outgoing_service">"ئۇچۇر يوللانمىدى: مۇلازىمەت توردا ئاكتىپلانمىغان"</string>
+<string name="mms_failure_outgoing_address">"ئۇچۇر يوللانمىدى:ئىناۋەتسىز نىشانلىق ئادرېس"</string>
+<string name="mms_failure_outgoing_corrupt">"ئۇچۇر يوللانمىدى:ئىناۋەتسىز ئۇچۇر"</string>
+<string name="mms_failure_outgoing_content">"ئۇچۇر يوللانمىدى:قوللىنىلمايدىغان مەزمۇن"</string>
+<string name="mms_failure_outgoing_unsupported">"ئۇچۇر يوللانمىدى:قوللىنىلمايدىغان ئۇچۇر"</string>
+<string name="mms_failure_outgoing_too_large">"ئۇچۇر يوللانمىدى:ئۇچۇر بەك ئۇزۇن"</string>
+<string name="in_conversation_notify_new_message_text">"يېڭى ئۇچۇر"</string>
+<string name="in_conversation_notify_new_message_action">كۆرۈش</string>
+<string name="message_image_content_description">رەسىم</string>
+<string name="activity_not_found_message">"مۇۋاپىق ئەپ تاپالمىدى"</string>
+<string name="chips_delete_content_description">"تاپشۇرۇۋالغۇچىنى يۆتكىۋېتىش"</string>
+<string name="share_new_message">"يېڭى ئۇچۇر"</string>
+<string name="share_cancel">ئەمەلدىن قالدۇرۇش</string>
+<string name="apn_edit">"ئۇلىنىش نۇقتىسىنى تەھرىرلەش"</string>
+<string name="apn_not_set">"1 سائەت"</string>
+<string name="apn_name">"ئىسىم"</string>
+<string name="apn_mms_proxy">"رەڭلىك ئۇچۇر ۋاكالەتچىسى"</string>
+<string name="apn_mms_port">"رەڭلىك ئۇچۇر ئېغىزى"</string>
+<string name="apn_type">"خىلىدىكىAPN"</string>
+<string name="menu_delete_apn">"نى يۇيۇشAPN"</string>
+<string name="menu_new_apn">"APNيېڭى قۇرۇلغان"</string>
+<string name="menu_save_apn">ساقلاش</string>
+<string name="menu_discard_apn_change">"تاشلىۋىتىش"</string>
+<string name="error_apn_name_empty">".ئىسىم خەت بۆلىكى قۇرۇق بولسا بولمايدۇ"</string>
+<string name="error_apn_empty">".قۇرۇق بولسا بولمايدۇAPN"</string>
+<string name="error_mcc_not3">".خەت بۆلىكى چۇقۇم 3خانىلىق بولىشى كېرەكMCC"</string>
+<string name="error_mnc_not23">".خەت بۆلىكى چۇقۇم 2خانە ياكى 3خانە بولىشى كېرەكMNC"</string>
+<string name="restore_default_apn">".سۈكۈتلۈك تەڭشىكىنى ئەسلىگە كەلتۈرۈۋاتىدۇAPN"</string>
+<string name="menu_restore_default_apn">"قايتا سۈكۈتلۈك قىلىپ تەڭشەش"</string>
+<string name="restore_default_apn_completed">".سۈكۈتلۈك تەڭشىكىنى قايتا تەڭشەش تاماملاندىAPN"</string>
+<string name="untitled_apn">سالاھىيىتى بىكار قىلىنىش</string>
+<string name="sms_apns_title">"چېتىلىش نۇقتىسى ئىسمى"</string>
+<string name="apn_settings">"لارAPN"</string>
+<string name="menu_new">"APNيېڭى قۇرۇلغان"</string>
+<string name="apn_settings_not_available">"بۇ ئىشلەتكۈچى كىرىش نوقتا ئىسىم تەڭشىكىنى ئىشلىتەلمەيدۇ"</string>
+<string name="copy_to_clipboard_dialog_title">"چاپلاش دوسىكىسىغا كۆپەيتەمسىز؟"</string>
+<string name="copy_to_clipboard">كوپيەلەش</string>
+<string name="incoming_sim_name_text">"غا يوللامسىز؟<xliff:g id="sim_name">%s</xliff:g>"</string>
+<string name="general_settings">ئادەتتىكى</string>
+<string name="advanced_settings">"يۇقىرى دەرىجىلىك"</string>
+<string name="general_settings_activity_title">ئادەتتىكى تەڭشەش</string>
+<string name="advanced_settings_activity_title">يۇقۇرى دەرىجە تەڭشىكى</string>
+<string name="sim_specific_settings">"\"<xliff:g id="sim_name">%s</xliff:g>\" SIM"</string>
+<string name="disable_group_mms">".يەككە ئۇچۇرنى بارلىق تاپشۇرۇۋالغۇچىلارغا يوللاش. پەقەت سىزلا قايتۇرۇشنى تاپشۇرۇۋالالايسىز"</string>
+<string name="enable_group_mms">"يەككە ئۇچۇرنى بارلىق تاپشۇرۇۋالغۇچىلارغا يوللاش"</string>
+<string name="sim_settings_unknown_number">"نامەلۇم نۇمۇر"</string>
+<string name="secondary_user_new_message_title">"يېڭى ئۇچۇر"</string>
+<string name="secondary_user_new_message_ticker">".يېڭى ئۇچۇر"</string>
+<string name="sim_selector_button_content_description">"كارتا تاللىغۇچىSIM"</string>
+<string name="sim_selector_button_content_description_with_selection">"كارتا تاللىغۇچىSIM،نى تاللىدى،<xliff:g id="sim">%1$s</xliff:g>"</string>
+<string name="send_button_long_click_description_no_sim_selector">"ئاساسى تېمىنى تەھرىرلەش"</string>
+<string name="send_button_long_click_description_with_sim_selector">"كارتىنى تاللاش ياكى ئاساسى تېمىنى تەھرىرلەشSIM"</string>
+<string name="audio_record_view_content_description">"چېكىش ۋە بېسىپ تۇرۇش ئارقىلىق ئاۋازغا ئالغىلى بولىدۇ"</string>
+<string name="widget_new_conversation_content_description">"يېڭى سۆزلىشىشنى باشلاش"</string>
+<string name="widget_conversation_list_name">"ئۇچۇر تىزىملىكى"</string>
+<string name="widget_new_message_content_description">"يېڭى ئۇچۇر"</string>
+<string name="widget_conversation_list_content_description">"سۆزلىشىش تىزىملىكى"</string>
+<string name="loading_conversations">"سۆزلىشىشنى يۈكلەۋاتىدۇ"</string>
+<string name="loading_messages">"ئۇچۇرلارنى يۈكلەۋاتىدۇ"</string>
+<string name="view_more_conversations">تېخىمۇ كۆپ سۆھبەتلەرنى كۆرۈش</string>
+<string name="view_more_messages">"تېخىمۇ كۆپ ئۇچۇرلارنى كۆرۈش"</string>
+<string name="conversation_deleted">"سۆزلىشىش يۇيۇلدى"</string>
+<string name="tap_to_configure">".سۆزلىشىش يۇيۇلدى. چېكىش ئارقىلىق ئوخشىمايدىغان ئۇچۇر سۆزلىشىشىنى كۆرسىتىش"</string>
+<string name="update_destination_blocked">"توختىتىلدى"</string>
+<string name="update_destination_unblocked">"تۇسۇش بىكارلاندى"</string>
+<string name="db_full">".ساقلاش بوشلۇقى يېتەرسىز. بەزى سانلىق مەلۇماتلار يۈتىشى مۇمكىن"</string>
+<string name="attachment_chooser_activity_title">"قۇشۇمچە ھۆججەتلەرنى تاللاش"</string>
+<string name="action_confirm_selection">"تاللاشنى مۇقىملاش"</string>
+<string name="attachment_chooser_selection">"تاللاندى<xliff:g id="count">%d</xliff:g>"</string>
+<string name="attachment_limit_reached_dialog_message_when_composing">".بىر ياكى كۆپلىگەن قۇشۇمچە ھۆججەتلەرنى يۆتكىۋېتىڭ ۋە قايتا سىناڭ"</string>
+<string name="attachment_limit_reached_dialog_message_when_sending">".سىز ئۇچۇرىڭىزنى يوللاشنى سىنىسىڭىز بولىدۇ، بىراق سىز بىر ياكى كۆپلىگەن قۇشۇمچە ھۆججەتلەرنى يۆتكىۋەتمىسىڭىز ئۇچۇرىڭىز يوللىنالماسلىقى مۇمكىن"</string>
+<string name="video_attachment_limit_exceeded_when_sending">".ھەربىر ئۇچۇردا بىرلا سىن يوللىيالايسىز.قۇشۇمچە سىنلارنى يۆتكىۋېتىپ ئاندىن قايتا سىناڭ"</string>
+<string name="attachment_load_failed_dialog_message">".ئۇچۇر يوللاش ئەپى قۇشۇمچە ھۆججەتنى يۈكلىيەلمىدى"</string>
+<string name="attachment_limit_reached_send_anyway">"يەنىلا يوللاش"</string>
+<string name="conversation_creation_failure">"سۆزلىشىشنى باشلىيالمىدى"</string>
+<string name="selected_sim_content_message">"تاللاندى<xliff:g id="selected_sim">%s</xliff:g>"</string>
+<string name="empty_msg">"قۇرۇق ئۇچۇر"</string>
+<string name="send_empty_msg">"سىز بىر قۇرۇق ئۇچۇر يوللاشنى سىناۋاتىسىز؟"</string>
+<string name="yes">ھەئە</string>
+<string name="no">ياق</string>
+</resources>

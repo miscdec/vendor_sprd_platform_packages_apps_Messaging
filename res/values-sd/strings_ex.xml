@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="signature_title">"دستخط"</string>
+<string name="pref_title_sms_retry_times">"ايس ايم ايس جي ٻيهر ڪوشش کي فعال ڪريو"</string>
+<string name="conversation_deleteAll_failed">"مهرباني ڪري بعد ۾ ٻيهر ڪوشش ڪندا."</string>
+<string name="warning">" تنبيهه"</string>
+<string name="attachment_exceeded">"توهان پاران چونڊيل منسلڪو تجاوز ٿيل آهي!"</string>
+<string name="attachment_size">"منسلڪي جي سائز: آهي"</string>
+<string name="mms_size">"ايم ايم ايس جي سائز: آهي"</string>
+<string name="permission_read_messages_attachment_label">"پيغامات جي منسلڪات کي پڙهو"</string>
+<string name="permission_read_messages_attachment_desc">"اطلاق کي پنهنجي پيغامات جي منسلڪات کي پڙهڻ جي اجازت ڏيو"</string>
+<string name="preference_name">" عام فقرو"</string>
+<string name="select">" چونڊجي ويو"</string>
+<string name="item_cancel">" رد ڪريو"</string>
+<string name="item_delete">" مٽايو"</string>
+<string name="save_as_teltype">"فون جي لاءِ"</string>
+<string name="save_as_mmstype">"ايس ايم ايس جي لاءِ"</string>
+<string name="type_to_pharser">"عام فقرو ٽائپ ڪريو"</string>
+<string name="add">" شامل ڪريو"</string>
+<string name="edit">" تدوين ڪريو"</string>
+<string name="delete">" مٽايو"</string>
+<string name="finish">"ختم ڪريو"</string>
+<string name="cancel">" رد ڪريو"</string>
+<string name="add_pharser">"عام فقرو شامل ڪريو"</string>
+<string name="edit_pharser">"عام فقري جي تدوين ڪريو"</string>
+<string name="exit_pharser_dialog_title">"ستت"</string>
+<string name="exit_pharser_dialog_content">"ڪٿي اڪثر استعمال ٿيندڙ فقرن کي محفوظ ته ڪون ٿا ڪرڻ چاهيو؟"</string>
+<string name="pharser_can_modify">" ردوبدل ڪيل"</string>
+<string name="pharser_cannot_modify">"فقرو مقرر ڪريو"</string>
+<string name="empty_pharser_not_save">"فقرو خالي آهي محفوظ نه ٿو ٿي سگهي!"</string>
+<string name="select_item">"توهان چونڊيو آهي"</string>
+<string name="select_commmon_phrase">"عام فقرن جي چونڊ ڪريو"</string>
+<string name="common_phrase_empty">"ڪي به عام فقرا ناهن"</string>
+<string name="action_add_phrase">" عام فقرا"</string>
+<string name="pref_other_settings_title">"ٻيو"</string>
+<string name="action_wireless_alerts">"بنا تار جي خبرداريون"</string>
+<string name="positive">"ٺيڪ آهي"</string>
+<string name="wap_push_message_dialog_title">"Wap Push پيغام"</string>
+<string name="open_website">"ويبسائٽ کوليو"</string>
+<string name="activity_not_found">"ڪو به مناسب اطلاق نه لڌو"</string>
+<string-array name="fixed_mms_phrase">
+<item>"مهرباني ڪري منهنجي آفيس جي فون تي ڪال ڪريو، توهان جي مهرباني."</item>
+<item>" مهرباني ڪري مون سان رابطو ڪريو، توهان جي مهرباني."</item>
+<item>" مهرباني ڪري مونکي پنهنجي مڪانيت ٻڌايو."</item>
+<item>"مهرباني ڪري منهنجي سيل فون تي بعد ۾ ڪال ڪندا، توهان جي مهرباني."</item>
+<item>" مان ٻاهر هئس، گهر وڃي توهان کي ڪال ڪريان ٿو."</item>
+<item>" مان ڊرائيونگ ڪري رهيو آهيان ۽ بعد ۾ جواب ڏيندس."</item>
+<item>" مان تي روڊ تي آهيان جلدي پهچندس."</item>
+<item>" ٽريفڪ رڪيل آهي، بعد ۾، معاف ڪجو."</item>
+<item>" بعد ۾ توهان کي ڪال ڪندس."</item>
+<item>" مان گڏجاڻي ۾ آهيان، بعد ۾ جواب ڏيندس."</item>
+</string-array>
+<string-array name="fixed_both_phrase">
+<item>"مهرباني ڪري مون کي ڪال ڪريو يا بعد ۾ مونکي ايس ايم ايس ڪريو."</item>
+</string-array>
+<string name="share_video_exceeded">"منتخب ٿيل ويڊيو جي وڌ کان وڌ  گنجائش کان وڌي وئي آھي!"</string>
+<string name="share_audio_exceeded">"منتخب ٿيل آڊيو جي وڌ کان وڌ گنجائش کان وڌي وئي آھي!"</string>
+<string name="share_image_exceeded">"منتخب ٿيل تصوير جي وڌ کان وڌ گنجائش وڌي وئي آھي!"</string>
+<string name="share_muimgae_exceeded">"تجاوز ڪيل تصوير جي شراڪت نه ڪريو!"</string>
+<string name="share_noimgae_exceeded">"غير-تصويري فائلن تي مشتمل آهي شراڪت نه ٿي ٿي سگهي!"</string>
+<string name="exceed_text_length_limitation">"اهو متن جي ڊيگهه جي حدبندين کان تجاوز ڪيل آهي."</string>
+<string name="drm_no_application_open">" فائل کي نه ٿو کولي سگهي"</string>
+<string name="ok_drm_rights_consume">"ٺيڪ آهي"</string>
+<string name="cancel_drm_rights_consume">" رد ڪريو"</string>
+<string name="orgdrm_no_share">""سنيھي کي شيئر ڪرڻ سھولت ناھي:"</string>
+<string name="drm_can_not_processed">"Drm جي فائل جي عمل پذيري نه ٿي ٿي سگهي"</string>
+<string name="protect_information">" معلومات کي محفوظ ڪريو"</string>
+<string name="drm_consume_title">" DRM جي حقوق کپايو"</string>
+<string name="drm_consume_hint">" توهان جو عمل DRM حقوق صرف ڪندو" </string>
+<string name="drm_file_path">"رستو: %1$s"</string>
+<string name="drm_file_name">"فائل جو نالو: %1$s"</string>
+<string name="drm_rights_validity">" حقوق جي موزونيت :  موزون آهي"</string>
+<string name="drm_rights_invalidity">" حقوق جي موزونيت :  غير موزون آهي"</string>
+<string name="drm_rights_status_transfer">" حقوق جو مقام : منتقل ڪرڻ جي اجازت آهي"</string>
+<string name="drm_rights_status_untransfer">" حقوق جو مقام : منتقل نه ڪرڻ جي اجازت آهي"</string>
+<string name="drm_start_time">" شروعات جو وقت : %1$s"</string>
+<string name="drm_end_time">" پڄاڻي جو وقت : %1$s"</string>
+<string name="drm_expiration_time">"معياد جو وقت : %1$s"</string>
+<string name="drm_remain_times">" باقي وقت : %1$s "</string>
+<string name="drm_no_info">" ڪابه معلومات ناهي"</string>
+<string name="drm_unlimited_rights">" غير محدود"</string>
+<string name="drm_rights_unknown">"اڻڄاتل"</string>
+<string name="drm_inactive_rights">" حقوق سرگرم ناهن"</string>
+<string name="drm_shared_not_drmdownload">"ان کي Drm جي ڊائونلوڊ جي ڊائيريڪٽري تي ٽپايو ۽ پوءِ مهرباني ڪري شراڪت ڪريو"</string>
+<string name="share_nofile_exceeded">"ايم ايم ايس جي حد پار ٿي چڪي آهي!"</string>
+<string name="no_few_participants">"ڪي شرڪاءُ ڪو نه آهن"</string>
+<string name="mms_validity_pref_title">"ملٽي ميڊيا پيغام جي موزونيت"</string>
+<string name="sms_validity_pref_title">" ايس ايم ايس جي موزونيت"</string>
+<string name="attach_vcalendar">" ڪئيلينڊر"</string>
+<string name="confirm_import_vcalendar">"هن Vcalendar کي درآمد ٿا ڪرڻ چاهيو؟"</string>
+<string name="confirm_save_otherfiles">"هن منسلڪي کي محفوظ ٿا ڪرڻ چاهيو؟"</string>
+<string name="confirm_import">" هاءُ"</string>
+<string name="cancel_import">"نه"</string>
+<string name="attach_other_file">" اڻڄاتل فائل"</string>
+<string name="copy_to_sdcard_success">" منسلڪو <xliff:g id="copy_to_sdcard_success_id">%s</xliff:g> تي محفوظ ٿي ويو"</string>
+<string name="copy_to_sdcard_fail">" منسلڪي کي محفوظ نه ڪري سگهيو."</string>
+<string name="attach_sound">" آڊيو"</string>
+<string name="select_vcard_button">"رابطي کي داخل ڪرڻ لاءِ بٽڻ کي ڪلڪ ڪريو"</string>
+<string name="select_video_button">"ويڊيو کي داخل ڪرڻ لاءِ بٽڻ کي ڪلڪ ڪريو"</string>
+<string name="select_audio_button">"آڊيو کي داخل ڪرڻ لاءِ بٽڻ کي ڪلڪ ڪريو"</string>
+<string name="select_vcalendar_button">"ڪئلينڊر کي داخل ڪرڻ لاءِ بٽڻ کي ڪلڪ ڪريو"</string>
+<string name="select_slideshow_button">"سرڪندڙ ڏيک کي داخل ڪرڻ لاءِ بٽڻ کي ڪلڪ ڪريو"</string>
+<string name="slideshow_detail_activity_title">" سلائڊ جي منظر سان"</string>
+<string name="no_mms_plugin">"کيس ڪو به فولڊر جو ڏيک ڪونهي"</string>
+<string name="attachment_details">"منسلڪي جا تفصيلات"</string>
+<string name="context_menu_copy_to_sim_memory">" پيغام کي SIM تي نقل ڪريو"</string>
+<string name="copy_message_text">"متن جو نقل ڪريو"</string>
+<string name="min_zoom">"گهٽ ۾ گهٽ تي پهتل آهي"</string>
+<string name="max_zoom">"وڌ کان وڌ تي پهتل آهي"</string>
+<string name="message_details_text">" پيغام جا تفصيلات"</string>
+<string name="folder_reply">" جواب ڏيو"</string>
+<string name="new_message">"نئون پيغام"</string>
+<string name="folder_forward">" اڳتي ڪريو"</string>
+<string name="delete_message">" مٽايو"</string>
+<string name="menu_resend">" ٻيهر موڪليو"</string>
+<string name="save_all_attachments">"سمورن منسلڪات کي محفوظ ڪريو"</string>
+<string name="host_app_name">"پيغام"</string>
+<string name="need_messaging_is_default_app">"توهان کي ايس ايم ايس جي مروجه اطلاق لاءِ  "%1$s" کي مرتب ڪرڻ گهرجي"</string>
+<string name="message_outgoing_successful">" آراء ڪاميابي سان موڪلجي وئي"</string>
+<string name="message_outgoing_failure">"پيغام ڪونه موڪليو ويو"</string>
+<string name="share_unsupported_type">"متن غير سهولتي قسم جو آهي. شراڪت نه ٿي ٿي سگهي!"</string>
+<string name="mms_send_reports_pref_title">"ايم ايم ايس جي موڪلجڻ جون رپورٽون"</string>
+<string name="mms_send_reports_pref_summary">"هر ايم ايم ايس جيڪو توهان موڪليو ٿا تنهن جي موڪلجڻ جي رپورٽ لاءِ درخواست ڪريو"</string>
+<string name="mms_delivery_reports_pref_title">"ايم ايم ايس جي سپردگي جون رپورٽون"</string>
+<string name="mms_delivery_reports_pref_summary">"هر ايم ايم ايس جيڪو توهان موڪليو ٿا تنهن جي سپردگي جي رپورٽ لاءِ درخواست ڪريو"</string>
+<string name="mms_read_reports_pref_title">"ايم ايم ايس جي پڙهجڻ جون رپورٽون"</string>
+<string name="mms_read_reports_pref_summary">"هر ايم ايم ايس جيڪو توهان موڪليو ٿا تنهن جي پڙهجڻ جي رپورٽ لاءِ درخواست ڪريو"</string>
+<string name="enable_return_mms_delivery_reports_pref_title">" ايم ايم ايس جي سپردگي جي واپسي رپورٽن کي فعال ڪريو"</string>
+<string name="enable_return_mms_delivery_reports_pref_summary">"هر ايم ايم ايس جيڪو توهان موڪليو ٿا تنهن جي سپردگي جي واپسي  جي رپورٽ جيِ درخواست کي فعال ڪريو"</string>
+<string name="enable_return_mms_read_reports_pref_title">" ايم ايم ايس جي پڙهجڻ جي واپسي رپورٽن کي فعال ڪريو"</string>
+<string name="enable_return_mms_read_reports_pref_summary">"هر ايم ايم ايس جيڪو توهان موڪليو ٿا تنهن جي پڙهجڻ جي واپسي  جي رپورٽ جيِ درخواست کي فعال ڪريو"</string>
+<string name="delivery_toast_body">"پاران %s تي پيغام وصول ڪيو ويو"</string>
+<string name="delivery_toast_body_expired">"پاران %s تي پيغام مدعي خارج ٿي ويو"</string>
+<string name="delivery_toast_body_fail_rejected">"پاران %s تي پيغام رد ڪيو ويو"</string>
+<string name="delivery_toast_body_fail">"پاران %s تي پيغام وصول نه ڪيو ويو"</string>
+<string name="read_report_toast_body">"پاران %s تي پيغام پڙهيو ويو"</string>
+<string name="read_report_toast_body_fail">"پاران %s تي پيغام نه پڙهيو ويو"</string>
+<string name="mimetype_null">"mimetype خالي آهي، منسلڪي کي ذخيرو نه ٿو ڪري سگهي."</string>
+<string name="pref_title_manage_simx_smsc">"SIM<xliff:g id="COUNT">%1$s</xliff:g> ايس ايم ايس سروس مرڪز"</string>
+<string name="pref_title_manage_sim_smsc">"ايس ايم ايس سروس مرڪز"</string>
+<string name="smsc_set_fails">"ايس ايم ايس سروس مرڪز جي ترتيب ناڪام ٿي وئي"</string>
+<string name="smsc_set_success">" ترتيب ڪامياب ٿي وئي."</string>
+<string name="smsc_update_success">"ڪاميابي سان تجديد ڪريو"</string>
+<string name="smsc_cannot_be_null">ايس ايم ايس سينٽر خالي نه ٿو ٿي سگهي!"</string>
+<string name="smsc_should_be_number">"ايس ايم ايس سينٽر هڪ نمبر هجڻ گهرجي"</string>
+<string name="smsc_list">"ايس ايم ايس جي مرڪز جي فهرست"</string>
+<string name="smsc_list_empty">"ايس ايم ايس مرڪز جا ڪي به نمبر ڪونه آهن"</string>
+<string name="smsc_list_loading">" لوڊ ٿي رهيو آهي"</string>
+<string name="smsc_list_empty_toast">"پِيغام نه موڪليو ويو، ايس ايم ايس جو ڪو نمبر ناهي"</string>
+<string name="smsc_list_empty_notify_des">"مهرباني ڪري ڪو نئون ايس ايم ايس سينٽر نمبر شامل ڪريو"</string>
+<string name="smsc_list_empty_notify_title">"ايس ايم ايس سينٽر جو ڪو نمبر ڪونهي"</string>
+<string name="shared_image_number_exceed">"شراڪت ڪيل تصويرن جو وڌ کان وڌ نمبر %d آهي، وڌيڪ مٽجي ويا آهن."</string>
+<string name="drm_unsupported_toast">"DRM فائل موجود ڪانهي، مهرباني ڪري ٻئي ڪنهن فائل جي چونڊ ڪريو."</string>
+<string name="err_sent_no_sim">"پيغام نه موڪليو ويو، SIM ڪارڊ ڪونهي."</string>
+<string name="dlg_save_attachment">"فائل کي محفوظ ڪريو....."</string>
+<string name="is_redirect_to">"ڇا توهان %1$s ڏانهن موڙڻ ٿا چاهيو؟"</string>
+<string name="browser">" برائوزر"</string>
+<string name="email">" ايميل"</string>
+<string name="telephone">" فون ڪالون"</string>
+<string name="map">" نقشو"</string>
+<string name="message_signature_setting">" دستخط جي ترتيب"</string>
+<string name="pref_signature_enable_title">"اختياري دستخط"</string>
+<string name="pref_signature_enabl_summary">"هر پيغام جيڪو توهان موڪليو ٿا سان پنهنجي دستخط لڳايو"</string>
+<string name="pref_signature_input_title">"دستخط جي تدوين ڪريو"</string>
+<string name="pref_signature_input_summary">"پنهنجي دستخط مرتب ڪرڻ لاءِ هتي اينٽر ڪريو"</string>
+<plurals name="attachments_saved_dir">
+<item quantity="one">""<xliff:g id="quantity">%d</xliff:g>" منسلڪي واري فائل "<xliff:g id="dir">%s</xliff:g>" ۾ محفوظ ٿي وئي""</item>
+<item quantity="other">""<xliff:g id="quantity">%d</xliff:g>" منسلڪي واريون فائلون "<xliff:g id="dir">%s</xliff:g>" ۾ محفوظ ٿي ويون""</item>
+</plurals>
+<string name="no_permissions">"اجازتون ڪونهن"</string>
+<string name="no_call_permissions">"اجازتون ڪونهن"</string>
+<string name="folder_loading">" لوڊنگ ٿي رهي آهي..."</string>
+<string name="sms_merge_forward_empty">"ضم ڪرڻ ۽ اڳتي موڪلڻ لا۽ ڪوبه SMS پيغام ڪونهي."</string>
+<string name="action_edit_contact">" رابطي جي تدوين ڪريو"</string>
+<string name="sms_forward">" اڳتي ڪريو"</string>
+<string name="sms_merge_dialog_title">"ستت"</string>
+<string name="sms_merge_dialog_content1">"توهان صرف %d جي درميان ايس ايم ايس پيغامات ضم ڪري سگهو ٿا"</string>
+<string name="sms_merge_dialog_content2">"۽ %d ايس ايم ايس پيغامات. مهرباني کيس چڪاس ڪريو."</string>
+<string name="messagelist_sender_self">"مان"</string>
+<string name="sms_merge_forward">"ضم ڪريو ۽ اڳتي موڪليو"</string>
+<string name="muti_select_all">" سمورا چونڊيو"</string>
+<string name="menu_select_none">" سڀ منسوخ ڪريو"</string>
+<string name="sms_merge_dialog_content_exceed">توهان  اڳتي منتقل ڪيل پيغام جو مواد %d جي حد تي ضم ڪيو. مهرباني ڪري کيس وري چڪاس ڪريو!"</string>
+<string name="no_sms_permissions">"ايس ايم ايس جي اجازت ڪانهي، آڊيو نه ٿي هلي سگهي."</string>
+<string name="smil_subject_hint">"ايم ايم ايس جو ڪو عنوان ڪونهي، توهان سندس تدوين ڪري سگهو ٿا"</string>
+<string name="smil_out_of_size">"ميموري کان ٻاهر آهي"</string>
+<string-array name="smil_choice_items">
+<item>"Smil اسڪين"</item>
+<item>"سلائيڊ شو کي ھلايو"</item>
+</string-array>
+<string name="video_content_type">"ويڊيو:"</string>
+<string name="iamge_content_type">"تصوير:"</string>
+<string name="audio_content_type">"آڊيو:"</string>
+<string name="subject_edit">"عنوان جي تدوين ڪريو"</string>
+<string name="text_edit">"متن جو تدوين ڪار"</string>
+<string name="repalce_slide">"سلائيڊ بدلايو"</string>
+<string name="remove_slide">" سرڪڻ کي هٽايو"</string>
+<string name="insert_befor_slide">"سلائيڊ کان اڳ ۾ لڳايو"</string>
+<string name="insert_after_slide">"سلائيڊ کان پوءِ لڳايو"</string>
+<string name="add_attachment">فائل منسلڪ ڪريو"</string>
+<string name="remove_attachment">"منسلڪي کي هٽايو"</string>
+<string name="repalce_attachment">"منسلڪي کي بدلايو"</string>
+<string name="hint_for_input">"مهرباني ڪري تدوين ڪريو"</string>
+<string name="hint_for_empty">"مهرباني ڪري تدوين ڪريو، موجوده حالت وارو منسلڪو خالي منسلڪو آهي."</string>
+<string name="goto_smil">" سلائڊ جي منظر سان"</string>
+<string name="smil_subject">"عنوان :"</string>
+<string name="action_sim_sms">" SIM ۾ پيغام"</string>
+<string name="sms_save_to_sim_pref_title">" ايس ايم ايس کي SIM تي محفوظ ڪريو"</string>
+<string name="sms_save_to_sim_pref_summary">"جڏهن نئين ايس ايم ايس تي اچي ٿو، ته اهو SIM تي محفوظ ٿئي يا نه"</string>
+<string name="sms_sim_full_title">" SIM مڪمل ڀريل آهي"</string>
+<string name="sms_sim_full_notification_ticker">"ايس ايم ايس جو ذخيرهگاه گهٽ آهي. توهان کي پيغامات کي مٽائڻ جي ضرورت پوندي."</string>
+<string name="sms_sim_full_text">"SIM مڪمل ٿيل آهي، ايس ايم ايس پيغام رساني جي ڊيٽابيس ۾ محفوظ ٿي ويندو. ۽ مهرباني ڪري ايس ايم ايس کي SIM تان مٽايو جيڪڏهن توهان SIM کي وري محفوظ ڪريو."</string>
+<plurals name="search_results_title">
+<item quantity="one">"<xliff:g id="NUMBER">%1$s</xliff:g> آئٽم <xliff:g id="SEARCH">%2$s</xliff:g> ڳولا جي نتيجن سان مشابهت رکي ٿو"</item>
+<item quantity="other">"<xliff:g id="NUMBER">%1$s</xliff:g> آئٽم <xliff:g id="SEARCH">%2$s</xliff:g> ڳولا جي نتيجن سان مشابهت رکن ٿا"</item>
+</plurals>
+<string name="menu_search_text">" ڳوليو"</string>
+<string name="search_label">" پيغام ٿي رهيو آهي"</string>
+<string name="search_hint">" پيغام ڪرڻ کي ڳوليو"</string>
+<string name="search_max_length">"ڳولا جو جملو تمام ڊگهو آهي، 512 تي محدود هوندو."</string>
+<string name="search_setting_description">" توهان جي پيغامات ۾ متن"</string>
+<string name="search">" پيغام ٿي رهيو آهي"</string>
+<string name="search_empty">" ڪي به ميل رکندڙ ڪونه آهن."</string>
+<string name="search_history">"\"<xliff:g id="search">%2$s</xliff:g>\" جي لاءِ <xliff:g id="count">%1$s</xliff:g> نتيجا"</string>
+<string name="can_not_add_same_attachment">"ساڳي منسلڪي جي شموليت کي ورجائي نه ٿو سگهجي"</string>
+<string name="can_not_add_same_picture">"ساڳي تصويرن کي شامل ڪرڻ کي ورجائي نه ٿو سگهجي"</string>
+<string name="smil_add_text">"ڪو متن وارو منسلڪو شامل ڪريو"</string>
+<string name="smil_update_text">"متن واري منسلڪي جي تجديد ڪامياب ٿي وئي"</string>
+<string name="smil_empty_content">"مواد خالي آهي، کيس موڪلڻ روڪي ڇڏيو!"</string>
+<string name="exceed_participant_limit">"شرڪاءُ جو انگ حد کان تجاوز ڪري ويو (<xliff:g>%1$s</xliff:g>)، مهرباني ڪري <xliff:g>%2$s</xliff:g> وارا مٽايو."</string>
+<string name="folder_view_menu_item_title">" فولڊر جو ڏيک"</string>
+<string name="capacity_sim_message_title">" SIM جي گنجائش "</string>
+<string name="capacity_sim_message_summary">" "موجوده/ وڌ کان وڌ گنجائش:%s""</string>
+<string name="audio_record_retry">"مهرباني ڪري پسمنظر جي رڪارڊنگ بند ڪريو ۽ وري ڪوشش ڪريو."</string>
+<string name="contact_invalid">"غير موزون رابطو آهي، مهرباني ڪري وري ڪو موزون رابطو چونڊيو."</string>
+<string name="message_size_counting">"ڳڻپ ٿي رهي آهي"</string>
+<string name="pref_encode_type_setting_title">"ٽائپ جي ترتيب کي اينڪوڊ ڪريو"</string>
+<string name="pref_encode_type_title">" اينڪوڊ جو قسم"</string>
+<string name="fdn_check_failure">"توهان صرف پنهنجي مقرره نمبرن تي پيغامات موڪلي سگهو ٿا."</string>
+<string name="data_call_fdn_check_failure">"جينئن ته  FDN فعال ٿيل آهي ايم ايم ايس نه ٿو مڪلجي سگهجي.مهرباني ڪري *99# کي FDN جي فهرست ۾ شامل ڪريو ۽ پوءِ وري ڪوشش ڪريو." </string>
+<string name="smsc_fdn_check_failure">" توهان جوپيغاماتي مرڪز FDN جي فهرست سان تعلق نه ٿو رکي."</string>
+<string name="smil_wait_comparing_att_size">"لوڊنگ ٿي رهي آهي، مهرباني ڪري هڪ گهڙي انتظار فرمائيندا!"</string>
+<string name="smil_max_slide_count">"صرف %s سلائڊون شامل ٿي سگهن ٿيون"</string>
+<string name="sms_wap_pref_title">"ايس ايم ايس جي WAP پيغام کي فعال ڪريو"</string>
+<string name="sms_wap_pref_summary">"ايس ايم ايس جي WAP پيغام کي وصول ڪرڻ کي فعال ڪريو"</string>
+<string name="smil_Player_title">"SMIL پليئر"</string>
+<string name="smil_caption_description">"SMIL"</string>
+<string name="smil_caption_edit_hint">"(تدوين لاءِ ڪلڪ ڪريو)"</string>
+<string name="show_save_attachment_info">"کيس محفوظ ٿا ڪرڻ چاهيو؟"</string>
+<string name="attachment_save_success">" ڪاميابي سان محفوظ ٿي ويو"</string>
+<string name="unread_message_count">"معلومات نه پڙهِي وئي"</string>
+<string name="mms_convert_to_smil_title">"سلائيڊن ۾ تبديل ڪريو"</string>
+<string name="mms_convert_to_smil_message">"ايم ايم ايس سلائيڊن ۾ تبديل ٿي ويندو، جيڪو ڪجهه منسلڪات کي ڪيرائيندو جيڪي سلائيڊ جي طرز سهولتيافته نه هونديون، ڇا توهان کي خاطري آهي؟"</string>
+<string name="confirm_convert">"ٺيڪ آهي"</string>
+<string name="cancel_convert">" رد ڪريو"</string>
+<string name="smil_max_part_count">" هڪ سلائيڊ فقط %s منسلڪات ئي شامل ٿي سگهن ٿا"</string>
+<string name="smil_add_error_same_content_type">"ٻه ساڳي قسمن جا ميڊيا جا منسلڪات هڪ سلائيڊ ۾ شامل نه ٿا ڪري سگهجن." </string>
+<string name="smil_add_error_video_conflict">"جنهن سلائيڊ ۾ آڊيو يا تصوير آهي تنهن ۾ ويڊيو نه ٿي رکي سگهجي."</string>
+<string name="smil_replace_error_same_content_type">"بدلائجي نه ٿو سگهجي ڇاڪاڻ ته ٻه ساڳيا مِيڊيا منسلڪات  جا قسم هڪ سلائيڊ ۾ رکي نه ٿا سگهجن." </string>
+<string name="smil_replace_error_video_conflict">"ويڊيو سان بدلائي نه ٿو ڪري سگهجي، مهرباني ڪري پنهنجا منسلڪات هٽايو ۽ وري ڪوشش ڪريو."</string>
+<string name="smil_edit_hint">"سلائيڊون، تدوين لاءِ ڪلڪ ڪريو."</string>
+<string name="smil_unsupported_content_type">"غير سهولتي مواد جو قسم"</string>
+<string name="pref_internal_memory_usage_title">" ايم ايم ايس/دستياب/ٽوٽل"</string>
+<string name="pref_internal_memory_usage_progress_summary">" ميموري جي جڳهه جي ڳڻپ ٿي رهي آهي..."</string>
+<string name="discard_message_reason">" توهان جو پيغام رد ٿي ويندو ڇاڪاڻ ته کيس ڪو موزون وصول ڪندڙ ڪونهي."</string>
+<string name="no_common_phrase">"غير عام استعمال ٿيندڙ فقرا"</string>
+<string name="action_copy_to_sim">" SIM تي نقل ڪريو"</string>
+<string name="select_sim">"SIM جي چونڊ ڪريو"</string>
+<string name="sim_space_not_enough">"SIM تي ايس ايم ايس جي جاءِ ناڪافي آهي"</string>
+<string name="move_message_to_phone_memory">"پيغام فون جي ميموري ۾ ڪاميابي سان نقل ٿي چڪو آهي"</string>
+<string name="can_not_copy_the_message">"پيغام کي نقل ڪرڻ جي قابل ڪونهي"</string>
+<string name="failed_to_add_media">" توهان پنهنجي پيغام ۾<xliff:g id="name">%1$s</xliff:g> هن کي شامل نه ٿا ڪري سگهو."</string>
+<string name="contentType_audio">" آڊيو"</string>
+<string name="contentType_video">" ويڊيو"</string>
+<string name="contentType_image">" تصوير"</string>
+<string name="contentType_other">"غير سهولتي فائل جي شراڪت جي قابل ڪونهي"</string>
+<string name="no_record_audio_permission">"آڊيو رڪارڊ جي اجازت ڪانهي!"</string>
+<string name="close_float_video">" ڪيمرا کي کولڻ وقت ويڊيو جون ترندڙ دريون بند ڪريو."</string>
+<string name="unable_get_data">"ڊيٽا نه ٿو حاصل ڪري سگهي"</string>
+<string name="unexpected_recording_error">"مهرباني ڪري رڪارڊنگ ڪرڻ واري اطلاق کي بند ڪريو ۽ ٻيهر ڪوشش ڪريو"</string>
+<string name="add_contacts_dialog_title">"رابطن کي شامل ڪريو"</string>
+<string name="add_contact_as_text">" متن وارو پيغام"</string>
+<string name="file_not_found_exception">"فائل نه ملي آهي!"</string>
+<string name="pref_title_mms_size_limit">"ايم ايم ايس جي سائز جي حد"</string>
+<string name="pref_summary_mms_size_limit">"ڪنهن پيغام جي تحرير لاءِ ايم ايم ايس جي سائز جي حد"</string>
+<string name="sub_card_download_mms_noti">"جڏھن مدد وارو ڪارڊ ايم ايم ايس وصول ڪري ته نيٽ ورڪ تبديل ڪريو"</string>
+<string name="compressing">"تصوير تمام ڊگهي آهي، دٻجي رهي آهي..."</string>
+<string name="add_contact_toast">"مھرباني ڪري پھريان رابطا شامل ڪريو"</string>
+<string name="folder_display_option">" ظاهر ڪرڻ جو اختيار"</string>
+<string name="folder_sortby">" ڇانٽي ڪريو"</string>
+<string name="folder_delete_messages">" پيغام مٽايو"</string>
+<string name="sort_msg_list_empty_text">"هتي توهان درج ٿيل پيغامات کي ڏسندا"</string>
+<string name="folder_display_all">" سمورن پيغامات کي ظاهر ڪريو"</string>
+<string name="delete_messages_confirmation_dialog_title">"چونڊيل پيغامات کي مٽائڻ ٿا چاهيو؟"</string>
+<string name="delete_message_fail">"چونڊيل پيغامات جي مٽائڻ ۾ ناڪامي ٿي وئي!"</string>
+<string name="have_select_message">"%1$d چونڊيا ويا"</string>
+<string name="copy_sim_sms_to_phone">"پيغامات کي فون تي نقل ڪريو"</string>
+<string name="simsms_title">" SIM ۾ پيغام"</string>
+<string name="copy_fail">"ڪاپي ۾ ناڪامي"</string>
+<string-array name="sort_type">
+<item>"وقت جي گهٽجندڙ ترتيب سان"</item>
+<item>"وقت جي وڏندڙ ترتيب سان"</item>
+<item>"پتي جي گهٽجندڙ ترتيب سان"</item>
+<item>"پتي جي وڌندڙ ترتيب سان"</item>
+</string-array>
+</resources>

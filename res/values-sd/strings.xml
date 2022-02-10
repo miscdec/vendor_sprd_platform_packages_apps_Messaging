@@ -1,0 +1,503 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="share_intent_activity_label">"ڳالهه ٻولهه کي چونڊيو"</string>
+<string name="action_settings">" ترتيبون"</string>
+<string name="sendButtonContentDescription">" پيغام موڪليو"</string>
+<string name="attachMediaButtonContentDescription">فائل منسلڪ ڪريو"</string>
+<string name="help_and_feedback_activity_label">" مدد"</string>
+<string name="alarm_message_date">"ڪنهن تاريخ جي چونڊ ڪريو"</string>
+<string name="alarm_message_time">"ڪنهن وقت جي چونڊ ڪريو"</string>
+<string name="alarm_message_setup">" ترتيب"</string>
+<string name="alarm_message_cancel">" رد ڪريو"</string>
+<string name="welcome">"ڀليڪار"</string>
+<string name="skip">" ڇڏي ڏيو"</string>
+<string name="next_with_arrow">"اڳيون &gt;"</string>
+<string name="next">" ايندڙ"</string>
+<string name="exit">" ٻاهر وڃو"</string>
+<string name="settings_with_arrow">"ترتيبون &gt;"</string>
+<string name="settings">" ترتيبون"</string>
+<string name="required_permissions_promo">"پيغام رساني کي ايس ايم ايس، فون ۽ رابطن جي اجازتن جي ضرورت آهي."</string>
+<string name="enable_permission_procedure">"توهان اجازتن کي ترتيبون &gt; اطلاقات &gt;پيغام رساني &gt; اجازتون ۾ تبديل ڪري سگهو ٿا."</string>
+<string name="enable_permission_procedure_description">"توهان اجازتن کي ترتيبون ، اطلاقات، پيغام رساني، اجازتون ۾ تبديل ڪري سگهو ٿا."</string>
+<string name="contact_picker_frequents_tab_title">" اڪثر رابطو ڪيل"</string>
+<string name="contact_picker_all_contacts_tab_title">" سمورا رابطا"</string>
+<string name="contact_list_send_to_text">"<xliff:g id="destination">%s</xliff:g> ڏانهن موڪليو"</string>
+<string name="mediapicker_cameraChooserDescription">"تصوير يا ويڊيو کي محفوظ ڪريو"</string>
+<string name="mediapicker_galleryChooserDescription">"هن ڊيوائس مان تصويرن جي چونڊ ڪريو"</string>
+<string name="mediapicker_audioChooserDescription">" آڊيو ريڪارڊ ڪريو"</string>
+<string name="mediapicker_gallery_title">" فوٽو چونڊيو"</string>
+<string name="mediapicker_gallery_item_selected_content_description">"ميڊيا چونڊي وئي"</string>
+<string name="mediapicker_gallery_item_unselected_content_description">"ميڊيا غيرمنتخب ڪئي وئي."</string>
+<string name="mediapicker_gallery_title_selection">"<xliff:g id="count">%d</xliff:g> کي چونڊيو ويو"</string>
+<string name="mediapicker_gallery_image_item_description">"<xliff:g id="date">%1$tB %1$te %1$tY %1$tl %1$tM %1$tp</xliff:g> تصوير"</string>
+<string name="mediapicker_gallery_image_item_description_no_date">" تصوير"</string>
+<string name="mediapicker_audio_title">" آڊيو ريڪارڊ ڪريو"</string>
+<string name="action_share">" شريڪ ڪريو"</string>
+<string name="posted_just_now">"هاڻي ئي"</string>
+<string name="posted_now">"هاڻي"</string>
+<plurals name="num_minutes_ago">
+<item quantity="one">"<xliff:g id="count">%d</xliff:g> منٽ"</item>
+<item quantity="other">" <xliff:g id="count">%d</xliff:g> منٽ"</item>
+</plurals>
+<plurals name="num_hours_ago">
+<item quantity="one">"<xliff:g id="count">%d</xliff:g> ڪلاڪ"</item>
+<item quantity="other">"<xliff:g id="count">%d</xliff:g> ڪلاڪَ"</item>
+</plurals>
+<plurals name="num_days_ago">
+<item quantity="one">"<xliff:g id="count">%d</xliff:g> ڏينهن"</item>
+<item quantity="other">" <xliff:g id="count">%d</xliff:g> ڏينهن"</item>
+</plurals>
+<plurals name="week_count">
+<item quantity="one">" 1 هفتو"</item>
+<item quantity="other">"<xliff:g id="count">%d</xliff:g> هفتا"</item>
+</plurals>
+<plurals name="month_count">
+<item quantity="one">"هڪ مهينو"</item>
+<item quantity="other">"<xliff:g id="count">%d</xliff:g> مهينا"</item>
+</plurals>
+<plurals name="year_count">
+<item quantity="one">"هڪ سال"</item>
+<item quantity="other">"<xliff:g id="count">%d</xliff:g> سالَ"</item>
+</plurals>
+<string name="class_0_message_activity">" 0 درجي جو پيغام"</string>
+<string name="save">" محفوظ ڪريو"</string>
+<string name="sms_storage_low_auto_delete_enabled_dialog_text">"ڊيوائس ۾ خالي جاءِ گهٽ آهي. خالي جاءِ لاءِ پيغام رساني پاڻمرادو پراڻن پيغامات کي مٽائي ڇڏيندي."</string>
+<string name="sms_storage_low_title">" ذخيره گاه جي جاءِ ختم ٿي رهي آهي"</string>
+<string name="sms_storage_low_text">"جيستائين توهان جي ڊيوائس تي وڌيڪ خالي جاءِ نه هوندي تيستائين پيغام رساني پيغامات کي موڪلي يا وصول نه ڪري سگهندي."</string>
+<string name="sms_storage_low_notification_ticker">"ايس ايم ايس جو ذخيرهگاه گهٽ آهي. توهان کي پيغامات کي مٽائڻ جي ضرورت پوندي."</string>
+<string name="enter_phone_number_title">"پنهنجي فون نمبر جي تسلي ڪريو"</string>
+<string name="enter_phone_number_text">"هي پيغام رساني جو هڪ وقتو قدم توهان جي گروهي پغامات جي مناسب سپردگي جي خاطري ڪندو."</string>
+<string name="enter_phone_number_hint">" فون نمبر"</string>
+<string name="delete_all_media">"ميڊيا سان سمورا پيغامات مٽايو"</string>
+<string name="delete_oldest_messages">"<xliff:g id="duration">%s</xliff:g> کان وڌيڪ پراڻا پيغامات مٽايو"</string>
+<string name="auto_delete_oldest_messages">"<xliff:g id="duration">%s</xliff:g> کان وڌيڪ پيغامات پاڻمرادو مٽايو"</string>
+<string name="ignore">" نظرانداز ڪريو،</string>
+<string name="delete_all_media_confirmation">"ميڊيا جا سمورا پيغامات مٽئڻ ٿا چاهيو؟"</string>
+<string name="delete_oldest_messages_confirmation">"<xliff:g id="duration">%s</xliff:g> کان وڌيڪ پراڻا پيغامات مٽائڻ ٿا چاهيو؟"</string>
+<string name="auto_delete_oldest_messages_confirmation">"<xliff:g id="duration">%s</xliff:g> کان وڌيڪ پيغامات مٽايو ۽ پاڻمرادو مٽائڻ کي کولڻ ٿا چاهيو؟"</string>
+<string name="incoming_text_sender_content_description">"<xliff:g id="sender">%s</xliff:g> بڌايو"</string>
+<string name="outgoing_text_sender_content_description">"توهان ٻڌايو"</string>
+<string name="incoming_sender_content_description">"<xliff:g id="sender">%s</xliff:g> وٽان پيغام"</string>
+<string name="outgoing_sender_content_description">"توهان هڪ پيغام موڪليو"</string>
+<string name="message_status_sending">"موڪلجي رهيو آهي....."</string>
+<string name="message_status_alarm">"تي موڪلڻ لاءِ گهنٽي موڪليو"</string>
+<string name="message_status_send_failed">"نه موڪليو ويو. ٻيهر ڪوشش ڪرڻ لاءِ تڄ ڪريو."</string>
+<string name="user_not_exist">"صارف موجود ڪونهي."</string>
+<string name="message_status_send_retrying">"نه موڪليو ويو. ٻيهر ڪوشش ٿي رهي آهي....."</string>
+<string name="message_status_resend">"ٻيهر موڪليو يا مٽايو"</string>
+<string name="message_status_send_failed_emergency_number">"مهرباني ڪري هنگامي سروسن تي هڪ آوازي ڪال ڪريو. توهان جو پيغام هن وقت سپرد نه ٿي سگهيو."</string>
+<string name="message_status_failed">" ناڪام ٿي ويو"</string>
+<string name="message_title_manual_download">"ڊائونلوڊ ڪرڻ لاءِ هڪ نئون ايم ايم ايس"</string>
+<string name="message_title_downloading">"نئون ايم ايم ايس پيغام"</string>
+<string name="message_title_download_failed">"ڊائون لوڊ نه ٿي سگهيو"</string>
+<string name="message_status_download_failed">"ٻيهر ڪوشش لاءِ تچ ڪريو"</string>
+<string name="message_status_download">"ڊائونلوڊ ڪرڻ لاءِ ٽچ ڪريو"</string>
+<string name="message_status_download_action">"ڊائونلوڊ ڪريو يا مٽايو"</string>
+<string name="message_status_downloading">"ڊائونلوڊ ٿي رهيو آهي....."</string>
+<string name="message_status_download_error">"پيغام مدعي خارج آهي يا دستياب ڪونهي"</string>
+<string name="mms_info">"سائز: <xliff:g id="messageSize">%1$s</xliff:g>، مدعو : <xliff:g id="messageExpire">%2$s</xliff:g>"</string>
+<string name="invalid_destination">"موڪلجي نه ٿو سگهجي. وصول ڪندڙ موزون ڪونهي."</string>
+<string name="service_not_activated">"نيٽورڪ تي سروس سرگرمِ عمل ڪونهي"</string>
+<string name="service_network_problem">"نيٽورڪ جي مسئلي جي ڪري موڪلي نه سگهيو"</string>
+<string name="service_message_not_found">"پيغام مدعي خارج آهي يا دستياب ڪونهي"</string>
+<string name="no_subject">"(بنا عنوان)"</string>
+<string name="unknown_sender">"اڻڄاتل وصول ڪندڙ"</string>
+<string name="delivered_status_content_description">"سپرد ٿي ويو"</string>
+<string name="dl_failure_notification">"<xliff:g id="from">%2$s</xliff:g> وٽان <xliff:g id="subject">%1$s</xliff:g> پيغام کي ڊائونلوڊ نه ڪري سگهيو."</string>
+<string name="low_memory">"گهٽ ميموري جي ڪري ڊيٽابيس مڪمل نه ٿي سگهيو"</string>
+<string name="notification_send_failures_line1_singular">"پيغام ڪونه موڪليو ويو"</string>
+<string name="notification_send_failures_line1_plural">"پيغام رساني ۾ ڪجهه پيغامات موڪليل ڪين آهن"</string>
+<plurals name="notification_send_failures">
+<item quantity="one">" هڪ مڪالمي ۾ <xliff:g id="messages">%d</xliff:g> پيغامات آهن"</item>
+<item quantity="other">"<xliff:g id="conversations">%d</xliff:g> مڪالمن ۾ <xliff:g id="messages">%d</xliff:g> پيغامات آهن."</item>
+</plurals>
+<string name="notification_download_failures_line1_singular">"پيغام ڊائونلوڊ نه ٿيو"</string>
+<string name="notification_download_failures_line1_plural">"ڪجهه پيغامات پيغام رساني ۾ ڊائونلوڊ ڪين ٿيل آهن"</string>
+<plurals name="notification_download_failures">
+<item quantity="one">" هڪ مڪالمي ۾ <xliff:g id="messages">%d</xliff:g> پيغامات آهن"</item>
+<item quantity="other">"<xliff:g id="conversations">%d</xliff:g> مڪالمن ۾ <xliff:g id="messages">%d</xliff:g> پيغامات آهن."</item>
+</plurals>
+<string name="notification_emergency_send_failure_line1">"<xliff:g id="number">%1$s</xliff:g> کي پيغام نه موڪليو ويو"</string>
+<string name="notification_emergency_send_failure_line2">"مهرباني ڪري هنگامي سروسن تي هڪ آوازي ڪال ڪريو. توهان جو پيغام <xliff:g id="number">%1$s</xliff:g> کي هن وقت سپرد نه ٿي سگهيو."</string>
+<plurals name="notification_new_messages">
+<item quantity="one">"نئون پيغام"</item>
+<item quantity="other">"<xliff:g id="messages">%d</xliff:g> نوان پيغامات آهن"</item>
+</plurals>
+<string name="start_conversation">" چالو ڪريو"</string>
+<string name="camera_error_opening">"ڪئمرا دستياب ڪونهي"</string>
+<string name="camera_error_unknown">"ڪئمرا دستياب ڪونهي"</string>
+<string name="camera_error_video_init_fail">"ويڊيو جو قيد ڪرڻ دستياب ڪونهي"</string>
+<string name="camera_error_storage_fail">"ميڊيا کي محفوظ نه ٿو ڪري سگهي"</string>
+<string name="camera_error_failure_taking_picture">"تصوير نه ٿي وٺي سگهجي"</string>
+<string name="back">" واپس"</string>
+<string name="action_menu_show_archived">"محفوظ ڪيا ويا"</string>
+<string name="action_delete">" مٽايو"</string>
+<string name="action_archive">محافظ خانو"</string>
+<string name="action_unarchive">"غير محفوظ"</string>
+<string name="action_notification_off">"اعلانات کي بند ڪريو"</string>
+<string name="action_notification_on">" اعلانات کي کوليو"</string>
+<string name="action_add_contact">" رابطو شامل ڪريو"</string>
+<string name="action_download">" ڊائونلوڊ ڪريو"</string>
+<string name="action_send">" موڪليو"</string>
+<string name="action_delete_message">" مٽايو"</string>
+<string name="delete_message_confirmation_dialog_title">"هن پيغام کي مٽائڻ ٿا چاهيو؟"</string>
+<string name="delete_message_confirmation_dialog_text">"هيءُ عمل واپس ورائي نه ٿو سگهجي."</string>
+<string name="delete_message_confirmation_button">" مٽايو"</string>
+<plurals name="delete_conversations_confirmation_dialog_title">
+<item quantity="one">"هن گفتگو کي مٽائڻ ٿا چاهيو؟"</item>
+<item quantity="other">"انهن مڪالمن کي مٽائڻ ٿا چاهيو؟"</item>
+</plurals>
+<string name="delete_conversation_confirmation_button">" مٽايو"</string>
+<string name="delete_conversation_decline_button">" رد ڪريو"</string>
+<string name="recipient_hint">" ڏانهن"</string>
+<string name="action_multiselect">"ٻٽن تصويرن کي چونڊيو"</string>
+<string name="action_confirm_multiselect">"چونڊ جي تسلي ڪريو"</string>
+<string name="audio_recording_start_failed">"آڊيو کي رڪارڊ نه ٿو ڪري سگهي. مهرباني ڪري اجازتن جي چڪاس ڪريو ۽ ٻيهر ڪوشش ڪريو."</string>
+<string name="audio_recording_replay_failed">"آڊيو کي نه ٿو هلائي سگهي. ٻيهر ڪوششڊ ڪريو."</string>
+<string name="audio_recording_error">"آڊيو کي محفوظ نه ٿو ڪري سگهي. ٻيهر ڪوشش ڪريو."</string>
+<string name="audio_picker_hint_text">"ٽچ ڪندي جهلي رکو"</string>
+<string name="enumeration_comma">",\u0020"</string>
+<string name="notification_separator">"\u0020\u0020"</string>
+<string name="notification_ticker_separator">":\u0020"</string>
+<string name="notification_space_separator">"\u0020\u0020"</string>
+<string name="notification_picture">" تصوير"</string>
+<string name="notification_audio">"  آواز"</string>
+<string name="notification_video">" ويڊيو"</string>
+<string name="notification_vcard">" وي ڪارڊ"</string>
+<string name="notification_download_mms">" ڊائونلوڊ ڪريو"</string>
+<string name="notification_reply_via_sms">"ايس ايم ايس جي وسيلي جواب ڏيو"</string>
+<string name="notification_reply_via_mms">"ايم ايم ايس جي وسيلي جواب ڏيو"</string>
+<string name="notification_reply_prompt">" جواب ڏيو"</string>
+<plurals name="wearable_participant_count">
+<item quantity="one">"<xliff:g id="count">%d</xliff:g> شرڪت ڪار"</item>
+<item quantity="other">"<xliff:g id="count">%d</xliff:g> شرڪاءُ"</item>
+</plurals>
+<string name="unknown_self_participant">"مان"</string>
+<string name="blocked_toast_message">"رابطو بلاڪ ۽ محفوظ ڪيو ويو"</string>
+<string name="unblocked_toast_message">"رابطو غير بلاڪ ۽ غير محفوظ ڪيو ويو"</string>
+<string name="archived_toast_message">"<xliff:g id="count">%d</xliff:g> محفوظ ڪيو ويو"</string>
+<string name="unarchived_toast_message">"<xliff:g id="count">%d</xliff:g> غير محفوظ ڪيو ويو"</string>
+<string name="notification_off_toast_message">"اعلانات بند پيل آهن"</string>
+<string name="notification_on_toast_message">"اعلانات کوليل آهن"</string>
+<string name="toast_after_setting_default_sms_app_for_message_send">"سمورا مرتب ٿي ويا. وري موڪلڻ لاءِ ٽچ ڪريو."</string>
+<string name="toast_after_setting_default_sms_app">"پيغام رساني ڪاميابي سان مروجه ايس ايم ايس اطلاق طور مرتب ٿي وئي."</string>
+<plurals name="attachment_preview_close_content_description">
+<item quantity="one">"منسلڪي کي خارج ڪيو"</item>
+<item quantity="other">"منسلڪات کي خارج ڪيو"</item>
+</plurals>
+<string name="audio_attachment_content_description">"آڊيو منسلڪو"</string>
+<string name="audio_play_content_description">"آڊيو منسلڪي کي هلايو"</string>
+<string name="audio_pause_content_description">" وقفو ڪريو"</string>
+<string name="incoming_message_announcement">"<xliff:g id="sender">%s</xliff:g>: <xliff:g id="message">%s</xliff:g> وٽان پيغام."</string>
+<string name="one_on_one_incoming_failed_message_prefix">"<xliff:g id="sender">%s</xliff:g>: <xliff:g id="message">%s</xliff:g> وٽان ناڪام ٿيل پيغام. وقت: <xliff:g id="time">%s</xliff:g>." </string>
+<string name="one_on_one_incoming_successful_message_prefix">"<xliff:g id="sender">%s</xliff:g>: <xliff:g id="message">%s</xliff:g> وٽان پيغام. وقت: <xliff:g id="time">%s</xliff:g>." </string>
+<string name="one_on_one_outgoing_draft_message_prefix">"<xliff:g id="sender">%s</xliff:g>: <xliff:g id="message">%s</xliff:g>کي غير موڪليل پيغام. وقت: <xliff:g id="time">%s</xliff:g>." </string>
+<string name="one_on_one_outgoing_sending_message_prefix">"<xliff:g id="sender">%s</xliff:g>: <xliff:g id="message">%s</xliff:g>کي پيغام موڪلجي رهيو آهي. وقت: <xliff:g id="time">%s</xliff:g>." </string>
+<string name="one_on_one_outgoing_failed_message_prefix">"<xliff:g id="sender">%s</xliff:g>: <xliff:g id="message">%s</xliff:g> کي ناڪام ٿيل پيغام. وقت: <xliff:g id="time">%s</xliff:g>." </string>
+<string name="one_on_one_outgoing_successful_message_prefix">"<xliff:g id="sender">%s</xliff:g>: <xliff:g id="message">%s</xliff:g> کي پيغام. وقت: <xliff:g id="time">%s</xliff:g>." </string>
+<string name="group_incoming_failed_message_prefix">"<xliff:g id="sender">%s</xliff:g>: <xliff:g id="message">%s</xliff:g> وٽان ناڪام ٿيل پيغام. وقت: <xliff:g id="time">%s</xliff:g>. <xliff:g id="groupInfo">%s</xliff:g>." </string>
+<string name="group_incoming_successful_message_prefix">"<xliff:g id="sender">%s</xliff:g>: <xliff:g id="message">%s</xliff:g> وٽان پيغام. وقت: <xliff:g id="time">%s</xliff:g>. <xliff:g id="groupInfo">%s</xliff:g>." </string>
+<string name="group_outgoing_draft_message_prefix">"<xliff:g id="group">%s</xliff:g>: <xliff:g id="message">%s</xliff:g> کي غير موڪليل پيغام. وقت: <xliff:g id="time">%s</xliff:g>."</string>
+<string name="group_outgoing_sending_message_prefix">"<xliff:g id="group">%s</xliff:g>: <xliff:g id="message">%s</xliff:g> کي پيغام مولڪجي رهيو آهي. وقت: <xliff:g id="time">%s</xliff:g>."</string>
+<string name="group_outgoing_failed_message_prefix">"<xliff:g id="group">%s</xliff:g>: <xliff:g id="message">%s</xliff:g> کي ناڪام ٿيل پيغام. وقت: <xliff:g id="time">%s</xliff:g>."</string>
+<string name="group_outgoing_successful_message_prefix">"<xliff:g id="group">%s</xliff:g>: <xliff:g id="message">%s</xliff:g> کي پيغام. وقت: <xliff:g id="time">%s</xliff:g>."</string>
+<string name="failed_message_content_description">"ناڪام ٿيل پيغام. ٻيهر ڪوشش ڪرڻ لاءِ ٽچ ڪريو."</string>
+<string name="group_conversation_description">"<xliff:g id="participants">%s</xliff:g> سان مڪلامو"</string>
+<string name="delete_subject_content_description">"عنوان هٽايو"</string>
+<string name="camera_switch_to_video_mode">" ويڊيو قيد ڪريو"</string>
+<string name="camera_switch_to_still_mode">"هڪ بيٺل تصوير کي قيد ڪريو"</string>
+<string name="camera_take_picture">" فوٽو وٺو"</string>
+<string name="camera_start_recording">"ويڊيو جي رڪارڊنگ چالو ڪريو"</string>
+<string name="camera_switch_full_screen">"مڪمل اسڪرين ڪئمرا تي سوئچ ڪريو"</string>
+<string name="camera_switch_camera_facing">"سامهين ۽ پـئين ڪئمرا جي وچ۾ سوئچ ڪريو"</string>
+<string name="camera_stop_recording">"رڪارڊنگ کي روڪيو ۽ ويڊيو کي منسلڪ ڪريو"</string>
+<string name="camera_cancel_recording">"ويڊيو جي رڪارڊنگ کي روڪيو"</string>
+<string name="photo_view_activity_title">"پيغام رساني جا ڦوٽو"</string>
+<plurals name="photos_saved_to_album">
+<item quantity="one">"<xliff:g id="quantity">%d</xliff:g> ڦوٽو <xliff:g id="albumName">%s</xliff:g> البم تي محفوظ ٿي ويو"</item>
+<item quantity="other">"<xliff:g id="quantity">%d</xliff:g> ڦوٽو <xliff:g id="albumName">%s</xliff:g> البم تي محفوظ ٿي ويا"</item>
+</plurals>
+<plurals name="videos_saved_to_album">
+<item quantity="one">"<xliff:g id="quantity">%d</xliff:g>ويڊيو <xliff:g id="albumName">%s</xliff:g> البم تي محفوظ ٿي وئي"</item>
+<item quantity="other">"<xliff:g id="quantity">%d</xliff:g> ويڊيئون <xliff:g id="albumName">%s</xliff:g> البم تي محفوظ ٿي ويون"</item>
+</plurals>
+<plurals name="attachments_saved_to_album">
+<item quantity="one">"<xliff:g id="quantity">%d</xliff:g>منسلڪو <xliff:g id="albumName">%s</xliff:g> البم تي محفوظ ٿي ويو"</item>
+<item quantity="other">"<xliff:g id="quantity">%d</xliff:g>منسلڪات <xliff:g id="albumName">%s</xliff:g> البم تي محفوظ ٿي ويا"</item>
+</plurals>
+<plurals name="attachments_saved_to_downloads">
+<item quantity="one">"<xliff:g id="quantity">%d</xliff:g> منسلڪو ڊائنلوڊون ۾ محفوظ ٿي ويو"</item>
+<item quantity="other">"<xliff:g id="quantity">%d</xliff:g> منسلڪات ڊائنلوڊون ۾ محفوظ ٿي ويا"</item>
+</plurals>
+<plurals name="attachments_saved">
+<item quantity="one">"<xliff:g id="quantity">%d</xliff:g> منسلڪو  محفوظ ٿي ويو"</item>
+<item quantity="other">"<xliff:g id="quantity">%d</xliff:g> منسلڪات محفوظ ٿي ويا"</item>
+</plurals>
+<plurals name="attachment_save_error">
+<item quantity="one">"<xliff:g id="quantity">%d</xliff:g> منسلڪو  محفوظنه  ٿي سگهيا"</item>
+<item quantity="other">"<xliff:g id="quantity">%d</xliff:g> منسلڪات محفوظ نه ٿي سگهيا"</item>
+</plurals>
+<string name="attachment_file_description">"ايم ايم ايس منسلڪي ۾ محفوظ ٿي ويو"</string>
+<string name="settings_activity_title">" ترتيبون"</string>
+<string name="archived_activity_title">"محفوظ ڪيا ويا"</string>
+<string name="action_close">" بند ڪريو"</string>
+<string name="mms_messaging_category_pref_title">"ايم ايم ايس"</string>
+<string name="advanced_category_pref_title">" اعليٰ"</string>
+<string name="debug_category_pref_title">" خرابي دور ڪريو"</string>
+<string name="notifications_enabled_pref_title">" اطلاعات"</string>
+<string name="notification_sound_pref_title">" آواز"</string>
+<string name="silent_ringtone">" خاموش"</string>
+<string name="notification_vibrate_pref_title">" ٿرٿراهٽ"</string>
+<string name="blocked_pref_title">"بلاڪ ٿي ويو"</string>
+<string name="send_reports_pref_title">"ايس ايم ايس موڪلڻ جون رپورٽون"</string>
+<string name="send_reports_pref_summary">"هر ايس ايم ايس جيڪو توهان موڪليو ٿا تنهن جي موڪلجڻ جي رپورٽ جي درخواست ڪريو"</string>
+<string name="delivery_reports_pref_title">"ايس ايم ايس جي سپردگي جون رپورٽون"</string>
+<string name="delivery_reports_pref_summary">"هر ايس ايم ايس جيڪو توهان موڪليو ٿا تنهن جي سپردگي جي رپورٽ جي درخواست ڪريو"</string>
+<string name="auto_retrieve_mms_pref_title">"پاڻمرادو-حاصل ڪريو"</string>
+<string name="auto_retrieve_mms_pref_summary">"ايم ايم ايس جي پيغامات جي پاڻ مرادو محفوظگي ڪريو"</string>
+<string name="auto_retrieve_mms_when_roaming_pref_title">" سفري پاڻمرادو-تحصيل "</string>
+<string name="auto_retrieve_mms_when_roaming_pref_summary">"سفر دوران ايم ايم ايس جي پيغامات جي پاڻ مرادو محفوظگي ڪريو"</string>
+<string name="group_mms_pref_title">" گروپ جا پيغامات"</string>
+<string name="group_mms_pref_summary">"جڏهن اڪثر وصول ڪندڙ هجن ته ڪنهن اڪيلي پيغام کي موڪلڻ لاءِ ايم ايم ايس استعمال ڪريو"</string>
+<string name="mms_phone_number_pref_title">"توهان جو فون نمبر"</string>
+<string name="unknown_phone_number_pref_display_value">"اڻڄاتل"</string>
+<string name="send_sound_pref_title">"ٻاهر ويندڙ پيغامات جا آواز"</string>
+<string name="dump_sms_pref_title">"ايس ايم ايس کي ڦٽي ڪريو"</string>
+<string name="dump_sms_pref_summary">"وصول ٿيل ايس ايم ايس جي ڪچي ڊيٽا کي بيروني ذخيرهگاه جي فائل ۾ ڦٽي ڪريو"</string>
+<string name="dump_mms_pref_title">"ايم ايم ايس کي فٽي ڪريو"</string>
+<string name="dump_mms_pref_summary">"وصول ٿيل ايم ايم ايس جي ڪچي ڊيٽا کي بيروني ذخيرهگاه جي فائل ۾ ڦٽي ڪريو"</string>
+<string name="wireless_alerts_title">"بنا تار جي خبرداريون"</string>
+<string name="message_context_menu_title">" پيغام جي اختيارات"</string>
+<string name="message_context_menu_copy_text">"متن جو نقل ڪريو"</string>
+<string name="message_context_menu_view_details">" تفصيلات ڏسو"</string>
+<string name="message_context_menu_delete_message">" مٽايو"</string>
+<string name="message_context_menu_forward_message">" اڳتي ڪريو"</string>
+<string name="message_details_title">" پيغام جا تفصيلات"</string>
+<string name="message_type_label">" قسم:"</string>
+<string name="text_message">" متن وارو پيغام"</string>
+<string name="multimedia_message">" ملٽي ميڊيا پيغام"</string>
+<string name="from_label">"کان:"</string>
+<string name="to_address_label">"ڏانهن:"</string>
+<string name="sent_label">" موڪليو:"</string>
+<string name="received_label">"وصول ٿيو:"</string>
+<string name="subject_label">"عنوان:"</string>
+<string name="message_size_label">"سائز: "</string>
+<string name="priority_label">"ترجيح:"</string>
+<string name="sim_label">"SIM:\u0020"</string>
+<string name="priority_high">" اوچي"</string>
+<string name="priority_normal">" پورو پنو"</string>
+<string name="priority_low">" گهٽ"</string>
+<string name="sim_slot_identifier">"SIM <xliff:g id="sim_slot_number">%s</xliff:g>"</string>
+<string name="hidden_sender_address">"لڪل موڪليندڙ جي ايڊريس"</string>
+<string name="cant_send_message_while_loading_attachments">"منسلڪات جي لوڊنگ دوران پيغامات نه ٿا موڪلجي سگهن."</string>
+<string name="fail_to_load_attachment">"منسلڪات لوڊ نه ٿا ٿي سگهن. ٻيهر ڪوشش ڪريو."</string>
+<string name="cant_send_message_without_active_subscription">"نيٽورڪ تيار ناهي. ٻيهر ڪوشش ڪريو."</string>
+<string name="chips_text_delete_button_content_description">"متن کي مٽايو"</string>
+<string name="numeric_text_keyboard_toggle_button_content_description">"متن ۽ انگن جي وچ۾ سوئچ ڪريو"</string>
+<string name="add_more_participants_button_content_description">"وڌيڪ شرڪاءُ شامل ڪريو"</string>
+<string name="confrim_participants_button_content_description">"شرڪاءُ جي تسلي ڪريو"</string>
+<string name="start_new_conversation">"نئون مڪالمو چالو ڪريو"</string>
+<string name="gallery_checkbox_content_description">"هن آئٽم جي چونڊ ڪريو"</string>
+<string name="video_thumbnail_view_play_button_content_description">" ويڊيو کي هلايو"</string>
+<string name="action_people_and_options">"ماڻهو ۽ اختيارات"</string>
+<string name="action_debug_options">" خرابي دور ڪريو"</string>
+<string name="people_and_options_activity_title">"ماڻهو ۽ اختيارات"</string>
+<string name="general_settings_title">" عام"</string>
+<string name="participant_list_title">"هن مڪالمي ۾ ماڻهو"</string>
+<string name="action_call">"ڪال ڪرايو"</string>
+<string name="compose_message_view_hint_text">" پيغام موڪليو"</string>
+<string name="compose_message_view_hint_text_multi_sim">" پيغام موڪليوbr/><small> وٽان <xliff:g id="sim_name">%s</xliff:g></small>"</string>
+<plurals name="compose_message_view_hint_text_photo">
+<item quantity="one">"ڦوٽو موڪليو"</item>
+<item quantity="other">"ڦوٽا موڪليو"</item>
+</plurals>
+<plurals name="compose_message_view_hint_text_audio">
+<item quantity="one">"آڊيو موڪليو"</item>
+<item quantity="other">"آديوئون موڪليو"</item>
+</plurals>
+<plurals name="compose_message_view_hint_text_video">
+<item quantity="one">"ويڊِيو موڪليو"</item>
+<item quantity="other">"ويڊيوئون موڪليو"</item>
+</plurals>
+<plurals name="compose_message_view_hint_text_vcard">
+<item quantity="one">"رابطي جو ڪارڊ موڪليو"</item>
+<item quantity="other">"رابطي جا ڪارڊ موڪليو"</item>
+</plurals>
+<plurals name="compose_message_view_hint_text_attachments">
+<item quantity="one">"منسلڪو موڪليو"</item>
+<item quantity="other">"منسلڪات موڪليو"</item>
+</plurals>
+<plurals name="attachment_changed_accessibility_announcement">
+<item quantity="zero">"No attachments selected"</item>
+<item quantity="one">"هڪ منسلڪلو موڪلڻ جي لاءِ تيار آهي"</item>
+<item quantity="other">"<xliff:g id="attachment_count">%d</xliff:g> موڪلڻ جي لاءِ منسلڪات تيار آهن"</item>
+</plurals>
+<string name="menu_send_feedback">"آراء موڪليو"</string>
+<string name="menu_view_in_store">"Google Play Store ۾ ڏسو"</string>
+<string name="menu_version_info">"ورشن جي معلومات"</string>
+<string name="subtitle_format_for_version_number">"ورشن  %1$s"</string>
+<string name="menu_license">" کلي ذريعي جون سنَدون"</string>
+<string name="notifications_enabled_conversation_pref_title">" اطلاعات"</string>
+<string name="mms_attachment_limit_reached">"منسلڪي جي حد اچي چڪي آهي"</string>
+<string name="mms_attachment_load_failed">"منسلڪي کي لوڊ ڪرڻ ۾ ناڪامي ٿي وئي."</string>
+<string name="add_contact_confirmation_dialog_title">"رابطن ۾ شامل ٿا ڪرڻ چاهيو؟"</string>
+<string name="add_contact_confirmation">" رابطو شامل ڪريو"</string>
+<string name="compose_message_view_subject_hint_text">"عنوان"</string>
+<string name="conversation_message_view_subject_text">"عنوان:"</string>
+<string name="loading_vcard">"رابطي جي ڪارڊ جي لوڊنگ ٿي رهي آهي"</string>
+<string name="failed_loading_vcard">"رابطي جو ڪارڊ لوڊ نه ٿي سگهيو"</string>
+<string name="vcard_tap_hint">"رابطي جو ڪارڊ ڏسو"</string>
+<plurals name="vcard_multiple_display_name">
+<item quantity="one">"<xliff:g id="count">%d</xliff:g> رابطو"</item>
+<item quantity="other">" <xliff:g id="count">%d</xliff:g> رابطا"</item>
+</plurals>
+<string name="vcard_detail_activity_title">" وي ڪارڊ"</string>
+<string name="vcard_detail_birthday_label">"جنم ڏينهن"</string>
+<string name="vcard_detail_notes_label">" ياد ڪري ٿو"</string>
+<string name="forward_message_activity_title">"پيغام کي اڳتي موڪليو"</string>
+<string name="reply_activity_title">" جواب ڏيو"</string>
+<string name="sms_disabled">"ايس ايم ايس غير فعال ڪيل آهي"</string>
+<string name="requires_default_sms_app_to_send">"موڪلڻ جي لاءِ، پيغام رساني کي مروجه ايس ايم ايس اطلاق طور مرتب ڪريو"</string>
+<string name="requires_default_sms_app">"پيغام رساني کي مروجه ايس ايم ايس اطلاق طور مرتب ڪريو"</string>
+<string name="requires_default_sms_change_button">" تبديل ڪريو"</string>
+<string name="recommend_set_default_sms_app">"پيغامات کي وصول ڪرڻ لاءِ، پيغام رساني کي مروجه ايس ايم ايس اطلاق طور مرتب ڪريو"</string>
+<string name="no_preferred_sim_selected">"ايس ايم ايس پيغامات موڪلڻ لاءِ ڪابه ترجيحاتي SIM نه چونڊي وئي"</string>
+<string name="requires_sms_permissions_message">"ڊيوائس جي مالڪ پاران هي اطلاق اجازت ڏنل ڪونهي."</string>
+<string name="requires_sms_permissions_close_button">"ٺيڪ آهي"</string>
+<string name="too_many_participants">"مڪالمي ۾ تمام گهڻا شرڪاءُ آهن"</string>
+<plurals name="add_invalid_contact_error">
+<item quantity="one">"غير موزون رابطو آهي"</item>
+<item quantity="other">"غير موزون رابطا آهن"</item>
+</plurals>
+<string name="camera_media_failure">"ڪئمرا جي تصوير لوڊ نه ٿي سگهي"</string>
+<string name="conversation_list_item_view_sent_from_you_prefix">"توهان:"</string>
+<string name="conversation_list_item_view_sent_from_other_prefix">"<xliff:g id="firstNameOfSender">%s</xliff:g>:\u0020"</string>
+<string name="conversation_list_item_view_draft_message">"مسودو"</string>
+<string name="conversation_list_empty_text">"جيئن ئي توهان نوان مڪالمو شروع ڪندا ته، توهان کيس هتي درج ڏسندا"</string>
+<string name="archived_conversation_list_empty_text">"محفوظ ڪيل مڪالما هتي ظاهر ٿيندا آهن"</string>
+<string name="conversation_list_first_sync_text">"مڪالما لوڊ ٿي رهيا آهن....."</string>
+<string name="conversation_list_snippet_picture">" تصوير"</string>
+<string name="conversation_list_snippet_audio_clip">"  آواز"</string>
+<string name="conversation_list_snippet_video">" ويڊيو"</string>
+<string name="conversation_list_snippet_vcard">" وي ڪارڊ"</string>
+<string name="mms_text">"ايم ايم ايس"</string>
+<string name="snack_bar_undo">" منسوخ ڪريو"</string>
+<string name="snack_bar_retry">"ٻيهر ڪوشش ڪريو"</string>
+<string name="contact_list_empty_text">"ڪنهن نئين پيغام جي لاءِ رابطي جو نالو يا فون نمبر داخل ڪريو"</string>
+<string name="action_block">" روڪيو"</string>
+<string name="block_contact_title">"<xliff:g id="destination">%s</xliff:g> کي بلاڪ ڪريو"</string>
+<string name="unblock_contact_title">"<xliff:g id="destination">%s</xliff:g> کي غير بلاڪ ڪريو"</string>
+<string name="block_confirmation_title">"<xliff:g id="destination">%s</xliff:g> کي بلاڪ ٿا ڪرڻ چاهيو؟</string>
+<string name="block_confirmation_message">"هن نمبر کان توهان کي پيغامات اچڻ جاري رهندا پر وڌيڪ خبرگير نه ڪيو ويندو. هي مڪالمو محفوظ ڪيو ويندو."</string>
+<string name="blocked_contacts_title">"بلاڪ ڪيل رابطا"</string>
+<string name="tap_to_unblock_message">"غير بلاڪ ڪريو"</string>
+<string name="view_blocked_contacts_title">"بلاڪ ڪيل رابطا"</string>
+<string name="pick_image_from_document_library_content_description">"دستاويزن جي لائبريري مان تصوير جي چونڊ ڪريو"</string>
+<string name="sending_message">"پيغام موڪلجي رهيو آهي"</string>
+<string name="send_message_success">"پِعام موڪلجي ويو"</string>
+<string name="send_message_failure_no_data">"سيليولر ڊيٽا بند ڪيل آهي. پنهنجون ترتيبون چڪاس ڪريو"</string>
+<string name="send_message_failure_airplane_mode">"جهازي طرز ۾ پيغامات نه ٿا موڪلجي سگهن"</string>
+<string name="assistant_card_not_allow_for_mms">"معاون ڪارڊ لاءِ پيغامات نه ٿو موڪلي سگهي"</string>
+<string name="send_message_failure">"پيغام موڪلي نه ٿو سگهي"</string>
+<string name="download_message_success">"پيغام ڊائونلوڊ ٿي ويو"</string>
+<string name="download_message_failure_no_data">"سيليولر ڊيٽا بند ڪيل آهي. پنهنجون ترتيبون چڪاس ڪريو"</string>
+<string name="download_message_failure_airplane_mode">"جهازي طرز ۾ پيغامات ڊائونلوڊ نه ٿا ٿي سگهن"</string>
+<string name="download_message_failure">"پيغام ڊائونلوڊ نه ٿي سگهيو"</string>
+<string name="content_description_for_number_zero">"0"</string>
+<string name="content_description_for_number_one">"1"</string>
+<string name="content_description_for_number_two">"2"</string>
+<string name="content_description_for_number_three">"3"</string>
+<string name="content_description_for_number_four">"4"</string>
+<string name="content_description_for_number_five">"5"</string>
+<string name="content_description_for_number_six">"6"</string>
+<string name="content_description_for_number_seven">"7"</string>
+<string name="content_description_for_number_eight">"8"</string>
+<string name="content_description_for_number_nine">"9"</string>
+<string name="carrier_send_error">"<xliff:g id="carrierName">%1$s</xliff:g> سان پيغام موڪلجي نه ٿو سگهجي، <xliff:g id="errorCode">%2$d</xliff:g> جي خرابي آهي"</string>
+<string name="carrier_send_error_unknown_carrier">"اڻڄاتل حامل سان پيغام نه ٿو موڪلجي سگهجي، <xliff:g id="errorCode">%1$d</xliff:g> جي خرابي آهي"</string>
+<string name="message_fwd">"اڳتي موڪليو: <xliff:g id="subject">%s</xliff:g>"</string>
+<string name="mms_failure_outgoing_service">"پيغام نه موڪليو ويو: نيٽورڪ تي سروس سرگرمِ عمل ڪيل ڪونهي""</string>
+<string name="mms_failure_outgoing_address">"پيغام نه موڪليو ويو:منزلِ مقصود غير موزون آهي"</string>
+<string name="mms_failure_outgoing_corrupt">"پيغام نه موڪليو ويو: پيغام غير موزون آهي"</string>
+<string name="mms_failure_outgoing_content">"پيغام نه موڪليو ويو: متن جي سهولت ڪانهي"</string>
+<string name="mms_failure_outgoing_unsupported">"پيغام نه موڪليو ويو: پيغام جي سهولت ڪانهي"</string>
+<string name="mms_failure_outgoing_too_large">"پيغام نه موڪليو ويو: تمام وڏو آهي"</string>
+<string name="in_conversation_notify_new_message_text">"نئون پيغام"</string>
+<string name="in_conversation_notify_new_message_action">" ڏسو"</string>
+<string name="message_image_content_description">" تصوير"</string>
+<string name="activity_not_found_message">"ڪو مناسب اطلاق نه لڀي سگهيو"</string>
+<string name="chips_delete_content_description">"وصول ڪندڙ کي هٽايو"</string>
+<string name="share_new_message">"نئون پيغام"</string>
+<string name="share_cancel">" رد ڪريو"</string>
+<string name="apn_edit">"رسائي جي پوائنٽ جي تدوين ڪريو"</string>
+<string name="apn_not_set">" مرتب ٿيل ڪونهي"</string>
+<string name="apn_name">" نالو"</string>
+<string name="apn_mms_proxy">"ايم ايم ايس پراڪسي"</string>
+<string name="apn_mms_port">"ايم ايم ايس پورٽ"</string>
+<string name="apn_type">"APN جو قسم"</string>
+<string name="menu_delete_apn">"APN کي مٽايو"</string>
+<string name="menu_new_apn">"نئون APN"</string>
+<string name="menu_save_apn">" محفوظ ڪريو"</string>
+<string name="menu_discard_apn_change">" رد ڪريو"</string>
+<string name="error_apn_name_empty">"نالي جي جاءِ خالي نٿي ٿي سگهي."</string>
+<string name="error_apn_empty">"APN خالي نٿي ٿي سگهي."</string>
+<string name="error_mcc_not3">"MCC جي جاءِ ضرور 3 هندسن تي مشتمل هجي."</string>
+<string name="error_mnc_not23">"MNC جي جاءِ ضرور 2 يا 3 هندسن تي مشتمل هجي."</string>
+<string name="restore_default_apn">"APN  جون مُرَوجّه ترتيبون ٻيهر بحال ٿي رهيون آهن."</string>
+<string name="menu_restore_default_apn">" طئي شده ۾ مرتب ڪريو"</string>
+<string name="restore_default_apn_completed">"APN جي مُرَوجّه ترتيبن جي ٻيهر بحالي مڪمل ٿي وئي."</string>
+<string name="untitled_apn">"بنا عنوان ڏنل"</string>
+<string name="sms_apns_title">"رسائي جي پوائنٽن جا نالا"</string>
+<string name="apn_settings">"APN"</string>
+<string name="menu_new">"نئون APN"</string>
+<string name="apn_settings_not_available">"هن صارف جي لاءِ رسائي جي پوائنٽن جي نالي جون ترتيبون دستياب ناهن"</string>
+<string name="copy_to_clipboard_dialog_title">"ڪلپ بورڊ تي نقل ٿا ڪرڻ چاهيو؟"</string>
+<string name="copy_to_clipboard">"نقل ڪريو"</string>
+<string name="incoming_sim_name_text">"<xliff:g id="sim_name">%s</xliff:g> تي"</string>
+<string name="general_settings">" عام"</string>
+<string name="advanced_settings">" اعليٰ"</string>
+<string name="general_settings_activity_title">" عام ترتيبون"</string>
+<string name="advanced_settings_activity_title">"اعليٰ ترتيبون"</string>
+<string name="sim_specific_settings">""<xliff:g id="sim_name">%s</xliff:g>" SIM"</string>
+<string name="disable_group_mms">"سمورن وصول ڪندڙن کي انفرادي ايس ايم ايس پيغام موڪليو. صرف توهان کي ئي ڪي جواب ملندا"</string>
+<string name="enable_group_mms">"سمورن وصول ڪندڙن کي اڪيلو ايم ايم ايس موڪليو"</string>
+<string name="sim_settings_unknown_number">"اڻڄاتل نمبر"</string>
+<string name="secondary_user_new_message_title">"نئون پيغام"</string>
+<string name="secondary_user_new_message_ticker">"نئون پيغام."</string>
+<string name="sim_selector_button_content_description">"SIM جو چونڊيندڙ"</string>
+<string name="sim_selector_button_content_description_with_selection">"<xliff:g id="sim">%1$s</xliff:g> جي چونڊ ڪئي وئي، SIM جو چونڊيندڙ"</string>
+<string name="send_button_long_click_description_no_sim_selector">"عنوان جي تدوين ڪريو"</string>
+<string name="send_button_long_click_description_with_sim_selector">"SIM جي چونڊ ڪريو يا عنوان جي تدوين ڪريو"</string>
+<string name="audio_record_view_content_description">"آڊيو کي رڪارڊ ڪرڻ لاءِ ٽچ کي دٻائي رکو"</string>
+<string name="widget_new_conversation_content_description">"نئون مڪالمو چالو ڪريو"</string>
+<string name="widget_conversation_list_name">"پيغام رساني جي فهرست"</string>
+<string name="widget_new_message_content_description">"نئون پيغام"</string>
+<string name="widget_conversation_list_content_description">"گفتگو جي فهرست"</string>
+<string name="loading_conversations">"مڪالمن جي لوڊنگ ٿي رهي آهي"</string>
+<string name="loading_messages">"پيغامات لوڊ ٿي رهيا آهن"</string>
+<string name="view_more_conversations">" وڌيڪ مڪالما ڏسو"</string>
+<string name="view_more_messages">"وڌيڪ پيغامات کي ڏسو"</string>
+<string name="conversation_deleted">"مڪالمو مٽجي ويو"</string>
+<string name="tap_to_configure">"مڪالمو مٽجي ويو. ڪنهن مختلف پيغام رساني جي مڪالمي کي ڏيکارڻ لاءِ ٽچ ڪريو"</string>
+<string name="update_destination_blocked">"بلاڪ ٿي ويو"</string>
+<string name="update_destination_unblocked">"غير بلاڪ ٿيل"</string>
+<string name="db_full">"ذخيرهگاه جي جاءِ ٿوري آهي. ڪجهه ڊيٽا وڃائجي ويندي."</string>
+<string name="attachment_chooser_activity_title">"منسلڪات جي چونڊ ڪريو"</string>
+<string name="action_confirm_selection">"چونڊ جي تسلي ڪريو"</string>
+<string name="attachment_chooser_selection">"<xliff:g id="count">%d</xliff:g> کي چونڊيو ويو"</string>
+<string name="attachment_limit_reached_dialog_message_when_composing">"مهرباني ڪري هڪ يا وڌيڪ منسلڪات کي هٽايو ۽ ٻيهر ڪوشش ڪريو."</string>
+<string name="attachment_limit_reached_dialog_message_when_sending">"توهان پنهنجي پيغام کي موڪلڻ جي ڪوشش ڪري سگهو ٿا، پر اهو تيستائين سپرد نه ٿيندو جيستائين توهان هڪ يا وڌيڪ منسلڪات نه مٽائيندا."</string>
+<string name="video_attachment_limit_exceeded_when_sending">"توهان صرف هي ويڊيو في پيغام تي موڪلي سگهو ٿا. مهرباني ڪري اضافي ويديوئن کي هٽايو ۽ ٻيهر ڪوشش ڪريو."</string>
+<string name="attachment_load_failed_dialog_message">"پيغام رساني منسلڪي کي دائونلوڊ ڪرڻ ۾ ناڪام ٿي وئي."</string>
+<string name="attachment_limit_reached_send_anyway">"ڪنهن به نموني موڪليو"</string>
+<string name="conversation_creation_failure">"مڪالمو چالو نه ٿي سگهيو"</string>
+<string name="selected_sim_content_message">"<xliff:g id="selected_sim">%s</xliff:g> جي چونڊ ڪئي وئي"</string>
+<string name="empty_msg">"خالي پيغام آهي"</string>
+<string name="send_empty_msg">"خالي پيغام پيا موڪليو ڇا؟"</string>
+<string name="yes">" هاءُ"</string>
+<string name="no">"نه"</string>
+<string name="donotset_time_before_now">"هن کان اڳ وارو وقت مرتب نه ٿي سگيو"</string>
+<string name="please_reset_time">"وقت گذري ويو، مھرباني ڪري الارم کي سيٽ ڪريو"</string>
+<string name="please_set_date">"مهرباني ڪري تاريخ مرتب ڪريو"</string>
+<string name="please_set_time">"مهرباني ڪري وقت مرتب ڪريو"</string>
+</resources>

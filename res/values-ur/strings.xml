@@ -1,0 +1,537 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+    Copyright (C) 2015 The Android Open Source Project
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+         http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
+ -->
+
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name" msgid="3062916848713424329">"پیغام رسانی"</string>
+    <string name="share_intent_label" msgid="6920483598866144717">"پیغام رسانی"</string>
+    <plurals name="num_minutes_ago" formatted="false" msgid="4085627474543076735">
+      <item quantity="other"><xliff:g id="COUNT_1">%d</xliff:g> منٹ</item>
+      <item quantity="one"><xliff:g id="COUNT_0">%d</xliff:g> منٹ</item>
+    </plurals>
+    <plurals name="num_hours_ago" formatted="false" msgid="8010868301590914325">
+      <item quantity="other"><xliff:g id="COUNT_1">%d</xliff:g> گھنٹے</item>
+      <item quantity="one"><xliff:g id="COUNT_0">%d</xliff:g> گھنٹہ</item>
+    </plurals>
+    <plurals name="num_days_ago" formatted="false" msgid="8753803762044567843">
+      <item quantity="other"><xliff:g id="COUNT_1">%d</xliff:g> دن</item>
+      <item quantity="one"><xliff:g id="COUNT_0">%d</xliff:g> دن</item>
+    </plurals>
+    <plurals name="week_count" formatted="false" msgid="1301973226125551953">
+      <item quantity="other"><xliff:g id="COUNT">%d</xliff:g> ہفتے</item>
+      <item quantity="one">ایک ہفتہ</item>
+    </plurals>
+    <plurals name="month_count" formatted="false" msgid="4858515363324110232">
+      <item quantity="other"><xliff:g id="COUNT">%d</xliff:g> مہینے</item>
+      <item quantity="one">ایک ماہ</item>
+    </plurals>
+    <plurals name="year_count" formatted="false" msgid="4522546496183798317">
+      <item quantity="other"><xliff:g id="COUNT">%d</xliff:g> سال</item>
+      <item quantity="one">ایک سال</item>
+    </plurals>
+    <plurals name="notification_send_failures" formatted="false" msgid="6938919932879650691">
+      <item quantity="other"> <xliff:g id="CONVERSATIONS">%d</xliff:g> گفتگوؤں میں <xliff:g id="MESSAGES_1">%d</xliff:g> پیغامات</item>
+      <item quantity="one">ایک گفتگو میں <xliff:g id="MESSAGES_0">%d</xliff:g> پیغامات</item>
+    </plurals>
+    <plurals name="notification_download_failures" formatted="false" msgid="5341490525457911398">
+      <item quantity="other"> <xliff:g id="CONVERSATIONS">%d</xliff:g> گفتگوؤں میں <xliff:g id="MESSAGES_1">%d</xliff:g> پیغامات</item>
+      <item quantity="one"> ایک گفتگو میں <xliff:g id="MESSAGES_0">%d</xliff:g> یغامات</item>
+    </plurals>
+    <plurals name="notification_new_messages" formatted="false" msgid="610594317958128842">
+      <item quantity="other"><xliff:g id="MESSAGES">%d</xliff:g> نئے پیغامات</item>
+      <item quantity="one">نیا پیغام</item>
+    </plurals>
+    <plurals name="delete_conversations_confirmation_dialog_title" formatted="false" msgid="2285567882353326800">
+      <item quantity="other">ان گفتگوؤں کو حذف کریں؟</item>
+      <item quantity="one">اس گفتگو کو حذف کریں؟</item>
+    </plurals>
+    <string name="attachment_more_items" msgid="2861573099241369958">"‎+<xliff:g id="COUNT">%d</xliff:g>"</string>
+    <plurals name="wearable_participant_count" formatted="false" msgid="3037889420270036143">
+      <item quantity="other"><xliff:g id="COUNT_1">%d</xliff:g> شرکت کنندگان</item>
+      <item quantity="one"><xliff:g id="COUNT_0">%d</xliff:g> شرکت کنندہ</item>
+    </plurals>
+    <plurals name="attachment_preview_close_content_description" formatted="false" msgid="5631719319690969981">
+      <item quantity="other">منسلکہ جات کو مسترد کریں</item>
+      <item quantity="one">منسلکہ کو مسترد کریں</item>
+    </plurals>
+    <plurals name="photos_saved_to_album" formatted="false" msgid="7529478299745446838">
+      <item quantity="other"><xliff:g id="QUANTITY_2">%d</xliff:g> تصاویر \"<xliff:g id="ALBUMNAME_3">%s</xliff:g>\" البم میں محفوظ ہو گئیں</item>
+      <item quantity="one"><xliff:g id="QUANTITY_0">%d</xliff:g> تصویر \"<xliff:g id="ALBUMNAME_1">%s</xliff:g>\" البم میں محفوظ ہو گئی</item>
+    </plurals>
+    <plurals name="videos_saved_to_album" formatted="false" msgid="6821121808257576788">
+      <item quantity="other"><xliff:g id="QUANTITY_2">%d</xliff:g> ویڈیوز \"<xliff:g id="ALBUMNAME_3">%s</xliff:g>\" البم میں محفوظ ہو گئیں</item>
+      <item quantity="one"><xliff:g id="QUANTITY_0">%d</xliff:g> ویڈیو \"<xliff:g id="ALBUMNAME_1">%s</xliff:g>\" البم میں محفوظ ہو گئی</item>
+    </plurals>
+    <plurals name="attachments_saved_to_album" formatted="false" msgid="8407480699515308929">
+      <item quantity="other"><xliff:g id="QUANTITY_2">%d</xliff:g> منسلکہ جات \"<xliff:g id="ALBUMNAME_3">%s</xliff:g>\" البم میں محفوظ ہو گئیں</item>
+      <item quantity="one"><xliff:g id="QUANTITY_0">%d</xliff:g> منسلکہ \"<xliff:g id="ALBUMNAME_1">%s</xliff:g>\" البم میں محفوظ ہو گئی</item>
+    </plurals>
+    <plurals name="attachments_saved_to_downloads" formatted="false" msgid="1886864019411801995">
+      <item quantity="other"><xliff:g id="QUANTITY_1">%d</xliff:g> منسلکہ جات \'ڈاؤن لوڈز\' میں محفوظ ہو گئیں</item>
+      <item quantity="one"><xliff:g id="QUANTITY_0">%d</xliff:g> منسلکہ \'ڈاؤن لوڈز\' میں محفوظ ہو گئی</item>
+    </plurals>
+    <plurals name="attachments_saved" formatted="false" msgid="6925000482183379648">
+      <item quantity="other"><xliff:g id="QUANTITY_1">%d</xliff:g> منسلکہ جات کو محفوظ کر دیا گیا</item>
+      <item quantity="one"><xliff:g id="QUANTITY_0">%d</xliff:g> منسلکہ کو محفوظ کر دیا گیا</item>
+    </plurals>
+    <plurals name="attachment_save_error" formatted="false" msgid="2068837227090109833">
+      <item quantity="other"> <xliff:g id="QUANTITY_1">%d</xliff:g> منسلکہ جات کو محفوظ نہیں کیا جا سکا</item>
+      <item quantity="one"> <xliff:g id="QUANTITY_0">%d</xliff:g> منسلکہ کو محفوظ نہیں کیا جا سکا</item>
+    </plurals>
+    <string name="sms_disabled_pref_title" msgid="6352764741524717132">"‏ڈیفالٹ SMS ایپ"</string>
+    <string name="sms_enabled_pref_title" msgid="2961457081888153323">"‏ڈیفالٹ SMS ایپ"</string>
+    <!-- no translation found for default_sms_app (3907546126124760465) -->
+    <skip />
+    <plurals name="compose_message_view_hint_text_photo" formatted="false" msgid="8937589900456604618">
+      <item quantity="other">تصاویر بھیجیں</item>
+      <item quantity="one">تصویر بھیجیں</item>
+    </plurals>
+    <plurals name="compose_message_view_hint_text_audio" formatted="false" msgid="5934090345811195170">
+      <item quantity="other">آڈیوز بھیجیں</item>
+      <item quantity="one">آڈیو بھیجیں</item>
+    </plurals>
+    <plurals name="compose_message_view_hint_text_video" formatted="false" msgid="9188048653766960507">
+      <item quantity="other">ویڈیوز بھیجیں</item>
+      <item quantity="one">ویڈیو بھیجیں</item>
+    </plurals>
+    <plurals name="compose_message_view_hint_text_vcard" formatted="false" msgid="933064969858631242">
+      <item quantity="other">رابطہ کارڈز بھیجیں</item>
+      <item quantity="one">رابطہ کارڈ بھیجیں</item>
+    </plurals>
+    <plurals name="compose_message_view_hint_text_attachments" formatted="false" msgid="1778518334602418000">
+      <item quantity="other">منسلکہ جات بھیجیں</item>
+      <item quantity="one">منسلکہ بھیجیں</item>
+    </plurals>
+    <plurals name="attachment_changed_accessibility_announcement" formatted="false" msgid="5592871135747616108">
+      <item quantity="other"><xliff:g id="ATTACHMENT_COUNT">%d</xliff:g> منسلکہ جات بھیجنے کیلئے تیار</item>
+      <item quantity="one">ایک منسلکہ بھیجنے کیلئے تیار</item>
+    </plurals>
+    <string name="notification_subject" msgid="5229975483160300625">"‎<xliff:g id="SUBJECT_LABEL">%s</xliff:g><xliff:g id="MESSAGETEXT">%s</xliff:g>‎"</string>
+    <plurals name="vcard_multiple_display_name" formatted="false" msgid="2884224435488996028">
+      <item quantity="other"><xliff:g id="COUNT_1">%d</xliff:g> رابطے</item>
+      <item quantity="one"><xliff:g id="COUNT_0">%d</xliff:g> رابطہ</item>
+    </plurals>
+    <string name="plus_one" msgid="9010288417554932581">"‎+1‎"</string>
+    <string name="plus_n" msgid="8961547034116059566">"‎+%d‎"</string>
+    <plurals name="add_invalid_contact_error" formatted="false" msgid="782438833843363189">
+      <item quantity="other">غلط رابطے</item>
+      <item quantity="one">غلط رابطہ</item>
+    </plurals>
+    <string name="apn_apn" msgid="1197541953189716999">"APN"</string>
+    <string name="apn_mmsc" msgid="2584154739440281747">"MMSC"</string>
+    <string name="apn_mcc" msgid="8102023058623950736">"MCC"</string>
+    <string name="apn_mnc" msgid="1372437523197012866">"MNC"</string>
+    <string name="widget_title_content_description" msgid="5802836840910466231">"پیغام رسانی"</string>
+    <string name="widget_conversation_name" msgid="3900606239571892871">"پیغام رسانی"</string>
+    <string name="link_display_format" msgid="8700344957248709584">"<xliff:g id="TEXT">%1$s</xliff:g> (<xliff:g id="URL">%2$s</xliff:g>)"</string>
+<string name="share_intent_activity_label">"بات چیت کا انتخاب کریں"</string>
+<string name="action_settings">"ترتیبات"</string>
+<string name="sendButtonContentDescription">"پیغام بھیجيں"</string>
+<string name="attachMediaButtonContentDescription">"اٹیچمینٹ جوڑیں"</string>
+<string name="help_and_feedback_activity_label">"مدد"</string>
+<string name="alarm_message_date">"تاریخ منتخب کریں"</string>
+<string name="alarm_message_time">"وقت منتخب کریں"</string>
+<string name="alarm_message_setup">"سیٹ اپ"</string>
+<string name="alarm_message_cancel">"منسوخ کریں"</string>
+<string name="welcome">"خیرمقدم ہے"</string>
+<string name="skip">"نظر انداز کریں"</string>
+<string name="next_with_arrow">" اگلا&gt;"</string>
+<string name="next">"اگلا"</string>
+<string name="exit">"باہر نکلیں"</string>
+<string name="settings_with_arrow">&gt; سیٹنگس</string>
+<string name="settings">"ترتیبات"</string>
+<string name="required_permissions_promo">"میسیج کرنے کے لیے  ,SMS فون اور رابطوں کی اجازت کی ضرورت ہے۔" </string>
+<string name="enable_permission_procedure">"آپ سیٹنگس&gt;ایپس&gt; میسیجنگ&gt; پرمیشن&gt; میں جاکر پرمیشن کو بدل سکتے ہیں"</string>
+<string name="enable_permission_procedure_description">"آپ سیٹنگس، ایپس، میسیجنگ، پرمیشن، میں جاکر پرمیشن کو بدل سکتے ہیں"</string>
+<string name="contact_picker_frequents_tab_title">"متواتر"</string>
+<string name="contact_picker_all_contacts_tab_title">"تمام رابطے"</string>
+<string name="contact_list_send_to_text">"<xliff:g id="destination">%s</xliff:g>پر بھیجیں"</string>
+<string name="mediapicker_cameraChooserDescription">"ویڈیو یا تصاویر قید کریں"</string>
+<string name="mediapicker_galleryChooserDescription">"اس ڈیوائس سے تصاویر منتخب کریں"</string>
+<string name="mediapicker_audioChooserDescription">" آڈیو ریکارڈ کریں"</string>
+<string name="mediapicker_gallery_title">"تصویر منتخب کریں"</string>
+<string name="mediapicker_gallery_item_selected_content_description">"میڈیا منتخب ہوگیا ہے۔"</string>
+<string name="mediapicker_gallery_item_unselected_content_description">"میڈیا غیر منتخب ہوگیا ہے"</string>
+<string name="mediapicker_gallery_title_selection">"<xliff:g id="count">%d</xliff:g> منتخب ہوگیا ہے"</string>
+<string name="mediapicker_gallery_image_item_description">"تصویر <xliff:g id="date">%1$tB %1$te %1$tY %1$tl %1$tM %1$tp</xliff:g>"</string>
+<string name="mediapicker_gallery_image_item_description_no_date">"تصویر"</string>
+<string name="mediapicker_audio_title">" آڈیو ریکارڈ کریں"</string>
+<string name="action_share">"اشتراک کریں"</string>
+<string name="posted_just_now">"ٹھیک ابھی"</string>
+<string name="posted_now">"ابھی"</string>
+<string name="class_0_message_activity">"کلاس 0 پیغام"</string>
+<string name="save">"محفوظ کریں"</string>
+<string name="sms_storage_low_auto_delete_enabled_dialog_text">"اس ڈیوائس میں کم جگہ بچی ہے۔ اضافی جگہ خالی کرنے کے لیےمیسیجنک پرانے پیغامات کو اپنے آپ ہی ڈلیٹ کردیگی۔"</string>
+<string name="sms_storage_low_title">" اسٹوریج کی جگہ خالی ہورہی ہے"</string>
+<string name="sms_storage_low_text">"آپ کی ڈیوائس پر جب تک مزید جگہ دستیاب نہی ہوتی ہےمیسیجنگ اس وقت پیغام نہ تو بھیج سکتی ہے اور نہ موصول کرسکتی ہے۔"</string>
+<string name="sms_storage_low_notification_ticker">" کم ایس ایم ایس اسٹوریج۔ آپ کو پیغامات حذف کرنے کی ضرورت پڑسکتی ہے۔"</string>
+<string name="enter_phone_number_title">"اپنے فون نمبر کی تصدیق کریں"</string>
+<string name="enter_phone_number_text">"یہ ایک مرتبہ اٹھایا جانے والا قدم یہ یقینی بنائیگا کہ میسیجنگ آپ کے پیغامات کو مناسب طریقہ سے پہنچائے۔"</string>
+<string name="enter_phone_number_hint">"فون نمبر"</string>
+<string name="delete_all_media">"میڈیا والے سارے پیغامات کو ڈلیٹ کردیں"</string>
+<string name="delete_oldest_messages">"<xliff:g id="duration">%s</xliff:g> سے پرانے پیغامات کو ڈلیٹ کردیں"</string>
+<string name="auto_delete_oldest_messages">"<xliff:g id="duration">%s</xliff:g>سے زيادہ پرانے پیغامات کو اپنے آپ ہی ڈلیٹ کردیں"</string>
+<string name="ignore">نظر انداز کریں</string>
+<string name="delete_all_media_confirmation">"کیا میڈیا والے سارے پیغامات کو ڈلیٹ کرنا ہے؟"</string>
+<string name="delete_oldest_messages_confirmation">"کیا <xliff:g id="duration">%s</xliff:g>سے پرانے پیغامات کو ڈلیٹ کرنا ہے؟"</string>
+<string name="auto_delete_oldest_messages_confirmation">"کیا <xliff:g id="duration">%s</xliff:g>سے پرانے پیغامات کو ڈلیٹ کرنا ہے اور خودکار ڈلیٹ کو حذف کرنا ہے؟"</string>
+<string name="incoming_text_sender_content_description">"<xliff:g id="sender">%s</xliff:g> کہا"</string>
+<string name="outgoing_text_sender_content_description">"آپ نے کہا"</string>
+<string name="incoming_sender_content_description">"<xliff:g id="sender">%s</xliff:g>کی طرف سے پیغام"</string>
+<string name="outgoing_sender_content_description">"آپ نے ایک پیغام بھیجا ہے"</string>
+<string name="message_status_sending">"بھیجا جارہا ہے۔۔۔"</string>
+<string name="message_status_alarm">"پر بھیجنے کے لیے الارم"</string>
+<string name="message_status_send_failed">"نہی بھیجا جاسکا۔ پھر سے کوشش کرنے کے لیے چھوئيں۔"</string>
+<string name="user_not_exist">صارف موجود نہیں ہے۔</string>
+<string name="message_status_send_retrying">"نہی بھیجا جاسکا۔ دوبارہ کوشش کریں۔۔۔"</string>
+<string name="message_status_resend">"دوبارہ بھیجیں یا ڈلیٹ کریں"</string>
+<string name="message_status_send_failed_emergency_number">"براہ کرم امرجینسی خدمات کے لیے وائس کال کرین۔ آپ کا متنی پیغام اس وقت نہی بھیجا جاسکا۔"</string>
+<string name="message_status_failed">"ناکام ہو گیا"</string>
+<string name="message_title_manual_download">"ڈاؤن لوڈ کرنے کے لیے نیا MMS پیغام"</string>
+<string name="message_title_downloading">"نیا MMS میسیج"</string>
+<string name="message_title_download_failed">"ڈاؤنلوڈ نہی ہوسکتا"</string>
+<string name="message_status_download_failed">"دوبارہ کوشش کرنے کے لیے ٹچ کریں"</string>
+<string name="message_status_download">"ڈاؤن لوڈ کرنے کے لیے ٹچ کریں"</string>
+<string name="message_status_download_action">"ڈاؤن لوڈ کریں یا ڈلیٹ کریں"</string>
+<string name="message_status_downloading">"ڈاؤون لوڈ ہورہا ہے۔۔۔"</string>
+<string name="message_status_download_error">"میسیج کا وقت نکل گیا ہے یا ڈلیٹ ہوچکا ہے"</string>
+<string name="mms_info">"سائز: <xliff:g id="messageSize">%1$s</xliff:g>, اختتام: <xliff:g id="messageExpire">%2$s</xliff:g>"</string>
+<string name="invalid_destination">"نہی بھیجا جاسکتا۔ وصول کنندہ صحیح نہی ہے۔"</string>
+<string name="service_not_activated">"اس نیٹورک پر یہ خدمت ایکٹو نہی ہے"</string>
+<string name="service_network_problem">"نیٹورک کی دقّت کی وجہ سے اسے بھیجا نہی جاسکا"</string>
+<string name="service_message_not_found">"میسیج کا وقت نکل گیا ہے یا ڈلیٹ ہوچکا ہے"</string>
+<string name="no_subject">"(بلا​​عنوان)"</string>
+<string name="unknown_sender">"نامعلوم وصول کنندہ"</string>
+<string name="delivered_status_content_description">"پہنچادیا گیا"</string>
+<string name="dl_failure_notification">"پیغام ڈاؤن لوڈ نہیں کر سکتا <xliff:g id="subject">%1$s</xliff:g> سے <xliff:g id="from">%2$s</xliff:g>."</string>
+<string name="low_memory">"میموری کم ہونے کی وجہ سے ڈاٹابیس آپریشن مکمّل نہی ہوسکا"</string>
+<string name="notification_send_failures_line1_singular">"پیغام نہیں بھیجا گیا"</string>
+<string name="notification_send_failures_line1_plural">"میسیجنگ کے کچھ پیغامات نہی بھیجے جاسکے"</string>
+<string name="notification_download_failures_line1_singular">"پیغام ڈاؤن لوڈ نہیں ہوا"</string>
+<string name="notification_download_failures_line1_plural">"میسیجنگ کے کچھ پیغامات ڈاؤن لوڈ نہی ہوسکے"</string>
+<string name="notification_emergency_send_failure_line1">"<xliff:g id="number">%1$s</xliff:g>پر میسیج نہی بھیجا جاسکا"</string>
+<string name="notification_emergency_send_failure_line2">"براہ کرم امرجینسی خدمات پر وائس کال کریں۔ اس وقت  <xliff:g id="number">%1$s</xliff:g> پر آپ کا متنی پیغام نہی پہنچایا جاسکا۔"</string>
+<string name="start_conversation">"شروع کریں"</string>
+<string name="camera_error_opening">"کیمرہ دستیاب نہی ہے"</string>
+<string name="camera_error_unknown">"کیمرہ دستیاب نہی ہے"</string>
+<string name="camera_error_video_init_fail">"ویڈیو کیپچر دستیاب نہی ہے"</string>
+<string name="camera_error_storage_fail">"میڈیا محفوظ نہی کیا جاسکتا"</string>
+<string name="camera_error_failure_taking_picture">"تصویر نہی لی جاسکتی"</string>
+<string name="back">"واپس جائیں"</string>
+<string name="action_menu_show_archived">"جمع ​​شدہ"</string>
+<string name="action_delete">"حذف کریں"</string>
+<string name="action_archive">"ارکائیو"</string>
+<string name="action_unarchive">"آرکائیو سے ہٹائيں"</string>
+<string name="action_notification_off">"نوٹیفیکیشنس بند کردیں"</string>
+<string name="action_notification_on">"اطلاعات چالو کریں"</string>
+<string name="action_add_contact">"رابطہ شامل کریں"</string>
+<string name="action_download">"ڈاؤن لوڈ کریں"</string>
+<string name="action_send">"بھیجیں"</string>
+<string name="action_delete_message">"حذف کریں"</string>
+<string name="delete_message_confirmation_dialog_title">"کیا اس پیغام کو ڈلیٹ کرنا ہے؟"</string>
+<string name="delete_message_confirmation_dialog_text">"اس ایکشن کو پلٹایا نہی جاسکتا۔"</string>
+<string name="delete_message_confirmation_button">"حذف کریں"</string>
+<string name="delete_conversation_confirmation_button">"حذف کریں"</string>
+<string name="delete_conversation_decline_button">"منسوخ کریں"</string>
+<string name="recipient_hint">"بنام"</string>
+<string name="action_multiselect">"ایک سے زيادہ تصاویر چنیں"</string>
+<string name="action_confirm_multiselect">"انتخاب کی تصدیق کریں"</string>
+<string name="audio_recording_start_failed">"آڈیو ریکارڈ نہی کیا جاسکتا۔ براہ کرم پرمیشن کی جانچ کریں اور پھر سے کوشش کریں"</string>
+<string name="audio_recording_replay_failed">"آڈیو بج نہی سکتا۔ دوبارہ کوشش کریں۔"</string>
+<string name="audio_recording_error">"آڈیو محفوظ نہی کیا جاسکا۔ پھر سے کوشش کریں۔"</string>
+<string name="audio_picker_hint_text">"چھوئيں اور دباکر رکھیں"</string>
+<string name="enumeration_comma">",\u0020"</string>
+<string name="notification_separator">"\u0020\u0020"</string>
+<string name="notification_ticker_separator">":\u0020"</string>
+<string name="notification_space_separator">"\u0020\u0020"</string>
+<string name="notification_picture">"تصویر"</string>
+<string name="notification_audio">"آڈیو کلپ"</string>
+<string name="notification_video">"ویڈیو"</string>
+<string name="notification_vcard">"رابطہ کارڈ"</string>
+<string name="notification_download_mms">"ڈاؤن لوڈ کریں"</string>
+<string name="notification_reply_via_sms">"SMS کے ذریعہ جواب دیں"</string>
+<string name="notification_reply_via_mms">"MMS کے ذریعہ جواب دیں"</string>
+<string name="notification_reply_prompt">"جواب دیں"</string>
+<string name="unknown_self_participant">"مجھے"</string>
+<string name="blocked_toast_message">"رابطہ بلاک ہوگیا ہے اور اسے آرکائیو کردیا گیا ہے"</string>
+<string name="unblocked_toast_message">"رابطہ انبلاک کردیا گیا ہے اور اسے آرکائیو سے ہٹادیا گیا ہے"</string>
+<string name="archived_toast_message">"<xliff:g id="count">%d</xliff:g> آرکائیو ہوگیا ہے"</string>
+<string name="unarchived_toast_message">"<xliff:g id="count">%d</xliff:g> آرکائیو سے ہٹادیا گیا ہے"</string>
+<string name="notification_off_toast_message">"نوٹیفیکیشنس بند کردیے گيے ہیں"</string>
+<string name="notification_on_toast_message">"نوٹیفیکیشنس چالو کردیے گیے ہیں"</string>
+<string name="toast_after_setting_default_sms_app_for_message_send">"سب سیٹ ہے۔ بھیجنے کے لیے پھر سے ٹچ کریں۔"</string>
+<string name="toast_after_setting_default_sms_app">"میسیجنگ کامیابی کے ساتھ بطور ڈیفالٹ SMS ایپ کے سیٹ ہوگئی ہے۔"</string>
+<string name="audio_attachment_content_description">"آڈیو اٹیچمینٹ"</string>
+<string name="audio_play_content_description">"آڈیو اٹیچمینٹ چلائيں"</string>
+<string name="audio_pause_content_description">"موقوف"</string>
+<string name="incoming_message_announcement">"<xliff:g id="sender">%s</xliff:g>: <xliff:g id="message">%s</xliff:g>۔کی طرف سے پیغام"</string>
+<string name="one_on_one_incoming_failed_message_prefix">"<xliff:g id="sender">%s</xliff:g>کی طرف سے پیغام:<xliff:g id="message">%s</xliff:g>. مرتبہ ناکام ہوگیا: <xliff:g id="time">%s</xliff:g>."</string>
+<string name="one_on_one_incoming_successful_message_prefix"><xliff:g id="sender">%s</xliff:g>: <xliff:g id="message">%s</xliff:g>کی طرف سے پیغام <xliff:g id="time">%s</xliff:g>مرتبہ:</string>
+<string name="one_on_one_outgoing_draft_message_prefix">"کو پیغام نہی بھیجا گیا  <xliff:g id="contact">%s</xliff:g>: <xliff:g id="message">%s</xliff:g>. مرتبہ: <xliff:g id="time">%s</xliff:g>."</string>
+<string name="one_on_one_outgoing_sending_message_prefix">"کو پیغام  بھیجا جارہا ہے  <xliff:g id="contact">%s</xliff:g>: <xliff:g id="message">%s</xliff:g>. مرتبہ: <xliff:g id="time">%s</xliff:g>."</string>
+<string name="one_on_one_outgoing_failed_message_prefix">"کو پیغام  ناکام ہوگیا  <xliff:g id="contact">%s</xliff:g>: <xliff:g id="message">%s</xliff:g>. مرتبہ: <xliff:g id="time">%s</xliff:g>."</string>
+<string name="one_on_one_outgoing_successful_message_prefix">"کو پیغام  <xliff:g id="contact">%s</xliff:g>: <xliff:g id="message">%s</xliff:g>. مرتبہ: <xliff:g id="time">%s</xliff:g>."</string>
+<string name="group_incoming_failed_message_prefix">"کی طرف سے ناکام پیغام<xliff:g id="sender">%s</xliff:g>: <xliff:g id="message">%s</xliff:g>. مرتبہ: <xliff:g id="time">%s</xliff:g>. <xliff:g id="groupInfo">%s</xliff:g>."</string>
+<string name="group_incoming_successful_message_prefix">"<xliff:g id="sender">%s</xliff:g>کی طرف سے پیغام: <xliff:g id="message">%s</xliff:g>. مرتبہ: <xliff:g id="time">%s</xliff:g>. <xliff:g id="groupInfo">%s</xliff:g>."</string>
+<string name="group_outgoing_draft_message_prefix">"<xliff:g id="group">%s</xliff:g>کو پیغام نہی بھیجا گیا: <xliff:g id="message">%s</xliff:g>. مرتبہ: <xliff:g id="time">%s</xliff:g>."</string>
+<string name="group_outgoing_sending_message_prefix">"<xliff:g id="group">%s</xliff:g>کو پیغام بھیجا جارہا ہے: <xliff:g id="message">%s</xliff:g>. مرتبہ: <xliff:g id="time">%s</xliff:g>."</string>
+<string name="group_outgoing_failed_message_prefix">"<xliff:g id="group">%s</xliff:g>کو پیغام ناکام ہوگیا: <xliff:g id="message">%s</xliff:g>. مرتبہ: <xliff:g id="time">%s</xliff:g>."</string>
+<string name="group_outgoing_successful_message_prefix">"<xliff:g id="group">%s</xliff:g>کو پیغام: <xliff:g id="message">%s</xliff:g>. مرتبہ: <xliff:g id="time">%s</xliff:g>."</string>
+<string name="failed_message_content_description">"پیغام ناکام ہوگیا۔ دوبارہ کوشش کے لیے ٹچ کریں۔"</string>
+<string name="group_conversation_description">"<xliff:g id="participants">%s</xliff:g> کے ساتھ بات جیت"</string>
+<string name="delete_subject_content_description">"موضوع کو ڈلیٹ کریں"</string>
+<string name="camera_switch_to_video_mode">"ویڈیو بنائی"</string>
+<string name="camera_switch_to_still_mode">"رکی ہوئی تصیر لیں"</string>
+<string name="camera_take_picture">"تصویر لیں"</string>
+<string name="camera_start_recording">"ویڈیو ریکارڈنگ شروع کریں"</string>
+<string name="camera_switch_full_screen">" فل اسکرین کیمرہ میں سوئچ کریں"</string>
+<string name="camera_switch_camera_facing">"سامنے اور پیچھے کا کیمرہ آگے پیچھے کریں"</string>
+<string name="camera_stop_recording">"ریکارڈنگ بند کریں اور ویڈیو اٹیچ کریں"</string>
+<string name="camera_cancel_recording">"ویڈیو ریکارڈنگ بند کریں"</string>
+<string name="photo_view_activity_title">"فوٹو میسیج کیے جارہے ہیں"</string>
+<string name="attachment_file_description">"MMS اٹیچ مینٹ محفوظ ہوگئی ہے"</string>
+<string name="settings_activity_title">"ترتیبات"</string>
+<string name="archived_activity_title">"جمع ​​شدہ"</string>
+<string name="action_close">"بند کریں"</string>
+<string name="mms_messaging_category_pref_title">"MMS"</string>
+<string name="advanced_category_pref_title">"جدید ترین"</string>
+<string name="debug_category_pref_title">"ڈیبگ کریں"</string>
+<string name="notifications_enabled_pref_title">"اطلاعات"</string>
+<string name="notification_sound_pref_title">"آواز"</string>
+<string name="silent_ringtone">"خاموش"</string>
+<string name="notification_vibrate_pref_title">"وائبریٹ"</string>
+<string name="blocked_pref_title">"مسدود ہے"</string>
+<string name="send_reports_pref_title">"SMS بھیجیں رپورٹ"</string>
+<string name="send_reports_pref_summary">"آپ کے بھیجے جانے والے ہر SMS کی ایک بھیجیں رپورٹ کی درخواست کریں"</string>
+<string name="delivery_reports_pref_title">"SMS ڈلیوری رپورٹس"</string>
+<string name="delivery_reports_pref_summary">"آپ کے ذریعہ بھیجے جانے والے ہر ایک SMS کی ڈلیوری رپورٹ کے لیے درخواست دیں"</string>
+<string name="auto_retrieve_mms_pref_title">"خودکار بازیافت"</string>
+<string name="auto_retrieve_mms_pref_summary">"MMS میسیج کو اپنے آپ ہی لے آتا ہے"</string>
+<string name="auto_retrieve_mms_when_roaming_pref_title">"رومنگ خود کار بازیافت"</string>
+<string name="auto_retrieve_mms_when_roaming_pref_summary">"رومنگ کے دوران MMS میسیج اپنے آپ ہی لے آتا ہے"</string>
+<string name="group_mms_pref_title">"گروپ پیغام رسانی"</string>
+<string name="group_mms_pref_summary">"جب متعدد وصول کنندگان ہوں تو ایک واحد پیغام بھیجنے کے لیے MMS استعمال کریں"</string>
+<string name="mms_phone_number_pref_title">"آپ کا فون نمبر"</string>
+<string name="unknown_phone_number_pref_display_value">"نامعلوم"</string>
+<string name="send_sound_pref_title">"آؤٹ گوئنگ میسیج کی آوازيں"</string>
+<string name="dump_sms_pref_title">"SMS ڈمپ"</string>
+<string name="dump_sms_pref_summary">"موصول ہونے والے SMS کے ناپختہ ڈاٹا کو خارجی اسٹوریج فائل میں ڈمپ کریں۔"</string>
+<string name="dump_mms_pref_title">"MMS ڈمپ"</string>
+<string name="dump_mms_pref_summary">"موصول ہونے والے MMS کے ناپختہ ڈاٹا کو خارجی اسٹوریج فائل میں ڈمپ کریں۔"</string>
+<string name="wireless_alerts_title">"وائرلیس الرٹ"</string>
+<string name="message_context_menu_title">"پیغام اختیارات"</string>
+<string name="message_context_menu_copy_text">"متن نقل کریں"</string>
+<string name="message_context_menu_view_details">"تفصیلات دیکھیں"</string>
+<string name="message_context_menu_delete_message">"حذف کریں"</string>
+<string name="message_context_menu_forward_message">"فارورڈ کریں"</string>
+<string name="message_details_title">"پیغام تفصیلات"</string>
+<string name="message_type_label">"لکھیں:\u0020"</string>
+<string name="text_message">"متنی پیغام"</string>
+<string name="multimedia_message">"کثیرمیڈیا پیغام"</string>
+<string name="from_label">"کیطرف سے:\u0020"</string>
+<string name="to_address_label">"کو:\u0020"</string>
+<string name="sent_label">"بھیجا:\u0020"</string>
+<string name="received_label">"وصول کیا:\u0020"</string>
+<string name="subject_label">"موضوع:\u0020"</string>
+<string name="message_size_label">"سائز:\u0020"</string>
+<string name="priority_label">"ترجیح:\u0020"</string>
+<string name="sim_label">"SIM:\u0020"</string>
+<string name="priority_high">"اعلی"</string>
+<string name="priority_normal">"حسب معمول"</string>
+<string name="priority_low">"کم"</string>
+<string name="sim_slot_identifier">"SIM <xliff:g id="sim_slot_number">%s</xliff:g>"</string>
+<string name="hidden_sender_address">"پوشیدہ مرسل پتہ"</string>
+<string name="cant_send_message_while_loading_attachments">"اٹیچمینٹس لوڈ ہونے کے دوران میسیج نہی بھیجا جاسکتا۔"</string>
+<string name="fail_to_load_attachment">"اٹیچمینٹ لوڈ نہی ہوسکتی۔ دوبارہ کوشش کریں۔"</string>
+<string name="cant_send_message_without_active_subscription">"نیٹ ورک تیار نہی ہے۔ دوبارہ کوشش کریں۔"</string>
+<string name="chips_text_delete_button_content_description">"متن ڈلیٹ کریں"</string>
+<string name="numeric_text_keyboard_toggle_button_content_description">"متن اور ہندسوں کے اندراج کو آگے پیچھے کریں"</string>
+<string name="add_more_participants_button_content_description">"اور زیادہ شرکاء کو جوڑیں"</string>
+<string name="confrim_participants_button_content_description">"شرکاء کی تصدیق کریں"</string>
+<string name="start_new_conversation">"نئی بات چیت شروع کریں"</string>
+<string name="gallery_checkbox_content_description">"اس آئیٹم کا انتخاب کریں"</string>
+<string name="video_thumbnail_view_play_button_content_description">"ویڈیو چلائیں"</string>
+<string name="action_people_and_options">"لوگ اور اختیار"</string>
+<string name="action_debug_options">"ڈیبگ کریں"</string>
+<string name="people_and_options_activity_title">"لوگ اور اختیار"</string>
+<string name="general_settings_title">"عمومی"</string>
+<string name="participant_list_title">"اس بات چیت کے لوگ"</string>
+<string name="action_call">کال ملائیں</string>
+<string name="compose_message_view_hint_text">"پیغام بھیجيں"</string>
+<string name="compose_message_view_hint_text_multi_sim">"کی جانب سے<br/><small>پیغام بھیجیں <xliff:g id="sim_name">%s</xliff:g></small>"</string>
+<string name="menu_send_feedback">"رائے بھیجیں"</string>
+<string name="menu_view_in_store">"دیکھیں Google Play اسٹور میں"</string>
+<string name="menu_version_info">"ورژن کی معلومات"</string>
+<string name="subtitle_format_for_version_number">"ورژن %1$s"</string>
+<string name="menu_license">"اوپن سورس لائسنسز"</string>
+<string name="notifications_enabled_conversation_pref_title">"اطلاعات"</string>
+<string name="mms_attachment_limit_reached">"اٹیچمینٹ کی حد آگئی"</string>
+<string name="mms_attachment_load_failed">"اٹیچمینٹ لوڈنگ ناکام ہوگئی"</string>
+<string name="add_contact_confirmation_dialog_title">"روابط میں شامل کریں"</string>
+<string name="add_contact_confirmation">"رابطہ شامل کریں"</string>
+<string name="compose_message_view_subject_hint_text">"موضوع"</string>
+<string name="conversation_message_view_subject_text">"موضوع:\u0020"</string>
+<string name="loading_vcard">"رابطہ کارڈ لوڈ ہورہا ہے۔"</string>
+<string name="failed_loading_vcard">"رابطہ کارڈ لوڈ نہی ہوسکا"</string>
+<string name="vcard_tap_hint">"رابطہ کارڈ دیکھیں"</string>
+<string name="vcard_detail_activity_title">"رابطہ کارڈس"</string>
+<string name="vcard_detail_birthday_label">" سالگرہ"</string>
+<string name="vcard_detail_notes_label">"نوٹس"</string>
+<string name="forward_message_activity_title">"پیغام فارورڈ کریں"</string>
+<string name="reply_activity_title">"جواب دیں"</string>
+<string name="sms_disabled">"ایس ایم ایس غیر فعال "</string>
+<string name="requires_default_sms_app_to_send">"بھیجنے کے لیے، میسیجنگ کو بطور ڈیفالٹ SMS ایپ سیٹ کریں"</string>
+<string name="requires_default_sms_app">"میسیجنگ کو بطور ڈیفالٹ SMS ایپ سیٹ کریں"</string>
+<string name="requires_default_sms_change_button">تبدیل کریں</string>
+<string name="recommend_set_default_sms_app">"پیغامات وصول کرنے کے لیے، میسیجنگ کو بطور ڈیفالٹ SMS ایپ سیٹ کریں"</string>
+<string name="no_preferred_sim_selected">"SMS پیغامات بھیجنے کے لیے کوئی ترجیحی SIM منتخب نہی ہے" </string>
+<string name="requires_sms_permissions_message">"ڈیوائس کے مالک نے اس ایپ کی اجازت نہی دی ہے۔"</string>
+<string name="requires_sms_permissions_close_button">"ٹھیک ہے"</string>
+<string name="too_many_participants">"ایک ہی بات چیت میں بہت زیادہ شرکاء"</string>
+<string name="camera_media_failure">" کیمرہ کی تصویر لوڈ نہیں کرسکتے"</string>
+<string name="conversation_list_item_view_sent_from_you_prefix">"آپ:\u0020"</string>
+<string name="conversation_list_item_view_sent_from_other_prefix">"<xliff:g id="firstNameOfSender">%s</xliff:g>:\u0020"</string>
+<string name="conversation_list_item_view_draft_message">"ڈرافٹ"</string>
+<string name="conversation_list_empty_text">"جب آپ کوئی نئی بات چیت شروع کرینگے تو وہ آپ کو یہاں لسٹ میں دکھائی دیگی"</string>
+<string name="archived_conversation_list_empty_text">"آرکائیو کی ہوئی بات چیت یہاں دکھائی دینگی"</string>
+<string name="conversation_list_first_sync_text">"کنورزیشن لوڈ ہورہی ہے۔۔۔"</string>
+<string name="conversation_list_snippet_picture">"تصویر"</string>
+<string name="conversation_list_snippet_audio_clip">"آڈیو کلپ"</string>
+<string name="conversation_list_snippet_video">"ویڈیو"</string>
+<string name="conversation_list_snippet_vcard">"رابطہ کارڈ"</string>
+<string name="mms_text">"MMS"</string>
+<string name="snack_bar_undo">"کالعدم کریں"</string>
+<string name="snack_bar_retry">"دوبارہ کوشش کریں"</string>
+<string name="contact_list_empty_text">"نئی بات چیت شروع کرنے کے لیے کسی رابطہ کا نام یا فون نمبر داخل کریں"</string>
+<string name="action_block">"مسدود کریں"</string>
+<string name="block_contact_title">"<xliff:g id="destination">%s</xliff:g>کو بلاک کریں"</string>
+<string name="unblock_contact_title">"<xliff:g id="destination">%s</xliff:g>کو انبلاک کریں"</string>
+<string name="block_confirmation_title">"کیا<xliff:g id="destination">%s</xliff:g>کو بلاک کرنا ہے؟"</string>
+<string name="block_confirmation_message">"آپ کو اس نمبر سے پیغامات آتے رہینگے لیکن اب آپ کو انکے  بارے میں مزید نوٹیفیکیشنس نہی ملینگے۔ اس بات چیت کو آرکائیو کردیا جائیگا۔"</string>
+<string name="blocked_contacts_title">"بلاک کیے ہوئے رابطے"</string>
+<string name="tap_to_unblock_message">غیرمسدود کریں</string>
+<string name="view_blocked_contacts_title">"بلاک کیے ہوئے رابطے"</string>
+<string name="pick_image_from_document_library_content_description">"ڈاکیومینٹ لائبریری سے تصویر کا انتخاب کریں"</string>
+<string name="sending_message">"پیغام بھیجا جارہا ہے"</string>
+<string name="send_message_success">" پیغام بھیج دیا گیا ہے"</string>
+<string name="send_message_failure_no_data">"سیلولر ڈاٹا بند ہے۔ اپنی سیٹنگس کی جانچ کریں۔"</string>
+<string name="send_message_failure_airplane_mode">"ائرپلین موڈ میں پیغام نہی بھیجا جاسکتا"</string>
+<string name="assistant_card_not_allow_for_mms">"معاون کارڈ کے لیے میسیجس نہی بھیج سکتے"</string>
+<string name="send_message_failure">"پیغام نہی بھیجا جاسکا"</string>
+<string name="download_message_success">"پیغام ڈاؤن لوڈ ہوگیا ہے"</string>
+<string name="download_message_failure_no_data">"سیلولر ڈاٹا بند ہے۔ اپنی سیٹنگس کی جانچ کریں۔"</string>
+<string name="download_message_failure_airplane_mode">"ائرپلین موڈ میں پیغام ڈاؤن لوڈ نہی کیا جاسکتا"</string>
+<string name="download_message_failure">"پیغام ڈاؤن لوڈ نہی کیا جاسکا"</string>
+<string name="content_description_for_number_zero">"صفر"</string>
+<string name="content_description_for_number_one">"ایک"</string>
+<string name="content_description_for_number_two">"دو"</string>
+<string name="content_description_for_number_three">"تین"</string>
+<string name="content_description_for_number_four">"چار"</string>
+<string name="content_description_for_number_five">"پانچ"</string>
+<string name="content_description_for_number_six">"چھ"</string>
+<string name="content_description_for_number_seven">"سات"</string>
+<string name="content_description_for_number_eight">"آٹھ"</string>
+<string name="content_description_for_number_nine">"نو"</string>
+<string name="carrier_send_error">"غلطی<xliff:g id="carrierName">%1$s</xliff:g>کے ساتھ پیغام نہی بھیجا جاسکتا, <xliff:g id="errorCode">%2$d</xliff:g>"</string>
+<string name="carrier_send_error_unknown_carrier">"نامعلوم کیریر، غلطی کے ساتھ پیغام نہی بھیجا جاسکتا <xliff:g id="errorCode">%1$d</xliff:g>"</string>
+<string name="message_fwd">"<xliff:g id="subject">%s</xliff:g>فارورڈ کریں:"</string>
+<string name="mms_failure_outgoing_service">"پیغام نہی بھیجا گیا: یہ سروس اس نیٹورک پر ایکٹو نہی ہے"</string>
+<string name="mms_failure_outgoing_address">"پیغام نہی بھیجا گیا:ڈیسٹینیشن ایڈریس غلط ہے"</string>
+<string name="mms_failure_outgoing_corrupt">"پیغام نہی بھیجا گیا: غلط پیغام"</string>
+<string name="mms_failure_outgoing_content">"پیغام نہی بھیجا گیا: مواد سپورٹ نہی کیا جاتا"</string>
+<string name="mms_failure_outgoing_unsupported">"پیغام نہی بھیجا گیا: پیغام سپورٹ نہی کیا گیا"</string>
+<string name="mms_failure_outgoing_too_large">"پیغام نہی بھیجا گیا: بہت بڑا ہے"</string>
+<string name="in_conversation_notify_new_message_text">"نیا پیغام"</string>
+<string name="in_conversation_notify_new_message_action">"منظر"</string>
+<string name="message_image_content_description">"تصویر"</string>
+<string name="activity_not_found_message">"ایک مناسب ایپلیکیشن نہی مل سکی"</string>
+<string name="chips_delete_content_description">"وصول کنندہ کو ہٹائيں"</string>
+<string name="share_new_message">"نیا پیغام"</string>
+<string name="share_cancel">"منسوخ کریں"</string>
+<string name="apn_edit">"رسائی نقطہ میں ترمیم کریں"</string>
+<string name="apn_not_set">"سیٹ نہیں ہے"</string>
+<string name="apn_name">"نام"</string>
+<string name="apn_mms_proxy">"MMS پراکسی"</string>
+<string name="apn_mms_port">"MMS پورٹ"</string>
+<string name="apn_type">"APN کی قسم"</string>
+<string name="menu_delete_apn">"حذف کریں APN"</string>
+<string name="menu_new_apn">"نیا APN"</string>
+<string name="menu_save_apn">"محفوظ کریں"</string>
+<string name="menu_discard_apn_change">"ضائع کر دیا جائے"</string>
+<string name="error_apn_name_empty">"نام کا خانہ خالی نہی رکھا جاسکتا"</string>
+<string name="error_apn_empty">"APN خالی نہیں ہو سکتا."</string>
+<string name="error_mcc_not3">"MMC کی خلاء 3 عددی ہونا لازمی ہے."</string>
+<string name="error_mnc_not23">"MNC کی خلاء 2 یا 3 عددی ہونا لازمی ہے."</string>
+<string name="restore_default_apn">"طے شدہ APN کی ترتیبات کی بحالی."</string>
+<string name="menu_restore_default_apn">"ڈیفالٹ پر دوبارہ ترتیب دیں"</string>
+<string name="restore_default_apn_completed">"طے شدہ APN کی ترتیبات کی بحالی مکمّل."</string>
+<string name="untitled_apn">"بلاعنوان"</string>
+<string name="sms_apns_title">"رسائی نقاط کے نام"</string>
+<string name="apn_settings">"APN"</string>
+<string name="menu_new">"نیا APN"</string>
+<string name="apn_settings_not_available">"اس صارف کے لئے رسائی پوائنٹ نام سیٹنگ دستیاب نہیں ہے"</string>
+<string name="copy_to_clipboard_dialog_title">"کیا کلپ بورڈ میں کاپی کرنا ہے؟"</string>
+<string name="copy_to_clipboard">"کاپی کریں"</string>
+<string name="incoming_sim_name_text">" <xliff:g id="sim_name">%s</xliff:g> کو"</string>
+<string name="general_settings">"عمومی"</string>
+<string name="advanced_settings">"جدید ترین"</string>
+<string name="general_settings_activity_title">"عام ترتیبات"</string>
+<string name="advanced_settings_activity_title">"اعلی درجے کی ترتیبات"</string>
+<string name="sim_specific_settings">"\"<xliff:g id="sim_name">%s</xliff:g>\" SIM"</string>
+<string name="disable_group_mms">"سبھی وصل کنندگان کو SMS پیغام بھیجیں۔ کوئی بھی جواب صرف آپ کو موصول ہونگے۔"</string>
+<string name="enable_group_mms">"سبھی وصل کنندگان کو ایک MMS بھیجیں" </string>
+<string name="sim_settings_unknown_number">"انجان نمبر"</string>
+<string name="secondary_user_new_message_title">"نیا پیغام"</string>
+<string name="secondary_user_new_message_ticker">"نیا پیغام۔"</string>
+<string name="sim_selector_button_content_description">"SIM سلیکٹر"</string>
+<string name="sim_selector_button_content_description_with_selection">"<xliff:g id="sim">%1$s</xliff:g>نے SIM سلیکٹر منتخب کرلیا ہے"</string>
+<string name="send_button_long_click_description_no_sim_selector">"سبجیکٹ کو ایڈٹ کریں"</string>
+<string name="send_button_long_click_description_with_sim_selector">"SIM منتخب کریں یا سبجیکٹ ایڈٹ کریں"</string>
+<string name="audio_record_view_content_description">"آڈیو ریکارڈ کرنے کے لیے ٹچ کرنے کے بعد دباکر رکھیں"</string>
+<string name="widget_new_conversation_content_description">"نئی بات چیت شروع کریں"</string>
+<string name="widget_conversation_list_name">"میسیجنگ لسٹ"</string>
+<string name="widget_new_message_content_description">"نیا پیغام"</string>
+<string name="widget_conversation_list_content_description">"بات چیت کی فہرست"</string>
+<string name="loading_conversations">"بات چیت لوڈ ہورہی ہیں"</string>
+<string name="loading_messages">"پیغامات لوڈ ہورہے ہیں"</string>
+<string name="view_more_conversations">"مزید گفتگو دیکھیں"</string>
+<string name="view_more_messages">"مزید پیغامات دیکھیں"</string>
+<string name="conversation_deleted">"بات چیت ڈلیٹ ہوگئی ہے"</string>
+<string name="tap_to_configure">"بات چیت ڈلیٹ ہوگئی ہے۔ دوسری میسیجنگ بات چیت دکھانے کے لیے ٹچ کریں"</string>
+<string name="update_destination_blocked">"مسدود ہے"</string>
+<string name="update_destination_unblocked">"انبلاک ہوگیا ہے"</string>
+<string name="db_full">"اسٹوریج کی جگہ کم ہے۔ کچھ ڈاٹا ضایع ہوسکتا ہے۔"</string>
+<string name="attachment_chooser_activity_title">"اٹیچمینٹس کا انتخاب کریں"</string>
+<string name="action_confirm_selection">"انتخاب کی تصدیق کریں"</string>
+<string name="attachment_chooser_selection">"<xliff:g id="count">%d</xliff:g> منتخب ہوگیا ہے"</string>
+<string name="attachment_limit_reached_dialog_message_when_composing">"براہ کرم کوئی ایک یا زائد اٹیچمینٹ ہٹانے کے بعد پھر سے کوشش کریں۔"</string>
+<string name="attachment_limit_reached_dialog_message_when_sending">"آپ اپنا میسیج بھیجنے کی کوشش کرسکتے ہیں، لیکن آپ جب تککوئی ایک یا زائد اٹیچمینٹ نہی ہٹاتے ہیں تب تک یہ پہنچیگا نہی۔"</string>
+<string name="video_attachment_limit_exceeded_when_sending">"ایک میسیج میں آپ صرف ایک ہی ویڈیو بھیج سکتے ہیں۔براہ کرم اضافی ویڈیو ہٹانے کے بعد پھر سے کوشش کریں۔"</string>
+<string name="attachment_load_failed_dialog_message">"میسیجنگ اٹیچمینٹ لوڈ کرنے میں ناکام ہوگئی۔"</string>
+<string name="attachment_limit_reached_send_anyway">" کسی طرح بھیجیں"</string>
+<string name="conversation_creation_failure">"بات چیت شروع نہی ہوسکی"</string>
+<string name="selected_sim_content_message">"<xliff:g id="selected_sim">%s</xliff:g> منتخب"</string>
+<string name="empty_msg">"خالی پیغام"</string>
+<string name="send_empty_msg">"آپ ایک خالی پیغام بھیجنے کی کوشش کر رہے ہیں؟"</string>
+<string name="yes">"ہاں"</string>
+<string name="no">"نہیں"</string>
+<string name="donotset_time_before_now">"اب سے پہلے وقت سیٹ نہی ہوسکا"</string>
+<string name="please_reset_time">"وقت گزر چکا ہے، براہ کرم الارم کو پھر سے سیٹ کریں"</string>
+<string name="please_set_date">"براہ کرم تاریخ سیٹ کریں"</string>
+<string name="please_set_time">"براہ کرم وقت سیٹ کریں"</string>
+<string name="audio_format_unknow">"یہ آڈیو فارمیٹ سپورٹ نہی کیا جاتا ہے"</string>
+</resources>

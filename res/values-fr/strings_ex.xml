@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="message_outgoing_successful">"Envoyé avec succès"</string>
+<string name="delivery_toast_body">"Message reçu par %s"</string>
+<string name="delivery_toast_body_expired">"Message est expiré %s"</string>
+<string name="delivery_toast_body_fail_rejected">"Message rejeté par %s"</string>
+<string name="delivery_toast_body_fail">"Message non reçu par %s"</string>
+<string name="read_report_toast_body">"Message lu par %s"</string>
+<string name="read_report_toast_body_fail">"Message non lu par %s"</string>
+<string name="pref_signature_enabl_summary">"Ajouter automatiquement la signature à chaque message que vous envoyez"</string>
+<string name="smil_subject_hint">"Aucun sujet MMS, vous pouvez modifier"</string>
+<string name="sms_save_to_sim_pref_summary">"Quand il s\'agit d\'un nouveau sms, l\'enregistrer sur le sim ou non"</string>
+<string name="smil_update_text">"Mise à jour d\'un attachement de texte a réussi"</string>
+<string name="contact_invalid">"Contact non valide, veuillez choisir le contact valide à nouveau."</string>
+<string name="unread_message_count">"Info non lue"</string>
+<string name="mms_convert_to_smil_title">"Convertir en diaporamas"</string>
+<string name="mms_convert_to_smil_message">"Les Mms seront convertis en diaporamas, ce qui pourrait faire tomber certaines pièces jointes qui ne sont pas supportées en mode diaporama, êtes-vous sûr?"</string>
+<string name="smil_max_part_count">"Peut seulement ajouter %s  pièces jointes dans un diaporama"</string>
+<string name="smil_add_error_same_content_type">"Impossible d\'ajouter deux pièces jointes du même type de support dans une diaporama."</string>
+<string name="smil_add_error_video_conflict">"Vidéo ne peut pas être placée dans un diaporama contenant de l\'audio ou de l\'image."</string>
+<string name="smil_replace_error_same_content_type">"Impossible de remplacer car deux pièces jointes du même type de support ne peuvent pas être placées dans un diaporama."</string>
+<string name="smil_replace_error_video_conflict">"Impossible de remplacer avec vidéo, veuillez supprimer vos pièces jointes et réessayez."</string>
+<string name="smil_edit_hint">"Diaporamas, cliquez pour modifier."</string>
+<string name="smil_unsupported_content_type">"Type de contenu non supporté."</string>
+<string name="no_common_phrase">"Pas de phrases couramment utilisées"</string>
+<string name="select_sim">"Sélectionner Sim"</string>
+<string name="sim_space_not_enough">"Espace pour sms ne suffit pas sur SIM"</string>
+<string name="move_message_to_phone_memory">"Copie du message dans la mémoire du portable a réussi"</string>
+    <string name="signature_title">"Signature"</string>
+     <string name="pref_title_sms_retry_times">Activer la récupération des SMS</string>
+     <string name="conversation_deleteAll_failed">"Veuillez réessayer plus tard. "</string>
+     <string name="warning">"Attention"</string>
+     <string name="attachment_exceeded">"L\'attachement que vous avez sélectionné est dépassé! "</string>
+     <string name="attachment_size">"La taille de la pièce jointe est:"</string>
+     <string name="mms_size">"La taille du MMS est:"</string>
+     <string name="permission_read_messages_attachment_label">"Lire les messages des pièces jointes"</string>
+     <string name="permission_read_messages_attachment_desc">"Permet à l\'application de lire vos pièces jointes"</string>
+     <string name="preference_name">"Expression commune"</string>
+     <string name="select">"Séléctionné"</string>
+     <string name="item_cancel">Annuler</string>
+     <string name="item_delete">Supprimer</string>
+     <string name="save_as_teltype">"Pour Téléphone"</string>
+     <string name="save_as_mmstype">"Pour Sms"</string>
+     <string name="type_to_pharser">"Taper une expression commune"</string>
+     <string name="add">"Ajouter"</string>
+     <string name="edit">Éditer</string>
+     <string name="delete">Supprimer</string>
+     <string name="finish">"Terminer"</string>
+     <string name="cancel">Annuler</string>
+     <string name="add_pharser">"Ajouter une expression commune"</string>
+     <string name="edit_pharser">"Editer expression commune"</string>
+     <string name="exit_pharser_dialog_title">"Afficher"</string>
+     <string name="exit_pharser_dialog_content">"Que ce soit pour enregistrer des phrases fréquemment utilisées?"</string>
+     <string name="pharser_can_modify">"Phrase personnalisée"</string>
+     <string name="pharser_cannot_modify">"Phrase fixe"</string>
+     <string name="empty_pharser_not_save">"Phrase Null ne peut pas être sauvegardé ! "</string>
+     <string name="select_item">"Vous avez choisi"</string>
+     <string name="select_commmon_phrase">Sélectionner une phrase commune</string>
+     <string name="common_phrase_empty">"Pas d\'expression commune"</string>
+     <string name="action_add_phrase">"Insérer une expression commune"</string>
+     <string name="pref_other_settings_title">"Autre"</string>
+     <string name="action_wireless_alerts">"Alertes sans fil"</string>
+     <string name="positive">OK</string>
+     <string name="wap_push_message_dialog_title">"Message Push Wap"</string>
+     <string name="open_website">"Ouvrir site internet"</string>
+     <string name="activity_not_found">"Aucune application adaptée trouvée"</string>
+     <string-array name="fixed_mms_phrase">
+        <item>Veuillez m\'appeler sur mon téléphone de bureau, merci.</item>
+        <item>Veuillez me contacter, merci.</item>
+        <item>Veuillez m\'indiquer où vous vous trouvez.</item>
+        <item>Veuillez m\'appeler plus tard sur mon téléphone portable, merci.</item>
+        <item>J\'étais sorti, je rentre et vous appelle.</item>
+        <item>"Je suis en train de conduire et je vous rappelerais plus tard."</item>
+        <item>"Je suis sur la route, veuillez me rejoindre immédiatement."</item>
+        <item>Embouteillages, plus tard, désolé.</item>
+        <item>Te rappelle plus tard.</item>
+        <item>Je suis en réunion, je répondrai plus tard.</item>
+    </string-array>
+     <string-array name="fixed_both_phrase">
+        <item>"Appelez-moi s\'il vous plaît  ou envoyez-moi des sms plus tard."</item>
+    </string-array>
+     <string name="share_video_exceeded">"La vidéo sélectionnée a dépassé la limite de taille maxi. !"</string>
+     <string name="share_audio_exceeded">"L\'audio sélectionné a dépassé la limite de taille maxi. !"</string>
+     <string name="share_image_exceeded">"L\'image sélectionnée a dépassé la limite de taille maxi. !"</string>
+     <string name="share_muimgae_exceeded">"Ne pas partager l\'image dépassée! "</string>
+     <string name="share_noimgae_exceeded">"Contient des fichiers non-images, ne peuvent pas être partagés! "</string>
+     <string name="exceed_text_length_limitation">"Il dépasse la limitation de la longueur du texte. "</string>
+     <string name="drm_no_application_open">"Impossible d\'ouvrir le fichier"</string>
+     <string name="ok_drm_rights_consume">OK</string>
+     <string name="cancel_drm_rights_consume">Annuler</string>
+     <string name="orgdrm_no_share">"partage de messagerie non pris en charge"</string>
+     <string name="drm_can_not_processed">"Drm fichier ne peut pas être traitée"</string>
+     <string name="protect_information">"Protéger l\'information"</string>
+     <string name="drm_consume_title">"Consommer les droits Drm"</string>
+     <string name="drm_consume_hint">"Votre opération consommera des droits Drm"</string>
+     <string name="drm_file_path">"Chemin:%1$s"</string>
+     <string name="drm_file_name">"Nom du fichier:%1$s"</string>
+     <string name="drm_rights_validity">"Validité des permissions: valide"</string>
+     <string name="drm_rights_invalidity">"Validité des permissions: invalide"</string>
+     <string name="drm_rights_status_transfer">"Statut des permissions:autorisé à être transféré"</string>
+     <string name="drm_rights_status_untransfer">"Statut des permissions: non autorisé à être transféré"</string>
+     <string name="drm_start_time">"Temps de début:%1$s"</string>
+     <string name="drm_end_time">"Tems de fin:%1$s"</string>
+     <string name="drm_expiration_time">"Temps d\'expiration:%1$s"</string>
+     <string name="drm_remain_times">"Temps restant:%1$s"</string>
+     <string name="drm_no_info">"Pas d\'information"</string>
+     <string name="drm_unlimited_rights">"Illimité"</string>
+     <string name="drm_rights_unknown">Inconnu</string>
+     <string name="drm_inactive_rights">"Droits inactifs"</string>
+     <string name="drm_shared_not_drmdownload">"Déplacez vers le répertoire DrmDownload puis veuillez partagez "</string>
+     <string name="share_nofile_exceeded">"Dépasse la limite MMS! "</string>
+     <string name="no_few_participants">"Pas de participants"</string>
+     <string name="mms_validity_pref_title">"Paramètre de validité MMS"</string>
+     <string name="sms_validity_pref_title">"Paramètre de validité de SMS"</string>
+     <string name="attach_vcalendar">"calendrier"</string>
+     <string name="confirm_import_vcalendar">Importez ce Vcalendar?</string>
+     <string name="confirm_save_otherfiles">Enregistrer cette pièce jointe?</string>
+     <string name="confirm_import">"Oui"</string>
+     <string name="cancel_import">"Non"</string>
+     <string name="attach_other_file">"Fichier inconnu"</string>
+     <string name="copy_to_sdcard_success">"Pièce jointe sauvegardée sur <xliff:g  id="copy_to_sdcard_success_id">%s</xliff:g>"</string>
+     <string name="copy_to_sdcard_fail">"Impossible enreg. pièce jointe."</string>
+     <string name="attach_sound">"Audio"</string>
+     <string name="select_vcard_button">"Cliquez sur le bouton pour entrer dans le contact"</string>
+     <string name="select_video_button">"Cliquez sur le bouton pour entrer dans la vidéo"</string>
+     <string name="select_audio_button">"Cliquez sur le bouton pour entrer dans l\'audio"</string>
+     <string name="select_vcalendar_button">"Cliquez sur le bouton pour entrer dans le calendrier"</string>
+     <string name="select_slideshow_button">"Cliquez sur le bouton pour entrer dans le diaporama"</string>
+     <string name="slideshow_detail_activity_title">"diaporama"</string>
+     <string name="no_mms_plugin">"N\'a pas vue du dossier"</string>
+     <string name="attachment_details">"Détails de la pièce jointe"</string>
+     <string name="context_menu_copy_to_sim_memory">Copier le message vers SIM</string>
+     <string name="copy_message_text">"Copier le texte"</string>
+     <string name="min_zoom">"A atteint le minimum"</string>
+     <string name="max_zoom">"A atteint le maximum"</string>
+     <string name="message_details_text">"Détails de messages"</string>
+     <string name="folder_reply">Répondre</string>
+     <string name="new_message">"Nouveau message"</string>
+     <string name="folder_forward">"Transférer"</string>
+     <string name="delete_message">Supprimer</string>
+     <string name="menu_resend">"Renvoyer"</string>
+     <string name="save_all_attachments">"Enregistrer toutes les pièces jointes"</string>
+     <string name="host_app_name">Message</string>
+     <string name="need_messaging_is_default_app">"Vous devez régler le \"%1$s\" comme app sms par défaut"</string>
+     <string name="message_outgoing_failure">"Le message n\'a pas été envoyé."</string>
+     <string name="share_unsupported_type">"Type de contenu non pris en chargé, ne peut pas être cisaillé! "</string>
+     <string name="mms_send_reports_pref_title">"Rapports d\'envoi de Mms"</string>
+     <string name="mms_send_reports_pref_summary">"Demander un rapport d\'envoi pour chaque MMS que vous avez envoyé"</string>
+     <string name="mms_delivery_reports_pref_title">"rapports d\'accusé de réception MMS"</string>
+     <string name="mms_delivery_reports_pref_summary">"Demander un accusé de réception pour chaque MMS que vous envoyez"</string>
+     <string name="mms_read_reports_pref_title">"rapport de confirmation de lecture des MMS"</string>
+     <string name="mms_read_reports_pref_summary">"Demander un rapport de confirmation de lecture pour chaque MMS que vous envoyez"</string>
+     <string name="enable_return_mms_delivery_reports_pref_title">"Activer l\'accusé de reception de  MMS"</string>
+     <string name="enable_return_mms_delivery_reports_pref_summary">"Activer l\'accusé de reception pour chaque MMS que vous envoyez"</string>
+     <string name="enable_return_mms_read_reports_pref_title">"Activer le rapport de confirmation de lecture MMS"</string>
+     <string name="enable_return_mms_read_reports_pref_summary">"Activer demande de confirmation de lecture pour chaque MMS que vous envoyez"</string>
+     <string name="mimetype_null">"le type MIME est incorrect. Impossible de stocker la pièce jointe"</string>
+     <string name="pref_title_manage_simx_smsc">"SIM<xliff:g id="sim_id">%1$s</xliff:g> entreprise déverrouiller PIN"</string>
+     <string name="pref_title_manage_sim_smsc">"Centre de services SMS"</string>
+     <string name="smsc_set_fails">Échec de la définition Smsc</string>
+     <string name="smsc_set_success">"Réglage effectué"</string>
+     <string name="smsc_update_success">"Mise à jour effectuée avec succès"</string>
+     <string name="smsc_cannot_be_null">"SMSC ne peut pas être nul!"</string>
+     <string name="smsc_should_be_number">"SMSC doit être un nombre"</string>
+     <string name="smsc_list">Liste de centres SMS</string>
+     <string name="smsc_list_empty">Aucun numéro de centre SMS</string>
+     <string name="smsc_list_loading">Chargement</string>
+     <string name="smsc_list_empty_toast">"Message non envoyé, aucun numéro du centre SMS"</string>
+     <string name="smsc_list_empty_notify_des">"Veuillez ajouter un nouveau numéro de centre de SMS"</string>
+     <string name="smsc_list_empty_notify_title">"Aucun numéro de centre SMS"</string>
+     <string name="shared_image_number_exceed">"Maximum de nombre d\'images partagé est %d, les excédents sont supprimés. "</string>
+     <string name="drm_unsupported_toast">"Fichier DRM non disponible. Veuillez sélectionner un autre fichier. "</string>
+     <string name="err_sent_no_sim">"Message non envoyé. Pas de carte SIM"</string>
+     <string name="dlg_save_attachment">"save file&#8230;"</string>
+     <string name="is_redirect_to">"rediriger vers %1$s ?"</string>
+     <string name="browser">"Navigateur"</string>
+     <string name="email">e-mail</string>
+     <string name="telephone">"Téléphone"</string>
+     <string name="map">"Carte"</string>
+     <string name="message_signature_setting">Paramètres de signature</string>
+     <string name="pref_signature_enable_title">Signature optionnelle</string>
+     <string name="pref_signature_input_title">Éditer signature</string>
+     <string name="pref_signature_input_summary">Entrez ici pour définir votre signature</string>
+     <plurals name="attachments_saved_dir">
+<item quantity="one">"<xliff:g id="quantity">%d</xliff:g> pièce jointe sauvegardée vers \"<xliff:g id="dir">%s</xliff:g> \""</item>
+<item quantity="other">"<xliff:g id="quantity">%d</xliff:g> pièces jointes sauvegardées vers \"<xliff:g id="dir">%s</xliff:g>\""</item>
+    </plurals>
+     <string name="no_permissions">"Pas de permissions"</string>
+     <string name="no_call_permissions">"Pas de permissions d\'APPEL"</string>
+     <string name="folder_loading">"Chargement…"</string>
+     <string name="sms_merge_forward_empty">Aucun message sms à fusionner et expédier.</string>
+     <string name="sms_forward">"Transférer"</string>
+     <string name="sms_merge_dialog_title">"Afficher"</string>
+     <string name="sms_merge_dialog_content1">"Vous pouvez seulement fusionner des messages SMS %d "</string>
+     <string name="sms_merge_dialog_content2">"Et %d messages SMS. Veuillez vérifier."</string>
+     <string name="messagelist_sender_self">"Moi"</string>
+     <string name="sms_merge_forward">"Fusionner et transférer"</string>
+     <string name="muti_select_all">Tout sélectionner</string>
+     <string name="menu_select_none">Annuler tout</string>
+     <string name="sms_merge_dialog_content_exceed">"Vous fusionnez le contenu des messages transmis sur la limite %d, veuillez vérifier à nouveau! "</string>
+     <string name="no_sms_permissions">"Aucune autorisation de SMS, ne peut pas lire des fichiers audio. "</string>
+     <string name="smil_out_of_size">"Mémoire insuffisante"</string>
+     <string-array name="smil_choice_items">
+        <item>"Smil Scan"</item>
+        <item>"Lire le diaporama"</item>
+    </string-array>
+     <string name="video_content_type">"Vidéo :"</string>
+     <string name="iamge_content_type">"Image :"</string>
+     <string name="audio_content_type">"Audio :"</string>
+     <string name="subject_edit">"Modifier l\'objet"</string>
+     <string name="text_edit">"Éditeur de texte"</string>
+     <string name="repalce_slide">"Remplacer Slide"</string>
+     <string name="remove_slide">"Supprimer la diapositive"</string>
+     <string name="insert_befor_slide">"Insérer avant Slide"</string>
+     <string name="insert_after_slide">"Insérer après Slide"</string>
+     <string name="add_attachment">"Ajouter une pièce jointe"</string>
+     <string name="remove_attachment">"Supprimer la pièce jointe"</string>
+     <string name="repalce_attachment">"Remplacer la pièce jointe"</string>
+     <string name="hint_for_input">"Merci de modifier"</string>
+     <string name="hint_for_empty">"Merci de modifier, la piècre jointe de la position actuelle est une pièce jointe vide."</string>
+     <string name="goto_smil">"diaporama"</string>
+     <string name="smil_subject">"Objet:"</string>
+     <string name="action_sim_sms">"Messages sur SIM"</string>
+     <string name="sms_save_to_sim_pref_title">"Sauvegarder SMS sur la SIM"</string>
+     <string name="sms_sim_full_title">Sim pleine</string>
+     <string name="sms_sim_full_notification_ticker">"Stockage de SMS insuffisant. Supprimez certains messages."</string>
+     <string name="sms_sim_full_text">"Sim pleine, le sms sera sauvegardé dans la base de données de messagerie. Et veuillez supprimer les sms de votre sim si vous voulez enregistrer vos sms sur sim à nouveau."</string>
+     <plurals name="search_results_title">
+<item quantity="one">"<xliff:g id="NUMBER">%1$s</xliff:g>  element correspond aux résultats de la recherche “<xliff:g id="SEARCH">%2$s</xliff:g>” "</item>
+<item quantity="other">"<xliff:g id="NUMBER">%1$s</xliff:g> elements correspondent aux resultants de la recherche “<xliff:g id="SEARCH">%2$s</xliff:g>”"</item>
+    </plurals>
+     <string name="menu_search_text">"rechercher"</string>
+     <string name="search_label">"Messagerie"</string>
+     <string name="search_hint">"Rechercher dans les messages"</string>
+     <string name="search_max_length">"Texte de recherche trop long, limité à 512."</string>
+     <string name="search_setting_description">"Texte de vos messages"</string>
+     <string name="search">"Messagerie"</string>
+     <string name="search_empty">"Aucune correspondance."</string>
+     <string name="search_history">"<xliff:g id="count">%1$s</xliff:g> résultats pour \"<xliff:g id="search">%2$s</xliff:g>\""</string>
+     <string name="can_not_add_same_attachment">"Impossible d\'ajouter la même pièce jointe"</string>
+     <string name="can_not_add_same_picture">"Ne peut pas être répétée pour ajouter la même image"</string>
+     <string name="smil_add_text">"Ajouter une pièce jointe de texte"</string>
+     <string name="smil_empty_content">"Content vide, Arrêter l’envoi!"</string>
+     <string name="exceed_participant_limit">"Le nombre de participants a dépassé la limitation (<xliff:g>%1$s</xliff:g>), veuillez en supprimer <xliff:g>%2$s</xliff:g> "</string>
+     <string name="folder_view_menu_item_title">"Vue du dossier"</string>
+     <string name="capacity_sim_message_title">"Capacité carte SIM"</string>
+     <string name="capacity_sim_message_summary">"Capacité actuelle/maxi. :%s"</string>
+     <string name="audio_record_retry">"Veuillez fermer l\'enregistrement de fond et essayer à nouveau."</string>
+     <string name="message_size_counting">"Compte"</string>
+     <string name="pref_encode_type_setting_title">"Réglage du type d\'encodage"</string>
+     <string name="pref_encode_type_title">Type de codage</string>
+     <string name="fdn_check_failure">"Vous ne pouvez envoyer des messages à vos numéros fixes."</string>
+     <string name="data_call_fdn_check_failure">"Le MMS ne peut pas être envoyé vu que FDN est activé. Veuillez ajouter *99# dans la liste FDN, puis réessayez."</string>
+     <string name="smsc_fdn_check_failure">"Le SMS ne peut être envoyé vu que FDN est activé et que votre numéro du centre messagerie n’est pas dans la liste FDN."</string>
+     <string name="smil_wait_comparing_att_size">"En chargement, veuillez patienter un instant!"</string>
+     <string name="smil_max_slide_count">"Ne peut ajouter que diapositives %s diapositives"</string>
+     <string name="sms_wap_pref_title">"Activer message SMS WAP"</string>
+     <string name="sms_wap_pref_summary">"Activer pour recevoir un message SMS WAP"</string>
+     <string name="smil_Player_title">"SMILPlayer"</string>
+     <string name="smil_caption_description">"SMIL"</string>
+     <string name="smil_caption_edit_hint">"(Cliquez pour modifier)"</string>
+     <string name="show_save_attachment_info">"Le sauvegarder?"</string>
+     <string name="attachment_save_success">"Sauvegardé avec succes"</string>
+     <string name="confirm_convert">OK</string>
+     <string name="cancel_convert">Annuler</string>
+     <string name="pref_internal_memory_usage_title">"MMS/Disponible/Total"</string>
+     <string name="pref_internal_memory_usage_progress_summary">"Calcul de l\'espace mémoire…"</string>
+     <string name="discard_message_reason">"Votre message va être supprimé, car aucun destinataire valide n\'a été spécifié."</string>
+     <string name="action_copy_to_sim">Copier vers SIM</string>
+     <string name="can_not_copy_the_message">"Impossible de copier le message"</string>
+     <string name="failed_to_add_media">"Vous ne pouvez pas ajouter l\'élément <xliff:g id="NAME">%1$s</xliff:g> à votre message."</string>
+     <string name="contentType_audio">"Audio"</string>
+     <string name="contentType_video">"Vidéo"</string>
+     <string name="contentType_image">Image</string>
+     <string name="contentType_other">"Impossible de partager un type de fichier non pris en charge"</string>
+     <string name="no_record_audio_permission">"Pas de permission d\'enregistrement audio !"</string>
+     <string name="close_float_video">"Fermer les fenêtres flottantes vidéo lors de l\'ouverture de l\'appareil photo."</string>
+     <string name="unable_get_data">"Impossible d\'obtenir des données"</string>
+     <string name="unexpected_recording_error">"Veuillez fermer l\'app d\'enregistrement et réessayer"</string>
+     <string name="add_contacts_dialog_title">"Ajouter des contacts"</string>
+     <string name="add_contact_as_text">"Message texte"</string>
+     <string name="file_not_found_exception">"Le fichier est introuvable !"</string>
+     <string name="pref_title_mms_size_limit">"Limite de taille de MMS"</string>
+     <string name="pref_summary_mms_size_limit">"Limite de taille de MMS pour composer un message"</string>
+     <string name="sub_card_download_mms_noti">"Changer de réseau lorsque la carte adjointe reçoit un MMS"</string>
+     <string name="compressing">"La photo est trop grande, compression en cours\u2026"</string>
+     <string name="add_contact_toast">"Ajoutez d\'abord des contacts."</string>
+<string name="action_edit_contact">"Modifier le contact"</string>
+<string name="ctcc_smart_sms_pref_title">"Ouvrir CTCC Smart SMS"</string>
+<string name="ctcc_smart_sms_pref_summary">"Activer ou désactiver CTCC Smart SMS"</string>
+<string name="no_market_store_app">"Non installé sur l’application Market Store."</string>
+<string name="fdn_add_dialog_title">"ajouter le numéro du centre SMS au contact de numérotation fixe？"</string>
+<string name="upper_to_max_text_length">"La longueur de texte dépasse la limite maximale"</string>
+<string name="upper_to_max_chips_parsed">"Le nombre de destinataires analysés dépasse la limite maximale"</string>
+<string name="text_copied">"Texte copié dans le Presse-papiers"</string>
+<string name="fail_start_record_videoaudio">"Une autre app utilise l\'appareil photo ou le microphone, enregistrement impossible pour l\'instant"</string>
+<string name="event_create">"Nouvel évén."</string>
+<string name="sprd_parse_date_fail">"Échec de l\'analyse de la date !"</string>
+<string name="error_external_storage_access">" Pas d’accès au stockage externe"</string>
+<string name="download_request_confirm">"Sélectionnez le répertoire de téléchargement de la carte SD externe pour utiliser les fichiers."</string>
+     <string name="folder_display_option">Afficher option</string>
+     <string name="folder_sortby">Trier Par</string>
+     <string name="folder_delete_messages">"Supprimer les messages"</string>
+     <string name="sort_msg_list_empty_text">"Vous verrez les messages énumérés ici"</string>
+     <string name="folder_display_all">"Afficher tous les messages"</string>
+     <string name="delete_messages_confirmation_dialog_title">"Supprimer les messages sélectionnés? "</string>
+     <string name="delete_message_fail">"Supprimer les messages sélectionnés échoué! "</string>
+     <string name="have_select_message">"%1$d choisi"</string>
+<string name="copy_sim_sms_to_phone">"Copier le message vers le téléphone"</string>
+<string name="simsms_title">"SIM SMS"</string>
+     <string name="copy_fail">" Échec de la copie "</string>
+     <string-array name="sort_type">
+        <item>"Par temps desc"</item>
+        <item>"Par temps asc"</item>
+        <item>"Par adresse desc"</item>
+        <item>"Par adresse asc"</item>
+    </string-array>
+<string name="shared_attachment_number_exceed">"Le nombre maximal de pièce jointes partagées est de %d, les pièces jointes en trop seront supprimées."</string>
+
+</resources>

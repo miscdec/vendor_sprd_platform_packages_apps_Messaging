@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string-array name="mms_validity_pref_entries">
+<item>"सजल नहिं"</item>
+<item>"एक घंटा"</item>
+<item>"12 घंटा"</item>
+<item>"24 घंटा"</item>
+<item>"2 दिन"</item>
+<item>"बेसी"</item>
+</string-array>
+<string-array name="sms_validity_pref_entries">
+<item>"सजल नहिं"</item>
+<item>"एक घंटा"</item>
+<item>"12 घंटा"</item>
+<item>"24 घंटा"</item>
+<item>"2 दिन"</item>
+<item>"बेसी"</item>
+</string-array>
+<string-array name="sms_save_to_sim_pref_entries">
+<item>"SMS केर सीममे बचेवाक वरियता अछि"</item>
+<item>"SMS केर संदेशन डाटाबेसमे बचेवाक वरियता अछि"</item>
+</string-array>
+</resources>

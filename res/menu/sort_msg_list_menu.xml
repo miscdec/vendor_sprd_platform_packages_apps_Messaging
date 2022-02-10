@@ -1,0 +1,18 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_sortby"
+        android:icon="@drawable/ic_menu_sortby_am_alpha"
+        android:orderInCategory="1"
+        android:title="@string/folder_sortby"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/action_display_option"
+        android:orderInCategory="2"
+        android:title="@string/folder_display_option" />
+    <item
+        android:id="@+id/action_delete_messages"
+        android:orderInCategory="3"
+        android:title="@string/folder_delete_messages" />
+</menu>

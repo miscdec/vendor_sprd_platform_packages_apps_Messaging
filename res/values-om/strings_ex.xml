@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="signature_title">"Mallattoo"</string>
+<string name="pref_title_sms_retry_times">"Si’eessuu SMS irra deebiin"</string>
+<string name="conversation_deleteAll_failed">"Maaloo booddee irra deebiin yaali."</string>
+<string name="warning">"Akkeekkachiisuu"</string>
+<string name="attachment_exceeded">"Miiltoon ati filatte hamma eeyamau irra darbeera!"</string>
+<string name="attachment_size">"Hammi miiltoo :"</string>
+<string name="mms_size">"Hammi MMS :"</string>
+<string name="permission_read_messages_attachment_label">"Maxxansoota ergawwanii dubbiisi"</string>
+<string name="permission_read_messages_attachment_desc">"Eeyyaamuu appilikeeshiinii gara dubbiisuu ergawwaanii"</string>
+<string name="preference_name">"Gaalee waliigalaa"</string>
+<string name="select">"Filatame"</string>
+<string name="item_cancel">"Balleessi"</string>
+<string name="item_delete">"balleessuu"</string>
+<string name="save_as_teltype">"Bilbiilaaf"</string>
+<string name="save_as_mmstype">"Smsf"</string>
+<string name="type_to_pharser">"Gaalee waliigalaa barreessi"</string>
+<string name="add">"Dabaluu"</string>
+<string name="edit">"Soroorsuu"</string>
+<string name="delete">"balleessuu"</string>
+<string name="finish">"Xumuru"</string>
+<string name="cancel">"Balleessi"</string>
+<string name="add_pharser">"Gaalee waliigalaa idaa’uu"</string>
+<string name="edit_pharser">"Gaalee waliigalaa guulaaluu"</string>
+<string name="exit_pharser_dialog_title">"Saffiisaa"</string>
+<string name="exit_pharser_dialog_content">"Yoo gara olkaa’uu gaaleewwaan yeroo mara fayyadaame?"</string>
+<string name="pharser_can_modify">"Gaalee maamiiloome"</string>
+<string name="pharser_cannot_modify">"Gaalee mrtaa’e"</string>
+<string name="empty_pharser_not_save">"Gaalee duwwaan olkaa’uu hin danda’u"</string>
+<string name="select_item">"Ati filateeta"</string>
+<string name="select_commmon_phrase">"Gaalee waliigalaa filuu"</string>
+<string name="common_phrase_empty">"Gaaleewwaan waliigalaa hin jire"</string>
+<string name="action_add_phrase">"Gaalee waliigalaa galchi"</string>
+<string name="pref_other_settings_title">"Biroo"</string>
+<string name="action_wireless_alerts">"Yaadachiiftoota shuubboo malee"</string>
+<string name="positive">"TOLE"</string>
+<string name="wap_push_message_dialog_title">""ergaa Wap Push"</string>
+<string name="open_website">"weebsaayitti bani"</string>
+<string name="activity_not_found">"Appilikeeshiinii mijataa hin arganne"</string>
+<string-array name="fixed_mms_phrase">
+<item>"Maaloo bilbiila biiroo koo bilbiili, galatoomi."</item>
+<item>"Maaloo ana qunnami, galatoomi."</item>
+<item>"Maaloo kallaatii kee natti himi."</item>
+<item>"Maaloo bilbiila seelii koo bilbiili, galatoomi."</item>
+<item>"Ani bakkeen ture, mana deemu fi siif bilbiilu."</item>
+<item>"Ani konkolaachiisaan jira fi booda siif deebiisa."</item>
+<item>"Ani karaa irraan dhufe, hatattamaan gahu ta’a."</item>
+<item>"Dhaabbii tiraafiikaa, booda gara, dhiifama."</item>
+<item>"Booda siif bilbiila."</item>
+<item>"An\i walgahii irraan jira, booda deebiisa."</item>
+</string-array>
+<string-array name="fixed_both_phrase">
+<item>"Maaloo naaf bilbiili yookiin erguu sms gara koo booda."</item>
+</string-array>
+<string name="share_video_exceeded">"Viidiyoon filaame hamamtaa isa dhumma kan jedhame oli!"</string>
+<string name="share_audio_exceeded">"Sagaaleen filaame hamamtaa isa dhumma kan jedhame oli!"</string>
+<string name="share_image_exceeded">"Fakkiin filaame hamamtaa isa dhumma kan jedhame oli!"</string>
+<string name="share_muimgae_exceeded">"Fakkii hamma eeyyamameen ol ta’e hin ergin!"</string>
+<string name="share_noimgae_exceeded">"Faayiiloota fakkii-malee qabata kan hin hiramne!"</string>
+<string name="exceed_text_length_limitation">"Inni gahaa dheeriina barreeffama murteessa."</string>
+<string name="drm_no_application_open">"Faayiilii banuu hin danda’u"</string>
+<string name="ok_drm_rights_consume">"TOLE"</string>
+<string name="cancel_drm_rights_consume">"Balleessi"</string>
+<string name="orgdrm_no_share">" Qoooda gara ergaa hin hojaatu"</string>
+<string name="drm_can_not_processed">" Faayilii Drm hin adeemsiifamne"</string>
+<string name="protect_information">"Oddeeffannoo eeguu"</string>
+<string name="drm_consume_title">"Mirgoota Drm nyaata"</string>
+<string name="drm_consume_hint">"Raawwiin kee mirgoota Drm nyaata"</string>
+<string name="drm_file_path">"Darbaa:%1$s"</string>
+<string name="drm_file_name">"Maqaa Faayiilii:%1$s"</string>
+<string name="drm_rights_validity">"Mirgoota Dhuguma:dhugaa"</string>
+<string name="drm_rights_invalidity">"Mirgoota Dhuguma:dhugaa hin taane"</string>
+<string name="drm_rights_status_transfer">"Sadarkaa Mirgootaa:kan eeyyaame ta’a dabarfame"</string>
+<string name="drm_rights_status_untransfer">"Sadarkaa Mirgootaa:kan hin eeyyaamne ta’a dabarfame"</string>
+<string name="drm_start_time">"Yeroo Jalqabuu:%1$s"</string>
+<string name="drm_end_time">"Yeroo Xumuruu:%1$s"</string>
+<string name="drm_expiration_time">"Yeruu Gubaachuu:%1$s"</string>
+<string name="drm_remain_times">"Yeroowwaan Hafaaan:%1$s"</string>
+<string name="drm_no_info">"Oddeeffannoo hin jire"</string>
+<string name="drm_unlimited_rights">"Hin murtoofne"</string>
+<string name="drm_rights_unknown">"Hinbeekamu"</string>
+<string name="drm_inactive_rights">"Mirgoota hin si’oofne"</string>
+<string name="drm_shared_not_drmdownload">"Sochoosi gara Drm Fee’uutti kallaattiin fi booda hiruu isa maaloo"</string>
+<string name="share_nofile_exceeded">"Daangaa MMS ol!"</string>
+<string name="no_few_participants">"Hirmaatoota hin jire"</string>
+<string name="mms_validity_pref_title">"Yoomeesawwaan dhugumaa MMS"</string>
+<string name="sms_validity_pref_title">"Yoomeesa dhugumaa SMS"</string>
+<string name="attach_vcalendar">"Dhaha guyyaa/Kalaandara"</string>
+<string name="confirm_import_vcalendar">"Keessatti galchuu Vkaalandeeraa kana?"</string>
+<string name="confirm_save_otherfiles">"Maxxansa kana olkaa’uu?"</string>
+<string name="confirm_import">"Eeyyee"</string>
+<string name="cancel_import">"Lakki"</string>
+<string name="attach_other_file">"Faayila hin beekamne"</string>
+<string name="copy_to_sdcard_success">""Maxxansa olkaahame gara "<xliff:g id="copy_to_sdcard_success_id">%s</xliff:g>"</string>
+<string name="copy_to_sdcard_fail">"Maxxansa olkaahu hin dandeenye."</string>
+<string name="attach_sound">"Dhaggeetii"</string>
+<string name="select_vcard_button">"Cuuqaasi furtuu gara qunnamaa seenuuf"</string>
+<string name="select_video_button">"Cuuqaasi furtuu gara vidiiyoo seenuuf"</string>
+<string name="select_audio_button">"Cuuqaasi furtuu gara sagalee seenuuf"</string>
+<string name="select_vcalendar_button">"Cuuqaasi furtuu gara kaalandeeraa seenuuf"</string>
+<string name="select_slideshow_button">"Agarsiisa mucucaataatti galuuf batanii cuqaasi"</string>
+<string name="slideshow_detail_activity_title">"Agarsiisa fuulaa"</string>
+<string name="no_mms_plugin">"Fooldeerii ilaaluu hin qabu"</string>
+<string name="attachment_details">"Maxxansa gadi fageenyaa"</string>
+<string name="context_menu_copy_to_sim_memory">"Ergaa gara SIM kooppii"</string>
+<string name="copy_message_text">"Barreeffama kooppii"</string>
+<string name="min_zoom">"Xiqqaa gaheera"</string>
+<string name="max_zoom">"Guddaa gaheera"</string>
+<string name="message_details_text">"Ergaa gadi fageenyaa"</string>
+<string name="folder_reply">"Deebiisi"</string>
+<string name="new_message">"Ergaa haaraa"</string>
+<string name="folder_forward">"Fuulduratti darbuu"</string>
+<string name="delete_message">"balleessuu"</string>
+<string name="menu_resend">"Deebiisi ergi"</string>
+<string name="save_all_attachments">"Maxxansoota hunda olkaa’uu"</string>
+<string name="host_app_name">"Ergaa"</string>
+<string name="need_messaging_is_default_app">"Atii dirqaama guutu \"%1$s\"gara sms appilikeeshiinii dhaabuu"</string>
+<string name="message_outgoing_successful">" Erguun milka\'eerra"</string>
+<string name="message_outgoing_failure">"Ergaa hin ergamne"</string>
+<string name="share_unsupported_type">"Gosa qabiyyee hindeegaramne, kan hin hiramne!"</string>
+<string name="mms_send_reports_pref_title">"Gabaasawwan Mms erguu"</string>
+<string name="mms_send_reports_pref_summary">"Tokkoon tokkoon MMS ergituuf gabaasa ergiinsaa gaafadhu"</string>
+<string name="mms_delivery_reports_pref_title">"Gabaasawwaan MMS gahuu"</string>
+<string name="mms_delivery_reports_pref_summary">"Gaaffii gabaasa gahuu tokko tokko MMS ati erguu"</string>
+<string name="mms_read_reports_pref_title">"Gabaasawwaan MMS dubbiisi"</string>
+<string name="mms_read_reports_pref_summary">"Gaaffii gabaasa dubbiisi tokko tokko MMS ati erguu"</string>
+<string name="enable_return_mms_delivery_reports_pref_title">"Gabaasawwaan MMS deebiisuu gahuu"</string>
+<string name="enable_return_mms_delivery_reports_pref_summary">"Gaaffii Deebiisuu gabaasa gahuu tokko tokko MMS ati erguu"</string>
+<string name="enable_return_mms_read_reports_pref_title">"Si’eessuu Deebiisaanii gabaasawwaan MMS dubiisuu"</string>
+<string name="enable_return_mms_read_reports_pref_summary">"Gaaffii Deebiisaanii gabaasa dubbiisuu tokko tokkoo ati erguu"</string>
+<string name="delivery_toast_body">"Ergaan fudhatameera %s"</string>
+<string name="delivery_toast_body_expired">"Ergaan yeroon isaa itti darbeera %s"</string>
+<string name="delivery_toast_body_fail_rejected">"Ergaan dhorkameera %s"</string>
+<string name="delivery_toast_body_fail">"Ergaan hin fudhatamne %s"</string>
+<string name="read_report_toast_body">"Ergaan qophaa’aadha %s"</string>
+<string name="read_report_toast_body_fail">"Ergaan qophaa’aa miti %s"</string>
+<string name="mimetype_null">"Akaakuun mime, fayyidahin qabu, maxxansaa hin kuusu"</string>
+<string name="pref_title_manage_simx_smsc">"SIM<xliff:g id="COUNT">%1$s</xliff:g> giddu gala tajaajila SMS"</string>
+<string name="pref_title_manage_sim_smsc">"Giddu gala tajaajila SMS"</string>
+<string name="smsc_set_fails">"Sirni Smsc kufeera"</string>
+<string name="smsc_set_success">"Milkaainaan hojjetameera."</string>
+<string name="smsc_update_success">"Milkaa’inaan fooyya’eera"</string>
+<string name="smsc_cannot_be_null">"Smsc soba ta’uu hin danda’u!"</string>
+<string name="smsc_should_be_number">"Smsc lakkoofsa ta’uu qaba"</string>
+<string name="smsc_list">"Tarree giddu gala SMS"</string>
+<string name="smsc_list_empty">"Lakkoofsonni giddu gala  SMS"</string>
+<string name="smsc_list_loading">"Fee’uu"</string>
+<string name="smsc_list_empty_toast">"Ergaan hin ergamne, lakkofsi giddu gala SMS hin jiru"</string>
+<string name="smsc_list_empty_notify_des">"maaloo lakkoofsa giddu gala haaraa  SMS dabali"</string>
+<string name="smsc_list_empty_notify_title">"Lakkofsi giddu gala SMS hin jiru"</string>
+<string name="shared_image_number_exceed">"Lakkoofas olaanaa fakkiiwwan qoodamanii %d, kan hammaa ol ta’an dhabamsiisi"</string>
+<string name="drm_unsupported_toast">"Faayilli DRM hin jiru. Maaloo faayila biroo filadhu."</string>
+<string name="err_sent_no_sim">"Ergaan hin ergamne SIIMII kaardii hin qabu"</string>
+<string name="is_redirect_to">"gara %1$s kallatteeffameeraa ?"</string>
+<string name="browser">"Seensisaa internetii"</string>
+<string name="email">"Imeelii"</string>
+<string name="telephone">"Bilbila sararaan alaa"</string>
+<string name="map">"Kaartaa"</string>
+<string name="message_signature_setting">"Seetiingii mallattoo"</string>
+<string name="pref_signature_enable_title">"Mallattoo filannoo"</string>
+<string name="pref_signature_enabl_summary">"Tokkoon tokkoon ergaa ergitu irratti battalumatti mallattoo kee kaa’i"</string>
+<string name="pref_signature_input_title">"Mallattoo gulaalaa/sirreessaa"</string>
+<string name="pref_signature_input_summary">"Mallattoo kee galchuuf asitti gali"</string>
+<plurals name="attachments_saved_dir">
+<item quantity="one">"<xliff:g id="quantity">%d</xliff:g> Faayilli miiltoo \"<xliff:g id="dir">%s</xliff:g>\" tti olkaa’ameera"</item>
+<item quantity="other">"<xliff:g id="quantity">%d</xliff:g> Galmeewwan miiltoo \"<xliff:g id="dir">%s</xliff:g>\" tti olkaa’ameera"</item>
+</plurals>
+<string name="no_permissions">"Eeyyamni hin jiru"</string>
+<string name="no_call_permissions">"Eeyyami BILBIILAA hin jiru"</string>
+<string name="folder_loading">"feuu.."</string>
+<string name="sms_merge_forward_empty">"ergaan SMS walitti makamu fi ergamu hin jiru."</string>
+<string name="sms_forward">"Fuulduratti darbuu"</string>
+<string name="sms_merge_dialog_title">"Saffiisaa"</string>
+<string name="sms_merge_dialog_content1">"ergaawwan %d SMS fi "</string>
+<string name="sms_merge_dialog_content2">"%d SMS qofa walitti makuu ni dandeessa. Maaloo mirkaneessi."</string>
+<string name="messagelist_sender_self">"Ana"</string>
+<string name="sms_merge_forward">"Sarara gidduudhaa kutuu fi dabarsuu"</string>
+<string name="muti_select_all">"Hunda filii"</string>
+<string name="menu_select_none">"Hunda balleesi"</string>
+<string name="sms_merge_dialog_content_exceed">"Ergaa dabarfame hamma murta’e %d ol walitti makteetta, maloo irra deebiin mirkaneessi!"</string>
+<string name="no_sms_permissions">"eeyyamni SMS hin jiru, oodiyoo taphachiisuun hin danda’amu."</string>
+<string name="smil_subject_hint">"Dhimmi MMS hin jiru, gulaallu dandeessuu"</string>
+<string name="smil_out_of_size">"Miimooriidhaan ala"</string>
+<string-array name="smil_choice_items">
+<item>"Smiil qulqulleessuu"</item>
+<item>"Agarsiisa islaayidii agarsisa"</item>
+</string-array>
+<string name="video_content_type">"viidiyoo:"</string>
+<string name="iamge_content_type">"fakkii:"</string>
+<string name="audio_content_type">"oodiyoo:"</string>
+<string name="subject_edit">"Abbaa dhimmaa sirreessuu"</string>
+<string name="text_edit">"Ergaa gabaabaa sirreessuu"</string>
+<string name="repalce_slide">"Mucucaachisa bakka buusuu"</string>
+<string name="remove_slide">"Suura balleessuu"</string>
+<string name="insert_befor_slide">"Mucucaachisaan agarsiisuun dura waan biroo itti galchuu"</string>
+<string name="insert_after_slide">"Mucucaachisaan agarsiisuun booda waan biroo itti galchuu"</string>
+<string name="add_attachment">"Miiltoo dabali"</string>
+<string name="remove_attachment">"Miiltoo balleessi"</string>
+<string name="repalce_attachment">"Maxxaansa bakka buusaa"</string>
+<string name="hint_for_input">"Maaloo sirreessi"</string>
+<string name="hint_for_empty">"Maaloo sirreessi, miiltoo amma miiltoo duwwaadha."</string>
+<string name="goto_smil">"Agarsiisa fuulaa"</string>
+<string name="smil_subject">"Dhimma:"</string>
+<string name="action_sim_sms">"SIM keessaatti erguu"</string>
+<string name="sms_save_to_sim_pref_title">"SMS kutaa SIM irratti hin olkaain"</string>
+<string name="sms_save_to_sim_pref_summary">"Yommu gara SMS dhuufnuu, SMS irratti okaa\'ii ykn mitti"</string>
+<string name="sms_sim_full_title">"Sim guutuu dha"</string>
+<string name="sms_sim_full_notification_ticker">"Kuusaa SMS gadi aanaa Ati ergawwaan tarii haquu barbaada."</string>
+<string name="sms_sim_full_text">"sim guuteera,  sms kuusaa odeeffannoo ergaa keessaatti ni olkaa’ama . maaloo sms irra deebiin sim keessatti olkaa’uu yoo barbaadde sim keessaa balleessi。"</string>
+<plurals name="search_results_title">
+<item quantity="one">"<xliff:g id="NUMBER">%1$s</xliff:g> Walta’iinsawwan gosaa“<xliff:g id="SEARCH">%2$s</xliff:g>”bu’aawwan barbaadi"</item>
+<item quantity="other">"<xliff:g id="NUMBER">%1$s</xliff:g> Walta’iinsa gosawwaanii“<xliff:g id="SEARCH">%2$s</xliff:g>”bu’aawwan barbaadi"</item>
+</plurals>
+<string name="menu_search_text">"Barbaadi"</string>
+<string name="search_label">"Ergaa erguu"</string>
+<string name="search_hint">"Barreessituu ergaa barbaaduu"</string>
+<string name="search_max_length">"Hima barbaaduu hedduu dheeraa dha, kan daangeefame gara 512."</string>
+<string name="search_setting_description">"Ergawwaan kee keessa barreessi"</string>
+<string name="search">"Ergaa erguu"</string>
+<string name="search_empty">"Simataa hin qabu."</string>
+<string name="search_history">"<xliff:g id="count">%1$s</xliff:g> Firiif \"<xliff:g id="search">%2$s</xliff:g>\""</string>
+<string name="can_not_add_same_attachment">"Miiltoo tokko irra deebiin dabaluu hin dandeessu"</string>
+<string name="can_not_add_same_picture">"Fakkii tokko irra deebiindabaluun hin danda’amu"</string>
+<string name="smil_add_text">"Miiltoo ergaa gabaabaa dabali"</string>
+<string name="smil_update_text">"Maxxaansa barruu milkiidhaan ammayyomsitani jirtu"</string>
+<string name="smil_empty_content">"Qabiyyee duwwaa , erguu dhaabii !"</string>
+<string name="exceed_participant_limit">"Baay’inni hirmaattotaa hamma murtaa’ee ol darbeera(<xliff:g>%1$s</xliff:g>), maaloo <xliff:g>%2$s</xliff:g> balleessi."</string>
+<string name="folder_view_menu_item_title">"Fooldeerii ilaaluu"</string>
+<string name="capacity_sim_message_title">"Dandeettii SIM"</string>
+<string name="capacity_sim_message_summary">"Dandeetti ol aana amma:%s"</string>
+<string name="audio_record_retry">"Maaloo waraabbii duubaa cufuun irra deebiin yaali."</string>
+<string name="contact_invalid">"Walqunnamtii sirrii hin taane, walqunnamtii fudhatama qabu filadhu."</string>
+<string name="message_size_counting">"Lakkaa’uu"</string>
+<string name="pref_encode_type_setting_title">"Seetiingii gosa iinkoodii"</string>
+<string name="pref_encode_type_title">"Bifa bakkaa"</string>
+<string name="fdn_check_failure">"Ergaawwan lakkoofsota bilbilaa murtaa’an qofatti erguu dandeessa."</string>
+<string name="data_call_fdn_check_failure">"MMS ergamuu hin danda’amu FDNn hanga banametti. maaloo *99# gara tarree  FDN dabaluun irra deebiin yaali."</string>
+<string name="smsc_fdn_check_failure">"SMS ergamuu hin danda’amu FDNn hanga banametti  akkasumas lakkoofsi giddu gala ergaa keetii tarree FDN keessa hin jiru."</string>
+<string name="smil_wait_comparing_att_size">"Fe’amaa jira, maaloo xiqqoo eegi !"</string>
+<string name="smil_max_slide_count">"Fiilmiiwwan %s qofa dabaluu dandeessa"</string>
+<string name="sms_wap_pref_title">"Ergaa  SMS WAP dandeessisuu"</string>
+<string name="sms_wap_pref_summary">"Ergaa SMS WAPfudhachuu dandeessisuu"</string>
+<string name="smil_Player_title">"Taphataa SMIL"</string>
+<string name="smil_caption_description">"SMIL"</string>
+<string name="smil_caption_edit_hint">"(sirreessuuf cuqaasi)"</string>
+<string name="show_save_attachment_info">"Olkaa\'uu?"</string>
+<string name="attachment_save_success">"Olkaa\'uun milkaa\'e"</string>
+<string name="unread_message_count">"Odeffannoo hin dubbifne"</string>
+<string name="mms_convert_to_smil_title">"fakkiiwwanitti jijjiiri"</string>
+<string name="mms_convert_to_smil_message">"Mms fakkiiwwanitti ni jijjiirama, kunis miiltoowwan muraasa moodii fakkiitiin hin deeggaramne gatuu ni danada\'u, sirriidhaa?"</string>
+<string name="confirm_convert">"TOLE"</string>
+<string name="cancel_convert">"Balleessi"</string>
+<string name="smil_max_part_count">"Fakkiitti miiltoowwan %s qofa dabaluu danda\'a"</string>
+<string name="smil_add_error_same_content_type">"Miltoowwan gosa miidiyaa muraasa lama kuusaa tokko keessatti  dabaluu hin dandeessu."</string>
+<string name="smil_add_error_video_conflict">"Viidiyoo kuusaa oodiyoo fi fakkii qabu keessatti galchuun hin danda\'amu."</string>
+<string name="smil_replace_error_same_content_type">"Bakka buusuu hin dandeessu sababiin isaasn Miltoowwan gosa miidiyaa muraasa lama kuusaa tokko keessatti  dabaluu hin dandeessu."</string>
+<string name="smil_replace_error_video_conflict">"Viidiyoo bakka buusuu hin dandeessu maaloo miiltoowwan kee balleessuu irra deebiin yaali."</string>
+<string name="smil_edit_hint">"kuusaawwan, sirreessuuf cuqaasi."</string>
+<string name="smil_unsupported_content_type">"Gosa qabiyyee hin deeggaramne."</string>
+<string name="pref_internal_memory_usage_title">"MMS/jiru/walii gala"</string>
+<string name="pref_internal_memory_usage_progress_summary">"Iddoo miimoorii lakkaawuu..."</string>
+<string name="discard_message_reason">"Ergaan kan haqame sababa fudhatoota sirrii hin qabneef."</string>
+<string name="no_common_phrase">"Gaaleen akka dhabbatatti itti fayyadamammu hin jiru"</string>
+<string name="action_copy_to_sim">"SIM kooppii"</string>
+<string name="select_sim">"SIIMII filaadhaa"</string>
+<string name="sim_space_not_enough">"Iddoon Sms kan SIIMII irraa hin ga\'uu"</string>
+<string name="move_message_to_phone_memory">"Ergaan gara Qabbenta bilbiila kessanitti garaagalfamu milk\'eerra"</string>
+<string name="can_not_copy_the_message">"Ergaan garagalchuun hin dandaamu"</string>
+<string name="failed_to_add_media">"Ati kana idaa’uu hi\n dandeessu gara <xliff:g id="name">%1$s</xliff:g>. erga keeti"</string>
+<string name="contentType_audio">"Dhaggeetii"</string>
+<string name="contentType_video">"Vidiiyoo"</string>
+<string name="contentType_image">"Fakkii"</string>
+<string name="contentType_other">"Faayila hin deeggaramne qooduu hin dandeessu"</string>
+<string name="no_record_audio_permission">"Waraabbiin oodiyoo hin eyyamamu!"</string>
+<string name="close_float_video">"Caameeraa yoo bantu foddaawwan viidiyoo cufi."</string>
+<string name="unable_get_data">"Deetaa argachu hin dandeene"</string>
+<string name="unexpected_recording_error">"Maaloo mosajjii waraabbi cuufatti yaala"</string>
+<string name="add_contacts_dialog_title">"Maqaawwanitti dabali"</string>
+<string name="add_contact_as_text">"Ergaa barreeffamaa"</string>
+<string name="file_not_found_exception">"Faayilii hin jiru!"</string>
+<string name="pref_title_mms_size_limit">"Hamamtaan MMS Murta\'adha"</string>
+<string name="pref_summary_mms_size_limit">"Hamamtaan MMS ergaa walitti makuuf Murta\'adha"</string>
+<string name="sub_card_download_mms_noti">"Kaardiin akka isin MMS fudhatuu yommuu garagaartuu mantagoo cuufaa"</string>
+<string name="compressing">"Suuri baay’ee guddaa dha,xiqqeessuu\u2026"</string>
+<string name="add_contact_toast">"Maaloo qunnamtii duraan itti dabaala."</string>
+<string name="folder_display_option">"Carraa ibsuu"</string>
+<string name="folder_sortby">"Foo’i kara"</string>
+<string name="folder_delete_messages">"Ergawwaan haquu"</string>
+<string name="sort_msg_list_empty_text">"Ati tartiiba ergawwaanii asi argitta"</string>
+<string name="folder_display_all">"Ergawwaan hunda agarsiisuu"</string>
+<string name="delete_messages_confirmation_dialog_title">"Ergawwaan filame haquu?"</string>
+<string name="delete_message_fail">"Ergawwaan filame haquu kufe!"</string>
+<string name="have_select_message">"Filatame %1$d"</string>
+<string name="copy_sim_sms_to_phone">"Ergaa gara bilbiilaatti kooppii godhi"</string>
+<string name="simsms_title">"SIM keessaatti erguu"</string>
+<string name="copy_fail">"Garaagalchi kuufe jira!"</string>
+<string-array name="sort_type">
+<item>"Karaa yeroo desc"</item>
+<item>"Karaa yeroo asc"</item>
+<item>"Karaa teessoo desc"</item>
+<item>"Karaa teessoo asc"</item>
+</string-array>
+</resources>

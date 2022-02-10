@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+     <string name="folder_display_option">"ျပသျခင္း ေရြးခ်ယ္မႈ"</string>
+     <string name="folder_sortby">"စီစဥ္ျခင္း"</string>
+     <string name="folder_delete_messages">"မက္ေဆ့ခ်္မ်ားကို ပယ္ဖ်က္ပါ"</string>
+     <string name="sort_msg_list_empty_text">"ဒီစာရင္းရွိ မက္ေဆ့ခ်္မ်ား ျမင္နိုင္မည္"</string>
+     <string name="folder_display_all">"မက္ေဆ့ခ်္မ်ားအားလံုး ေဖၚျပပါ"</string>
+     <string name="delete_messages_confirmation_dialog_title">"ေရြးခ်ယ္သည့္ မက္ေဆ့ခ်္မ်ား ပယ္ဖ်က္ မလား?"</string>
+     <string name="delete_message_fail">"ေရြးခ်ယ္သည့္ မက္ေဆ့ခ်္မ်ား ပယ္ဖ်က္ရန္ က်ရွံဳး!"</string>
+     <string name="have_select_message">"ေရြးခ်ယ္ျပီး %1$d"</string>
+     <string name="copy_sim_sms_to_phone">"ဖုန္းသို ့ မက္ေဆ့ခ်္ ေကာ္ပီကူးပါ"</string>
+     <string name="simsms_title">"SIM တြင္ ရွိေသာ မက္ေဆ့ခ်္မ်ား"</string>
+     <string name="copy_fail">"ကူးယူမႈမေအာင္ျမင္ပါ။"</string>
+     <string-array name="sort_type">
+        <item>"အခ်ိန္ အဆင္းျဖင့္ "</item>
+        <item>"အခ်ိန္ အတက္ျဖင့္ "</item>
+        <item>"လိပ္စာ အဆင္းျဖင့္ "</item>
+        <item>"လိပ္စာ အတက္ျဖင့္ "</item>
+    </string-array>
+<string name="signature_title">"လက်မှတ်"</string>
+<string name="pref_title_sms_retry_times">"SMS ထပ်ကြိုးစားရန်ဖွင့်ပါ"</string>
+<string name="conversation_deleteAll_failed">"နောက်မှ ထပ်ကြိုးစားပါ။"</string>
+<string name="warning">"သတိပေးချက်"</string>
+<string name="attachment_exceeded">"သင်ရွေးထားသော ပူးတွဲဖိုင်သည် ကျော်လွန်နေပါပြီ။"</string>
+<string name="attachment_size">"ပူးတွဲဖိုင် အရွယ်အစားမှာ -"</string>
+<string name="mms_size">"MMS အရွယ်အစားမှာ -"</string>
+<string name="permission_read_messages_attachment_label">"မက်ဆေ့ဂ်ျပါ ပူးတွဲဖိုင်များ ဖတ်ရန်"</string>
+<string name="permission_read_messages_attachment_desc">"သင်၏ မက်ဆေ့ဂ်ျများပါ ပူးတွဲဖိုင်များကို ဖတ်ရန် အက်ပ်ကို ခွင့်ပြုပေးသည်"</string>
+<string name="preference_name">"နေ့စဉ်သုံးစကားစု"</string>
+<string name="select">"ရွေးချယ်ပြီး"</string>
+<string name="item_cancel">"ပယ်ဖျက်ပါ"</string>
+<string name="item_delete">"ပယ်ဖျက်သည်"</string>
+<string name="save_as_teltype">"ဖုန်းအတွက်"</string>
+<string name="save_as_mmstype">"SMS အတွက်"</string>
+<string name="type_to_pharser">"အသုံးများသော စကားစုကို ရိုက်ပါ"</string>
+<string name="add">"ပေါင်း"</string>
+<string name="edit">"တည်းဖြတ်သည်"</string>
+<string name="delete">"ပယ်ဖျက်သည်"</string>
+<string name="finish">"ပြီးစီး"</string>
+<string name="cancel">"ပယ်ဖျက်ပါ"</string>
+<string name="add_pharser">"အသုံးများသော စကားစုများ ထည့်ရန်"</string>
+<string name="edit_pharser">"နေ့စဉ်သုံးစကားစု တည်းဖြတ်"</string>
+<string name="exit_pharser_dialog_title">"နှိုးဆော်သည်"</string>
+<string name="exit_pharser_dialog_content">"မကြာခဏသုံးသော စကားစုများကို သိမ်းမလား။"</string>
+<string name="pharser_can_modify">"စိတ်ကြိုက်လုပ်ထားသော စကားစု"</string>
+<string name="pharser_cannot_modify">"စကားစုကို ဖြေရှင်းပါ"</string>
+<string name="empty_pharser_not_save">"ဘာမှမပါသော စကားစုကို သိမ်း၍မရပါ။"</string>
+<string name="select_item">"သင် ရွေးထားသည်မှာ"</string>
+<string name="select_commmon_phrase">"အသုံးများသော စကားစုကို ရွေးပါ"</string>
+<string name="common_phrase_empty">"နေ့စဉ်သုံးစကားစုများ မရှိပါ"</string>
+<string name="action_add_phrase">"အသုံးများသော စကားစုကို ထည့်ပါ"</string>
+<string name="pref_other_settings_title">"အခြား"</string>
+<string name="action_wireless_alerts">"ကြိုးမဲ့ နှိုးဆော်သတိပေးချက်များ"</string>
+<string name="positive">"အိုကေ"</string>
+<string name="wap_push_message_dialog_title">"\"WAP မက်ဆေ့ဂ်ျပို့ခြင်း"</string>
+<string name="open_website">"ဝက်ဆိုဒ်ဖွင့်ပါ"</string>
+<string name="activity_not_found">"သင့်လျော်သည့်အေပီပီမတွေ့ပါ"</string>
+<string-array name="fixed_mms_phrase">
+<item>"ကျေးဇူးပြု၍ ကျွန်ုပ်ရုံးဖုန်းကိုခေါ်ပါ၊ ကျေးဇူးတင်ပါသည်။"</item>
+<item>"ကျေးဇူးပြု၍ ကျွန်ုပ်ကိုဆက်သွယ်ပါ၊ ကျေးဇူးတင်ပါသည်။"</item>
+<item>"ကျေးဇူးပြု၍ သင်၏တည်နေရာကို ပြောပါ။"</item>
+<item>"ကျေးဇူးပြု၍ နောက်မှကျွန်ုပ်၏ဆဲလ်ဖုန်းကိုခေါ်ပါ၊ ကျေးဇူးတင်ပါသည်။"</item>
+<item>"ကျွန်ုပ်အပြင်မှာပါ၊ အိမ်ရောက်လျှင် သင့်ကိုဖုန်းခေါ်မည်။"</item>
+<item>"ကျွန်ုပ်ကားမောင်းနေ၍ နောက်မှအကြောင်းပြန်မည်။"</item>
+<item>"ကျွန်ုပ်လမ်းမှာ၊ မကြာမီရောက်မည်။"</item>
+<item>"ကားကျပ်နေသည်၊ နောက်ကျမည်၊ ဆောရီး"</item>
+<item>"သင့်ကိုနောက်မှဖုန်းပြန်ခေါ်မည်။"</item>
+<item>"ကျွန်ုပ်မီတင်မှာ၊ နောက်မှအကြောင်းပြန်မည်"</item>
+</string-array>
+<string-array name="fixed_both_phrase">
+<item>"နောက်မှ ကျွန်ုပ်အား ဖုန်းခေါ်ပါ သို့မဟုတ် SMS ပို့ပါ။"</item>
+</string-array>
+<string name="share_video_exceeded">"ရွေးထားသောဗီဒီယိုသည် အများဆုံးအရွယ်အစား ကန့်သတ်ချက်ကို ကျော်လွန်နေပါပြီ။"</string>
+<string name="share_audio_exceeded">"ရွေးထားသောအသံဖိုင်သည် အများဆုံးအရွယ်အစား ကန့်သတ်ချက်ကို ကျော်လွန်နေပါပြီ။"</string>
+<string name="share_image_exceeded">"ရွေးထားသောပုံသည် အများဆုံးအရွယ်အစား ကန့်သတ်ချက်ကို ကျော်လွန်နေပါပြီ။"</string>
+<string name="share_muimgae_exceeded">"ကျော်လွန်သော ပုံကို မမျှဝေပါနှင့်။"</string>
+<string name="share_noimgae_exceeded">"ပုံမဟုတ်သော ဖိုင်များပါဝင်သဖြင့် မျှဝေ၍မရပါ။"</string>
+<string name="exceed_text_length_limitation">"၎င်းသည် စာသားအရှည် ကန့်သတ်ချက်ကို ကျော်နေသည်။"</string>
+<string name="drm_no_application_open">"ဖိုင် ဖွင့်မရပါ"</string>
+<string name="ok_drm_rights_consume">"အိုကေ"</string>
+<string name="cancel_drm_rights_consume">"ပယ်ဖျက်ပါ"</string>
+<string name="orgdrm_no_share">" မက်ဆေ့ဂ်ျပို့ခြင်းအတွက် မျှဝေခြင်းကို ပံ့ပိုးမပေးပါ"</string>
+<string name="drm_can_not_processed">" DRM ဖိုင်ကို စီမံဆောင်ရွက်၍ မရပါ"</string>
+<string name="protect_information">"သတင်း ကာကွယ်ပါ"</string>
+<string name="drm_consume_title">"အာမခံ DRM သုံးပါ"</string>
+<string name="drm_consume_hint">"အာမခံ DRM ကိုသာ သင့် အော်ပရေးရှင်း သုံးလိမ့်မည်"</string>
+<string name="drm_file_path">"လမ်းကြောင်း-%1$s"</string>
+<string name="drm_file_name">"ဖိုင်အမည်-%1$s"</string>
+<string name="drm_rights_validity">"ရပိုင်ခွင့်များ အကျုံးဝင်မှု-အကျုံးဝင်"</string>
+<string name="drm_rights_invalidity">"ရပိုင်ခွင့်များ အကျုံးဝင်မှု-အကျုံးမဝင်"</string>
+<string name="drm_rights_status_transfer">"ရပိုင်ခွင့်များ အခြေအနေ- လွှဲပြောင်းရန် ခွင့်ပြုထားသည်"</string>
+<string name="drm_rights_status_untransfer">"ရပိုင်ခွင့်များ အခြေအနေ- လွှဲပြောင်းရန် ခွင့်ပြုမထားပါ"</string>
+<string name="drm_start_time">"စတင်ချိန်- %1$s"</string>
+<string name="drm_end_time">"ပြီးဆုံးချိန်- %1$s"</string>
+<string name="drm_expiration_time">"သက်တမ်းကုန်ချိန်- %1$s"</string>
+<string name="drm_remain_times">"လက်ကျန်အချိန်များ- %1$s"</string>
+<string name="drm_no_info">"သတင်းမရှိ"</string>
+<string name="drm_unlimited_rights">"ကန့်သတ်မဲ့"</string>
+<string name="drm_rights_unknown">"မသိ"</string>
+<string name="drm_inactive_rights">"အာမခံ မရှိ"</string>
+<string name="drm_shared_not_drmdownload">"ကျေးဇူးပြု၍ DRM ဒေါင်းလုဒ် ဖိုင်လမ်းညွှန်ထဲသို့ ၎င်းကို ရွှေ့ပြီးနောက် မျှဝေပါ"</string>
+<string name="share_nofile_exceeded">"MMS ကန့်သတ်ချက် ကျော်သွားပါပြီ။"</string>
+<string name="no_few_participants">"တက်ရောက်သူများ မရှိပါ"</string>
+<string name="mms_validity_pref_title">"MMS ခိုင်လုံရေး ဆက်တင်"</string>
+<string name="sms_validity_pref_title">"SMS ခိုင်လုံရေး ဆက်တင်"</string>
+<string name="attach_vcalendar">"ပြက္ခဒိန်"</string>
+<string name="confirm_import_vcalendar">"ဤ V ပြက္ခဒိန်ကို ကူးထည့်မလား။"</string>
+<string name="confirm_save_otherfiles">"ဤပူးတွဲဖိုင်ကို သိမ်းမလား။"</string>
+<string name="confirm_import">"မှန်သည်"</string>
+<string name="cancel_import">"မဟုတ်ပါ"</string>
+<string name="attach_other_file">"အမည်မသိဖိုင်"</string>
+<string name="copy_to_sdcard_success">"\"ပူးတွဲဖိုင် သိမ်းလိုက်သောနေရာမှာ \"<xliff:g id="copy_to_sdcard_success_id">%s</xliff:g>"</string>
+<string name="copy_to_sdcard_fail">"ပူးတွဲချက်အား မသိမ်းနိုင်ပါ"</string>
+<string name="attach_sound">"အသံ"</string>
+<string name="select_vcard_button">"အဆက်အသွယ်ထည့်ရန် ခလုတ်ကို နှိပ်ပါ"</string>
+<string name="select_video_button">"ဗီဒီယိုထည့်ရန် ခလုတ်ကို နှိပ်ပါ"</string>
+<string name="select_audio_button">"အသံဖိုင်ထည့်ရန် ခလုတ်ကို နှိပ်ပါ"</string>
+<string name="select_vcalendar_button">"ပြက္ခဒိန်ထည့်ရန် ခလုတ်ကို နှိပ်ပါ"</string>
+<string name="select_slideshow_button">"ဆလိုက်ရှိုးထည့်ရန် ခလုတ်ကို နှိပ်ပါ"</string>
+<string name="slideshow_detail_activity_title">"ဆလိုက်ပြသချက်"</string>
+<string name="no_mms_plugin">"ဖိုင်တွဲမြင်ကွင်း မပါရှိပါ"</string>
+<string name="attachment_details">"ပူးတွဲဖိုင် အသေးစိတ်"</string>
+<string name="context_menu_copy_to_sim_memory">"SIM သို့ ဆက်ဆေ့ခ်ျ မိတ္တူပွားပါ"</string>
+<string name="copy_message_text">"စာသားကို ကူးယူပါ"</string>
+<string name="min_zoom">"အနိမ့်ဆုံးသို့ ရောက်ပါပြီ"</string>
+<string name="max_zoom">"အမြင့်ဆုံးသို့ ရောက်ပါပြီ"</string>
+<string name="message_details_text">"မက်ဆေ့ခ်ျအသေးစိတ်"</string>
+<string name="folder_reply">"ပြန်ပို့"</string>
+<string name="new_message">"မက်ဆေ့ခ်ျအသစ်"</string>
+<string name="folder_forward">"ရှေ့သို့သိမ်း"</string>
+<string name="delete_message">"ပယ်ဖျက်သည်"</string>
+<string name="menu_resend">"ပြန်ပို့"</string>
+<string name="save_all_attachments">"ပူးတွဲဖိုင်အားလုံးကို သိမ်းပါ"</string>
+<string name="host_app_name">"မက်ဆေ့ခ်ျ"</string>
+<string name="need_messaging_is_default_app">"\"%1$s\" ကို ပုံသေ SMS ပို့အက်ပ်အဖြစ် သင်က သတ်မှတ်ရမည်"</string>
+<string name="message_outgoing_successful">" ပို့ခြင်း အောင်မြင်ပါသည်"</string>
+<string name="message_outgoing_failure">"မက်ဆေ့ခ်ျမပို့ပါ"</string>
+<string name="share_unsupported_type">"ပံ့ပိုးမပေးသော အကြောင်းအရာ အမျိုးအစားဖြစ်သည်၊ မျှဝေ၍ မရပါ။"</string>
+<string name="mms_send_reports_pref_title">"MMS ပို့ပြီးကြောင်း သတင်းပို့ချက်များ"</string>
+<string name="mms_send_reports_pref_summary">"သင်ပို့လိုက်သော MMS တစ်စောင်ချင်းစီအတွက် ပို့ပြီးကြောင်း သတင်းပို့ချက်တစ်ခု တောင်းဆိုပါ"</string>
+<string name="mms_delivery_reports_pref_title">"MMS ပို့ပြီးကြောင်း သတင်းပို့ချက်များ"</string>
+<string name="mms_delivery_reports_pref_summary">"သင် ပေးပို့လိုက်သော MMS တစ်စောင်ချင်းစီအတွက် ပို့ပြီးကြောင်း သတင်းပို့ချက်တစ်ခု တောင်းဆိုပါ"</string>
+<string name="mms_read_reports_pref_title">"MMS ဖတ်ပြီးကြောင်း သတင်းပို့ချက်များ"</string>
+<string name="mms_read_reports_pref_summary">"သင်ပို့လိုက်သော MMS တစ်စောင်ချင်းစီအတွက် ဖတ်ပြီးကြောင်း သတင်းပို့ချက်တစ်ခု တောင်းဆိုပါ"</string>
+<string name="enable_return_mms_delivery_reports_pref_title">"MMS ပို့ပြီးကြောင်းသတင်းပို့ချက်များသို့ ပြန်လာရန်ကို ဖွင့်ပါ"</string>
+<string name="enable_return_mms_delivery_reports_pref_summary">"သင် ပေးပို့လိုက်သော MMS တစ်စောင်ချင်းစီအတွက် ပို့ပြီးကြောင်း သတင်းပို့ချက်တစ်ခု ပြန်လာရန်ကို ဖွင့်ပါ"</string>
+<string name="enable_return_mms_read_reports_pref_title">"MMS ဖတ်ပြီးကြောင်းသတင်းပို့ချက်များသို့ ပြန်လာရန်ကို ဖွင့်ပါ"</string>
+<string name="enable_return_mms_read_reports_pref_summary">"သင် ပေးပို့လိုက်သော MMS တစ်စောင်ချင်းစီအတွက် ဖတ်ပြီးကြောင်း သတင်းပို့ချက်တစ်ခု ပြန်လာရန်ကို ဖွင့်ပါ"</string>
+<string name="delivery_toast_body">"%s ဖြင့် လက်ခံရရှိသော မက်ဆေ့ဂ်ျ"</string>
+<string name="delivery_toast_body_expired">"မက်ဆေ့ဂ်ျသက်တမ်း ကုန်သွားပါပြီ %s"</string>
+<string name="delivery_toast_body_fail_rejected">"%s မှ မက်ဆေ့ဂ်ျကို ငြင်းလိုက်သည်"</string>
+<string name="delivery_toast_body_fail">"%s မှ မက်ဆေ့ဂ်ျ လက်ခံရရှိခြင်းမရှိပါ"</string>
+<string name="read_report_toast_body">"%s မှ မက်ဆေ့ဂ်ျကို ဖတ်ပြီးပါပြီ"</string>
+<string name="read_report_toast_body_fail">"%s မှ မက်ဆေ့ဂ်ျကို ဖတ်ခြင်းမရှိပါ"</string>
+<string name="mimetype_null">"MIME အမျိုးအစား မပါရှိ၍ မရပါ၊ ပူးတွဲဖိုင်ကို သိမ်း၍မရပါ"</string>
+<string name="pref_title_manage_simx_smsc">"SIM<xliff:g id="COUNT">%1$s</xliff:g> SMS ဝန်ဆောင်မှုဌာန"</string>
+<string name="pref_title_manage_sim_smsc">"SMS ဝန်ဆောင်မှုဌာန"</string>
+<string name="smsc_set_fails">"Smsc တပ်ဆင်မှုကျရှုံး"</string>
+<string name="smsc_set_success">"အောင်မြင်စွာဆက်တင်လုပ်။"</string>
+<string name="smsc_update_success">"အောင်မြင်စွာ အပ်ဒိတ်လုပ်ပြီးပါပြီ"</string>
+<string name="smsc_cannot_be_null">"Smsc မပါ၍ မရပါ!"</string>
+<string name="smsc_should_be_number">"Smsc သည် နံပါတ်တစ်ခု ဖြစ်ရပါမည်"</string>
+<string name="smsc_list">"SMS ဌာနစာရင်း"</string>
+<string name="smsc_list_empty">"SMS ဌာနနံပါတ်များမရှိ"</string>
+<string name="smsc_list_loading">"တင်ခြင်း"</string>
+<string name="smsc_list_empty_toast">"မက်ဆေ့ဂ်ျကို မပို့ဖြစ်ပါ၊ SMS စင်တာနံပါတ် မရှိပါ"</string>
+<string name="smsc_list_empty_notify_des">"SMS စင်တာနံပါတ်သစ်တစ်ခု ထည့်ပေးပါ"</string>
+<string name="smsc_list_empty_notify_title">"SMS စင်တာနံပါတ် မရှိပါ"</string>
+<string name="shared_image_number_exceed">"အများဆုံး မျှဝေလိုက်သော ပုံများအရေအတွက်မှာ %d ပုံဖြစ်ပြီး၊ ပိုနေသည်များကို ဖယ်ရှားလိုက်သည်။"</string>
+<string name="drm_unsupported_toast">"DRM ဖိုင်ကို မရနိုင်ပါ။ အခြားဖိုင် ရွေးပေးပါ။"</string>
+<string name="err_sent_no_sim">"မက်ဆေ့ဂ်ျကို မပို့ဖြစ်ပါ၊ SIM ကတ် မရှိပါ"</string>
+<string name="dlg_save_attachment">"ဖိုင်ကို သိမ်းပါ…"</string>
+<string name="is_redirect_to">"%1$s သို့ ပြန်ညွှန်းမလား။"</string>
+<string name="browser">"ဘရောက်ဆာ"</string>
+<string name="email">"အီးမေးလ်"</string>
+<string name="telephone">"တယ်လီဖုန်း"</string>
+<string name="map">"Map"</string>
+<string name="message_signature_setting">"စာရင်းသွင်းခြင်း ပြင်ဆင်ချက်"</string>
+<string name="pref_signature_enable_title">"ရွေးချယ်ရန်စာရင်းသွင်းခြင်း"</string>
+<string name="pref_signature_enabl_summary">"သင်ပို့လိုက်သော မက်ဆေ့ဂ်ျတိုင်းအတွက် ပို့သူအမှတ်အသား အော်တိုတွဲထည့်ပေးသည်"</string>
+<string name="pref_signature_input_title">"စာရင်းသွင်းခြင်းတည်းဖြတ်"</string>
+<string name="pref_signature_input_summary">"သင်၏စာရင်းသွင်းရန် ဒီနေရာတွင်ထည့်ပါ"</string>
+<plurals name="attachments_saved_dir">
+<item quantity="one">"ပူးတွဲဖိုင် <xliff:g id="quantity">%d</xliff:g> ဖိုင်ကို \"<xliff:g id="dir">%s</xliff:g>\" သို့ သိမ်းလိုက်ပါသည်"</item>
+<item quantity="other">"ပူးတွဲဖိုင် <xliff:g id="quantity">%d</xliff:g> ဖိုင်ကို \"<xliff:g id="dir">%s</xliff:g>\" သို့ သိမ်းလိုက်ပါသည်"</item>
+</plurals>
+<string name="no_permissions">"ခွင့်ပြုချက်များ မရှိပါ"</string>
+<string name="no_call_permissions">"ဖုန်းခေါ်ရန် ခွင့်ပြုချက်များ မရှိပါ"</string>
+<string name="folder_loading">"တင်နေ..."</string>
+<string name="sms_merge_forward_empty">"ပြောင်းလဲရန် နှင့် တဆင့်ပို့ရန် SMS မရှိပါ"</string>
+<string name="action_edit_contact">"ဖုန်းအဆက်အသွယ်ကို တည်းဖြတ်မည်"</string>
+<string name="sms_forward">"ပေါင်းစပ်ခြင်း နှင့် ရှေ့သို့လွှဲပြောင်းခြင်း"</string>
+<string name="sms_merge_dialog_title">"နှိုးဆော်သည်"</string>
+<string name="sms_merge_dialog_content1">"%d SMS မက်ဆေ့ဂ်ျများနှင့် "</string>
+<string name="sms_merge_dialog_content2">"%d SMS မက်ဆေ့ဂ်ျများ အကြားသာ သင်က ပေါင်းနိုင်သည်။ ၎င်းကို စစ်ဆေးပေးပါ။"</string>
+<string name="messagelist_sender_self">"ကျွန်ုပ်"</string>
+<string name="sms_merge_forward">"ပေါင်းစပ်ခြင်း နှင့် ရှေ့သို့လွှဲပြောင်းခြင်း"</string>
+<string name="muti_select_all">"အားလုံးကို ရွေးချယ်ပါ"</string>
+<string name="menu_select_none">"အားလုံးကို ပယ်ဖျက်ပါ"</string>
+<string name="sms_merge_dialog_content_exceed">"သင်က ပေါင်း၍ ထပ်ဆင့်ပို့လိုက်သော မက်ဆေ့ဂ်ျအကြောင်းအရာသည် %d ကို ကျော်နေသည်၊ ပြန်စစ်ဆေးပေးပါ။"</string>
+<string name="no_sms_permissions">"SMS ခွင့်ပြုချက်များ မရှိပါ၊ အသံဖိုင်ကို ဖွင့်၍မရပါ"</string>
+<string name="smil_subject_hint">"MMS အကြောင်းအရာ မပါရှိပါ၊ သင် မွမ်းမံ၍မရပါ"</string>
+<string name="smil_out_of_size">"မမ်မိုရီ ကုန်နေသည်"</string>
+<string-array name="smil_choice_items">
+<item>"ဆလိုက်ရှိုးကို ဖွင့်ပါ"</item>
+</string-array>
+<string name="video_content_type">"ဗီဒီယို -"</string>
+<string name="iamge_content_type">"ပုံ -"</string>
+<string name="audio_content_type">"အသံဖိုင် -"</string>
+<string name="subject_edit">"အကြောင်းအရာ ပြင်ရန်"</string>
+<string name="text_edit">"စာသား အယ်ဒီတာ"</string>
+<string name="repalce_slide">"ဆလိုက် အစားထိုးရန်"</string>
+<string name="remove_slide">"ဆလိုက် ဖယ်ရှားပါ"</string>
+<string name="insert_befor_slide">"ဆလိုက်အရှေ့မှ ထည့်ပါ"</string>
+<string name="insert_after_slide">"ဆလိုက်အနောက်မှ ထည့်ပါ"</string>
+<string name="add_attachment">"ပူးတွဲဖိုင်တစ်ဖိုင် ထည့်ရန်"</string>
+<string name="remove_attachment">"ပူးတွဲဖိုင် ဖယ်ရှားရန်"</string>
+<string name="repalce_attachment">"ပူးတွဲဖိုင် အစားထိုးရန်"</string>
+<string name="hint_for_input">"တည်းဖြတ်ပေးပါ"</string>
+<string name="hint_for_empty">"တည်းဖြတ်ရန် လက်ရှိနေရာမှ ပူးတွဲဖိုင်သည် ဗလာပူးတွဲဖိုင်တစ်ဖိုင်ဖြစ်သည်။"</string>
+<string name="goto_smil">"ဆလိုက်ပြသချက်"</string>
+<string name="smil_subject">"အကြောင်းရင်း -"</string>
+<string name="action_sim_sms">"SIM တွင် ရှိသော မက်ဆေ့ခ်ျများ"</string>
+<string name="sms_save_to_sim_pref_title">"SIM တွင် SMS သိမ်းပါ"</string>
+<string name="sms_save_to_sim_pref_summary">"SMS အသစ် ရောက်သောအခါ၊ ၎င်းကို SIM ပေါ် သိမ်းမလား၊ မသိမ်းဘူးလား"</string>
+<string name="sms_sim_full_title">"ဆင်းကတ် ပြည့်နေသည်"</string>
+<string name="sms_sim_full_notification_ticker">"SMS သိုလှောင်ခန်းနည်းနေသည်။ မက်ဆေ့ဂ်ျများကို သင်ဖျက်ပစ်ရန် လိုနိုင်သည်။"</string>
+<string name="sms_sim_full_text">"SIM ပြည့်နေသည်၊ SMS ကို မက်ဆေ့ဂ်ျပို့ ဒေတာဘေ့စ်သို့ သိမ်းပါမည်။ သင်က SIM သို့ ပြန်သိမ်းလိုပါက SIM မှ SMS ကို ဖျက်ပစ်ပေးပါ။"</string>
+<string name="ctcc_smart_sms_pref_title">"CTCC စမတ် SMS ကို ဖွင့်ပါ"</string>
+<string name="ctcc_smart_sms_pref_summary">"CTCC စမတ် SMS ကို ဖွင့်၊ မဖွင့်"</string>
+<plurals name="search_results_title">
+<item quantity="one">"<xliff:g id="NUMBER">%1$s</xliff:g> ခု ကိုက်ညီသည်၊ “<xliff:g id="SEARCH">%2$s</xliff:g>” ရှာဖွေရေး ရလဒ်များ"</item>
+<item quantity="other">"<xliff:g id="NUMBER">%1$s</xliff:g> ခု ကိုက်ညီသည်၊ “<xliff:g id="SEARCH">%2$s</xliff:g>” ရှာဖွေရေး ရလဒ်များ"</item>
+</plurals>
+<string name="menu_search_text">"ရှာဖွေချက်"</string>
+<string name="search_label">"စာတိုပေးပို့ခြင်း"</string>
+<string name="search_hint">"မက်ဆေ့ခ်ျပေးပို့ခြင်းကို ရှာပါ"</string>
+<string name="search_max_length">"ရှာသည့်ဝါကျအလွန်ရှည်၊ သတ်မှတ်ချက် 512။"</string>
+<string name="search_setting_description">"သင့်မက်ဆေ့ခ်ျများထဲရှိ စာသား"</string>
+<string name="search">"စာတိုပေးပို့ခြင်း"</string>
+<string name="search_empty">"တူညီမှုများမတွေ့ပါ"</string>
+<string name="search_history">"\"<xliff:g id="search">%2$s</xliff:g>\" အတွက် ရလဒ် <xliff:g id="count">%1$s</xliff:g> ခု"</string>
+<string name="can_not_add_same_attachment">"တူညီသောပူးတွဲဖိုင်ကို ထည့်ရန် ထပ်လုပ်ဆောင်၍ မရပါ"</string>
+<string name="can_not_add_same_picture">"တူညီသောပုံကို ထည့်ရန် ထပ်လုပ်ဆောင်၍ မရပါ"</string>
+<string name="smil_add_text">"စာသားပူးတွဲဖိုင်တစ်ဖိုင် ထည့်ရန်"</string>
+<string name="smil_update_text">"စာသားပူးတွဲဖိုင်တစ်ဖိုင်ကို အပ်ဒိတ်လုပ်ခြင်း အောင်မြင်သည်"</string>
+<string name="smil_empty_content">"အကြောင်းအရာ မပါပါ၊ ပို့ခြင်းကို ရပ်ပါ။"</string>
+<string name="exceed_participant_limit">"ပါဝင်သူအရေအတွက်သည် ကန့်သတ်ချက် (<xliff:g>%1$s</xliff:g>) ကျော်လွန်နေသဖြင့် <xliff:g>%2$s</xliff:g> ဦးကို ဖျက်ပေးပါ။"</string>
+<string name="folder_view_menu_item_title">"စာတွဲဖိုင် မြင်ကွင်း"</string>
+<string name="capacity_sim_message_title">"SIM စွမ်းအား"</string>
+<string name="capacity_sim_message_summary">"လက်ရှိ/အများဆုံး ဝင်ဆံ့အား- %s"</string>
+<string name="audio_record_retry">"ကျေးဇူးပြု၍ နောက်ခံတွင် အသံဖမ်းခြင်းကိုပိတ်၍ ထပ်ကြိုးစားပါ။"</string>
+<string name="contact_invalid">"အဆက်အသွယ် မှားနေသည်။ မှန်ကန်သော အဆက်အသွယ်ကို ပြန်ရွေးပေးပါ။"</string>
+<string name="message_size_counting">"ရေတွက်နေသည်"</string>
+<string name="pref_encode_type_setting_title">"စာဝှက်ပုံစံအပြင်အဆင်"</string>
+<string name="pref_encode_type_title">"စာဝှက်ပုံစံ"</string>
+<string name="fdn_check_failure">"သင်သည် သင်၏ ပုံသေဖုန်းခေါ်နံပါတ်များသို့သာ မက်ဆေ့ဂ်ျများ ပို့နိုင်သည်။"</string>
+<string name="data_call_fdn_check_failure">"FDN ဖွင့်ထားသဖြင့် MMS ကို ပို့၍ မရပါ။ FDN စာရင်းတွင် *99# ကို ထည့်ပြီးနောက် ထပ်ကြိုးစားပါ။"</string>
+<string name="smsc_fdn_check_failure">"FDN ဖွင့်ထားသဖြင့် SMS ကို ပို့၍ မရပါ။ ထို့ပြင် FDN စာရင်းတွင် သင်၏ မက်ဆေ့ဂ်ျစင်တာ နံပါတ် မရှိပါ။"</string>
+<string name="smil_wait_comparing_att_size">"ရယူနေသည်၊ ခဏ စောင့်ပေးပါ။"</string>
+<string name="smil_max_slide_count">"ဆလိုက် %s ခုသာ ထည့်နိုင်သည်"</string>
+<string name="sms_wap_pref_title">"SMS WAP မက်ဆေ့ဂ်ျကို ဖွင့်ရန်"</string>
+<string name="sms_wap_pref_summary">"SMS WAP မက်ဆေ့ဂ်ျကို လက်ခံရန် ဖွင့်ပါ"</string>
+<string name="smil_Player_title">"SMIL ပလေယာ"</string>
+<string name="smil_caption_description">"SMIL"</string>
+<string name="smil_caption_edit_hint">"(ပြင်ရန် ကလစ်နှိပ်ပါ)"</string>
+<string name="show_save_attachment_info">"၎င်းကို သိမ်းမလား။"</string>
+<string name="attachment_save_success">"သိမ်းခြင်း အောင်မြင်ပါသည်"</string>
+<string name="unread_message_count">"မဖတ်ရသေးသော အချက်အလက်များ"</string>
+<string name="mms_convert_to_smil_title">"ဆလိုက်များသို့ ဖောမတ်ပြောင်းပါ"</string>
+<string name="mms_convert_to_smil_message">"MMS ကို ဆလိုက်များအဖြစ်သို့ ပြောင်းပါမည်။ ယင်းသို့လုပ်စဉ် ဆလိုက်မုဒ်တွင် သုံး၍မရသော ပူးတွဲဖိုင်အချို့ကို ဖြုတ်ချပစ်ခဲ့နိုင်သည်၊ ပြောင်းမှာသေချာသလား။"</string>
+<string name="confirm_convert">"အိုကေ"</string>
+<string name="cancel_convert">"ပယ်ဖျက်ပါ"</string>
+<string name="smil_max_part_count">"ဆလိုက်တစ်ခုတွင် ပူးတွဲဖိုင် %s ဖိုင်သာ ထည့်နိုင်သည်"</string>
+<string name="smil_add_error_same_content_type">"ဆလိုက်တစ်ခုတွင် တူညီသော မီဒီယာအမျိုးအစားရှိ ပူးတွဲဖိုင်နှစ်ဖိုင်ကို ထည့်၍မရပါ။"</string>
+<string name="smil_add_error_video_conflict">"အော်ဒီယို သို့မဟုတ် ပုံပါရှိသော ဆလိုက်တစ်ခုတွင် ဗီဒီယိုကို ထည့်၍မရပါ။"</string>
+<string name="smil_replace_error_same_content_type">"ဆလိုက်တစ်ခုတွင် တူညီသော မီဒီယာအမျိုးအစားရှိ ပူးတွဲဖိုင်နှစ်ဖိုင်ကို ထည့်၍မရသောကြောင့် အစားထိုး၍ မရပါ။"</string>
+<string name="smil_replace_error_video_conflict">"ဗီဒီယိုနှင့် အစားထိုး၍ မရပါ၊ သင်၏ ပူးတွဲဖိုင်များကို ဖြုတ်ပြီး ထပ်ကြိုးစားပါ။"</string>
+<string name="smil_edit_hint">"ဆလိုက်များ၊ တည်းဖြတ်ရန် နှိပ်ပါ။"</string>
+<string name="smil_unsupported_content_type">"ပံ့ပိုးမပေးသော အကြောင်းအရာအမျိုးအစားဖြစ်သည်။"</string>
+<string name="pref_internal_memory_usage_title">"MMS/ထောက်ပံ့/အားလုံး"</string>
+<string name="pref_internal_memory_usage_progress_summary">"မှတ်ဉာဏ်နေရာလပ်တွက်နေ..."</string>
+<string name="discard_message_reason">"ကြိုးကြောင်းညီညွတ်သော လက်ခံသူများ မရှိသဖြင့် သင့်မက်ဆေ့ခ်ျကို ဖြုတ်ချပစ်သည်"</string>
+<string name="no_common_phrase">"ပုံမှန်သုံးသော စကားစုများ မရှိပါ"</string>
+<string name="action_copy_to_sim">"ဆင်းကတ်သို့မိတ္တူပွားခြင်း"</string>
+<string name="select_sim">"SIM ရွေးချယ်ပါ"</string>
+<string name="sim_space_not_enough">"SIM ပေါ်တွင် SMS အတွက် နေရာ မလုံလောက်ပါ"</string>
+<string name="move_message_to_phone_memory">"ဖုန်းမမ်မိုရီသို့ မက်ဆေ့ဂ်ျကူးယူမှု အောင်မြင်သည်"</string>
+<string name="can_not_copy_the_message">"မက်ဆေ့ခ်ျမိတ္တူမပွားနိုင်"</string>
+<string name="failed_to_add_media">"ဤ <xliff:g id="name">%1$s</xliff:g> အား သင့်မက်ဆေ့ခ်ျသို့ ထည့်၍မရပါ။"</string>
+<string name="contentType_audio">"အသံ"</string>
+<string name="contentType_video">"ဗီဒီယို"</string>
+<string name="contentType_image">"ရုပ်ပုံများ"</string>
+<string name="contentType_other">"ပံ့ပိုးမပေးသော ဖိုင်အမျိုးအစားကို မျှဝေ၍ မရပါ"</string>
+<string name="no_record_audio_permission">"အသံဖမ်းရန် ခွင့်ပြုချက် မရှိပါ။"</string>
+<string name="close_float_video">"ကင်မရာကို ဖွင့်သောအခါ ဗီဒီယိုလွင့်မျော ဝင်းဒိုးများကို ပိတ်ပါ။"</string>
+<string name="unable_get_data">"ဒေတာကို ယူ၍မရပါ"</string>
+<string name="unexpected_recording_error">"ကျေးဇူးပြု၍ အသံဖမ်းအက်ပ်ကိုပိတ်ပြီး ထပ်ကြိုးစားပါ"</string>
+<string name="add_contacts_dialog_title">"အဆက်အသွယ်များ ထည့်ပါ"</string>
+<string name="add_contact_as_text">"မက်ဆေ့ခ်ျရေးပါ"</string>
+<string name="file_not_found_exception">"ဖိုင်ကို မတွေ့ပါ။"</string>
+<string name="pref_title_mms_size_limit">"MMS အရွယ်အစား ကန့်သတ်ချက်"</string>
+<string name="pref_summary_mms_size_limit">"မက်ဆေ့ဂ်ျတစ်စောင်ရေးဖွဲ့ရန် MMS အရွယ်အစား ကန့်သတ်ချက်"</string>
+<string name="sub_card_download_mms_noti">"အကူအညီပေးကတ်သည် MMS လက်ခံရရှိသောအခါ ကွန်ရက်ကို ပြောင်းပါ"</string>
+<string name="compressing">"ရုပ်ပုံမှာ ကြီးလွန်းသည်။ ချုံ့နေဆဲ\u2026"</string>
+<string name="add_contact_toast">"အဆက်အသွယ်များကို ဦးစွာ ထည့်ပါ။"</string>
+<string name="no_market_store_app">"Market Store အက်ပ်ကို အင်စတောလုပ်မထားပါ။"</string>
+<string name="fdn_add_dialog_title">"ပုံသေဖုန်းခေါ် အဆက်အသွယ်အတွက် SMS စင်တာနံပါတ် ထည့်မလား။"</string>
+<string name="upper_to_max_text_length">"အများဆုံး စာသားအရှည်ကို ကျော်နေသည်"</string>
+<string name="upper_to_max_chips_parsed">"ကူးလိုက်သော လက်ခံမည့်သူအရေအတွက်သည် အများဆုံးကန့်သတ်ချက်ကျော်နေသည်"</string>
+<string name="text_copied">"စာသားကို ကလစ်ဘုတ်သို့ ကူးယူပြီးပါပြီ"</string>
+<string name="fail_start_record_videoaudio">"အခြားအက်ပ်က ကင်မရာ/မိုက်ခရိုဖုန်းကို သုံးနေသည်၊ ယခု အသံဖမ်း၍မရပါ"</string>
+<string name="event_create">"ဖြစ်စဉ်အသစ်"</string>
+<string name="sprd_parse_date_fail">"ရက်စွဲဆန်းစစ်ချက် မအောင်မြင်ပါ။"</string>
+<string name="error_external_storage_access">"ပြင်ပသိုလှောင်ခန်းသို့ ဝင်သုံး၍ မရပါ"</string>
+<string name="download_request_confirm">"ဖိုင်အော်ပရေးရှင်းအတွက် ဒေါင်းလုဒ် သိမ်းရန်ဖိုင်လမ်းကြောင်းကို ပြင်ပ SD ကတ်ဟု ရွေးချယ်ပါ။"</string>
+<string name="shared_attachment_number_exceed">"အများဆုံး မျှဝေလိုက်သော ပူးတွဲဖိုင်များ အရေအတွက်မှာ %d ပုံဖြစ်ပြီး၊ ပိုနေသည်များကို ဖယ်ရှားလိုက်သည်။"</string>
+
+</resources>

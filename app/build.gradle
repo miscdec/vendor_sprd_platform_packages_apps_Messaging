@@ -1,0 +1,213 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 29
+    buildToolsVersion '29.0.2'
+    defaultConfig {
+        applicationId "com.android.messaging"
+        minSdkVersion 21
+        targetSdkVersion 28
+        versionCode 10002140
+        versionName "1.0.002"
+
+        ndk {
+            moduleName "libgiftranscode"
+        }
+
+        sourceSets {
+            main {
+                jni.srcDirs = [] // This prevents the auto generation of Android.mk
+                jniLibs.srcDirs = ['../libs/ctcc']   //add this line, can prevent to java.lang.UnsatisfiedLinkError: dlopen failed: library "/system/lib64/libcallme.so" needed or dlopened by "/system/lib64/libnativeloader.so" is not accessible for the namespace "classloader-namespace"
+                res.srcDirs = ['../res', '../res_cmcc_sso', '../res_smsparsing']
+                java.srcDirs = ['../src']
+                aidl.srcDirs = ['../src/com/sprd/gallery3d/aidl']
+                manifest.srcFile '../overlay/androidmanifest/debug/AndroidManifest.xml'
+                resources.srcDirs = ['../assets']
+                assets.srcDirs = ['../assets']
+            }
+            debug {
+                res.srcDirs = ['../res_sprd']
+                manifest.srcFile '../overlay/androidmanifest/debug/AndroidManifest.xml'
+            }
+            release {
+                res.srcDirs = ['../res_sprd']
+                manifest.srcFile '../overlay/androidmanifest/release/AndroidManifest.xml'
+            }
+            test {
+                java.srcDirs = ['../tests']
+            }
+        }
+
+        testApplicationId "com.android.messaging.test"
+        testInstrumentationRunner "android.test.InstrumentationTestRunner"
+    }
+    signingConfigs {
+        release {
+            storeFile file("../signature/release/signs_release.jks")
+            storePassword '123456'
+            keyAlias 'platform'
+            keyPassword '123456'
+        }
+        debug {
+            storeFile file("../signature/debug/signs_debug.jks")
+            storePassword '123456'
+            keyAlias 'platform'
+            keyPassword '123456'
+        }
+    }
+    lintOptions {
+        checkReleaseBuilds false
+    }
+
+    packagingOptions {
+        exclude 'LICENSE-2.0.txt'
+    }
+    def ndkBuildCmd
+    if (org.gradle.internal.os.OperatingSystem.current().isLinux())
+        ndkBuildCmd = 'ndk-build'
+    else
+        ndkBuildCmd = 'ndk-build.cmd'
+    println "Current ndk build cmd is [$ndkBuildCmd]."
+    task buildLibGifTranscode(type: Exec, description: 'Compile JNI source via NDK') {
+        def ndkDir = android.ndkDirectory
+        def libs_path = file('../libs').absolutePath
+        commandLine "$ndkDir/$ndkBuildCmd",
+                '-C', file('../jni').absolutePath, // Change src/main/jni the relative path to your jni source
+                "LIBS_PATH=$libs_path",
+                "IDPT_MESSAGING=true",
+                '-j', Runtime.runtime.availableProcessors(),
+                'all',
+                'NDK_DEBUG=1'
+    }
+    task cleanLibGifTranscode(type: Exec, description: 'Clean JNI object files') {
+        def ndkDir = android.ndkDirectory
+        def libs_path = file('../libs').absolutePath
+        commandLine "$ndkDir/$ndkBuildCmd",
+                '-C', file('../jni').absolutePath, // Change src/main/jni the relative path to your jni source
+                "LIBS_PATH=$libs_path",
+                "IDPT_MESSAGING=true",
+                'clean'
+    }
+    clean.dependsOn 'cleanLibGifTranscode'
+    tasks.withType(JavaCompile) {
+        compileTask -> compileTask.dependsOn buildLibGifTranscode
+    }
+    buildTypes {
+        release {
+            signingConfig signingConfigs.release
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), '../proguard-test.flags'
+            //proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+        debug {
+            signingConfig signingConfigs.debug
+        }
+    }
+
+    android.applicationVariants.all { variant ->
+        def appName
+        if (project.hasProperty("applicationName")) {
+            appName = applicationName
+        } else {
+            appName = parent.name
+        }
+
+        variant.outputs.all { output ->
+            outputFileName = "${appName}.apk"
+        }
+    }
+
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+}
+
+afterEvaluate {
+    tasks.matching {
+        // 以process开头以Manifest结尾的task
+        it.name.startsWith('process') && (it.name.endsWith('Manifest'))
+    }.each {
+        compileTask -> compileTask.dependsOn copy_idpt_files_Task // 任务依赖：执行task之前需要执行dependsOn指定的任务
+    }
+    tasks.matching {
+        // 以process开头以DebugManifest结尾的task
+        it.name.startsWith('process') && (it.name.endsWith('DebugManifest'))
+    }.each {
+        compileTask -> compileTask.dependsOn copy_userdebug_files_Task // 任务依赖：执行task之前需要执行dependsOn指定的任务
+    }
+    tasks.matching {
+        // 以process开头以ReleaseManifest的task
+        it.name.startsWith('process') && (it.name.endsWith('ReleaseManifest'))
+    }.each {
+        compileTask -> compileTask.dependsOn copy_user_files_Task  // 任务依赖：执行task之前需要执行dependsOn指定的任务
+    }
+}
+
+task copy_idpt_files_Task(type: Copy) {
+    from '../overlay/idpt/src'
+    into '../src'
+}
+
+task copy_userdebug_files_Task(type: Copy) {
+    from '../overlay/androidmanifest/debug'
+    into '.'
+}
+
+task copy_user_files_Task(type: Copy) {
+    from '../overlay/androidmanifest/release'
+    into '.'
+}
+
+//preBuild {
+//    doLast {
+//        def imlFile = file(project.name + ".iml")
+//        println 'Change ' + project.name + '.iml order'
+//        try {
+//            def parsedXml = (new XmlParser()).parse(imlFile)
+//            def jdkNode = parsedXml.component[1].orderEntry.find { it.'@type' == 'jdk' }
+//            parsedXml.component[1].remove(jdkNode)
+//            def sdkString = "Android API " + android.compileSdkVersion.substring("android-".length()) + " Platform"
+//            println sdkString
+//            new Node(parsedXml.component[1], 'orderEntry', ['type': 'jdk', 'jdkName': sdkString, 'jdkType': 'Android SDK'])
+//            groovy.xml.XmlUtil.serialize(parsedXml, new FileOutputStream(imlFile))
+//        } catch (FileNotFoundException e) {
+//
+//        }
+//    }
+//}
+
+dependencies {
+    androidTestImplementation('androidx.test.espresso:espresso-core:3.1.0', {
+        exclude group: 'com.android.support', module: 'support-annotations'
+    })
+    compileOnly files('../libs/framework.jar')
+    compileOnly files('../libs/telephony-common.jar')
+    compileOnly files('../libs/ims.jar')
+    compileOnly files('../libs/ims_common.jar')
+    compileOnly files('../libs/radio_interactor_common.jar')
+
+    implementation files('../libs/android-common-framesequence.jar')
+    implementation files('../libs/plugin-framework-v1.0.jar')
+    if (gradle.useLocalLibs) {
+        implementation files('../libs/guava.jar')
+        implementation files('../libs/jsr305.jar')
+        implementation fileTree(include: ['*.aar'], dir: '../libs')
+    } else {
+        implementation project(':chips')
+        implementation project(':photoviewer')
+        implementation project(':vcard')
+        implementation project(':guava')
+        implementation project(':common')
+    }
+
+    implementation fileTree(include: ['*.jar'], dir: '../libs/cmcc')
+    implementation fileTree(include: ['*.jar'], dir: '../libs/cucc')
+    implementation fileTree(include: ['*.jar'], dir: '../libs/ctcc')
+
+    implementation 'androidx.recyclerview:recyclerview:1.0.0'
+    implementation 'androidx.appcompat:appcompat:1.0.0'
+    implementation 'androidx.annotation:annotation:1.0.0'
+    implementation 'com.googlecode.libphonenumber:libphonenumber:8.8.10'
+    implementation 'com.github.bumptech.glide:glide:4.10.0'
+}

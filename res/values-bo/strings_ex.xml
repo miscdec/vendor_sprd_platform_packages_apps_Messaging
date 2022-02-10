@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <plurals name="attachments_saved_dir">
+        <item quantity="one">"ཟུར་བཏགས་ཡིག་ཆ་ <xliff:g id="quantity">%d</xliff:g> དེ་ \"<xliff:g id="dir">%s</xliff:g>\"སུ་ཉར།"</item>
+        <item quantity="other">"ཟུར་བཏགས་ཡིག་ཆ་ <xliff:g id="quantity">%d</xliff:g> དེ་ \"<xliff:g id="dir">%s</xliff:g>\"སུ་ཉར།"</item>
+    </plurals>
+    <plurals name="search_results_title">
+        <item quantity="one">"<xliff:g id="NUMBER">%1$s</xliff:g> ནི་འཚོལ་བཤེར་མཇུག་འབྲས་“<xliff:g id="SEARCH">%2$s</xliff:g> ”ལ་འཚམ།"</item>
+        <item quantity="other">"<xliff:g id="NUMBER">%1$s</xliff:g> ནི་འཚོལ་བཤེར་མཇུག་འབྲས་“<xliff:g id="SEARCH">%2$s</xliff:g> ”"</item>
+    </plurals>
+    <string name="signature_title">མིང་འགོད།</string>
+    <string name="pref_title_sms_retry_times">འཕྲིན་ཐུང་ཚོད་ལྟ་སླར་བྱེད་ཀྱི་སྒུལ་སློང་།</string>
+    <string name="conversation_deleteAll_failed">"ཅུང་ཙམ་གྱི་རྗེས་སུ་སླར་ཚོད་ལྟ་བྱེད།"</string>
+    <string name="warning">ཉེན་བརྡ།</string>
+    <string name="attachment_exceeded">"ཁྱེད་ཀྱིས་བསྐུར་བའི་ཟུར་བཏགས་ཀྱི་ཆེ་ཆུང་ནི་གོང་མཐའ་ལས་བརྒལ།"</string>
+    <string name="attachment_size">"ཁྱེད་ཀྱིས་སྐུར་བའི་ཟུར་བཏགས་ཀྱི་ཆེ་ཆུང"</string>
+    <string name="mms_size">"ཚོན་འཕྲིན་ཆེ་ཆུང"</string>
+    <string name="permission_read_messages_attachment_label">"འཕྲིན་ཐུང་ཟུར་བཏགས་ལ་འདྲི་གཏུག་བྱེད།"</string>
+    <string name="permission_read_messages_attachment_desc">"འཕྲིན་ཐུང་ཉེར་སྤྱོད་ལ་འདྲི་གཏུག་བྱེད་དུ་འཇུག"</string>
+    <string name="preference_name">"རྒྱུན་བཀོལ་འཕྲིན་ཐུང་།"</string>
+    <string name="select">"བདམས། "</string>
+    <string name="item_cancel">འདོར།</string>
+    <string name="item_delete">སུབ།</string>
+    <string name="save_as_teltype">"ཁ་པར་བེད་སྤྱོད།"</string>
+    <string name="save_as_mmstype">"འཕྲིན་ཐུང་བཀོལ་སྤྱོད།"</string>
+    <string name="type_to_pharser">"རྒྱུན་བཀོལ་ཚིག་ཐུང་མཐེབ་འཇུག་བྱེད།"</string>
+    <string name="add">ཁ་སྣོན།</string>
+    <string name="edit">རྩོམ་སྒྲིག</string>
+    <string name="delete">སུབ།</string>
+    <string name="finish">"ལེགས་འགྲུབ་བྱུང་།"</string>
+    <string name="cancel">འདོར།</string>
+    <string name="add_pharser">"རྒྱུན་བཀོལ་ཚིག་ཐུང་སྣོན།"</string>
+    <string name="edit_pharser">རྒྱུ་སྤྱོད་གྱི་འཕྲིན་གཏོང་རྩོམ་སྒྲིག།</string>
+    <string name="exit_pharser_dialog_title">དྲན་སྐུལ།</string>
+    <string name="exit_pharser_dialog_content">"རྒྱུན་བཀོལ་ཚིག་ཐུང་རྩོམ་སྒྲིག་བྱེད།"</string>
+    <string name="pharser_can_modify">"རྩོམ་སྒྲིག་བྱས་ཆོག་པའི་རྒྱུན་བཀོལ་ཚིག་ཐུང་།"</string>
+    <string name="pharser_cannot_modify">"ཚིག་ཐུང་གཏན་འཁེལ་བྱེད།"</string>
+    <string name="empty_pharser_not_save">"ཚིག་ཐུང་སྟོང་བ་ཉར་མི་ཐུབ།"</string>
+    <string name="select_item">"བདམས་ཟིན།"</string>
+    <string name="select_commmon_phrase">རྒྱུན་བཀོལ་ཚིག་ཐུང་འདམ།</string>
+    <string name="common_phrase_empty">"རྒྱུན་བཀོལ་འཕྲིན་ཐུང་མི་འདུག"</string>
+    <string name="action_add_phrase">"རྒྱུན་བཀོལ་ཚིག་ཐུང་འཇུག"</string>
+    <string name="pref_other_settings_title">གཞན།</string>
+    <string name="action_wireless_alerts">"སྐུད་མེད་ཉེན་བརྡ།"</string>
+    <string name="positive">"ལགས་སོ།"</string>
+    <string name="wap_push_message_dialog_title">"ཆ་འཕྲིན་རྫོང་།"</string>
+    <string name="open_website">"དྲ་རྒྱའི་ཁ་འབྱེད།"</string>
+    <string name="activity_not_found">"ལྟོས་ཟླའི་ཉེར་སྤྱོད་མ་རྙེད།"</string>
+    <string name="share_video_exceeded">"ཁྱེད་ཀྱིས་བདམས་པའི་བརྙན་ཟློས་ཀྱི་ཆེ་ཆུང་ནི་གོང་མཐའ་ལས་བརྒལ།"</string>
+    <string name="share_audio_exceeded">"ཁྱེད་ཀྱིས་བདམས་པའི་སྒྲ་ཟློས་ཀྱི་ཆེ་ཆུང་ནི་གོང་མཐའ་ལས་བརྒལ།"</string>
+    <string name="share_image_exceeded">"ཁྱེད་ཀྱིས་བདམས་པའི་པར་རིས་ཀྱི་ཆེ་ཆུང་ནི་གོང་མཐའ་ལས་བརྒལ།"</string>
+    <string name="share_muimgae_exceeded">"གོང་མཐའ་ལས་བརྒལ་བའི་པར་རིས་ནི་མཉམ་རོལ་མི་བྱེད།"</string>
+    <string name="share_noimgae_exceeded">"པར་རིས་མ་ཡིན་པ་འདུས་པའི་ཡིག་ཆ་མཉམ་རོལ་བྱེད་མི་ཐུབ།"</string>
+    <string name="exceed_text_length_limitation">"ཡིག་ཆའི་རིང་ཚད་ཀྱི་གོང་མཐའ་ལས་བརྒལ།"</string>
+    <string name="drm_no_application_open">ཡིག་ཆའི་ཁ་འབྱེད་མི་ཐུབ།</string>
+    <string name="ok_drm_rights_consume">ལགས་སོ།</string>
+    <string name="cancel_drm_rights_consume">འདོར།</string>
+    <string name="orgdrm_no_share">"ཡིག་ཆ་དེས་མཉམ་རོལ་ལ་རྒྱབ་སྐྱོར་མི་བྱེད།"</string>
+    <string name="drm_can_not_processed">"Drmཡིག་ཆས་ནི་སྒྲིག་བཀོལ་བྱེད་མི་ཐུབ།"</string>
+    <string name="protect_information">སྲུང་སྐྱོང་ཆ་འཕྲིན།</string>
+    <string name="drm_consume_title">Drmདབང་ཚད་འཛད་སྤྱོད་བྱེད།</string>
+    <string name="drm_consume_hint">ཁྱེད་ཀྱི་སྒྲིག་བཀོལ་གྱིས་Drmདབང་ཚད་འཛད་སྤྱོད་བྱེད།</string>
+    <string name="drm_file_path">"དཀར་ཆག %1$s"</string>
+    <string name="drm_file_name">"ཡིག་ཆའི་མིང་%1$s"</string>
+    <string name="drm_rights_validity">"དབང་ཚད་དུས་ཡུན་ནུས་ལྡན་རེད།"</string>
+    <string name="drm_rights_invalidity">"དབང་ཚད་དུས་ཡུན་ནུས་མེད་རེད།"</string>
+    <string name="drm_rights_status_transfer">"སྲུང་སྐྱོང་གནས་བབ་སྟེ། གཞན་སྐུར་གནང་ཆོག"</string>
+    <string name="drm_rights_status_untransfer">"སྲུང་སྐྱོང་གནས་བབ་སྟེ། གཞན་སྐུར་གནང་མི་ཆོག"</string>
+    <string name="drm_start_time">"མགོ་རྩོམ་པའི་དུས་ཚོད།%1$s"</string>
+    <string name="drm_end_time">"མཇུག་སྡུད་པའི་དུས་ཚོད།%1$s"</string>
+    <string name="drm_expiration_time">"དུས་ཡོལ་དུས་ཚོད་%1$s"</string>
+    <string name="drm_remain_times">"ཐེངས་གྲངས་ལྷག་མ་%1$s"</string>
+    <string name="drm_no_info">ཆ་འཕྲིན་མི་འདུག</string>
+    <string name="drm_unlimited_rights">ཚོད་འཛིན་མེད།</string>
+    <string name="drm_rights_unknown">མ་ཤེས།</string>
+    <string name="drm_inactive_rights">པར་དབང་གི་སྐུལ་བསླངས་མེད།</string>
+    <string name="drm_shared_not_drmdownload">"ཡིག་ཆ་དེ་དཀར་ཆགDrmDownloadདུ་སྤོ་ཞིང་དེ་ནས་མཉམ་རོལ་བྱེད།"</string>
+    <string name="share_nofile_exceeded">"ཆ་འཕྲིན་གྱི་གོང་མཐའ་ལས་བརྒལ།"</string>
+    <string name="no_few_participants">"ཞུགས་མཁན་མི་འདུག"</string>
+    <string name="mms_validity_pref_title">"ཚོན་འཕྲིན་ནུས་ལྡན་སྒྲིག་འགོད།"</string>
+    <string name="sms_validity_pref_title">"འཕྲིན་ཐུང་ནུས་ལྡན་སྒྲིག་འགོད།"</string>
+    <string name="attach_vcalendar">ཚེས་ཐོ།</string>
+    <string name="confirm_import_vcalendar">VCalendarའདིའི་ནང་དུ་འདྲེན་རྒྱུ་ཡིན་ནམ།</string>
+    <string name="confirm_save_otherfiles">ཟུར་བཏགས་འདི་ཉར་རྒྱུར་ཡིན་ནམ།</string>
+    <string name="confirm_import">ཡིན།</string>
+    <string name="cancel_import">"མིན།"</string>
+    <string name="attach_other_file">"མ་ཤེས་པའི་ཡིག་ཆ།"</string>
+    <string name="copy_to_sdcard_success">"ཟུར་འདོགས་གསོག་ཉར་བྱེད་ཡུལ <xliff:g id="copy_to_sdcard_success_id">%s</xliff:g>"</string>
+    <string name="copy_to_sdcard_fail">"ཟུར་འདོགས་གསོག་ཉར་བྱེད་མ་ཐུབ།"</string>
+    <string name="attach_sound">སྒྲ་ཟློས།</string>
+    <string name="select_vcard_button">"མཐེབ་ལ་རྡེབ་ནས་འབྲེལ་གཏུག་འདམ་པའི་བྱང་ངོས་སུ་ཞུགས།"</string>
+    <string name="select_video_button">"མཐེབ་ལ་རྡེབ་ནས་བརྙན་ཟློས་འདམ་པའི་བྱང་ངོས་སུ་ཞུགས།"</string>
+    <string name="select_audio_button">"མཐེབ་ལ་རྡེབ་ནས་སྒྲ་ཟློས་འདམ་པའི་བྱང་ངོས་སུ་ཞུགས།"</string>
+    <string name="select_vcalendar_button">"མཐེབ་ལ་རྡེབ་ནས་ཚེས་ཐོ་འདམ་པའི་བྱང་ངོས་སུ་ཞུགས།"</string>
+    <string name="select_slideshow_button">"མཐེབ་ལ་རྡེབ་ནས་ཁྱེད་ཉིད་སྒྲོན་བརྙན་བྱང་ངོས་སུ་ཞུགས།"</string>
+    <string name="slideshow_detail_activity_title">གློག་ཤོག་སྟོན་པ།</string>
+    <string name="no_mms_plugin">"ཡིག་ཁུག་མཐོང་རིས་མི་འདུག"</string>
+    <string name="attachment_details">"ཟུར་བཏགས་གནས་ཚུལ་ཞིབ་ཕྲ།"</string>
+    <string name="context_menu_copy_to_sim_memory">SIM ནང་གསར་འགྱུར་པར་ཤུས་འགྲུབས།</string>
+    <string name="copy_message_text">"ཡི་གེ་བསྐྱར་བཤུས།"</string>
+    <string name="min_zoom">"ཆུང་ཤོས་སུ་ཐོན།"</string>
+    <string name="max_zoom">"ཆེ་ཤོས་སུ་ཐོན།"</string>
+    <string name="message_details_text">"ཡིག་ཟམ་ཞིབ་ཕྲའི་གནས་ཚུལ།"</string>
+    <string name="folder_reply">ཡ་ལན་སློག</string>
+    <string name="new_message">"ཆ་འཕྲིན་གསར་བ།"</string>
+    <string name="folder_forward">མདུན་སྐྱོད།</string>
+    <string name="delete_message">སུབ།</string>
+    <string name="menu_resend">བསྐྱར་སྐུར།</string>
+    <string name="save_all_attachments">"ཟུར་བཏགས་མཐའ་དག་ཉར།"</string>
+    <string name="host_app_name">"ཡིག་ཟམ།"</string>
+    <string name="need_messaging_is_default_app">"\"%1$s\" དེ་རང་ལེན་ཉེར་སྤྱོད་དུ་སྒྲིག་འགོད་བྱེད།"</string>
+    <string name="message_outgoing_successful">"བསྐུར་ཟིན།"</string>
+    <string name="message_outgoing_failure">"ཆ་འཕྲིན་བསྐུར་མེད།"</string>
+    <string name="share_unsupported_type">"རྒྱབ་སྐྱོར་མི་བྱེད་པའི་རིགས་ནི་མཉམ་རོལ་བྱེད་མི་ཐུབ།"</string>
+    <string name="mms_send_reports_pref_title">"ཚོན་འཕྲིན་སྐུར་བའི་སྙན་ཞུ།"</string>
+    <string name="mms_send_reports_pref_summary">"ཚོན་འཕྲིན་སྐུར་རྗེས་སྙན་ཞུ་ཕྱིར་སྐུར་བའི་རེ་འདུན་འདོན།"</string>
+    <string name="mms_delivery_reports_pref_title">"ཚོན་འཕྲིན་འབྱོར་བའི་སྙན་ཞུ།"</string>
+    <string name="mms_delivery_reports_pref_summary">"ཚོན་འཕྲིན་འབྱོར་ཐེངས་ཀུན་ལ་འབྱོར་ཟིན་གྱི་སྙན་ཞུ་འབུལ་བའི་རེ་འཇུན་འདོན།"</string>
+    <string name="mms_read_reports_pref_title">"ཚོན་འཕྲིན་ཀློག་པའི་རེ་འདུན"</string>
+    <string name="mms_read_reports_pref_summary">"ཚོན་འཕྲིན་བསྐུར་རྗེས་ཀློག་ཟིན་པའི་ཨ་ལན་སྐུར་བར་རེ་འདུན་འདོན།"</string>
+    <string name="enable_return_mms_delivery_reports_pref_title">"ཚོན་འཕྲིན་འབྱོར་བའི་སྙན་ཞུ་འབུལ་དུ་འཇུག"</string>
+    <string name="enable_return_mms_delivery_reports_pref_summary">"ཆ་འཕྲིན་འབྱོར་རྗེས། རང་འགུལ་གྱིས་ཚོན་འཕྲིན་འབྱོར་བའི་སྙན་ཞུ་འབུལ་དུ་འཇུག"</string>
+    <string name="enable_return_mms_read_reports_pref_title">"ཚོན་འཕྲིན་ཀློག་ཟིན་སྙན་ཞུ་འབུལ་དུ་འཇུག"</string>
+    <string name="enable_return_mms_read_reports_pref_summary">"ཆ་འཕྲིན་འབྱོར་རྗེས། འགུལ་གྱིས་ཚོན་འཕྲིན་ཀློག་ཟིན་གྱི་སྙན་ཞུ་འབུལ་དུ་འཇུག"</string>
+    <string name="delivery_toast_body">"%s ལ་ཆ་འཕྲིན་འབྱོར།"</string>
+    <string name="delivery_toast_body_expired">"ཆ་འཕྲིན་དུས་ལས་འདས།%s"</string>
+    <string name="delivery_toast_body_fail_rejected">"ཆ་འཕྲིན་%sཡིས་ཟློག"</string>
+    <string name="delivery_toast_body_fail">"ཆ་འཕྲིན་%sལ་མ་འབྱོར།"</string>
+    <string name="read_report_toast_body">"ཆ་འཕྲིན་%sཡིས་མ་ཀློག"</string>
+    <string name="read_report_toast_body_fail">"ཆ་འཕྲིན་%sཡིས་མ་ཀློག"</string>
+    <string name="mimetype_null">"mimetypeསྟོང་བ་རེད། ཟུར་བཏགས་འདི་ཉར་མི་ཐུབ།"</string>
+    <string name="pref_title_manage_simx_smsc">"SIM<xliff:g id="COUNT">%1$s</xliff:g>འཕྲིན་ཐུང་ཞབས་ཞུ་ལྟེ་གནས།"</string>
+    <string name="pref_title_manage_sim_smsc">ཆ་འཕྲིན་ལྟེ་གནས་ཀྱི་ཨང་གྲངས། </string>
+    <string name="smsc_set_fails">ལྟེ་བའི་ཨང་གྲངས་བཟོ་མ་ཐུབ།</string>
+    <string name="smsc_set_success">"སྒྲིག་འགོད་འགྲུབ།"</string>
+    <string name="smsc_update_success">"གནས་སྤར་ལེགས་པར་འགྲུབ་པ་"</string>
+    <string name="smsc_cannot_be_null">"འཕྲིན་ཐུང་ལྟེ་བར་ཨང་གྲངས་སྟོང་བར་སྐྱུར་མི་རུང་།"</string>
+    <string name="smsc_should_be_number">"འཕྲིན་ཐུང་ལྟེ་བའི་ཨང་གྲངས་ནི་ཨང་གྲངས་ཤིག་ཡིན་ངེས།"</string>
+    <string name="smsc_list">འཕྲིན་གཏོང་ལྟེ་བའི་ཨང་གྲངས་རེའུ་མིག</string>
+    <string name="smsc_list_empty">འཕྲིན་གཏོང་ལྟེ་བའི་ཨང་གྲངས་མེད།</string>
+    <string name="smsc_list_loading">ནང་དུ་འདྲེན་བཞིན་འདུག</string>
+    <string name="smsc_list_empty_toast">"སྐུར་མ་ཐུབ། ཆ་འཕྲིན་ལྟེ་བའི་ཨང་གྲངས་མི་འདུག"</string>
+    <string name="smsc_list_empty_notify_des">"འཕྲིན་ཐུང་ལྟེ་བའི་ཨང་གྲངས་ཤིག་འཛུགས།"</string>
+    <string name="smsc_list_empty_notify_title">"འཕྲིན་ཐུང་ལྟེ་བའི་ཨང་གྲངས་མི་འདུག"</string>
+    <string name="shared_image_number_exceed">"མང་མཐར་པར་རིས་%dསགྲོས་བསྟུན་བྱེད་ཐུབ། ལྷག་པོ་དག་བསུབས་ཟིན།"</string>
+    <string name="drm_unsupported_toast">"DRMཡིག་ཆ་སྤྱོད་མི་ཐུབ། ཡིག་ཆ་གཞན་པ་འདམ་རོགས།"</string>
+    <string name="err_sent_no_sim">"འབེབ་ལེན་བྱེད་མི་ཐུབ། SIMབྱང་བུ་མི་འདུག"</string>
+    <string name="dlg_save_attachment">"ཡིག་ཆ་ཉར།&amp;#8230;"</string>
+    <string name="is_redirect_to">"%1$sདུ་མཆོངས་རྒྱུ་ཡིན་ནམ།"</string>
+    <string name="browser">དྲ་རྒྱ་ཤར་གཏོང་ཆས།</string>
+    <string name="email">"སྦྲགས་ཡིག"</string>
+    <string name="telephone">"ཁ་པར།"</string>
+    <string name="map">"ས་ཁྲ།"</string>
+    <string name="message_signature_setting">མིང་བརྟག་བཟོ་བཅོས།</string>
+    <string name="pref_signature_enable_title">མིང་བརྟག་ཁ་བསྣོན།</string>
+    <string name="pref_signature_enabl_summary">"ཁྱེད་ཀྱིས་བསྐུར་བའི་ཆ་འཕྲིན་དག་གི་རྗེས་སུ་མིང་ཟུར་བཏགས་སུ་བཀོད།"</string>
+    <string name="pref_signature_input_title">མིང་བརྟག་བཟོ་བཅོས།</string>
+    <string name="pref_signature_input_summary">ཁྱེད་ཀྱི་མིང་བརྟག་བཟོས་མེད་པས་ འདི་གནན་ནས་བཟོ།</string>
+    <string name="no_permissions">"དབང་ཚད་མི་འདུག"</string>
+    <string name="no_call_permissions">"ཁ་པར་གཏོང་བའི་དབང་ཚད་མི་འདུག"</string>
+    <string name="folder_loading">"འབེབ་ལེན་བྱེད་བཞིན་འདུག"</string>
+    <string name="sms_merge_forward_empty">ཟླ་སྒྲིལ་བྱེད་པའི་འཕྲིན་གཏོང་མེད།</string>
+    <string name="sms_forward">མདུན་སྐྱོད།</string>
+    <string name="sms_merge_dialog_title">དྲན་སྐུལ།</string>
+    <string name="sms_merge_dialog_content1">"ཁྱེད་ཀྱིས་%dཁོ་ན་ཙམ་འདམ་ཐུབ།"</string>
+    <string name="sms_merge_dialog_content2">"དང་%dབར་དུ་སླར་འདམ་རོགས།"</string>
+    <string name="messagelist_sender_self">ང་།</string>
+    <string name="sms_merge_forward">"མཉམ་སྒྲིལ་དང་གཞན་སྐུར།"</string>
+    <string name="muti_select_all">ཚང་མ་འདམ།</string>
+    <string name="menu_select_none">ཚང་མ་སྐྱུར་བ།</string>
+    <string name="sms_merge_dialog_content_exceed">"ཁྱེད་ཀྱིས་ཟླ་སྒྲིལ་གྱིས་བསྐུར་བའི་ནང་དོན་ནི་%dལས་བརྒལ་ཟིན། སླར་འདམ་རོགས།"</string>
+    <string name="no_sms_permissions">"འཕྲིན་ཐུང་དབང་ཚད་མི་འདུག སྐད་སྒྲ་སྒྲོག་གཏོང་བྱེད་མི་ཐུབ།"</string>
+    <string name="smil_subject_hint">"གཙོ་བྱང་མི་འདུག ཁྱེད་ཀྱིས་རྩོམ་སྒྲིག་བྱེད་རོགས།"</string>
+    <string name="smil_out_of_size">"ཚོན་འཕྲིན་ཟུར་བཏགས་ཀྱི་ཚད་གྲངས་ལས་བརྒལ།"</string>
+    <string name="video_content_type">"བརྙན་ཟློས།"</string>
+    <string name="iamge_content_type">"པར་རིས།"</string>
+    <string name="audio_content_type">"སྒྲ་འབེབ།"</string>
+    <string name="subject_edit">"གཙོ་བྱང་རྩོམ་སྒྲིག"</string>
+    <string name="text_edit">"ཡིག་དེབ་རྩོམ་སྒྲིག"</string>
+    <string name="repalce_slide">"སྒྲོན་བརྙན་བརྗེ།"</string>
+    <string name="remove_slide">"སྒྲོན་བརྙན་དོར་བ།"</string>
+    <string name="insert_befor_slide">"ཤོག་ངོས་གོང་མར་སྒྲོན་བརྙན་འཛེར།"</string>
+    <string name="insert_after_slide">"འོག་ངོས་འོག་མར་སྒྲོན་བརྙན་འཛེར།"</string>
+    <string name="add_attachment">"ཟུར་བཏགས་སུ་སྣོན།"</string>
+    <string name="remove_attachment">"ཟུར་བཏགས་ནས་འབུད།"</string>
+    <string name="repalce_attachment">"ཟུར་བཏགས་བརྗེ་སྤོར་བྱེད།"</string>
+    <string name="hint_for_input">"རྩོམ་སྒྲིག་བྱེད་རོགས།"</string>
+    <string name="hint_for_empty">"ད་སྐབས་ཀྱི་སྒྲོན་བརྙན་རྩོམ་སྒྲིག་བྱེད།"</string>
+    <string name="goto_smil">གློག་ཤོག་སྟོན་པ།</string>
+    <string name="smil_subject">"གཙོ་བྱང་།"</string>
+    <string name="action_sim_sms">SIMཁྭ་འཕྲིན་གཏོང།</string>
+    <string name="sms_save_to_sim_pref_title">འཕྲིན་གཏོང་SIMནང་ཉར།</string>
+    <string name="sms_save_to_sim_pref_summary">"འཕྲིན་ཐུང་འབྱོར་སྐབས་SIMབྱང་བུར་ཉར།"</string>
+    <string name="sms_sim_full_title">Simགང་ཟིན།</string>
+    <string name="sms_sim_full_notification_ticker">"འཕྲིན་ཐུང་གསོག་ཆས་སྟོང་ཆ་མི་འདང་། འཕྲིན་ཐུང་འགའ་ཤས་གསུབ་དགོས་འདུག"</string>
+    <string name="sms_sim_full_text">"SIMབྱང་བུ་ཁེངས་ཟིན། ཚོན་འཕྲིན་གསར་བ་ནི་ཆ་འཕྲིན་ཉེར་སྤྱོད་དན་གྲངས་མཛོད་དུ་ཉར། གལ་ཏེ་སླར་SIMབྱང་བུར་ཉར་ན། SIMབྱང་བུའི་འཕྲིན་ཐུང་གསུབ་རོགས།"</string>
+    <string name="menu_search_text">"འཚོལ་བཤེར།"</string>
+    <string name="search_label">"ཆ་འཕྲིན།"</string>
+    <string name="search_hint">"འཕྲིན་ཐུང་འཚོལ་བཤེར།"</string>
+    <string name="search_max_length">"འཚོལ་བའི་ཡིག་དེབ་རིང་དྲགས། གོང་མཐའ་ནི་ཡིག་རྟགས་512ཡིན།"</string>
+    <string name="search_setting_description">"ཆ་འཕྲིན་ཁྲོད་ཀྱི་ཡི་གེ"</string>
+    <string name="search">"ཆ་འཕྲིན།"</string>
+    <string name="search_empty">"འོས་འཚམས་ཀྱི་གདམ་གསེས་མེད།"</string>
+    <string name="search_history">"<xliff:g id="count">%1$s</xliff:g> མཇུག་འབྲས \"<xliff:g id="search">%2$s</xliff:g>\""</string>
+    <string name="can_not_add_same_attachment">"ཟུར་བཏགས་གཅིག་མཚུངས་ཤིག་བསྐྱར་ཟློས་སུ་སྣོན་མི་རུང་།"</string>
+    <string name="can_not_add_same_picture">"པས་རིས་གཅིག་ནི་བསྐྱར་ཟློས་སྣོན་མི་རུང་།"</string>
+    <string name="smil_add_text">"ཡིག་དེབ་ཟུར་བཏགས་སྣོན།"</string>
+    <string name="smil_update_text">"ཟུར་བཏགས་ཡིག་དེབ་གསར་སྒྱུར་བྱས་ཟིན།"</string>
+    <string name="smil_empty_content">"ནང་དོན་སྟོང་བ་རེད། སྐུར་མཚམས་བཞག"</string>
+    <string name="exceed_participant_limit">"ཞུགས་མཁན་ཁ་གྲངས་ནི་བཀག་རྒྱ་(<xliff:g>%1$s</xliff:g>)ལས་བརྒལ། <xliff:g>%2$s</xliff:g> ཙམ་གསུབ་རོགས།"</string>
+    <string name="folder_view_menu_item_title">ཡིག་ཁུག་མཐོང་རིས།</string>
+    <string name="capacity_sim_message_title">"SIMཤོང་ཚད།"</string>
+    <string name="capacity_sim_message_summary">"ད་སྐབས་ཀྱི་ཁ་གྲངས/ཤོང་ཚད་ཆེ་ཤོས%s"</string>
+    <string name="audio_record_retry">"རྒྱབ་སྟེགས་ཀྱི་སྒྲ་འབེབ་མཚམས་བཞག་ནས་སླར་ཚོད་ལྟ་བྱེད་རོགས།"</string>
+    <string name="contact_invalid">"འབྲེལ་གཏུག་ནུས་མེད་རེད། སླར་ནུས་ལྡན་གྱི་འབྲེལ་གཏུག་འདམ་རོགས།"</string>
+    <string name="message_size_counting">"རྩིས་རྒྱག་བཞིན་འདུག"</string>
+    <string name="pref_encode_type_setting_title">"ཨང་སྒྲིག་བྱེད་ཐབས་བཟོ་བ།"</string>
+    <string name="pref_encode_type_title">ཨང་སྒྲིག་བྱེད་ཐབས།</string>
+    <string name="fdn_check_failure">"ཁྱེད་ཀྱིས་ངེས་གཏན་གྱི་ཨང་འབོད་ཁ་པར་ཁོ་ནར་འཕྲིན་ཐུང་སྐུར་ཐུབ།"</string>
+    <string name="data_call_fdn_check_failure">"ངེས་གཏན་ཨང་འབོད་རྩོལ་ནུས་ཀྱི་སྒུལ་བསླངས། ད་སྐབས་ཀྱི་ཚོན་འཕྲིན་སྐུར་མི་ཐུབ། *99#དེ་ངེས་གཏན་ཨང་འབོད་ཨང་གྲངས་སུ་མནན་ནས་སླར་ཚོད་ལྟ་བྱེད་རོགས།"</string>
+    <string name="smsc_fdn_check_failure">"FDNཡི་སྒུལ་བསླངས་ཟིན། འཕྲིན་ཐུང་ལྟེ་བའི་ཨང་གྲངས་FDNསྟར་བྱང་དུ་མི་འདུག སྐུར་མི་ཐུབ།"</string>
+    <string name="smil_wait_comparing_att_size">"འབེབ་ལེན་བྱེད་བཞིན་འདུག སླར་ཚོད་ལྟ་བྱེད་རོགས།"</string>
+    <string name="smil_max_slide_count">"སྒྲོན་བརྙན་%sསྣོན་ཐུབ།"</string>
+    <string name="sms_wap_pref_title">"WAPའཕྲིན་ཐུང་ཆ་འཕྲིན།"</string>
+    <string name="sms_wap_pref_summary">"སྒོ་ཕྱེས་ནས་WAPའཕྲིན་ཐུང་ཆ་འཕྲིན་སྡུད། "</string>
+    <string name="smil_Player_title">"SMILསྒྲོག་གཏོང་ཆས།"</string>
+    <string name="smil_caption_description">"སྒྲོན་བརྙན་སྒྲོག་གཏོང་བྱེད།"</string>
+    <string name="smil_caption_edit_hint">"(རྡེབ་ནས་རྩོམ་སྒྲིག་རྣམ་པར་ཞུགས།)"</string>
+    <string name="show_save_attachment_info">"ཉར་རྒྱུ་ཡིན་ནམ།"</string>
+    <string name="attachment_save_success">"གསོག་ཉར་བྱས།"</string>
+    <string name="unread_message_count">"མ་བཀླག་པའི་ཆ་འཕྲིན།"</string>
+    <string name="mms_convert_to_smil_title">"སྒྲོན་བརྙན་དུ་བརྗེ་སྒྱུར་བྱེད།"</string>
+    <string name="mms_convert_to_smil_message">"ད་སྐབས་ཀྱི་ཚོན་འཕྲིན་ནི་སྒྲོན་བརྙན་དུ་བརྗེ་སྒྱུར་བྱེད། སྒྲོན་བརྙན་ནང་དུ་རྒྱབ་སྐྱོར་མི་བྱེད་པའི་གཞི་རྒྱུ་དག་འབོར་ངེས་ཡིན། བརྗེ་སྒྱུར་བྱེད་རྒྱུ་ཡིན་ནམ།"</string>
+    <string name="confirm_convert">ལགས་སོ།</string>
+    <string name="cancel_convert">འདོར།</string>
+    <string name="smil_max_part_count">"སྒྲོན་བརྙན་གཅིག་གི་ནང་དུ་ཟུར་བཏགས་%sཁོ་ན་ཙམ་སྣོན་ཐུབ།"</string>
+    <string name="smil_add_error_same_content_type">"སྒྲོན་བརྙན་གཅིག་ཏུ་རིགས་གཅིག་མཐུན་གྱི་ཟུར་བཏགས་གཉིས་སྣོན་མི་ཐུབ།"</string>
+    <string name="smil_add_error_video_conflict">"བརྙན་ཟློས་དང་སྒྲ་ཟློས་སམ་འདྲ་པར་ནི་སྒྲོན་བརྙན་གཅིག་གི་ནང་དུ་འབུད་མི་ཐུབ།"</string>
+    <string name="smil_replace_error_same_content_type">"བརྗེ་སྒྱུར་བྱེད་ཐབས་མི་འདུག སྒྲོན་བརྙན་གཅིག་གི་ནང་དུ་རིགས་གཅིག་མཐུན་གྱི་ཟུར་བཏགས་གཉིས་སྣོན་མི་ཐུབ།"</string>
+    <string name="smil_replace_error_video_conflict">"བརྙན་ཟློས་སུ་བརྗེ་སྒྱུར་བྱེད་མི་ཐུབ། ཁྱེད་ཀྱི་ད་སྐབས་ཀྱི་སྒྲོན་བརྙན་ཟུར་བཏགས་བསུབས་རྗེས་སླར་ཚོད་ལྟ་བྱེད་རོགས།"</string>
+    <string name="smil_edit_hint">"སྒྲོན་བརྙན་ལ་རྡེབ་ནས་རྩོམ་སྒྲིག་བྱེད།"</string>
+    <string name="smil_unsupported_content_type">"རྒྱབ་སྐྱོར་མི་བྱེད་པའི་ཡིག་ཆའི་རིགས་སྣ།"</string>
+    <string name="pref_internal_memory_usage_title">"ཚོན་འཕྲིན/སྤྱོད་རུང/སྡོམ་འབོར།"</string>
+    <string name="pref_internal_memory_usage_progress_summary">"སྟོང་ཆ་ཆེ་ཆུང་རྩི་བཞིན་འདུག..."</string>
+    <string name="no_common_phrase">"རྒྱུན་བཀོལ་ཚིག་ཐུང་མི་འདུག"</string>
+    <string name="action_copy_to_sim">"SIMབྱང་བུར་འདྲ་འབེབ་བྱེད།"</string>
+    <string name="select_sim">"SIM བྱང་བུ་འདམ།"</string>
+    <string name="sim_space_not_enough">"SIMབྱང་བུའི་འཕྲིན་ཐུང་ཉར་སའི་སྟོང་ཆ་མི་འདང་།"</string>
+    <string name="move_message_to_phone_memory">"ཁ་པར་ནང་རོལ་གསོག་ཆས་འདྲ་བཤུ་བྱས་ཟིན།"</string>
+    <string name="can_not_copy_the_message">ཆ་འཕྲིན་འདིར་བསྐྱར་བཤུས་རྒྱག་ཐབས་མི་འདུག</string>
+    <string name="failed_to_add_media">"ཁྱེད་ཀྱིས་འདི <xliff:g id="name">%1$s</xliff:g> ཁྱེད་ཀྱི་ཡིག་ཟམ་སྟེང་སྣོན་ཐབས་མེད།"</string>
+    <string name="contentType_audio">སྒྲ་ཟློས།</string>
+    <string name="contentType_video">བརྙན་ཟློས།</string>
+    <string name="contentType_image">པར་རིས།</string>
+    <string name="contentType_other">"མཉམ་རོལ་ལ་རྒྱབ་སྐྱོར་མི་བྱེད་པའི་ཡིག་ཆའི་རིགས་མི་འདུག"</string>
+    <string name="no_record_audio_permission">"སྒྲ་ཟློས་དབང་ཚད་འབེབ་བཟོ་བྱས་མེད།"</string>
+    <string name="close_float_video">"པར་རྒྱག་ཆས་ཀྱི་སྒུལ་སློང་འཕྱོ་གཡེང་སྒེའུ་ཁུང་གི་སྒོ་སྟེམ།"</string>
+    <string name="unable_get_data">"དན་གྲངས་ཐོབ་མ་ཐུབ།"</string>
+    <string name="unexpected_recording_error">"རྒྱབ་སྟེགས་སྒྲ་ཟློས་ཀྱི་སྒོ་སྟེམ་རྗེས་སླར་ཚོད་ལྟ་བྱེད་རོགས།"</string>
+    <string name="add_contacts_dialog_title">མིང་བྱང་སྣོན།</string>
+    <string name="add_contact_as_text">འཕྲིན་གཏོང།</string>
+    <string name="file_not_found_exception">"ཡིག་ཆ་དེ་མ་རྙེད།"</string>
+    <string-array name="fixed_mms_phrase">
+        <item>གཞུང་ལས་ཁང་གི་ཁ་པར་བསྐྱོན་རོགས་ ཐུགས་རྗེ་ཆེ།</item>
+        <item>ང་དང་འབྲེལ་གཏུགས་གནང་དང་ ཐུགས་རྗེ་ཆེ།</item>
+        <item>ངའི་གནས་ཡུལ་ཤོད་དང།</item>
+        <item>ཅུང་ཙམ་གྱི་རྗེས་སུ་ངའི་ལག་ཁྱེར་ཁ་པར་དུ་ཁ་པར་གཏོང་རོགས།</item>
+        <item>ང་ཕྱི་ལ་ཡོད་པས་ ནང་ལ་འབྱོར་བ་དང་ཁྱེད་ལ་ཞལ་པར་འཕུལ་ཆོག།</item>
+        <item>"ངས་རླངས་འཁོར་སྐོར་བཞིན་ཡོད། ཅུང་ཙམ་གྱི་རྗེས་སུ་ཨ་ལན་སྟེར།"</item>
+        <item>"ང་ལམ་དུ་ཡོང་བཞིན་ཡོད། སླེབས་ལ་ཉེ།"</item>
+        <item>ལམ་བཀག་འདུག་པས་ ཕྱི་ཙམ་སླེབས་ དགོངས་པ་མ་ཚོམ།</item>
+        <item>ཕྱི་ཙམ་ནས་ཁྱེད་ལ་ཞལ་པར་འཕུལ་ཆོག།</item>
+        <item>ཚོག་འདུར་ཡོད་པས་ ཕྱི་ཙམ་ནས་ཁྱེད་ལ་ཞལ་པར་འཕུལ་ཆོག།</item>
+    </string-array>
+    <string-array name="fixed_both_phrase">
+        <item>"ཅུང་ཙམ་གྱི་རྗེས་སུ་ངར་འཕྲིན་ཐུང་སྐུར་བའམ་ཁ་པར་གཏོང་རོགས།"</item>
+    </string-array>
+    <string-array name="smil_choice_items">
+        <item>"Smil བཤེར་འབེབ།"</item>
+        <item>"Smilསྒྲོག་གཏོང་།"</item>
+    </string-array>
+    <string name="discard_message_reason">"ཁྱེད་ཀྱི་ཆ་འཕྲིན་ལ་ནུས་ལྡན་གྱི་བསྡུ་ལེན་མཁན་མེད་པས། དོར་རྒྱུ་ཡིན།"</string>
+     <string name="pref_title_mms_size_limit">"ཚོན་འཕྲིན་ཆེ་ཆུང་ཚོད་འཛིན་བྱེད།"</string>
+     <string name="pref_summary_mms_size_limit">"ཚོན་འཕྲིན་རྩོམ་སྒྲིག་ཆེ་ཆུང་ཚོད་འཛིན་བྱེད།"</string>
+    <string name="folder_display_option">བདམས་ཁ་གསལ།</string>
+    <string name="folder_sortby">རིགས་སྟར།</string>
+    <string name="folder_delete_messages">"ཆ་འཕྲིན་དོར་བ།"</string>
+    <string name="sort_msg_list_empty_text">"ཁྱེད་ཀྱི་འཆ་འཕྲིན་གནས་འདིར་གྲལ་སྟར་སྒྲིག་ངེས་ཡིན།"</string>
+    <string name="folder_display_all">"ཆ་འཕྲིན་ཚང་མ་འཆར།"</string>
+    <string name="delete_messages_confirmation_dialog_title">"བདམས་ཟིན་པའི་ཆ་འཕྲིན་སུབ་རྒྱུ་ཡིན་ནམ།"</string>
+    <string name="delete_message_fail">"ཆ་འཕྲིན་སུབ་མ་ཐུབ།"</string>
+    <string name="have_select_message">" %1$dབདམས་ཟིན།"</string>
+    <string name="copy_sim_sms_to_phone">"ཆ་འཕྲིན་ཁ་པར་དུ་གཞན་ཉར་བྱེད།"</string>
+    <string name="simsms_title">"SIMའཕྲིན་ཐུང་།"</string>
+    <string-array name="sort_type">
+        <item>"དུས་ཚོད་འགྲིབ་རིམ།"</item>
+        <item>"དུས་ཚོད་ཀྱི་འཕེལ་རིམ།"</item>
+        <item>"ཨང་གྲངས་འགྲིབ་རིམ།"</item>
+        <item>"ཨང་གྲངས་འཕེལ་རིམ།"</item>
+    </string-array>
+</resources>

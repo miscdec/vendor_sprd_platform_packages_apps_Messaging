@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string-array name="mms_validity_pref_entries">
+<item>"སྒྲིག་འགོད་མི་བྱེད།"</item>
+<item>ཆུ་ཚོད་1</item>
+<item>"དུས་ཚོད་12"</item>
+<item>ཆུ་ཚོད་24</item>
+<item>ཉིན་2</item>
+<item>"རིང་ཤོས།"</item>
+</string-array>
+<string-array name="sms_validity_pref_entries">
+<item>"སྒྲིག་འགོད་མི་བྱེད།"</item>
+<item>ཆུ་ཚོད་1</item>
+<item>"དུས་ཚོད་12"</item>
+<item>ཆུ་ཚོད་24</item>
+<item>ཉིན་2</item>
+<item>"རིང་ཤོས།"</item>
+</string-array>
+<string-array name="sms_save_to_sim_pref_entries">
+<item>"འཕྲིན་ཐུང་སྔོན་ཐོབ་ཀྱིས་simཉར།"</item>
+<item>"ཆ་འཕྲིན་ཉེར་སྤྱོད་དན་གྲངས་མཛོད་དུ་ཆ་འཕྲིན་ཉར།"</item>
+</string-array>
+</resources>
