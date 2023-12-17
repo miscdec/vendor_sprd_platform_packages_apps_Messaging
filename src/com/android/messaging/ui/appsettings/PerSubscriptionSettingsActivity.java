@@ -131,7 +131,7 @@ public class PerSubscriptionSettingsActivity extends BugleActionBarActivity {
         private Preference mSmsWapPushPrefence;
         private String mSmsWapPrefKey;
 
-        private SmsManagerEx smsManagerEx;
+//        private SmsManagerEx smsManagerEx;
         private final int RequestCode = 1;
         //by sprd, end
 
@@ -142,7 +142,7 @@ public class PerSubscriptionSettingsActivity extends BugleActionBarActivity {
         @Override
         public void onCreate(final Bundle savedInstanceState) {
             super.onCreate(savedInstanceState);
-            smsManagerEx = SmsManagerEx.getDefault();
+//            smsManagerEx = SmsManagerEx.getDefault();
             // Get sub id from launch intent
             final Intent intent = getActivity().getIntent();
             Assert.notNull(intent);
@@ -208,17 +208,17 @@ public class PerSubscriptionSettingsActivity extends BugleActionBarActivity {
             }
 
             //capacity, begin
-            RadioInteractor radioInteractor = new RadioInteractor(getContext());
-            String capacity = radioInteractor.getSimCapacity(mSlotId);
-            LogUtil.d(TAG, "the capacity is:" + capacity);
-            if (null == capacity) {
-                capacity = "";
-            } else {
-                capacity = capacity.replace(":", "/");
-            }
-            Preference mSimMessageCapacity = findPreference(getString(R.string.capacity_sim_message_key));
-            final String summary = getString(R.string.capacity_sim_message_summary);
-            mSimMessageCapacity.setSummary(String.format(summary, capacity));
+//            RadioInteractor radioInteractor = new RadioInteractor(getContext());
+//            String capacity = radioInteractor.getSimCapacity(mSlotId);
+//            LogUtil.d(TAG, "the capacity is:" + capacity);
+//            if (null == capacity) {
+//                capacity = "";
+//            } else {
+//                capacity = capacity.replace(":", "/");
+//            }
+//            Preference mSimMessageCapacity = findPreference(getString(R.string.capacity_sim_message_key));
+//            final String summary = getString(R.string.capacity_sim_message_summary);
+//            mSimMessageCapacity.setSummary(String.format(summary, capacity));
             //capacity, end
 
             // Access Point Names (APNs)
@@ -293,13 +293,13 @@ public class PerSubscriptionSettingsActivity extends BugleActionBarActivity {
                     || (PhoneUtils.getDefault().getActiveSubscriptionCount() == 0)) {
                 advancedCategory.removePreference(mSmsValidityPref);
             } else if (mSmsValidityPref != null) {
-                try {
-                    Method method = smsManagerEx.getClass().getMethod("getRelativeValidityPeriod", Context.class, int.class);
-                    String currentValue = (String) method.invoke(smsManagerEx, getContext(), mSubId);
-                    mSmsValidityPref.setValue(currentValue);
-                } catch (Exception e) {
-                    e.printStackTrace();
-                }
+//                try {
+//                    Method method = smsManagerEx.getClass().getMethod("getRelativeValidityPeriod", Context.class, int.class);
+//                    String currentValue = (String) method.invoke(smsManagerEx, getContext(), mSubId);
+//                    mSmsValidityPref.setValue(currentValue);
+//                } catch (Exception e) {
+//                    e.printStackTrace();
+//                }
                 mSmsValidityPref.setSummary(mSmsValidityPref.getEntry());
                 mSmsValidityPref.setOnPreferenceChangeListener(this);
             }
@@ -498,12 +498,12 @@ public class PerSubscriptionSettingsActivity extends BugleActionBarActivity {
                 }
                 return true;
             } else if (preference == mSmsValidityPref) {
-                try {
-                    Method method = smsManagerEx.getClass().getMethod("setRelativeValidityPeriod", Context.class, int.class, String.class);
-                    method.invoke(smsManagerEx, getContext(), mSubId, newValue.toString());
-                } catch (Exception e) {
-                    e.printStackTrace();
-                }
+//                try {
+//                    Method method = smsManagerEx.getClass().getMethod("setRelativeValidityPeriod", Context.class, int.class, String.class);
+//                    method.invoke(smsManagerEx, getContext(), mSubId, newValue.toString());
+//                } catch (Exception e) {
+//                    e.printStackTrace();
+//                }
                 mSmsValidityPref.setValue(newValue.toString());
                 mSmsValidityPref.setSummary(mSmsValidityPref.getEntry());
                 return true;

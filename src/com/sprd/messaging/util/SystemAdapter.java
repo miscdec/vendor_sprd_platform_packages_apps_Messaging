@@ -127,20 +127,20 @@ public class SystemAdapter {
     }
 
     public String getSmscForSubscriber(int subId) {
-        try {
-            return SmsManagerEx.getDefault().getSmscForSubscriber(subId);
-        } catch (Exception ex) {
-            ex.printStackTrace();
-        }
+//        try {
+//            return SmsManagerEx.getDefault().getSmscForSubscriber(subId);
+//        } catch (Exception ex) {
+//            ex.printStackTrace();
+//        }
         return null;
     }
 
     public boolean setSmscForSubscriber(int subId, String smscAddr) {
-        try {
-            return SmsManagerEx.getDefault().setSmscForSubscriber(subId, smscAddr);
-        } catch (Exception ex) {
-            ex.printStackTrace();
-        }
+//        try {
+//            return SmsManagerEx.getDefault().setSmscForSubscriber(subId, smscAddr);
+//        } catch (Exception ex) {
+//            ex.printStackTrace();
+//        }
         return false;
     }
 

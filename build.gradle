@@ -1,6 +1,6 @@
 // Top-level build file where you can add configuration options common to all sub-projects/modules.
 ext {
-    useLocalLibs = false
+    useLocalLibs = true
 }
 buildscript {
     repositories {
@@ -20,16 +20,18 @@ allprojects {
         mavenCentral()
     }
     gradle.projectsEvaluated {
-        tasks.withType(JavaCompile) {
-            options.compilerArgs.add('-Xbootclasspath/p:libs/framework.jar;'
-                    + 'libs/telephony-common.jar;'
-                    + 'libs/ims.jar;'
-                    + 'libs/ims_common.jar;'
-                    + 'libs/radio_interactor_common.jar;'
-                    + 'libs/sprd-framework.jar;'
-                    + 'libs/mockito-api.jar;'
-                    + 'libs/mockito-target.jar;'
-                    + 'libs/mockito-target-minus-junit4.jar;')
+        tasks.withType(JavaCompile).tap {
+            configureEach {
+                options.compilerArgs.add('-Xbootclasspath/p:libs/framework.jar;'
+                        + 'libs/telephony-common.jar;'
+                        + 'libs/ims.jar;'
+                        + 'libs/ims_common.jar;'
+                        + 'libs/radio_interactor_common.jar;'
+                        + 'libs/sprd-framework.jar;'
+                        + 'libs/mockito-api.jar;'
+                        + 'libs/mockito-target.jar;'
+                        + 'libs/mockito-target-minus-junit4.jar;')
+            }
         }
     }
 }

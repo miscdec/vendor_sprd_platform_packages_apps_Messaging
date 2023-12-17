@@ -159,7 +159,7 @@ public class ConversationListActivity extends AbstractConversationListActivity {
         //modify for bug 618789
         //clearSearchText();
         //0 means visiable
-        if (getSearchEditText() != null && getSearchEditText().getVisibility() == 0){
+        if (getSearchEditText() != null && getSearchEditText().getVisibility() == View.VISIBLE){
             LogUtil.d(TAG, "after the resume, the search view should focused.");
             getSearchEditText().setFocusable(true);
             getSearchEditText().setFocusableInTouchMode(true);
@@ -451,7 +451,7 @@ public class ConversationListActivity extends AbstractConversationListActivity {
             conversationListFragment.setScrolledToNewestConversationIfNeeded();
         }
 
-        if(hasFocus && !isSelectionMode() && getSearchEditText() != null && getSearchEditText().getVisibility() == 0){
+        if(hasFocus && !isSelectionMode() && getSearchEditText() != null && getSearchEditText().getVisibility() == View.VISIBLE){
             LogUtil.d(TAG, "onWindowFocusChanged,getSearchEditText view should focused. Visbility:"+getSearchEditText().getVisibility());
             getSearchEditText().setFocusable(true);
             getSearchEditText().setFocusableInTouchMode(true);

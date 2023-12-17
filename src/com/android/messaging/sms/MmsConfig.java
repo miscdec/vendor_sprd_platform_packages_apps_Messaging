@@ -303,28 +303,28 @@ public class MmsConfig {
     public static boolean isCtccOp(){
         //UNISOC: Modify for Bug#1559830
         Log.d(TAG, "CTCC carrier does not test smart sms, so isCtccOp returns false !");
-        return false/*sCtccSdkEnabled*/;
+        return sCtccSdkEnabled;
     }
 
     public static void checkSmartSdkEnabled() {
-        try {
-            String product = SystemProperties.get("ro.carrier");
-            LogUtil.d(LogUtil.BUGLE_SMART_TAG, "checkSmartSdkEnabled product = " + product);
-            if (TextUtils.isEmpty(product)){
-                return;
-            }
-            if (product.toLowerCase().contains("cmcc")) {
-                sCmccSdkEnabled = true;
-            } else if (product.toLowerCase().contains("cucc")) {
-                sCuccSdkEnabled = true;
-            } else if (product.toLowerCase().contains("ctcc")) {
+//        try {
+//            String product = SystemProperties.get("ro.carrier");
+//            LogUtil.d(LogUtil.BUGLE_SMART_TAG, "checkSmartSdkEnabled product = " + product);
+//            if (TextUtils.isEmpty(product)){
+//                return;
+//            }
+//            if (product.toLowerCase().contains("cmcc")) {
+//                sCmccSdkEnabled = true;
+//            } else if (product.toLowerCase().contains("cucc")) {
+//                sCuccSdkEnabled = true;
+//            } else if (product.toLowerCase().contains("ctcc")) {
                 sCtccSdkEnabled = true;
-            } else {
+//            } else {
                 //sCuccSdkEnabled = true;
-            }
-        } catch (Exception e) {
-            LogUtil.e(LogUtil.BUGLE_SMART_TAG, "checkSmartSdkEnabled Error", e);
-        }
+//            }
+//        } catch (Exception e) {
+//            LogUtil.e(LogUtil.BUGLE_SMART_TAG, "checkSmartSdkEnabled Error", e);
+//        }
     }
 
     //for bug694631 begin
@@ -438,13 +438,13 @@ public class MmsConfig {
     }
 
     private static boolean checkFdnEnable(int subid){
-        TelephonyManagerEx mTelephonyManagerEx =TelephonyManagerEx.from(Factory.get().getApplicationContext());
-        try {
-            return mTelephonyManagerEx.getIccFdnEnabled(subid);
-        } catch (Exception e) {
-            e.printStackTrace();
-        }
-        return false;
+//        try {
+//            TelephonyManagerEx mTelephonyManagerEx =TelephonyManagerEx.from(Factory.get().getApplicationContext());
+//            return mTelephonyManagerEx.getIccFdnEnabled(subid);
+//        } catch (Exception e) {
+//            e.printStackTrace();
+//        }
+        return true;
     }
     //add for bug 605280 --end
 

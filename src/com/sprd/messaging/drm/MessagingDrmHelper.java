@@ -68,12 +68,12 @@ public class MessagingDrmHelper {
     private static DrmManagerClientEx mClient;
     private static boolean mDrmSupported = true;
     static {
-        try {
-            mClient = new DrmManagerClientEx((Context)null);
-        } catch (NoClassDefFoundError e) {
-            Log.e(TAG, "NoClassDefFoundError!", e.fillInStackTrace());
+//        try {
+//            mClient = new DrmManagerClientEx((Context)null);
+//        } catch (NoClassDefFoundError e) {
+//            Log.e(TAG, "NoClassDefFoundError!", e.fillInStackTrace());
             mDrmSupported = false;
-        }
+//        }
     }
 
     /**

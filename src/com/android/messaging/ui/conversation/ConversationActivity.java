@@ -811,8 +811,7 @@ public class ConversationActivity extends BugleActionBarActivity
     private void showFdnDialog(String number){
         Log.d(TAG,"showFdnDialog");
         try {
-            final AlertDialog builder = new AlertDialog.Builder(this).setMessage(this.getString(com.android.internal
-                    .R.string.fdn_send_fail_add_number, number))
+            final AlertDialog builder = new AlertDialog.Builder(this).setMessage("fdn_send_fail_add_number" + number)
                     .setPositiveButton(android.R.string.ok, new DialogInterface.OnClickListener() {
                         @Override
                         public void onClick(DialogInterface dialog, int which) {
